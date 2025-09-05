@@ -6,7 +6,7 @@ from docs_generator import generate_docs_file
 
 def main():
     # Đường dẫn file JSON
-    json_file = r"E:\Github\DSA_Tracker\Data\Leetcode\Stage_1\Math.json"
+    json_file = r"E:\Github\DSA_Tracker\Data\Leetcode\Stage_1\1-Math.json"
     
     # Đọc dữ liệu JSON (danh sách các bài toán)
     with open(json_file, "r", encoding="utf-8") as f:
