@@ -1,0 +1,3096 @@
+[
+  {
+    "questionFrontendId": "6",
+    "title": "Zigzag Conversion",
+    "titleSlug": "zigzag-conversion",
+    "difficulty": "Medium",
+    "acRate": 52.1765636336848,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 40.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 52.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 34.5
+      },
+      {
+        "name": "BitGo",
+        "frequency": 73.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 49.7
+      },
+      {
+        "name": "carwale",
+        "frequency": 74.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 100.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 36.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 43.6
+      },
+      {
+        "name": "Microstrategy",
+        "frequency": 85.2
+      },
+      {
+        "name": "Mitsogo",
+        "frequency": 61.3
+      },
+      {
+        "name": "Oracle",
+        "frequency": 51.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 100.0
+      },
+      {
+        "name": "PayPay",
+        "frequency": 64.9
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 79.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 42.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 44.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 76.7
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "8",
+    "title": "String to Integer (atoi)",
+    "titleSlug": "string-to-integer-atoi",
+    "difficulty": "Medium",
+    "acRate": 19.65579580062372,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Integer",
+        "titleSlug": "reverse-integer",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Valid Number",
+        "titleSlug": "valid-number",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if Numbers Are Ascending in a Sentence",
+        "titleSlug": "check-if-numbers-are-ascending-in-a-sentence",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 46.6
+      },
+      {
+        "name": "Apple",
+        "frequency": 46.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 57.2
+      },
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 43.8
+      },
+      {
+        "name": "Google",
+        "frequency": 43.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Meta",
+        "frequency": 59.7
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 55.6
+      },
+      {
+        "name": "Niantic",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 51.4
+      },
+      {
+        "name": "Valve",
+        "frequency": 88.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "38",
+    "title": "Count and Say",
+    "titleSlug": "count-and-say",
+    "difficulty": "Medium",
+    "acRate": 61.10640806675526,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Encode and Decode Strings",
+        "titleSlug": "encode-and-decode-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 24.4
+      },
+      {
+        "name": "Akuna Capital",
+        "frequency": 88.8
+      },
+      {
+        "name": "Amazon",
+        "frequency": 40.4
+      },
+      {
+        "name": "Apple",
+        "frequency": 40.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 27.8
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 80.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 53.4
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 31.1
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 60.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 46.6
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 51.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "58",
+    "title": "Length of Last Word",
+    "titleSlug": "length-of-last-word",
+    "difficulty": "Easy",
+    "acRate": 56.94098406636508,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 43.2
+      },
+      {
+        "name": "Apple",
+        "frequency": 27.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 45.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 31.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 37.7
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "tcs",
+        "frequency": 49.7
+      },
+      {
+        "name": "Uber",
+        "frequency": 38.9
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "65",
+    "title": "Valid Number",
+    "titleSlug": "valid-number",
+    "difficulty": "Hard",
+    "acRate": 21.829184884658055,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "String to Integer (atoi)",
+        "titleSlug": "string-to-integer-atoi",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Amazon",
+        "frequency": 20.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Google",
+        "frequency": 12.5
+      },
+      {
+        "name": "Instacart",
+        "frequency": 60.1
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 60.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 70.2
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "168",
+    "title": "Excel Sheet Column Title",
+    "titleSlug": "excel-sheet-column-title",
+    "difficulty": "Easy",
+    "acRate": 44.16981538006428,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Excel Sheet Column Number",
+        "titleSlug": "excel-sheet-column-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Cells in a Range on an Excel Sheet",
+        "titleSlug": "cells-in-a-range-on-an-excel-sheet",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Design Spreadsheet",
+        "titleSlug": "design-spreadsheet",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "Yext",
+        "frequency": 90.1
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "171",
+    "title": "Excel Sheet Column Number",
+    "titleSlug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "acRate": 66.1803681397749,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Excel Sheet Column Title",
+        "titleSlug": "excel-sheet-column-title",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Cells in a Range on an Excel Sheet",
+        "titleSlug": "cells-in-a-range-on-an-excel-sheet",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Docusign",
+        "frequency": 77.0
+      },
+      {
+        "name": "razorpay",
+        "frequency": 63.4
+      },
+      {
+        "name": "Zoho",
+        "frequency": 76.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "243",
+    "title": "Shortest Word Distance",
+    "titleSlug": "shortest-word-distance",
+    "difficulty": "Easy",
+    "acRate": 66.00852145480606,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Word Distance II",
+        "titleSlug": "shortest-word-distance-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Word Distance III",
+        "titleSlug": "shortest-word-distance-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All K-Distant Indices in an Array",
+        "titleSlug": "find-all-k-distant-indices-in-an-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 85.6
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 63.9
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "245",
+    "title": "Shortest Word Distance III",
+    "titleSlug": "shortest-word-distance-iii",
+    "difficulty": "Medium",
+    "acRate": 59.1869727136471,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Word Distance",
+        "titleSlug": "shortest-word-distance",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Shortest Word Distance II",
+        "titleSlug": "shortest-word-distance-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 54.9
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 64.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "247",
+    "title": "Strobogrammatic Number II",
+    "titleSlug": "strobogrammatic-number-ii",
+    "difficulty": "Medium",
+    "acRate": 53.33006988285338,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Strobogrammatic Number",
+        "titleSlug": "strobogrammatic-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Strobogrammatic Number III",
+        "titleSlug": "strobogrammatic-number-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sum of k-Mirror Numbers",
+        "titleSlug": "sum-of-k-mirror-numbers",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "248",
+    "title": "Strobogrammatic Number III",
+    "titleSlug": "strobogrammatic-number-iii",
+    "difficulty": "Hard",
+    "acRate": 42.53744730469101,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Strobogrammatic Number",
+        "titleSlug": "strobogrammatic-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Strobogrammatic Number II",
+        "titleSlug": "strobogrammatic-number-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "273",
+    "title": "Integer to English Words",
+    "titleSlug": "integer-to-english-words",
+    "difficulty": "Hard",
+    "acRate": 34.470789881825176,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Integer to Roman",
+        "titleSlug": "integer-to-roman",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Attentive",
+        "frequency": 56.2
+      },
+      {
+        "name": "Avalara",
+        "frequency": 67.0
+      },
+      {
+        "name": "Block",
+        "frequency": 60.0
+      },
+      {
+        "name": "Delhivery",
+        "frequency": 100.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Gusto",
+        "frequency": 88.6
+      },
+      {
+        "name": "Nordstrom",
+        "frequency": 100.0
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 82.4
+      },
+      {
+        "name": "Roblox",
+        "frequency": 67.8
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      },
+      {
+        "name": "Warnermedia",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yext",
+        "frequency": 90.1
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "293",
+    "title": "Flip Game",
+    "titleSlug": "flip-game",
+    "difficulty": "Easy",
+    "acRate": 64.90908787337418,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flip Game II",
+        "titleSlug": "flip-game-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 25.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "434",
+    "title": "Number of Segments in a String",
+    "titleSlug": "number-of-segments-in-a-string",
+    "difficulty": "Easy",
+    "acRate": 36.505288612324485,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "468",
+    "title": "Validate IP Address",
+    "titleSlug": "validate-ip-address",
+    "difficulty": "Medium",
+    "acRate": 27.90318549987505,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "IP to CIDR",
+        "titleSlug": "ip-to-cidr",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Strong Password Checker II",
+        "titleSlug": "strong-password-checker-ii",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 51.7
+      },
+      {
+        "name": "Flexport",
+        "frequency": 61.2
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 60.4
+      },
+      {
+        "name": "Turing",
+        "frequency": 65.7
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "482",
+    "title": "License Key Formatting",
+    "titleSlug": "license-key-formatting",
+    "difficulty": "Easy",
+    "acRate": 44.906364365706494,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "504",
+    "title": "Base 7",
+    "titleSlug": "base-7",
+    "difficulty": "Easy",
+    "acRate": 52.4084027161264,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "520",
+    "title": "Detect Capital",
+    "titleSlug": "detect-capital",
+    "difficulty": "Easy",
+    "acRate": 56.13953733230732,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Capitalize the Title",
+        "titleSlug": "capitalize-the-title",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count the Number of Special Characters II",
+        "titleSlug": "count-the-number-of-special-characters-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Special Characters I",
+        "titleSlug": "count-the-number-of-special-characters-i",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "521",
+    "title": "Longest Uncommon Subsequence I",
+    "titleSlug": "longest-uncommon-subsequence-i",
+    "difficulty": "Easy",
+    "acRate": 61.54511335169782,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Uncommon Subsequence II",
+        "titleSlug": "longest-uncommon-subsequence-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "551",
+    "title": "Student Attendance Record I",
+    "titleSlug": "student-attendance-record-i",
+    "difficulty": "Easy",
+    "acRate": 49.71011033661029,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Student Attendance Record II",
+        "titleSlug": "student-attendance-record-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "564",
+    "title": "Find the Closest Palindrome",
+    "titleSlug": "find-the-closest-palindrome",
+    "difficulty": "Hard",
+    "acRate": 31.692146082524612,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Palindrome With Fixed Length",
+        "titleSlug": "find-palindrome-with-fixed-length",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Next Palindrome Using Same Digits",
+        "titleSlug": "next-palindrome-using-same-digits",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Count of Good Integers",
+        "titleSlug": "find-the-count-of-good-integers",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Largest Palindrome Divisible by K",
+        "titleSlug": "find-the-largest-palindrome-divisible-by-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "709",
+    "title": "To Lower Case",
+    "titleSlug": "to-lower-case",
+    "difficulty": "Easy",
+    "acRate": 84.32573273012457,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Capitalize the Title",
+        "titleSlug": "capitalize-the-title",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "722",
+    "title": "Remove Comments",
+    "titleSlug": "remove-comments",
+    "difficulty": "Medium",
+    "acRate": 39.592699701086296,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Mini Parser",
+        "titleSlug": "mini-parser",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Ternary Expression Parser",
+        "titleSlug": "ternary-expression-parser",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hudson River Trading",
+        "frequency": 60.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "761",
+    "title": "Special Binary String",
+    "titleSlug": "special-binary-string",
+    "difficulty": "Hard",
+    "acRate": 64.1187749391097,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Parenthesis String",
+        "titleSlug": "valid-parenthesis-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Good Binary Strings",
+        "titleSlug": "number-of-good-binary-strings",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coursera",
+        "frequency": 97.8
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 83.7
+      },
+      {
+        "name": "UKG",
+        "frequency": 84.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "806",
+    "title": "Number of Lines To Write String",
+    "titleSlug": "number-of-lines-to-write-string",
+    "difficulty": "Easy",
+    "acRate": 71.14631665482311,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "824",
+    "title": "Goat Latin",
+    "titleSlug": "goat-latin",
+    "difficulty": "Easy",
+    "acRate": 69.54120201504517,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "830",
+    "title": "Positions of Large Groups",
+    "titleSlug": "positions-of-large-groups",
+    "difficulty": "Easy",
+    "acRate": 53.26837036475317,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Divide a String Into Groups of Size k",
+        "titleSlug": "divide-a-string-into-groups-of-size-k",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "831",
+    "title": "Masking Personal Information",
+    "titleSlug": "masking-personal-information",
+    "difficulty": "Medium",
+    "acRate": 50.773277892101746,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "944",
+    "title": "Delete Columns to Make Sorted",
+    "titleSlug": "delete-columns-to-make-sorted",
+    "difficulty": "Easy",
+    "acRate": 74.84306306691462,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Garmin",
+        "frequency": 89.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "972",
+    "title": "Equal Rational Numbers",
+    "titleSlug": "equal-rational-numbers",
+    "difficulty": "Hard",
+    "acRate": 44.989052547770704,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1071",
+    "title": "Greatest Common Divisor of Strings",
+    "titleSlug": "greatest-common-divisor-of-strings",
+    "difficulty": "Easy",
+    "acRate": 52.91270757198937,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Greatest Common Divisor of Array",
+        "titleSlug": "find-greatest-common-divisor-of-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Smallest Even Multiple",
+        "titleSlug": "smallest-even-multiple",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Maximum Factor Score of Array",
+        "titleSlug": "find-the-maximum-factor-score-of-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Datadog",
+        "frequency": 46.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1078",
+    "title": "Occurrences After Bigram",
+    "titleSlug": "occurrences-after-bigram",
+    "difficulty": "Easy",
+    "acRate": 63.732672824124506,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1108",
+    "title": "Defanging an IP Address",
+    "titleSlug": "defanging-an-ip-address",
+    "difficulty": "Easy",
+    "acRate": 89.78580675801255,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Robinhood",
+        "frequency": 53.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1119",
+    "title": "Remove Vowels from a String",
+    "titleSlug": "remove-vowels-from-a-string",
+    "difficulty": "Easy",
+    "acRate": 91.23615293294442,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Vowels of a String",
+        "titleSlug": "reverse-vowels-of-a-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Digit From Number to Maximize Result",
+        "titleSlug": "remove-digit-from-number-to-maximize-result",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1154",
+    "title": "Day of the Year",
+    "titleSlug": "day-of-the-year",
+    "difficulty": "Easy",
+    "acRate": 48.538907284768214,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "ZScaler",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1180",
+    "title": "Count Substrings with Only One Distinct Letter",
+    "titleSlug": "count-substrings-with-only-one-distinct-letter",
+    "difficulty": "Easy",
+    "acRate": 80.74366708485707,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Virtu Financial",
+        "frequency": 96.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1271",
+    "title": "Hexspeak",
+    "titleSlug": "hexspeak",
+    "difficulty": "Easy",
+    "acRate": 58.41630439863506,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Virtu Financial",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1309",
+    "title": "Decrypt String from Alphabet to Integer Mapping",
+    "titleSlug": "decrypt-string-from-alphabet-to-integer-mapping",
+    "difficulty": "Easy",
+    "acRate": 80.29734296503783,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1360",
+    "title": "Number of Days Between Two Dates",
+    "titleSlug": "number-of-days-between-two-dates",
+    "difficulty": "Easy",
+    "acRate": 51.66104514161623,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Days Spent Together",
+        "titleSlug": "count-days-spent-together",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Optiver",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1374",
+    "title": "Generate a String With Characters That Have Odd Counts",
+    "titleSlug": "generate-a-string-with-characters-that-have-odd-counts",
+    "difficulty": "Easy",
+    "acRate": 78.1664332314927,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1417",
+    "title": "Reformat The String",
+    "titleSlug": "reformat-the-string",
+    "difficulty": "Easy",
+    "acRate": 52.07848097360831,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1427",
+    "title": "Perform String Shifts",
+    "titleSlug": "perform-string-shifts",
+    "difficulty": "Easy",
+    "acRate": 55.88791389925826,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1446",
+    "title": "Consecutive Characters",
+    "titleSlug": "consecutive-characters",
+    "difficulty": "Easy",
+    "acRate": 60.28197480249672,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Consecutive Ones",
+        "titleSlug": "max-consecutive-ones",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Continuous Increasing Subsequence",
+        "titleSlug": "longest-continuous-increasing-subsequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if an Array Is Consecutive",
+        "titleSlug": "check-if-an-array-is-consecutive",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Number of Homogenous Substrings",
+        "titleSlug": "count-number-of-homogenous-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring of One Repeating Character",
+        "titleSlug": "longest-substring-of-one-repeating-character",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Chairs in a Waiting Room",
+        "titleSlug": "minimum-number-of-chairs-in-a-waiting-room",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1507",
+    "title": "Reformat Date",
+    "titleSlug": "reformat-date",
+    "difficulty": "Easy",
+    "acRate": 67.50726932269703,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Celigo",
+        "frequency": 100.0
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Twilio",
+        "frequency": 91.3
+      },
+      {
+        "name": "Veritas",
+        "frequency": 74.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1513",
+    "title": "Number of Substrings With Only 1s",
+    "titleSlug": "number-of-substrings-with-only-1s",
+    "difficulty": "Medium",
+    "acRate": 48.08192055438683,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Number of Homogenous Substrings",
+        "titleSlug": "count-number-of-homogenous-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1528",
+    "title": "Shuffle String",
+    "titleSlug": "shuffle-string",
+    "difficulty": "Easy",
+    "acRate": 85.173772311107,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1556",
+    "title": "Thousand Separator",
+    "titleSlug": "thousand-separator",
+    "difficulty": "Easy",
+    "acRate": 53.55736458609173,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1573",
+    "title": "Number of Ways to Split a String",
+    "titleSlug": "number-of-ways-to-split-a-string",
+    "difficulty": "Medium",
+    "acRate": 33.96579503037217,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Array with Equal Sum",
+        "titleSlug": "split-array-with-equal-sum",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1576",
+    "title": "Replace All ?'s to Avoid Consecutive Repeating Characters",
+    "titleSlug": "replace-all-s-to-avoid-consecutive-repeating-characters",
+    "difficulty": "Easy",
+    "acRate": 45.21715977868405,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1592",
+    "title": "Rearrange Spaces Between Words",
+    "titleSlug": "rearrange-spaces-between-words",
+    "difficulty": "Easy",
+    "acRate": 43.99129153961445,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Text Justification",
+        "titleSlug": "text-justification",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1629",
+    "title": "Slowest Key",
+    "titleSlug": "slowest-key",
+    "difficulty": "Easy",
+    "acRate": 59.325734075553484,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1662",
+    "title": "Check If Two String Arrays are Equivalent",
+    "titleSlug": "check-if-two-string-arrays-are-equivalent",
+    "difficulty": "Easy",
+    "acRate": 85.858424779315,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if an Original String Exists Given Two Encoded Strings",
+        "titleSlug": "check-if-an-original-string-exists-given-two-encoded-strings",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1678",
+    "title": "Goal Parser Interpretation",
+    "titleSlug": "goal-parser-interpretation",
+    "difficulty": "Easy",
+    "acRate": 87.81272617874552,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1694",
+    "title": "Reformat Phone Number",
+    "titleSlug": "reformat-phone-number",
+    "difficulty": "Easy",
+    "acRate": 67.155472148271,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Activision",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1758",
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "titleSlug": "minimum-changes-to-make-alternating-binary-string",
+    "difficulty": "Easy",
+    "acRate": 63.699841395717684,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Adjacent Almost-Equal Characters",
+        "titleSlug": "remove-adjacent-almost-equal-characters",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Tesla",
+        "frequency": 95.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1759",
+    "title": "Count Number of Homogenous Substrings",
+    "titleSlug": "count-number-of-homogenous-substrings",
+    "difficulty": "Medium",
+    "acRate": 57.3046603504408,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Consecutive Characters",
+        "titleSlug": "consecutive-characters",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Substrings With Only 1s",
+        "titleSlug": "number-of-substrings-with-only-1s",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Subarray Ranges",
+        "titleSlug": "sum-of-subarray-ranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Good Subarrays",
+        "titleSlug": "count-the-number-of-good-subarrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Virtu Financial",
+        "frequency": 92.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1773",
+    "title": "Count Items Matching a Rule",
+    "titleSlug": "count-items-matching-a-rule",
+    "difficulty": "Easy",
+    "acRate": 85.04890010611753,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1784",
+    "title": "Check if Binary String Has at Most One Segment of Ones",
+    "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+    "difficulty": "Easy",
+    "acRate": 39.13858879737583,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longer Contiguous Segments of Ones than Zeros",
+        "titleSlug": "longer-contiguous-segments-of-ones-than-zeros",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1812",
+    "title": "Determine Color of a Chessboard Square",
+    "titleSlug": "determine-color-of-a-chessboard-square",
+    "difficulty": "Easy",
+    "acRate": 79.4964108718359,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if Two Chessboard Squares Have the Same Color",
+        "titleSlug": "check-if-two-chessboard-squares-have-the-same-color",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 74.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1816",
+    "title": "Truncate Sentence",
+    "titleSlug": "truncate-sentence",
+    "difficulty": "Easy",
+    "acRate": 86.21283050875104,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1844",
+    "title": "Replace All Digits with Characters",
+    "titleSlug": "replace-all-digits-with-characters",
+    "difficulty": "Easy",
+    "acRate": 82.317432730207,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shifting Letters",
+        "titleSlug": "shifting-letters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1869",
+    "title": "Longer Contiguous Segments of Ones than Zeros",
+    "titleSlug": "longer-contiguous-segments-of-ones-than-zeros",
+    "difficulty": "Easy",
+    "acRate": 61.732886650734045,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Consecutive Ones",
+        "titleSlug": "max-consecutive-ones",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Subarrays With More Ones Than Zeros",
+        "titleSlug": "count-subarrays-with-more-ones-than-zeros",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if Binary String Has at Most One Segment of Ones",
+        "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1880",
+    "title": "Check if Word Equals Summation of Two Words",
+    "titleSlug": "check-if-word-equals-summation-of-two-words",
+    "difficulty": "Easy",
+    "acRate": 74.84236225921796,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1904",
+    "title": "The Number of Full Rounds You Have Played",
+    "titleSlug": "the-number-of-full-rounds-you-have-played",
+    "difficulty": "Medium",
+    "acRate": 43.36126187841422,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "General Motors",
+        "frequency": 56.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1933",
+    "title": "Check if String Is Decomposable Into Value-Equal Substrings",
+    "titleSlug": "check-if-string-is-decomposable-into-value-equal-substrings",
+    "difficulty": "Easy",
+    "acRate": 50.81062823688358,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1957",
+    "title": "Delete Characters to Make Fancy String",
+    "titleSlug": "delete-characters-to-make-fancy-string",
+    "difficulty": "Easy",
+    "acRate": 74.24650463430508,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Maximum Removals From Source String",
+        "titleSlug": "find-maximum-removals-from-source-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Wayfair",
+        "frequency": 92.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1967",
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "acRate": 82.10841115125078,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2042",
+    "title": "Check if Numbers Are Ascending in a Sentence",
+    "titleSlug": "check-if-numbers-are-ascending-in-a-sentence",
+    "difficulty": "Easy",
+    "acRate": 72.16703102083737,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "String to Integer (atoi)",
+        "titleSlug": "string-to-integer-atoi",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sorting the Sentence",
+        "titleSlug": "sorting-the-sentence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if All A's Appears Before All B's",
+        "titleSlug": "check-if-all-as-appears-before-all-bs",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2047",
+    "title": "Number of Valid Words in a Sentence",
+    "titleSlug": "number-of-valid-words-in-a-sentence",
+    "difficulty": "Easy",
+    "acRate": 30.20568757304246,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Number of Words Found in Sentences",
+        "titleSlug": "maximum-number-of-words-found-in-sentences",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 66.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2114",
+    "title": "Maximum Number of Words Found in Sentences",
+    "titleSlug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "acRate": 86.60049921332498,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Valid Words in a Sentence",
+        "titleSlug": "number-of-valid-words-in-a-sentence",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2124",
+    "title": "Check if All A's Appears Before All B's",
+    "titleSlug": "check-if-all-as-appears-before-all-bs",
+    "difficulty": "Easy",
+    "acRate": 72.48563313296783,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Deletions to Make String Balanced",
+        "titleSlug": "minimum-deletions-to-make-string-balanced",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if Array Is Sorted and Rotated",
+        "titleSlug": "check-if-array-is-sorted-and-rotated",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if Numbers Are Ascending in a Sentence",
+        "titleSlug": "check-if-numbers-are-ascending-in-a-sentence",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2129",
+    "title": "Capitalize the Title",
+    "titleSlug": "capitalize-the-title",
+    "difficulty": "Easy",
+    "acRate": 66.93570678312787,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Detect Capital",
+        "titleSlug": "detect-capital",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "To Lower Case",
+        "titleSlug": "to-lower-case",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2194",
+    "title": "Cells in a Range on an Excel Sheet",
+    "titleSlug": "cells-in-a-range-on-an-excel-sheet",
+    "difficulty": "Easy",
+    "acRate": 83.99954856052368,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Excel Sheet Column Title",
+        "titleSlug": "excel-sheet-column-title",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Excel Sheet Column Number",
+        "titleSlug": "excel-sheet-column-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Matrix Cells in Distance Order",
+        "titleSlug": "matrix-cells-in-distance-order",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2255",
+    "title": "Count Prefixes of a Given String",
+    "titleSlug": "count-prefixes-of-a-given-string",
+    "difficulty": "Easy",
+    "acRate": 74.0327587286536,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check If String Is a Prefix of Array",
+        "titleSlug": "check-if-string-is-a-prefix-of-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Counting Words With a Given Prefix",
+        "titleSlug": "counting-words-with-a-given-prefix",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2264",
+    "title": "Largest 3-Same-Digit Number in String",
+    "titleSlug": "largest-3-same-digit-number-in-string",
+    "difficulty": "Easy",
+    "acRate": 72.78307326602179,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Odd Number in String",
+        "titleSlug": "largest-odd-number-in-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "opentext",
+        "frequency": 100.0
+      },
+      {
+        "name": "PayPay",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2278",
+    "title": "Percentage of Letter in String",
+    "titleSlug": "percentage-of-letter-in-string",
+    "difficulty": "Easy",
+    "acRate": 74.66461225708085,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 95.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2288",
+    "title": "Apply Discount to Prices",
+    "titleSlug": "apply-discount-to-prices",
+    "difficulty": "Medium",
+    "acRate": 33.11641764297395,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Multiply Strings",
+        "titleSlug": "multiply-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Apply Discount Every n Orders",
+        "titleSlug": "apply-discount-every-n-orders",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2299",
+    "title": "Strong Password Checker II",
+    "titleSlug": "strong-password-checker-ii",
+    "difficulty": "Easy",
+    "acRate": 55.11636382568855,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Strong Password Checker",
+        "titleSlug": "strong-password-checker",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Validate IP Address",
+        "titleSlug": "validate-ip-address",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2315",
+    "title": "Count Asterisks",
+    "titleSlug": "count-asterisks",
+    "difficulty": "Easy",
+    "acRate": 82.91760167652677,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2409",
+    "title": "Count Days Spent Together",
+    "titleSlug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "acRate": 46.84690628969203,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Days Between Two Dates",
+        "titleSlug": "number-of-days-between-two-dates",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Number of Operations to Convert Time",
+        "titleSlug": "minimum-number-of-operations-to-convert-time",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2414",
+    "title": "Length of the Longest Alphabetical Continuous Substring",
+    "titleSlug": "length-of-the-longest-alphabetical-continuous-substring",
+    "difficulty": "Medium",
+    "acRate": 59.81948906226098,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Consecutive Sequence",
+        "titleSlug": "longest-consecutive-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Arithmetic Slices",
+        "titleSlug": "arithmetic-slices",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Consecutive Ones",
+        "titleSlug": "max-consecutive-ones",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Zero-Filled Subarrays",
+        "titleSlug": "number-of-zero-filled-subarrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2446",
+    "title": "Determine if Two Events Have Conflict",
+    "titleSlug": "determine-if-two-events-have-conflict",
+    "difficulty": "Easy",
+    "acRate": 52.54196428571428,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Non-overlapping Intervals",
+        "titleSlug": "non-overlapping-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "My Calendar I",
+        "titleSlug": "my-calendar-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 45.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2450",
+    "title": "Number of Distinct Binary Strings After Applying Operations",
+    "titleSlug": "number-of-distinct-binary-strings-after-applying-operations",
+    "difficulty": "Medium",
+    "acRate": 63.60493827160494,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2490",
+    "title": "Circular Sentence",
+    "titleSlug": "circular-sentence",
+    "difficulty": "Easy",
+    "acRate": 70.35110583151688,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Defuse the Bomb",
+        "titleSlug": "defuse-the-bomb",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2496",
+    "title": "Maximum Value of a String in an Array",
+    "titleSlug": "maximum-value-of-a-string-in-an-array",
+    "difficulty": "Easy",
+    "acRate": 73.64833481879465,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2515",
+    "title": "Shortest Distance to Target String in a Circular Array",
+    "titleSlug": "shortest-distance-to-target-string-in-a-circular-array",
+    "difficulty": "Easy",
+    "acRate": 50.2694704261298,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Defuse the Bomb",
+        "titleSlug": "defuse-the-bomb",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2575",
+    "title": "Find the Divisibility Array of a String",
+    "titleSlug": "find-the-divisibility-array-of-a-string",
+    "difficulty": "Medium",
+    "acRate": 34.96066567302662,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Make Sum Divisible by P",
+        "titleSlug": "make-sum-divisible-by-p",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2609",
+    "title": "Find the Longest Balanced Substring of a Binary String",
+    "titleSlug": "find-the-longest-balanced-substring-of-a-binary-string",
+    "difficulty": "Easy",
+    "acRate": 45.678222356055755,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Tinkoff",
+        "frequency": 57.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2678",
+    "title": "Number of Senior Citizens",
+    "titleSlug": "number-of-senior-citizens",
+    "difficulty": "Easy",
+    "acRate": 81.30370521669319,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2710",
+    "title": "Remove Trailing Zeros From a String",
+    "titleSlug": "remove-trailing-zeros-from-a-string",
+    "difficulty": "Easy",
+    "acRate": 78.84577836043624,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if Bitwise OR Has Trailing Zeros",
+        "titleSlug": "check-if-bitwise-or-has-trailing-zeros",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2788",
+    "title": "Split Strings by Separator",
+    "titleSlug": "split-strings-by-separator",
+    "difficulty": "Easy",
+    "acRate": 75.3394587475305,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split a String in Balanced Strings",
+        "titleSlug": "split-a-string-in-balanced-strings",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2828",
+    "title": "Check if a String Is an Acronym of Words",
+    "titleSlug": "check-if-a-string-is-an-acronym-of-words",
+    "difficulty": "Easy",
+    "acRate": 82.68019642658973,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Abbreviation",
+        "titleSlug": "word-abbreviation",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2839",
+    "title": "Check if Strings Can be Made Equal With Operations I",
+    "titleSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "difficulty": "Easy",
+    "acRate": 47.27206635603582,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Citrix",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2914",
+    "title": "Minimum Number of Changes to Make Binary String Beautiful",
+    "titleSlug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "difficulty": "Medium",
+    "acRate": 76.41939572809656,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2937",
+    "title": "Make Three Strings Equal",
+    "titleSlug": "make-three-strings-equal",
+    "difficulty": "Easy",
+    "acRate": 43.59772896054429,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Delete Operation for Two Strings",
+        "titleSlug": "delete-operation-for-two-strings",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2942",
+    "title": "Find Words Containing Character",
+    "titleSlug": "find-words-containing-character",
+    "difficulty": "Easy",
+    "acRate": 90.51658489860141,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Target Indices After Sorting Array",
+        "titleSlug": "find-target-indices-after-sorting-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deliveroo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3019",
+    "title": "Number of Changing Keys",
+    "titleSlug": "number-of-changing-keys",
+    "difficulty": "Easy",
+    "acRate": 79.90679187392496,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Autodesk",
+        "frequency": 97.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3110",
+    "title": "Score of a String",
+    "titleSlug": "score-of-a-string",
+    "difficulty": "Easy",
+    "acRate": 91.6702605102152,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3136",
+    "title": "Valid Word",
+    "titleSlug": "valid-word",
+    "difficulty": "Easy",
+    "acRate": 50.86339232243774,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      },
+      {
+        "name": "UKG",
+        "frequency": 72.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3163",
+    "title": "String Compression III",
+    "titleSlug": "string-compression-iii",
+    "difficulty": "Medium",
+    "acRate": 66.89586618221705,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "String Compression II",
+        "titleSlug": "string-compression-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Affirm",
+        "frequency": 45.8
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3210",
+    "title": "Find the Encrypted String",
+    "titleSlug": "find-the-encrypted-string",
+    "difficulty": "Easy",
+    "acRate": 68.0028929707193,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3274",
+    "title": "Check if Two Chessboard Squares Have the Same Color",
+    "titleSlug": "check-if-two-chessboard-squares-have-the-same-color",
+    "difficulty": "Easy",
+    "acRate": 71.99647726385963,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Determine Color of a Chessboard Square",
+        "titleSlug": "determine-color-of-a-chessboard-square",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3280",
+    "title": "Convert Date to Binary",
+    "titleSlug": "convert-date-to-binary",
+    "difficulty": "Easy",
+    "acRate": 88.45301101416106,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Convert to Base -2",
+        "titleSlug": "convert-to-base-2",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3330",
+    "title": "Find the Original Typed String I",
+    "titleSlug": "find-the-original-typed-string-i",
+    "difficulty": "Easy",
+    "acRate": 72.0243773993879,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Keyboard Row",
+        "titleSlug": "keyboard-row",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Faulty Keyboard",
+        "titleSlug": "faulty-keyboard",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Lowe's",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3340",
+    "title": "Check Balanced String",
+    "titleSlug": "check-balanced-string",
+    "difficulty": "Easy",
+    "acRate": 81.34123853915895,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Balanced Binary Tree",
+        "titleSlug": "balanced-binary-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3456",
+    "title": "Find Special Substring of Length K",
+    "titleSlug": "find-special-substring-of-length-k",
+    "difficulty": "Easy",
+    "acRate": 35.07637860676754,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3571",
+    "title": "Find the Shortest Superstring II",
+    "titleSlug": "find-the-shortest-superstring-ii",
+    "difficulty": "Easy",
+    "acRate": 51.35983263598326,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Shortest Superstring",
+        "titleSlug": "find-the-shortest-superstring",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3598",
+    "title": "Longest Common Prefix Between Adjacent Strings After Removals",
+    "titleSlug": "longest-common-prefix-between-adjacent-strings-after-removals",
+    "difficulty": "Medium",
+    "acRate": 31.52532107803844,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3602",
+    "title": "Hexadecimal and Hexatrigesimal Conversion",
+    "titleSlug": "hexadecimal-and-hexatrigesimal-conversion",
+    "difficulty": "Easy",
+    "acRate": 79.90332503295737,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

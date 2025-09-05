@@ -1,0 +1,3222 @@
+[
+  {
+    "questionFrontendId": "42",
+    "title": "Trapping Rain Water",
+    "titleSlug": "trapping-rain-water",
+    "difficulty": "Hard",
+    "acRate": 65.69531877519297,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Container With Most Water",
+        "titleSlug": "container-with-most-water",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Trapping Rain Water II",
+        "titleSlug": "trapping-rain-water-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Pour Water",
+        "titleSlug": "pour-water",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Value of an Ordered Triplet II",
+        "titleSlug": "maximum-value-of-an-ordered-triplet-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accolite",
+        "frequency": 53.4
+      },
+      {
+        "name": "Adobe",
+        "frequency": 72.2
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 80.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 85.9
+      },
+      {
+        "name": "American Express",
+        "frequency": 55.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 73.0
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "BitGo",
+        "frequency": 64.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 79.1
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 65.1
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "carwale",
+        "frequency": 74.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 56.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 52.2
+      },
+      {
+        "name": "Coveo",
+        "frequency": 100.0
+      },
+      {
+        "name": "CrowdStrike",
+        "frequency": 77.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 66.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 71.3
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 94.7
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 100.0
+      },
+      {
+        "name": "Google",
+        "frequency": 73.7
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      },
+      {
+        "name": "Groww",
+        "frequency": 64.8
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 70.5
+      },
+      {
+        "name": "Hive",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Infosys",
+        "frequency": 67.9
+      },
+      {
+        "name": "InMobi",
+        "frequency": 65.2
+      },
+      {
+        "name": "Intel",
+        "frequency": 100.0
+      },
+      {
+        "name": "Intuit",
+        "frequency": 56.8
+      },
+      {
+        "name": "Jane Street",
+        "frequency": 56.9
+      },
+      {
+        "name": "jio",
+        "frequency": 62.6
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 70.0
+      },
+      {
+        "name": "MAQ Software",
+        "frequency": 65.3
+      },
+      {
+        "name": "Media.net",
+        "frequency": 46.5
+      },
+      {
+        "name": "Meta",
+        "frequency": 60.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 75.7
+      },
+      {
+        "name": "Moloco",
+        "frequency": 92.6
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "National Instruments",
+        "frequency": 74.6
+      },
+      {
+        "name": "Navan",
+        "frequency": 89.4
+      },
+      {
+        "name": "Navi",
+        "frequency": 66.2
+      },
+      {
+        "name": "Nextdoor",
+        "frequency": 64.4
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      },
+      {
+        "name": "Oracle",
+        "frequency": 66.9
+      },
+      {
+        "name": "PayPal",
+        "frequency": 53.0
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 71.8
+      },
+      {
+        "name": "Publicis Sapient",
+        "frequency": 100.0
+      },
+      {
+        "name": "PubMatic",
+        "frequency": 89.5
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "redbus",
+        "frequency": 100.0
+      },
+      {
+        "name": "Roblox",
+        "frequency": 51.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 68.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 85.5
+      },
+      {
+        "name": "SAP",
+        "frequency": 69.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 79.9
+      },
+      {
+        "name": "Splunk",
+        "frequency": 79.4
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 60.4
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 46.8
+      },
+      {
+        "name": "Tekion",
+        "frequency": 78.1
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 82.2
+      },
+      {
+        "name": "Turvo",
+        "frequency": 67.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 60.6
+      },
+      {
+        "name": "Visa",
+        "frequency": 72.6
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 81.5
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "X",
+        "frequency": 96.3
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 54.4
+      },
+      {
+        "name": "Yandex",
+        "frequency": 67.4
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      },
+      {
+        "name": "Zoho",
+        "frequency": 85.7
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 84.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "84",
+    "title": "Largest Rectangle in Histogram",
+    "titleSlug": "largest-rectangle-in-histogram",
+    "difficulty": "Hard",
+    "acRate": 48.07773490166907,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximal Rectangle",
+        "titleSlug": "maximal-rectangle",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Score of a Good Subarray",
+        "titleSlug": "maximum-score-of-a-good-subarray",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 61.5
+      },
+      {
+        "name": "Apple",
+        "frequency": 52.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 47.6
+      },
+      {
+        "name": "Capital One",
+        "frequency": 59.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 50.0
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 58.7
+      },
+      {
+        "name": "MAQ Software",
+        "frequency": 65.3
+      },
+      {
+        "name": "Meta",
+        "frequency": 42.7
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 54.6
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "oyo",
+        "frequency": 87.4
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Roblox",
+        "frequency": 46.2
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Uber",
+        "frequency": 56.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 44.5
+      },
+      {
+        "name": "Zepto",
+        "frequency": 84.8
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      },
+      {
+        "name": "Zynga",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "85",
+    "title": "Maximal Rectangle",
+    "titleSlug": "maximal-rectangle",
+    "difficulty": "Hard",
+    "acRate": 54.571543525402056,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Rectangle in Histogram",
+        "titleSlug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximal Square",
+        "titleSlug": "maximal-square",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Sorted Submatrices With Maximum Element at Most K",
+        "titleSlug": "find-sorted-submatrices-with-maximum-element-at-most-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 17.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 36.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 33.1
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Google",
+        "frequency": 54.3
+      },
+      {
+        "name": "Huawei",
+        "frequency": 61.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 37.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 44.5
+      },
+      {
+        "name": "Oracle",
+        "frequency": 25.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 29.3
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "255",
+    "title": "Verify Preorder Sequence in Binary Search Tree",
+    "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 51.41347632377873,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Preorder Traversal",
+        "titleSlug": "binary-tree-preorder-traversal",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "316",
+    "title": "Remove Duplicate Letters",
+    "titleSlug": "remove-duplicate-letters",
+    "difficulty": "Medium",
+    "acRate": 51.759569623342536,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "titleSlug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 87.2
+      },
+      {
+        "name": "DRW",
+        "frequency": 73.2
+      },
+      {
+        "name": "Expedia",
+        "frequency": 81.9
+      },
+      {
+        "name": "FactSet",
+        "frequency": 100.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "321",
+    "title": "Create Maximum Number",
+    "titleSlug": "create-maximum-number",
+    "difficulty": "Hard",
+    "acRate": 33.094602427414685,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove K Digits",
+        "titleSlug": "remove-k-digits",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Swap",
+        "titleSlug": "maximum-swap",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 68.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "402",
+    "title": "Remove K Digits",
+    "titleSlug": "remove-k-digits",
+    "difficulty": "Medium",
+    "acRate": 35.471028236405864,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Create Maximum Number",
+        "titleSlug": "create-maximum-number",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Monotone Increasing Digits",
+        "titleSlug": "monotone-increasing-digits",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Most Competitive Subsequence",
+        "titleSlug": "find-the-most-competitive-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Append K Integers With Minimal Sum",
+        "titleSlug": "append-k-integers-with-minimal-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Digit From Number to Maximize Result",
+        "titleSlug": "remove-digit-from-number-to-maximize-result",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Operations to Make a Special Number",
+        "titleSlug": "minimum-operations-to-make-a-special-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Coupang",
+        "frequency": 70.2
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 55.7
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 78.8
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 64.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "496",
+    "title": "Next Greater Element I",
+    "titleSlug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "acRate": 74.98234291043465,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element II",
+        "titleSlug": "next-greater-element-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Next Greater Element III",
+        "titleSlug": "next-greater-element-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Daily Temperatures",
+        "titleSlug": "daily-temperatures",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Subarray Ranges",
+        "titleSlug": "sum-of-subarray-ranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Total Strength of Wizards",
+        "titleSlug": "sum-of-total-strength-of-wizards",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Next Greater Element IV",
+        "titleSlug": "next-greater-element-iv",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove Nodes From Linked List",
+        "titleSlug": "remove-nodes-from-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+        "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 75.0
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "503",
+    "title": "Next Greater Element II",
+    "titleSlug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "acRate": 66.9944708356047,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Next Greater Element III",
+        "titleSlug": "next-greater-element-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+        "titleSlug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Zeta",
+        "frequency": 70.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "581",
+    "title": "Shortest Unsorted Continuous Subarray",
+    "titleSlug": "shortest-unsorted-continuous-subarray",
+    "difficulty": "Medium",
+    "acRate": 37.59560134023584,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Subarray to Sort in Every Sliding Window",
+        "titleSlug": "smallest-subarray-to-sort-in-every-sliding-window",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LiveRamp",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "654",
+    "title": "Maximum Binary Tree",
+    "titleSlug": "maximum-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 86.07536671724836,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Binary Tree II",
+        "titleSlug": "maximum-binary-tree-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "739",
+    "title": "Daily Temperatures",
+    "titleSlug": "daily-temperatures",
+    "difficulty": "Medium",
+    "acRate": 67.63420301706637,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Online Stock Span",
+        "titleSlug": "online-stock-span",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Agoda",
+        "frequency": 82.9
+      },
+      {
+        "name": "Airwallex",
+        "frequency": 100.0
+      },
+      {
+        "name": "Anduril",
+        "frequency": 82.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Grab",
+        "frequency": 61.6
+      },
+      {
+        "name": "Huawei",
+        "frequency": 61.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 56.8
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 44.8
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      },
+      {
+        "name": "Netflix",
+        "frequency": 57.2
+      },
+      {
+        "name": "Okta",
+        "frequency": 87.9
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 45.4
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "SAP",
+        "frequency": 62.7
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 74.5
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 67.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 59.3
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "768",
+    "title": "Max Chunks To Make Sorted II",
+    "titleSlug": "max-chunks-to-make-sorted-ii",
+    "difficulty": "Hard",
+    "acRate": 54.37786465354543,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Chunks To Make Sorted",
+        "titleSlug": "max-chunks-to-make-sorted",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "769",
+    "title": "Max Chunks To Make Sorted",
+    "titleSlug": "max-chunks-to-make-sorted",
+    "difficulty": "Medium",
+    "acRate": 64.10717410570643,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Chunks To Make Sorted II",
+        "titleSlug": "max-chunks-to-make-sorted-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Poshmark",
+        "frequency": 66.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "853",
+    "title": "Car Fleet",
+    "titleSlug": "car-fleet",
+    "difficulty": "Medium",
+    "acRate": 53.848100159098344,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Car Fleet II",
+        "titleSlug": "car-fleet-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Collisions on a Road",
+        "titleSlug": "count-collisions-on-a-road",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BharatPe",
+        "frequency": 93.4
+      },
+      {
+        "name": "BNY Mellon",
+        "frequency": 58.8
+      },
+      {
+        "name": "GE Healthcare",
+        "frequency": 64.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "907",
+    "title": "Sum of Subarray Minimums",
+    "titleSlug": "sum-of-subarray-minimums",
+    "difficulty": "Medium",
+    "acRate": 37.85811902843788,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of Subarray Ranges",
+        "titleSlug": "sum-of-subarray-ranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Total Strength of Wizards",
+        "titleSlug": "sum-of-total-strength-of-wizards",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Avito",
+        "frequency": 53.8
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "962",
+    "title": "Maximum Width Ramp",
+    "titleSlug": "maximum-width-ramp",
+    "difficulty": "Medium",
+    "acRate": 55.74902210136082,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1008",
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "titleSlug": "construct-binary-search-tree-from-preorder-traversal",
+    "difficulty": "Medium",
+    "acRate": 83.65140233521916,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Akamai",
+        "frequency": 62.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1019",
+    "title": "Next Greater Node In Linked List",
+    "titleSlug": "next-greater-node-in-linked-list",
+    "difficulty": "Medium",
+    "acRate": 62.62772793790163,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1063",
+    "title": "Number of Valid Subarrays",
+    "titleSlug": "number-of-valid-subarrays",
+    "difficulty": "Hard",
+    "acRate": 79.43186072631973,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Smooth Descent Periods of a Stock",
+        "titleSlug": "number-of-smooth-descent-periods-of-a-stock",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hulu",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1081",
+    "title": "Smallest Subsequence of Distinct Characters",
+    "titleSlug": "smallest-subsequence-of-distinct-characters",
+    "difficulty": "Medium",
+    "acRate": 62.35129714505,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Most Competitive Subsequence",
+        "titleSlug": "find-the-most-competitive-subsequence",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 89.5
+      },
+      {
+        "name": "FactSet",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1124",
+    "title": "Longest Well-Performing Interval",
+    "titleSlug": "longest-well-performing-interval",
+    "difficulty": "Medium",
+    "acRate": 36.184811226253686,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1130",
+    "title": "Minimum Cost Tree From Leaf Values",
+    "titleSlug": "minimum-cost-tree-from-leaf-values",
+    "difficulty": "Medium",
+    "acRate": 67.69236212671605,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "MathWorks",
+        "frequency": 88.9
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1475",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+    "difficulty": "Easy",
+    "acRate": 83.42363962005956,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dream11",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1504",
+    "title": "Count Submatrices With All Ones",
+    "titleSlug": "count-submatrices-with-all-ones",
+    "difficulty": "Medium",
+    "acRate": 70.93406453906111,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "titleSlug": "count-submatrices-with-equal-frequency-of-x-and-y",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1526",
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "difficulty": "Hard",
+    "acRate": 72.6529284408198,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dream11",
+        "frequency": 72.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1574",
+    "title": "Shortest Subarray to be Removed to Make Array Sorted",
+    "titleSlug": "shortest-subarray-to-be-removed-to-make-array-sorted",
+    "difficulty": "Medium",
+    "acRate": 51.38772889237704,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count the Number of Incremovable Subarrays II",
+        "titleSlug": "count-the-number-of-incremovable-subarrays-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count the Number of Incremovable Subarrays I",
+        "titleSlug": "count-the-number-of-incremovable-subarrays-i",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      },
+      {
+        "name": "razorpay",
+        "frequency": 79.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1673",
+    "title": "Find the Most Competitive Subsequence",
+    "titleSlug": "find-the-most-competitive-subsequence",
+    "difficulty": "Medium",
+    "acRate": 52.12704432967505,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove K Digits",
+        "titleSlug": "remove-k-digits",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Subsequence of Distinct Characters",
+        "titleSlug": "smallest-subsequence-of-distinct-characters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1762",
+    "title": "Buildings With an Ocean View",
+    "titleSlug": "buildings-with-an-ocean-view",
+    "difficulty": "Medium",
+    "acRate": 80.82395037927154,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Finding the Number of Visible Mountains",
+        "titleSlug": "finding-the-number-of-visible-mountains",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1776",
+    "title": "Car Fleet II",
+    "titleSlug": "car-fleet-ii",
+    "difficulty": "Hard",
+    "acRate": 56.71793356843485,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Car Fleet",
+        "titleSlug": "car-fleet",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Collisions on a Road",
+        "titleSlug": "count-collisions-on-a-road",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1793",
+    "title": "Maximum Score of a Good Subarray",
+    "titleSlug": "maximum-score-of-a-good-subarray",
+    "difficulty": "Hard",
+    "acRate": 64.31207849808615,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Rectangle in Histogram",
+        "titleSlug": "largest-rectangle-in-histogram",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1856",
+    "title": "Maximum Subarray Min-Product",
+    "titleSlug": "maximum-subarray-min-product",
+    "difficulty": "Medium",
+    "acRate": 39.21666059341217,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "titleSlug": "subarray-with-elements-greater-than-varying-threshold",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1944",
+    "title": "Number of Visible People in a Queue",
+    "titleSlug": "number-of-visible-people-in-a-queue",
+    "difficulty": "Hard",
+    "acRate": 71.6812668463612,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Buildings With an Ocean View",
+        "titleSlug": "buildings-with-an-ocean-view",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Subarray Ranges",
+        "titleSlug": "sum-of-subarray-ranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Total Strength of Wizards",
+        "titleSlug": "sum-of-total-strength-of-wizards",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of People That Can Be Seen in a Grid",
+        "titleSlug": "number-of-people-that-can-be-seen-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Building Where Alice and Bob Can Meet",
+        "titleSlug": "find-building-where-alice-and-bob-can-meet",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citigroup",
+        "frequency": 100.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 42.9
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "GE Healthcare",
+        "frequency": 64.9
+      },
+      {
+        "name": "Rippling",
+        "frequency": 55.1
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1950",
+    "title": "Maximum of Minimum Values in All Subarrays",
+    "titleSlug": "maximum-of-minimum-values-in-all-subarrays",
+    "difficulty": "Medium",
+    "acRate": 48.051403827350185,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1996",
+    "title": "The Number of Weak Characters in the Game",
+    "titleSlug": "the-number-of-weak-characters-in-the-game",
+    "difficulty": "Medium",
+    "acRate": 44.280602460358296,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Russian Doll Envelopes",
+        "titleSlug": "russian-doll-envelopes",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Height by Stacking Cuboids ",
+        "titleSlug": "maximum-height-by-stacking-cuboids",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Pinterest",
+        "frequency": 48.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2030",
+    "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+    "titleSlug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+    "difficulty": "Hard",
+    "acRate": 39.102683737075886,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Duplicate Letters",
+        "titleSlug": "remove-duplicate-letters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarray With Elements Greater Than Varying Threshold",
+        "titleSlug": "subarray-with-elements-greater-than-varying-threshold",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Lexicographically Smallest Valid Sequence",
+        "titleSlug": "find-the-lexicographically-smallest-valid-sequence",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deutsche Bank",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2104",
+    "title": "Sum of Subarray Ranges",
+    "titleSlug": "sum-of-subarray-ranges",
+    "difficulty": "Medium",
+    "acRate": 60.0581444199842,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Subarray Minimums",
+        "titleSlug": "sum-of-subarray-minimums",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Number of Homogenous Substrings",
+        "titleSlug": "count-number-of-homogenous-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Total Strength of Wizards",
+        "titleSlug": "sum-of-total-strength-of-wizards",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2281",
+    "title": "Sum of Total Strength of Wizards",
+    "titleSlug": "sum-of-total-strength-of-wizards",
+    "difficulty": "Hard",
+    "acRate": 28.616622496000765,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Subarray Minimums",
+        "titleSlug": "sum-of-subarray-minimums",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sum of Subarray Ranges",
+        "titleSlug": "sum-of-subarray-ranges",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2282",
+    "title": "Number of People That Can Be Seen in a Grid",
+    "titleSlug": "number-of-people-that-can-be-seen-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 47.35403241554384,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2289",
+    "title": "Steps to Make Array Non-decreasing",
+    "titleSlug": "steps-to-make-array-non-decreasing",
+    "difficulty": "Medium",
+    "acRate": 23.38499322493225,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove One Element to Make the Array Strictly Increasing",
+        "titleSlug": "remove-one-element-to-make-the-array-strictly-increasing",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2334",
+    "title": "Subarray With Elements Greater Than Varying Threshold",
+    "titleSlug": "subarray-with-elements-greater-than-varying-threshold",
+    "difficulty": "Hard",
+    "acRate": 44.74595530544884,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Subarray Min-Product",
+        "titleSlug": "maximum-subarray-min-product",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+        "titleSlug": "smallest-k-length-subsequence-with-occurrences-of-a-letter",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "K Divisible Elements Subarrays",
+        "titleSlug": "k-divisible-elements-subarrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "instabase",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2345",
+    "title": "Finding the Number of Visible Mountains",
+    "titleSlug": "finding-the-number-of-visible-mountains",
+    "difficulty": "Medium",
+    "acRate": 36.64500848189994,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Buildings With an Ocean View",
+        "titleSlug": "buildings-with-an-ocean-view",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2355",
+    "title": "Maximum Number of Books You Can Take",
+    "titleSlug": "maximum-number-of-books-you-can-take",
+    "difficulty": "Hard",
+    "acRate": 39.35356673437687,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Ascending Subarray Sum",
+        "titleSlug": "maximum-ascending-subarray-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Beautiful Towers II",
+        "titleSlug": "beautiful-towers-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Beautiful Towers I",
+        "titleSlug": "beautiful-towers-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2454",
+    "title": "Next Greater Element IV",
+    "titleSlug": "next-greater-element-iv",
+    "difficulty": "Hard",
+    "acRate": 40.45900282025408,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Replace Elements with Greatest Element on Right Side",
+        "titleSlug": "replace-elements-with-greatest-element-on-right-side",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Apply Operations to Maximize Score",
+        "titleSlug": "apply-operations-to-maximize-score",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2487",
+    "title": "Remove Nodes From Linked List",
+    "titleSlug": "remove-nodes-from-linked-list",
+    "difficulty": "Medium",
+    "acRate": 74.45716823669359,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Delete Node in a Linked List",
+        "titleSlug": "delete-node-in-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Delete Nodes From Linked List Present in Array",
+        "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2617",
+    "title": "Minimum Number of Visited Cells in a Grid",
+    "titleSlug": "minimum-number-of-visited-cells-in-a-grid",
+    "difficulty": "Hard",
+    "acRate": 23.042229550047868,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Jump Game II",
+        "titleSlug": "jump-game-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game",
+        "titleSlug": "jump-game",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Huawei",
+        "frequency": 100.0
+      },
+      {
+        "name": "WorldQuant",
+        "frequency": 89.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2736",
+    "title": "Maximum Sum Queries",
+    "titleSlug": "maximum-sum-queries",
+    "difficulty": "Hard",
+    "acRate": 28.54454203262233,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Beautiful Item for Each Query",
+        "titleSlug": "most-beautiful-item-for-each-query",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2832",
+    "title": "Maximal Range That Each Element Is Maximum in It",
+    "titleSlug": "maximal-range-that-each-element-is-maximum-in-it",
+    "difficulty": "Medium",
+    "acRate": 75.3058954393771,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2863",
+    "title": "Maximum Length of Semi-Decreasing Subarrays",
+    "titleSlug": "maximum-length-of-semi-decreasing-subarrays",
+    "difficulty": "Medium",
+    "acRate": 70.0304133220322,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2865",
+    "title": "Beautiful Towers I",
+    "titleSlug": "beautiful-towers-i",
+    "difficulty": "Medium",
+    "acRate": 43.66417374403178,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Mountain Array",
+        "titleSlug": "valid-mountain-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Number of Removals to Make Mountain Array",
+        "titleSlug": "minimum-number-of-removals-to-make-mountain-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Number of Books You Can Take",
+        "titleSlug": "maximum-number-of-books-you-can-take",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Salesforce",
+        "frequency": 70.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2866",
+    "title": "Beautiful Towers II",
+    "titleSlug": "beautiful-towers-ii",
+    "difficulty": "Medium",
+    "acRate": 35.235936970518466,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Removals to Make Mountain Array",
+        "titleSlug": "minimum-number-of-removals-to-make-mountain-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Number of Books You Can Take",
+        "titleSlug": "maximum-number-of-books-you-can-take",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Salesforce",
+        "frequency": 70.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2940",
+    "title": "Find Building Where Alice and Bob Can Meet",
+    "titleSlug": "find-building-where-alice-and-bob-can-meet",
+    "difficulty": "Hard",
+    "acRate": 52.18980231964403,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Visible People in a Queue",
+        "titleSlug": "number-of-visible-people-in-a-queue",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Furthest Building You Can Reach",
+        "titleSlug": "furthest-building-you-can-reach",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 94.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3113",
+    "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+    "titleSlug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+    "difficulty": "Hard",
+    "acRate": 31.478219471554393,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Subarrays with Bounded Maximum",
+        "titleSlug": "number-of-subarrays-with-bounded-maximum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Subarrays With Fixed Bounds",
+        "titleSlug": "count-subarrays-with-fixed-bounds",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Subarrays Where Max Element Appears at Least K Times",
+        "titleSlug": "count-subarrays-where-max-element-appears-at-least-k-times",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3205",
+    "title": "Maximum Array Hopping Score I",
+    "titleSlug": "maximum-array-hopping-score-i",
+    "difficulty": "Medium",
+    "acRate": 77.76580459770115,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zluri",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3221",
+    "title": "Maximum Array Hopping Score II",
+    "titleSlug": "maximum-array-hopping-score-ii",
+    "difficulty": "Medium",
+    "acRate": 58.16636308439587,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zluri",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3229",
+    "title": "Minimum Operations to Make Array Equal to Target",
+    "titleSlug": "minimum-operations-to-make-array-equal-to-target",
+    "difficulty": "Hard",
+    "acRate": 38.963451543551315,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3359",
+    "title": "Find Sorted Submatrices With Maximum Element at Most K",
+    "titleSlug": "find-sorted-submatrices-with-maximum-element-at-most-k",
+    "difficulty": "Hard",
+    "acRate": 49.684542586750794,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximal Rectangle",
+        "titleSlug": "maximal-rectangle",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3430",
+    "title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+    "titleSlug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+    "difficulty": "Hard",
+    "acRate": 22.618094475580463,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element II",
+        "titleSlug": "next-greater-element-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3523",
+    "title": "Make Array Non-decreasing",
+    "titleSlug": "make-array-non-decreasing",
+    "difficulty": "Medium",
+    "acRate": 55.478176527643065,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3542",
+    "title": "Minimum Operations to Convert All Elements to Zero",
+    "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+    "difficulty": "Medium",
+    "acRate": 24.63054187192118,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3555",
+    "title": "Smallest Subarray to Sort in Every Sliding Window",
+    "titleSlug": "smallest-subarray-to-sort-in-every-sliding-window",
+    "difficulty": "Medium",
+    "acRate": 62.35955056179775,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Unsorted Continuous Subarray",
+        "titleSlug": "shortest-unsorted-continuous-subarray",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3638",
+    "title": "Maximum Balanced Shipments",
+    "titleSlug": "maximum-balanced-shipments",
+    "difficulty": "Medium",
+    "acRate": 54.746238017558966,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

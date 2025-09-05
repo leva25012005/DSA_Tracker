@@ -1,0 +1,6650 @@
+[
+  {
+    "questionFrontendId": "11",
+    "title": "Container With Most Water",
+    "titleSlug": "container-with-most-water",
+    "difficulty": "Medium",
+    "acRate": 58.19458784192925,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Trapping Rain Water",
+        "titleSlug": "trapping-rain-water",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Tastiness of Candy Basket",
+        "titleSlug": "maximum-tastiness-of-candy-basket",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "House Robber IV",
+        "titleSlug": "house-robber-iv",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 60.7
+      },
+      {
+        "name": "Accolite",
+        "frequency": 53.4
+      },
+      {
+        "name": "Adobe",
+        "frequency": 64.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 75.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 60.4
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 72.1
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "Coveo",
+        "frequency": 85.4
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 76.9
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 78.9
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 58.9
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 60.6
+      },
+      {
+        "name": "HSBC",
+        "frequency": 100.0
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "Lenskart",
+        "frequency": 100.0
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 75.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 51.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 67.7
+      },
+      {
+        "name": "Miro",
+        "frequency": 89.7
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 71.2
+      },
+      {
+        "name": "oyo",
+        "frequency": 87.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Paytm",
+        "frequency": 74.6
+      },
+      {
+        "name": "QBurst",
+        "frequency": 100.0
+      },
+      {
+        "name": "razorpay",
+        "frequency": 63.4
+      },
+      {
+        "name": "RBC",
+        "frequency": 100.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "SAP",
+        "frequency": 91.8
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 74.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 60.4
+      },
+      {
+        "name": "tcs",
+        "frequency": 49.7
+      },
+      {
+        "name": "Tesla",
+        "frequency": 77.5
+      },
+      {
+        "name": "TikTok",
+        "frequency": 57.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 49.5
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      },
+      {
+        "name": "Wix",
+        "frequency": 89.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 73.8
+      },
+      {
+        "name": "Yandex",
+        "frequency": 46.4
+      },
+      {
+        "name": "Zoho",
+        "frequency": 74.4
+      },
+      {
+        "name": "Zoom",
+        "frequency": 66.0
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "134",
+    "title": "Gas Station",
+    "titleSlug": "gas-station",
+    "difficulty": "Medium",
+    "acRate": 46.74968374825882,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximize the Topmost Element After K Moves",
+        "titleSlug": "maximize-the-topmost-element-after-k-moves",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BitGo",
+        "frequency": 88.6
+      },
+      {
+        "name": "BNY Mellon",
+        "frequency": 68.6
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "CureFit",
+        "frequency": 66.4
+      },
+      {
+        "name": "Dream11",
+        "frequency": 72.2
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 64.2
+      },
+      {
+        "name": "Freecharge",
+        "frequency": 100.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Lucid",
+        "frequency": 64.9
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 75.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 59.6
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "135",
+    "title": "Candy",
+    "titleSlug": "candy",
+    "difficulty": "Hard",
+    "acRate": 47.14557954081028,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimize Maximum Value in a Grid",
+        "titleSlug": "minimize-maximum-value-in-a-grid",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Operations to Satisfy Conditions",
+        "titleSlug": "minimum-number-of-operations-to-satisfy-conditions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if Grid Satisfies Conditions",
+        "titleSlug": "check-if-grid-satisfies-conditions",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 55.3
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 92.0
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "Komprise",
+        "frequency": 100.0
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 75.8
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 67.3
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      },
+      {
+        "name": "Teradata",
+        "frequency": 100.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 38.9
+      },
+      {
+        "name": "Urban Company",
+        "frequency": 81.3
+      },
+      {
+        "name": "Yandex",
+        "frequency": 43.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "179",
+    "title": "Largest Number",
+    "titleSlug": "largest-number",
+    "difficulty": "Medium",
+    "acRate": 41.64576766637661,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Value of the Rearranged Number",
+        "titleSlug": "smallest-value-of-the-rearranged-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Key of the Numbers",
+        "titleSlug": "find-the-key-of-the-numbers",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 75.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Graviton",
+        "frequency": 100.0
+      },
+      {
+        "name": "Huawei",
+        "frequency": 61.3
+      },
+      {
+        "name": "josh technology",
+        "frequency": 95.0
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "Nykaa",
+        "frequency": 100.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 44.5
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 62.3
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Works Applications",
+        "frequency": 100.0
+      },
+      {
+        "name": "Zalando",
+        "frequency": 62.2
+      },
+      {
+        "name": "Zoho",
+        "frequency": 78.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "280",
+    "title": "Wiggle Sort",
+    "titleSlug": "wiggle-sort",
+    "difficulty": "Medium",
+    "acRate": 68.28597495084058,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Colors",
+        "titleSlug": "sort-colors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Wiggle Sort II",
+        "titleSlug": "wiggle-sort-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array With Elements Not Equal to Average of Neighbors",
+        "titleSlug": "array-with-elements-not-equal-to-average-of-neighbors",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 27.5
+      },
+      {
+        "name": "Myntra",
+        "frequency": 59.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "330",
+    "title": "Patching Array",
+    "titleSlug": "patching-array",
+    "difficulty": "Hard",
+    "acRate": 53.65605560296318,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Number of Consecutive Values You Can Make",
+        "titleSlug": "maximum-number-of-consecutive-values-you-can-make",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "334",
+    "title": "Increasing Triplet Subsequence",
+    "titleSlug": "increasing-triplet-subsequence",
+    "difficulty": "Medium",
+    "acRate": 39.15408036208442,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Special Quadruplets",
+        "titleSlug": "count-special-quadruplets",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Good Triplets in an Array",
+        "titleSlug": "count-good-triplets-in-an-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Increasing Quadruplets",
+        "titleSlug": "count-increasing-quadruplets",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "FactSet",
+        "frequency": 63.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 73.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "409",
+    "title": "Longest Palindrome",
+    "titleSlug": "longest-palindrome",
+    "difficulty": "Easy",
+    "acRate": 55.63612213015443,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Palindrome Permutation",
+        "titleSlug": "palindrome-permutation",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Palindrome by Concatenating Two Letter Words",
+        "titleSlug": "longest-palindrome-by-concatenating-two-letter-words",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Largest Palindromic Number",
+        "titleSlug": "largest-palindromic-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akamai",
+        "frequency": 62.9
+      },
+      {
+        "name": "HP",
+        "frequency": 84.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "452",
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+    "difficulty": "Medium",
+    "acRate": 60.68728034978,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Non-overlapping Intervals",
+        "titleSlug": "non-overlapping-intervals",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Instacart",
+        "frequency": 60.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "455",
+    "title": "Assign Cookies",
+    "titleSlug": "assign-cookies",
+    "difficulty": "Easy",
+    "acRate": 54.271548490096635,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 55.3
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "484",
+    "title": "Find Permutation",
+    "titleSlug": "find-permutation",
+    "difficulty": "Medium",
+    "acRate": 66.9327631266334,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Using a Robot to Print the Lexicographically Smallest String",
+        "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "517",
+    "title": "Super Washing Machines",
+    "titleSlug": "super-washing-machines",
+    "difficulty": "Hard",
+    "acRate": 42.87657665182993,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "555",
+    "title": "Split Concatenated Strings",
+    "titleSlug": "split-concatenated-strings",
+    "difficulty": "Medium",
+    "acRate": 43.422702573595274,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Alibaba",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "561",
+    "title": "Array Partition",
+    "titleSlug": "array-partition",
+    "difficulty": "Easy",
+    "acRate": 80.78859692559422,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Difference Between Highest and Lowest of K Scores",
+        "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "All Divisions With the Highest Score of a Binary Array",
+        "titleSlug": "all-divisions-with-the-highest-score-of-a-binary-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "605",
+    "title": "Can Place Flowers",
+    "titleSlug": "can-place-flowers",
+    "difficulty": "Easy",
+    "acRate": 28.94278530806994,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Teemo Attacking",
+        "titleSlug": "teemo-attacking",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Asteroid Collision",
+        "titleSlug": "asteroid-collision",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 36.3
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 46.2
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 72.4
+      },
+      {
+        "name": "Nike",
+        "frequency": 92.4
+      },
+      {
+        "name": "SOTI",
+        "frequency": 89.0
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "624",
+    "title": "Maximum Distance in Arrays",
+    "titleSlug": "maximum-distance-in-arrays",
+    "difficulty": "Medium",
+    "acRate": 45.614171101009035,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "625",
+    "title": "Minimum Factorization",
+    "titleSlug": "minimum-factorization",
+    "difficulty": "Medium",
+    "acRate": 33.86078636736774,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Tencent",
+        "frequency": 97.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "649",
+    "title": "Dota2 Senate",
+    "titleSlug": "dota2-senate",
+    "difficulty": "Medium",
+    "acRate": 49.21131518842786,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Teemo Attacking",
+        "titleSlug": "teemo-attacking",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Valve",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "670",
+    "title": "Maximum Swap",
+    "titleSlug": "maximum-swap",
+    "difficulty": "Medium",
+    "acRate": 51.850499650250114,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Create Maximum Number",
+        "titleSlug": "create-maximum-number",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "KLA",
+        "frequency": 70.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "680",
+    "title": "Valid Palindrome II",
+    "titleSlug": "valid-palindrome-ii",
+    "difficulty": "Easy",
+    "acRate": 43.3349312573105,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Palindrome",
+        "titleSlug": "valid-palindrome",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Valid Palindrome III",
+        "titleSlug": "valid-palindrome-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Valid Palindrome IV",
+        "titleSlug": "valid-palindrome-iv",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Attentive",
+        "frequency": 73.6
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Fortinet",
+        "frequency": 88.6
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yandex",
+        "frequency": 72.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "738",
+    "title": "Monotone Increasing Digits",
+    "titleSlug": "monotone-increasing-digits",
+    "difficulty": "Medium",
+    "acRate": 48.91860278433981,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove K Digits",
+        "titleSlug": "remove-k-digits",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "757",
+    "title": "Set Intersection Size At Least Two",
+    "titleSlug": "set-intersection-size-at-least-two",
+    "difficulty": "Hard",
+    "acRate": 45.518237156874,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DP world",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "763",
+    "title": "Partition Labels",
+    "titleSlug": "partition-labels",
+    "difficulty": "Medium",
+    "acRate": 81.62421541482355,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Optimal Partition of String",
+        "titleSlug": "optimal-partition-of-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "InMobi",
+        "frequency": 65.2
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 60.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "781",
+    "title": "Rabbits in Forest",
+    "titleSlug": "rabbits-in-forest",
+    "difficulty": "Medium",
+    "acRate": 58.12429318748471,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Group the People Given the Group Size They Belong To",
+        "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "CARS24",
+        "frequency": 87.4
+      },
+      {
+        "name": "Cleartrip",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wish",
+        "frequency": 100.0
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "846",
+    "title": "Hand of Straights",
+    "titleSlug": "hand-of-straights",
+    "difficulty": "Medium",
+    "acRate": 57.382238213005884,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "860",
+    "title": "Lemonade Change",
+    "titleSlug": "lemonade-change",
+    "difficulty": "Easy",
+    "acRate": 58.59975871802955,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zalando",
+        "frequency": 70.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "870",
+    "title": "Advantage Shuffle",
+    "titleSlug": "advantage-shuffle",
+    "difficulty": "Medium",
+    "acRate": 53.66605788142736,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Point72",
+        "frequency": 63.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "881",
+    "title": "Boats to Save People",
+    "titleSlug": "boats-to-save-people",
+    "difficulty": "Medium",
+    "acRate": 60.68090116564291,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 37.1
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 80.8
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Sigmoid",
+        "frequency": 100.0
+      },
+      {
+        "name": "UiPath",
+        "frequency": 62.7
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "910",
+    "title": "Smallest Range II",
+    "titleSlug": "smallest-range-ii",
+    "difficulty": "Medium",
+    "acRate": 37.30955968525029,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "921",
+    "title": "Minimum Add to Make Parentheses Valid",
+    "titleSlug": "minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "acRate": 74.54187221824068,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "936",
+    "title": "Stamping The Sequence",
+    "titleSlug": "stamping-the-sequence",
+    "difficulty": "Hard",
+    "acRate": 61.98663892235242,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "942",
+    "title": "DI String Match",
+    "titleSlug": "di-string-match",
+    "difficulty": "Easy",
+    "acRate": 80.35004710562127,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Construct Smallest Number From DI String",
+        "titleSlug": "construct-smallest-number-from-di-string",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "948",
+    "title": "Bag of Tokens",
+    "titleSlug": "bag-of-tokens",
+    "difficulty": "Medium",
+    "acRate": 59.28236763833842,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Flexport",
+        "frequency": 70.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "954",
+    "title": "Array of Doubled Pairs",
+    "titleSlug": "array-of-doubled-pairs",
+    "difficulty": "Medium",
+    "acRate": 39.52282529479935,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Original Array From Doubled Array",
+        "titleSlug": "find-original-array-from-doubled-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "955",
+    "title": "Delete Columns to Make Sorted II",
+    "titleSlug": "delete-columns-to-make-sorted-ii",
+    "difficulty": "Medium",
+    "acRate": 35.78817162736761,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "969",
+    "title": "Pancake Sorting",
+    "titleSlug": "pancake-sorting",
+    "difficulty": "Medium",
+    "acRate": 71.37160768132043,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Block",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "976",
+    "title": "Largest Perimeter Triangle",
+    "titleSlug": "largest-perimeter-triangle",
+    "difficulty": "Easy",
+    "acRate": 57.63620645817442,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Triangle Area",
+        "titleSlug": "largest-triangle-area",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "984",
+    "title": "String Without AAA or BBB",
+    "titleSlug": "string-without-aaa-or-bbb",
+    "difficulty": "Medium",
+    "acRate": 44.64151298456906,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zalando",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "991",
+    "title": "Broken Calculator",
+    "titleSlug": "broken-calculator",
+    "difficulty": "Medium",
+    "acRate": 55.31771406946675,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "2 Keys Keyboard",
+        "titleSlug": "2-keys-keyboard",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make the Integer Zero",
+        "titleSlug": "minimum-operations-to-make-the-integer-zero",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Millennium",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1005",
+    "title": "Maximize Sum Of Array After K Negations",
+    "titleSlug": "maximize-sum-of-array-after-k-negations",
+    "difficulty": "Easy",
+    "acRate": 52.762532650082086,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Subsequence of Length K With the Largest Sum",
+        "titleSlug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Druva",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1007",
+    "title": "Minimum Domino Rotations For Equal Row",
+    "titleSlug": "minimum-domino-rotations-for-equal-row",
+    "difficulty": "Medium",
+    "acRate": 56.4964218171087,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1013",
+    "title": "Partition Array Into Three Parts With Equal Sum",
+    "titleSlug": "partition-array-into-three-parts-with-equal-sum",
+    "difficulty": "Easy",
+    "acRate": 42.15808219683688,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Middle Index in Array",
+        "titleSlug": "find-the-middle-index-in-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Turing",
+        "frequency": 51.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1029",
+    "title": "Two City Scheduling",
+    "titleSlug": "two-city-scheduling",
+    "difficulty": "Medium",
+    "acRate": 67.82736991873992,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rearrange Array to Maximize Prefix Score",
+        "titleSlug": "rearrange-array-to-maximize-prefix-score",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1053",
+    "title": "Previous Permutation With One Swap",
+    "titleSlug": "previous-permutation-with-one-swap",
+    "difficulty": "Medium",
+    "acRate": 49.36929193080477,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1058",
+    "title": "Minimize Rounding Error to Meet Target",
+    "titleSlug": "minimize-rounding-error-to-meet-target",
+    "difficulty": "Medium",
+    "acRate": 45.59637644690488,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1144",
+    "title": "Decrease Elements To Make Array Zigzag",
+    "titleSlug": "decrease-elements-to-make-array-zigzag",
+    "difficulty": "Medium",
+    "acRate": 48.60815441072116,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1196",
+    "title": "How Many Apples Can You Put into the Basket",
+    "titleSlug": "how-many-apples-can-you-put-into-the-basket",
+    "difficulty": "Easy",
+    "acRate": 66.94524743123729,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Virtu Financial",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1217",
+    "title": "Minimum Cost to Move Chips to The Same Position",
+    "titleSlug": "minimum-cost-to-move-chips-to-the-same-position",
+    "difficulty": "Easy",
+    "acRate": 72.45724572457246,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Operations to Move All Balls to Each Box",
+        "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split With Minimum Sum",
+        "titleSlug": "split-with-minimum-sum",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 89.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1247",
+    "title": "Minimum Swaps to Make Strings Equal",
+    "titleSlug": "minimum-swaps-to-make-strings-equal",
+    "difficulty": "Medium",
+    "acRate": 64.89601772901099,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Determine if Two Strings Are Close",
+        "titleSlug": "determine-if-two-strings-are-close",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Make Number of Distinct Characters Equal",
+        "titleSlug": "make-number-of-distinct-characters-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 74.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1282",
+    "title": "Group the People Given the Group Size They Belong To",
+    "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+    "difficulty": "Medium",
+    "acRate": 87.46364807656911,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rabbits in Forest",
+        "titleSlug": "rabbits-in-forest",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Groups With Increasing Length",
+        "titleSlug": "maximum-number-of-groups-with-increasing-length",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Roblox",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1296",
+    "title": "Divide Array in Sets of K Consecutive Numbers",
+    "titleSlug": "divide-array-in-sets-of-k-consecutive-numbers",
+    "difficulty": "Medium",
+    "acRate": 58.92321324284592,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Array into Consecutive Subsequences",
+        "titleSlug": "split-array-into-consecutive-subsequences",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "All Divisions With the Highest Score of a Binary Array",
+        "titleSlug": "all-divisions-with-the-highest-score-of-a-binary-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Waymo",
+        "frequency": 62.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1323",
+    "title": "Maximum 69 Number",
+    "titleSlug": "maximum-69-number",
+    "difficulty": "Easy",
+    "acRate": 84.43372673839093,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Hudson River Trading",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1328",
+    "title": "Break a Palindrome",
+    "titleSlug": "break-a-palindrome",
+    "difficulty": "Medium",
+    "acRate": 51.52898584665232,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 86.2
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 51.2
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      },
+      {
+        "name": "VMware",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1330",
+    "title": "Reverse Subarray To Maximize Array Value",
+    "titleSlug": "reverse-subarray-to-maximize-array-value",
+    "difficulty": "Hard",
+    "acRate": 42.80140460397971,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1403",
+    "title": "Minimum Subsequence in Non-Increasing Order",
+    "titleSlug": "minimum-subsequence-in-non-increasing-order",
+    "difficulty": "Easy",
+    "acRate": 73.18781100908018,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Hills and Valleys in an Array",
+        "titleSlug": "count-hills-and-valleys-in-an-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Mercari",
+        "frequency": 94.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1414",
+    "title": "Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "titleSlug": "find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k",
+    "difficulty": "Medium",
+    "acRate": 64.63992707383774,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1432",
+    "title": "Max Difference You Can Get From Changing an Integer",
+    "titleSlug": "max-difference-you-can-get-from-changing-an-integer",
+    "difficulty": "Medium",
+    "acRate": 48.8488519837506,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Mercari",
+        "frequency": 94.5
+      },
+      {
+        "name": "Trexquant",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1433",
+    "title": "Check If a String Can Break Another String",
+    "titleSlug": "check-if-a-string-can-break-another-string",
+    "difficulty": "Medium",
+    "acRate": 70.46928172308037,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1465",
+    "title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "titleSlug": "maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "difficulty": "Medium",
+    "acRate": 41.26805526481055,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "BNY Mellon",
+        "frequency": 97.7
+      },
+      {
+        "name": "IXL",
+        "frequency": 60.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1509",
+    "title": "Minimum Difference Between Largest and Smallest Value in Three Moves",
+    "titleSlug": "minimum-difference-between-largest-and-smallest-value-in-three-moves",
+    "difficulty": "Medium",
+    "acRate": 59.18483689312482,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimize the Maximum Difference of Pairs",
+        "titleSlug": "minimize-the-maximum-difference-of-pairs",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1520",
+    "title": "Maximum Number of Non-Overlapping Substrings",
+    "titleSlug": "maximum-number-of-non-overlapping-substrings",
+    "difficulty": "Hard",
+    "acRate": 40.550274223034734,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+        "titleSlug": "maximum-number-of-non-overlapping-palindrome-substrings",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1529",
+    "title": "Minimum Suffix Flips",
+    "titleSlug": "minimum-suffix-flips",
+    "difficulty": "Medium",
+    "acRate": 73.62580279561767,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+        "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 63.5
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 90.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1541",
+    "title": "Minimum Insertions to Balance a Parentheses String",
+    "titleSlug": "minimum-insertions-to-balance-a-parentheses-string",
+    "difficulty": "Medium",
+    "acRate": 53.30877570163847,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1546",
+    "title": "Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+    "titleSlug": "maximum-number-of-non-overlapping-subarrays-with-sum-equals-target",
+    "difficulty": "Medium",
+    "acRate": 48.26667443180991,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1564",
+    "title": "Put Boxes Into the Warehouse I",
+    "titleSlug": "put-boxes-into-the-warehouse-i",
+    "difficulty": "Medium",
+    "acRate": 67.23419041000695,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Put Boxes Into the Warehouse II",
+        "titleSlug": "put-boxes-into-the-warehouse-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1580",
+    "title": "Put Boxes Into the Warehouse II",
+    "titleSlug": "put-boxes-into-the-warehouse-ii",
+    "difficulty": "Medium",
+    "acRate": 65.66923615977575,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Put Boxes Into the Warehouse I",
+        "titleSlug": "put-boxes-into-the-warehouse-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1585",
+    "title": "Check If String Is Transformable With Substring Sort Operations",
+    "titleSlug": "check-if-string-is-transformable-with-substring-sort-operations",
+    "difficulty": "Hard",
+    "acRate": 49.564340089883515,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1589",
+    "title": "Maximum Sum Obtained of Any Permutation",
+    "titleSlug": "maximum-sum-obtained-of-any-permutation",
+    "difficulty": "Medium",
+    "acRate": 39.58362269858172,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 73.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1647",
+    "title": "Minimum Deletions to Make Character Frequencies Unique",
+    "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+    "difficulty": "Medium",
+    "acRate": 61.36811333672145,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Deletions to Make Array Beautiful",
+        "titleSlug": "minimum-deletions-to-make-array-beautiful",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Removing Minimum and Maximum From Array",
+        "titleSlug": "removing-minimum-and-maximum-from-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Letter To Equalize Frequency",
+        "titleSlug": "remove-letter-to-equalize-frequency",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Deletions to Make String K-Special",
+        "titleSlug": "minimum-deletions-to-make-string-k-special",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 100.0
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 80.8
+      },
+      {
+        "name": "smartnews",
+        "frequency": 78.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1663",
+    "title": "Smallest String With A Given Numeric Value",
+    "titleSlug": "smallest-string-with-a-given-numeric-value",
+    "difficulty": "Medium",
+    "acRate": 67.20108911152819,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Lendingkart Technologies",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1665",
+    "title": "Minimum Initial Energy to Finish Tasks",
+    "titleSlug": "minimum-initial-energy-to-finish-tasks",
+    "difficulty": "Hard",
+    "acRate": 59.76420028838814,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1689",
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "difficulty": "Medium",
+    "acRate": 88.66382220689853,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1702",
+    "title": "Maximum Binary String After Change",
+    "titleSlug": "maximum-binary-string-after-change",
+    "difficulty": "Medium",
+    "acRate": 47.629803293687104,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Binary Subsequence Less Than or Equal to K",
+        "titleSlug": "longest-binary-subsequence-less-than-or-equal-to-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Huawei",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1703",
+    "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+    "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+    "difficulty": "Hard",
+    "acRate": 42.01572781255015,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Swaps to Group All 1's Together",
+        "titleSlug": "minimum-swaps-to-group-all-1s-together",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Adjacent Swaps to Make a Valid Array",
+        "titleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 72.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1708",
+    "title": "Largest Subarray Length K",
+    "titleSlug": "largest-subarray-length-k",
+    "difficulty": "Easy",
+    "acRate": 65.38211593449441,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1710",
+    "title": "Maximum Units on a Truck",
+    "titleSlug": "maximum-units-on-a-truck",
+    "difficulty": "Easy",
+    "acRate": 74.40424307211579,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Bags With Full Capacity of Rocks",
+        "titleSlug": "maximum-bags-with-full-capacity-of-rocks",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 67.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 69.3
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 50.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1717",
+    "title": "Maximum Score From Removing Substrings",
+    "titleSlug": "maximum-score-from-removing-substrings",
+    "difficulty": "Medium",
+    "acRate": 66.53063736116201,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Words Obtained After Adding a Letter",
+        "titleSlug": "count-words-obtained-after-adding-a-letter",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1733",
+    "title": "Minimum Number of People to Teach",
+    "titleSlug": "minimum-number-of-people-to-teach",
+    "difficulty": "Medium",
+    "acRate": 44.05000188828883,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Duolingo",
+        "frequency": 82.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1736",
+    "title": "Latest Time by Replacing Hidden Digits",
+    "titleSlug": "latest-time-by-replacing-hidden-digits",
+    "difficulty": "Easy",
+    "acRate": 43.236973938129864,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Valid Clock Times",
+        "titleSlug": "number-of-valid-clock-times",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Latest Time You Can Obtain After Replacing Characters",
+        "titleSlug": "latest-time-you-can-obtain-after-replacing-characters",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1754",
+    "title": "Largest Merge Of Two Strings",
+    "titleSlug": "largest-merge-of-two-strings",
+    "difficulty": "Medium",
+    "acRate": 52.24038574620722,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Matching of Players With Trainers",
+        "titleSlug": "maximum-matching-of-players-with-trainers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Decremental String Concatenation",
+        "titleSlug": "decremental-string-concatenation",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1785",
+    "title": "Minimum Elements to Add to Form a Given Sum",
+    "titleSlug": "minimum-elements-to-add-to-form-a-given-sum",
+    "difficulty": "Medium",
+    "acRate": 44.49606175448401,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1788",
+    "title": "Maximize the Beauty of the Garden",
+    "titleSlug": "maximize-the-beauty-of-the-garden",
+    "difficulty": "Hard",
+    "acRate": 64.11879259980526,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1794",
+    "title": "Count Pairs of Equal Substrings With Minimum Difference",
+    "titleSlug": "count-pairs-of-equal-substrings-with-minimum-difference",
+    "difficulty": "Medium",
+    "acRate": 64.23877327491785,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1798",
+    "title": "Maximum Number of Consecutive Values You Can Make",
+    "titleSlug": "maximum-number-of-consecutive-values-you-can-make",
+    "difficulty": "Medium",
+    "acRate": 62.64465400590371,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Patching Array",
+        "titleSlug": "patching-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1827",
+    "title": "Minimum Operations to Make the Array Increasing",
+    "titleSlug": "minimum-operations-to-make-the-array-increasing",
+    "difficulty": "Easy",
+    "acRate": 81.36425611903154,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Increment to Make Array Unique",
+        "titleSlug": "minimum-increment-to-make-array-unique",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Make Array Non-decreasing or Non-increasing",
+        "titleSlug": "make-array-non-decreasing-or-non-increasing",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Product After K Increments",
+        "titleSlug": "maximum-product-after-k-increments",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Replacements to Sort the Array",
+        "titleSlug": "minimum-replacements-to-sort-the-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Operations to Make Columns Strictly Increasing",
+        "titleSlug": "minimum-operations-to-make-columns-strictly-increasing",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deutsche Bank",
+        "frequency": 89.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1833",
+    "title": "Maximum Ice Cream Bars",
+    "titleSlug": "maximum-ice-cream-bars",
+    "difficulty": "Medium",
+    "acRate": 74.0374654874269,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1846",
+    "title": "Maximum Element After Decreasing and Rearranging",
+    "titleSlug": "maximum-element-after-decreasing-and-rearranging",
+    "difficulty": "Medium",
+    "acRate": 65.73068469094916,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1850",
+    "title": "Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+    "titleSlug": "minimum-adjacent-swaps-to-reach-the-kth-smallest-number",
+    "difficulty": "Medium",
+    "acRate": 71.56197179195877,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1864",
+    "title": "Minimum Number of Swaps to Make the Binary String Alternating",
+    "titleSlug": "minimum-number-of-swaps-to-make-the-binary-string-alternating",
+    "difficulty": "Medium",
+    "acRate": 43.60815857512209,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Societe Generale",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1874",
+    "title": "Minimize Product Sum of Two Arrays",
+    "titleSlug": "minimize-product-sum-of-two-arrays",
+    "difficulty": "Medium",
+    "acRate": 89.05833640798589,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Choose Numbers From Two Arrays in Range",
+        "titleSlug": "choose-numbers-from-two-arrays-in-range",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1877",
+    "title": "Minimize Maximum Pair Sum in Array",
+    "titleSlug": "minimize-maximum-pair-sum-in-array",
+    "difficulty": "Medium",
+    "acRate": 81.51645632666833,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 95.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1881",
+    "title": "Maximum Value after Insertion",
+    "titleSlug": "maximum-value-after-insertion",
+    "difficulty": "Medium",
+    "acRate": 38.68779930476214,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1899",
+    "title": "Merge Triplets to Form Target Triplet",
+    "titleSlug": "merge-triplets-to-form-target-triplet",
+    "difficulty": "Medium",
+    "acRate": 68.1135718654014,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1903",
+    "title": "Largest Odd Number in String",
+    "titleSlug": "largest-odd-number-in-string",
+    "difficulty": "Easy",
+    "acRate": 66.00250954672207,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest 3-Same-Digit Number in String",
+        "titleSlug": "largest-3-same-digit-number-in-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1921",
+    "title": "Eliminate Maximum Number of Monsters",
+    "titleSlug": "eliminate-maximum-number-of-monsters",
+    "difficulty": "Medium",
+    "acRate": 50.84508429432143,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Health to Beat Game",
+        "titleSlug": "minimum-health-to-beat-game",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Time to Kill All Monsters",
+        "titleSlug": "minimum-time-to-kill-all-monsters",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1936",
+    "title": "Add Minimum Number of Rungs",
+    "titleSlug": "add-minimum-number-of-rungs",
+    "difficulty": "Medium",
+    "acRate": 43.46001974333662,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cutting Ribbons",
+        "titleSlug": "cutting-ribbons",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1946",
+    "title": "Largest Number After Mutating Substring",
+    "titleSlug": "largest-number-after-mutating-substring",
+    "difficulty": "Medium",
+    "acRate": 37.15391216633294,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1953",
+    "title": "Maximum Number of Weeks for Which You Can Work",
+    "titleSlug": "maximum-number-of-weeks-for-which-you-can-work",
+    "difficulty": "Medium",
+    "acRate": 41.66910388394946,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Task Scheduler",
+        "titleSlug": "task-scheduler",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "SAP",
+        "frequency": 62.7
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 70.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1963",
+    "title": "Minimum Number of Swaps to Make the String Balanced",
+    "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+    "difficulty": "Medium",
+    "acRate": 78.04366261861745,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Invalid Parentheses",
+        "titleSlug": "remove-invalid-parentheses",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Add to Make Parentheses Valid",
+        "titleSlug": "minimum-add-to-make-parentheses-valid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "titleSlug": "minimum-remove-to-make-valid-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Insertions to Balance a Parentheses String",
+        "titleSlug": "minimum-insertions-to-balance-a-parentheses-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 71.3
+      },
+      {
+        "name": "Microstrategy",
+        "frequency": 65.6
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Twilio",
+        "frequency": 56.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1968",
+    "title": "Array With Elements Not Equal to Average of Neighbors",
+    "titleSlug": "array-with-elements-not-equal-to-average-of-neighbors",
+    "difficulty": "Medium",
+    "acRate": 50.25496058711606,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Wiggle Sort",
+        "titleSlug": "wiggle-sort",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Wiggle Sort II",
+        "titleSlug": "wiggle-sort-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Neighbor Sum Service",
+        "titleSlug": "design-neighbor-sum-service",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1969",
+    "title": "Minimum Non-Zero Product of the Array Elements",
+    "titleSlug": "minimum-non-zero-product-of-the-array-elements",
+    "difficulty": "Medium",
+    "acRate": 36.5782754872469,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 73.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1974",
+    "title": "Minimum Time to Type Word Using Special Typewriter",
+    "titleSlug": "minimum-time-to-type-word-using-special-typewriter",
+    "difficulty": "Easy",
+    "acRate": 77.9899908078848,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Distance to Type a Word Using Two Fingers",
+        "titleSlug": "minimum-distance-to-type-a-word-using-two-fingers",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 20.8
+      },
+      {
+        "name": "Thomson Reuters",
+        "frequency": 98.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1989",
+    "title": "Maximum Number of People That Can Be Caught in Tag",
+    "titleSlug": "maximum-number-of-people-that-can-be-caught-in-tag",
+    "difficulty": "Medium",
+    "acRate": 49.26032660902978,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "titleSlug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2007",
+    "title": "Find Original Array From Doubled Array",
+    "titleSlug": "find-original-array-from-doubled-array",
+    "difficulty": "Medium",
+    "acRate": 40.57060794638583,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Array of Doubled Pairs",
+        "titleSlug": "array-of-doubled-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Recover the Original Array",
+        "titleSlug": "recover-the-original-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Verily",
+        "frequency": 92.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2027",
+    "title": "Minimum Moves to Convert String",
+    "titleSlug": "minimum-moves-to-convert-string",
+    "difficulty": "Easy",
+    "acRate": 56.85895608282912,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Convert String I",
+        "titleSlug": "minimum-cost-to-convert-string-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost to Convert String II",
+        "titleSlug": "minimum-cost-to-convert-string-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2037",
+    "title": "Minimum Number of Moves to Seat Everyone",
+    "titleSlug": "minimum-number-of-moves-to-seat-everyone",
+    "difficulty": "Easy",
+    "acRate": 87.29166192955728,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2078",
+    "title": "Two Furthest Houses With Different Colors",
+    "titleSlug": "two-furthest-houses-with-different-colors",
+    "difficulty": "Easy",
+    "acRate": 65.58183298938096,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Replace Elements with Greatest Element on Right Side",
+        "titleSlug": "replace-elements-with-greatest-element-on-right-side",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Distance Between a Pair of Values",
+        "titleSlug": "maximum-distance-between-a-pair-of-values",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Difference Between Increasing Elements",
+        "titleSlug": "maximum-difference-between-increasing-elements",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2087",
+    "title": "Minimum Cost Homecoming of a Robot in a Grid",
+    "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 51.427256948075026,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Bomb Enemy",
+        "titleSlug": "bomb-enemy",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Square Submatrices with All Ones",
+        "titleSlug": "count-square-submatrices-with-all-ones",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if There is a Path With Equal Number of 0's And 1's",
+        "titleSlug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 47.2
+      },
+      {
+        "name": "HP",
+        "frequency": 91.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2091",
+    "title": "Removing Minimum and Maximum From Array",
+    "titleSlug": "removing-minimum-and-maximum-from-array",
+    "difficulty": "Medium",
+    "acRate": 55.595627640283254,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Points You Can Obtain from Cards",
+        "titleSlug": "maximum-points-you-can-obtain-from-cards",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2098",
+    "title": "Subsequence of Size K With the Largest Even Sum",
+    "titleSlug": "subsequence-of-size-k-with-the-largest-even-sum",
+    "difficulty": "Medium",
+    "acRate": 35.848287112561174,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Array Largest Sum",
+        "titleSlug": "split-array-largest-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Partition Array for Maximum Sum",
+        "titleSlug": "partition-array-for-maximum-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Sub-arrays With Odd Sum",
+        "titleSlug": "number-of-sub-arrays-with-odd-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DRW",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2116",
+    "title": "Check if a Parentheses String Can Be Valid",
+    "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+    "difficulty": "Medium",
+    "acRate": 44.92184822612609,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Generate Parentheses",
+        "titleSlug": "generate-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Valid Parenthesis String",
+        "titleSlug": "valid-parenthesis-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Remove to Make Valid Parentheses",
+        "titleSlug": "minimum-remove-to-make-valid-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": " Check if There Is a Valid Parentheses String Path",
+        "titleSlug": "check-if-there-is-a-valid-parentheses-string-path",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2126",
+    "title": "Destroying Asteroids",
+    "titleSlug": "destroying-asteroids",
+    "difficulty": "Medium",
+    "acRate": 52.84796425540759,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Asteroid Collision",
+        "titleSlug": "asteroid-collision",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2136",
+    "title": "Earliest Possible Day of Full Bloom",
+    "titleSlug": "earliest-possible-day-of-full-bloom",
+    "difficulty": "Hard",
+    "acRate": 71.19105800371803,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Days to Make m Bouquets",
+        "titleSlug": "minimum-number-of-days-to-make-m-bouquets",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2139",
+    "title": "Minimum Moves to Reach Target Score",
+    "titleSlug": "minimum-moves-to-reach-target-score",
+    "difficulty": "Medium",
+    "acRate": 51.672229543202874,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Steps to Reduce a Number to Zero",
+        "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+        "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Wayfair",
+        "frequency": 94.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2144",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+    "difficulty": "Easy",
+    "acRate": 62.29754505209498,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Array Partition",
+        "titleSlug": "array-partition",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Absolute Difference",
+        "titleSlug": "minimum-absolute-difference",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Number of Operations to Satisfy Conditions",
+        "titleSlug": "minimum-number-of-operations-to-satisfy-conditions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if Grid Satisfies Conditions",
+        "titleSlug": "check-if-grid-satisfies-conditions",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Garmin",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nokia",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2160",
+    "title": "Minimum Sum of Four Digit Number After Splitting Digits",
+    "titleSlug": "minimum-sum-of-four-digit-number-after-splitting-digits",
+    "difficulty": "Easy",
+    "acRate": 86.16677970551557,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Add Digits",
+        "titleSlug": "add-digits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Difference Between Element Sum and Digit Sum of an Array",
+        "titleSlug": "difference-between-element-sum-and-digit-sum-of-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Alternating Digit Sum",
+        "titleSlug": "alternating-digit-sum",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2195",
+    "title": "Append K Integers With Minimal Sum",
+    "titleSlug": "append-k-integers-with-minimal-sum",
+    "difficulty": "Medium",
+    "acRate": 26.286980144025257,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove K Digits",
+        "titleSlug": "remove-k-digits",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Numbers Disappeared in an Array",
+        "titleSlug": "find-all-numbers-disappeared-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Kth Missing Positive Number",
+        "titleSlug": "kth-missing-positive-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Number of Integers to Choose From a Range I",
+        "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Integers to Choose From a Range II",
+        "titleSlug": "maximum-number-of-integers-to-choose-from-a-range-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2202",
+    "title": "Maximize the Topmost Element After K Moves",
+    "titleSlug": "maximize-the-topmost-element-after-k-moves",
+    "difficulty": "Medium",
+    "acRate": 23.607887460391144,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Gas Station",
+        "titleSlug": "gas-station",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 95.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2207",
+    "title": "Maximize Number of Subsequences in a String",
+    "titleSlug": "maximize-number-of-subsequences-in-a-string",
+    "difficulty": "Medium",
+    "acRate": 35.40288379983036,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Common Subsequence",
+        "titleSlug": "longest-common-subsequence",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2214",
+    "title": "Minimum Health to Beat Game",
+    "titleSlug": "minimum-health-to-beat-game",
+    "difficulty": "Medium",
+    "acRate": 58.76237333801909,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Eliminate Maximum Number of Monsters",
+        "titleSlug": "eliminate-maximum-number-of-monsters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2216",
+    "title": "Minimum Deletions to Make Array Beautiful",
+    "titleSlug": "minimum-deletions-to-make-array-beautiful",
+    "difficulty": "Medium",
+    "acRate": 49.19304456476468,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make the Array Alternating",
+        "titleSlug": "minimum-operations-to-make-the-array-alternating",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2224",
+    "title": "Minimum Number of Operations to Convert Time",
+    "titleSlug": "minimum-number-of-operations-to-convert-time",
+    "difficulty": "Easy",
+    "acRate": 65.83773662340327,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design an ATM Machine",
+        "titleSlug": "design-an-atm-machine",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Days Spent Together",
+        "titleSlug": "count-days-spent-together",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2279",
+    "title": "Maximum Bags With Full Capacity of Rocks",
+    "titleSlug": "maximum-bags-with-full-capacity-of-rocks",
+    "difficulty": "Medium",
+    "acRate": 67.76336682714904,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Capacity To Ship Packages Within D Days",
+        "titleSlug": "capacity-to-ship-packages-within-d-days",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Units on a Truck",
+        "titleSlug": "maximum-units-on-a-truck",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2294",
+    "title": "Partition Array Such That Maximum Difference Is K",
+    "titleSlug": "partition-array-such-that-maximum-difference-is-k",
+    "difficulty": "Medium",
+    "acRate": 81.83291185244636,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "titleSlug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Beauty of an Array After Applying Operation",
+        "titleSlug": "maximum-beauty-of-an-array-after-applying-operation",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2323",
+    "title": "Find Minimum Time to Finish All Jobs II",
+    "titleSlug": "find-minimum-time-to-finish-all-jobs-ii",
+    "difficulty": "Medium",
+    "acRate": 65.73245661312924,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Task Scheduler",
+        "titleSlug": "task-scheduler",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Minimum Time to Finish All Jobs",
+        "titleSlug": "find-minimum-time-to-finish-all-jobs",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Work Sessions to Finish the Tasks",
+        "titleSlug": "minimum-number-of-work-sessions-to-finish-the-tasks",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2340",
+    "title": "Minimum Adjacent Swaps to Make a Valid Array",
+    "titleSlug": "minimum-adjacent-swaps-to-make-a-valid-array",
+    "difficulty": "Medium",
+    "acRate": 72.23033515423585,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2350",
+    "title": "Shortest Impossible Sequence of Rolls",
+    "titleSlug": "shortest-impossible-sequence-of-rolls",
+    "difficulty": "Hard",
+    "acRate": 68.95230798697568,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2366",
+    "title": "Minimum Replacements to Sort the Array",
+    "titleSlug": "minimum-replacements-to-sort-the-array",
+    "difficulty": "Hard",
+    "acRate": 53.20690216506593,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Make the Array Increasing",
+        "titleSlug": "minimum-operations-to-make-the-array-increasing",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      },
+      {
+        "name": "PayPal",
+        "frequency": 77.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2383",
+    "title": "Minimum Hours of Training to Win a Competition",
+    "titleSlug": "minimum-hours-of-training-to-win-a-competition",
+    "difficulty": "Easy",
+    "acRate": 42.03590143828743,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2405",
+    "title": "Optimal Partition of String",
+    "titleSlug": "optimal-partition-of-string",
+    "difficulty": "Medium",
+    "acRate": 78.3036410711161,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Partition Labels",
+        "titleSlug": "partition-labels",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Partition Array into Disjoint Intervals",
+        "titleSlug": "partition-array-into-disjoint-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2410",
+    "title": "Maximum Matching of Players With Trainers",
+    "titleSlug": "maximum-matching-of-players-with-trainers",
+    "difficulty": "Medium",
+    "acRate": 75.07638961191813,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Profit Assigning Work",
+        "titleSlug": "most-profit-assigning-work",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Long Pressed Name",
+        "titleSlug": "long-pressed-name",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Interval List Intersections",
+        "titleSlug": "interval-list-intersections",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Largest Merge Of Two Strings",
+        "titleSlug": "largest-merge-of-two-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Tasks You Can Assign",
+        "titleSlug": "maximum-number-of-tasks-you-can-assign",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Successful Pairs of Spells and Potions",
+        "titleSlug": "successful-pairs-of-spells-and-potions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "The Latest Time to Catch a Bus",
+        "titleSlug": "the-latest-time-to-catch-a-bus",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize Greatness of an Array",
+        "titleSlug": "maximize-greatness-of-an-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2412",
+    "title": "Minimum Money Required Before Transactions",
+    "titleSlug": "minimum-money-required-before-transactions",
+    "difficulty": "Hard",
+    "acRate": 41.54743669132744,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2422",
+    "title": "Merge Operations to Turn Array Into a Palindrome",
+    "titleSlug": "merge-operations-to-turn-array-into-a-palindrome",
+    "difficulty": "Medium",
+    "acRate": 68.90079424546681,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Accolite",
+        "frequency": 87.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2434",
+    "title": "Using a Robot to Print the Lexicographically Smallest String",
+    "titleSlug": "using-a-robot-to-print-the-lexicographically-smallest-string",
+    "difficulty": "Medium",
+    "acRate": 62.53062158046478,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Permutation",
+        "titleSlug": "find-permutation",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2449",
+    "title": "Minimum Number of Operations to Make Arrays Similar",
+    "titleSlug": "minimum-number-of-operations-to-make-arrays-similar",
+    "difficulty": "Hard",
+    "acRate": 60.955300707770334,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Make Array Equal",
+        "titleSlug": "minimum-operations-to-make-array-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Array Equal II",
+        "titleSlug": "minimum-operations-to-make-array-equal-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Rearranging Fruits",
+        "titleSlug": "rearranging-fruits",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Walmart Labs",
+        "frequency": 75.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2457",
+    "title": "Minimum Addition to Make Integer Beautiful",
+    "titleSlug": "minimum-addition-to-make-integer-beautiful",
+    "difficulty": "Medium",
+    "acRate": 38.24598581791507,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Happy Number",
+        "titleSlug": "happy-number",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2459",
+    "title": "Sort Array by Moving Items to Empty Space",
+    "titleSlug": "sort-array-by-moving-items-to-empty-space",
+    "difficulty": "Hard",
+    "acRate": 45.220338983050844,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Course Schedule II",
+        "titleSlug": "course-schedule-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Strange Printer II",
+        "titleSlug": "strange-printer-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Create Sorted Array through Instructions",
+        "titleSlug": "create-sorted-array-through-instructions",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2486",
+    "title": "Append Characters to String to Make Subsequence",
+    "titleSlug": "append-characters-to-string-to-make-subsequence",
+    "difficulty": "Medium",
+    "acRate": 72.95929040625914,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Is Subsequence",
+        "titleSlug": "is-subsequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Operations to Make a Subsequence",
+        "titleSlug": "minimum-operations-to-make-a-subsequence",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2541",
+    "title": "Minimum Operations to Make Array Equal II",
+    "titleSlug": "minimum-operations-to-make-array-equal-ii",
+    "difficulty": "Medium",
+    "acRate": 32.63164377655971,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Make Array Equal",
+        "titleSlug": "minimum-operations-to-make-array-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Arrays Similar",
+        "titleSlug": "minimum-number-of-operations-to-make-arrays-similar",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Walmart Labs",
+        "frequency": 75.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2548",
+    "title": "Maximum Price to Fill a Bag",
+    "titleSlug": "maximum-price-to-fill-a-bag",
+    "difficulty": "Medium",
+    "acRate": 63.74373657838225,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2561",
+    "title": "Rearranging Fruits",
+    "titleSlug": "rearranging-fruits",
+    "difficulty": "Hard",
+    "acRate": 57.66542548585425,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Latest Time to Catch a Bus",
+        "titleSlug": "the-latest-time-to-catch-a-bus",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Arrays Similar",
+        "titleSlug": "minimum-number-of-operations-to-make-arrays-similar",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2566",
+    "title": "Maximum Difference by Remapping a Digit",
+    "titleSlug": "maximum-difference-by-remapping-a-digit",
+    "difficulty": "Easy",
+    "acRate": 76.280456596003,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2567",
+    "title": "Minimum Score by Changing Two Elements",
+    "titleSlug": "minimum-score-by-changing-two-elements",
+    "difficulty": "Medium",
+    "acRate": 49.24443171238273,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2578",
+    "title": "Split With Minimum Sum",
+    "titleSlug": "split-with-minimum-sum",
+    "difficulty": "Easy",
+    "acRate": 72.48056624476487,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Equal Subset Sum",
+        "titleSlug": "partition-equal-subset-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost to Move Chips to The Same Position",
+        "titleSlug": "minimum-cost-to-move-chips-to-the-same-position",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Sum of Values by Dividing Array",
+        "titleSlug": "minimum-sum-of-values-by-dividing-array",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2587",
+    "title": "Rearrange Array to Maximize Prefix Score",
+    "titleSlug": "rearrange-array-to-maximize-prefix-score",
+    "difficulty": "Medium",
+    "acRate": 41.84352964258099,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two City Scheduling",
+        "titleSlug": "two-city-scheduling",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 50.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2591",
+    "title": "Distribute Money to Maximum Children",
+    "titleSlug": "distribute-money-to-maximum-children",
+    "difficulty": "Easy",
+    "acRate": 19.627692614070106,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Distribute Candies to People",
+        "titleSlug": "distribute-candies-to-people",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Fair Distribution of Cookies",
+        "titleSlug": "fair-distribution-of-cookies",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Calculate Money in Leetcode Bank",
+        "titleSlug": "calculate-money-in-leetcode-bank",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zendesk",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2592",
+    "title": "Maximize Greatness of an Array",
+    "titleSlug": "maximize-greatness-of-an-array",
+    "difficulty": "Medium",
+    "acRate": 59.796535422548146,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "3Sum Smaller",
+        "titleSlug": "3sum-smaller",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Matching of Players With Trainers",
+        "titleSlug": "maximum-matching-of-players-with-trainers",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BlackRock",
+        "frequency": 41.7
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "Twilio",
+        "frequency": 100.0
+      },
+      {
+        "name": "WeRide",
+        "frequency": 85.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2598",
+    "title": "Smallest Missing Non-negative Integer After Operations",
+    "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+    "difficulty": "Medium",
+    "acRate": 40.126838862464126,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      },
+      {
+        "name": "IBM",
+        "frequency": 50.6
+      },
+      {
+        "name": "Mercari",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2600",
+    "title": "K Items With the Maximum Sum",
+    "titleSlug": "k-items-with-the-maximum-sum",
+    "difficulty": "Easy",
+    "acRate": 60.26362495130081,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2656",
+    "title": "Maximum Sum With Exactly K Elements ",
+    "titleSlug": "maximum-sum-with-exactly-k-elements",
+    "difficulty": "Easy",
+    "acRate": 79.99174917491749,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2663",
+    "title": "Lexicographically Smallest Beautiful String",
+    "titleSlug": "lexicographically-smallest-beautiful-string",
+    "difficulty": "Hard",
+    "acRate": 37.369267900241354,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest String With Swaps",
+        "titleSlug": "smallest-string-with-swaps",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Palindrome With Fixed Length",
+        "titleSlug": "find-palindrome-with-fixed-length",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2697",
+    "title": "Lexicographically Smallest Palindrome",
+    "titleSlug": "lexicographically-smallest-palindrome",
+    "difficulty": "Easy",
+    "acRate": 79.83563090667049,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2706",
+    "title": "Buy Two Chocolates",
+    "titleSlug": "buy-two-chocolates",
+    "difficulty": "Easy",
+    "acRate": 68.3147564423358,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2734",
+    "title": "Lexicographically Smallest String After Substring Operation",
+    "titleSlug": "lexicographically-smallest-string-after-substring-operation",
+    "difficulty": "Medium",
+    "acRate": 32.90536846155404,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shifting Letters",
+        "titleSlug": "shifting-letters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "titleSlug": "lexicographically-smallest-string-after-applying-operations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lexicographically Smallest String After Operations With Constraint",
+        "titleSlug": "lexicographically-smallest-string-after-operations-with-constraint",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Replace Question Marks in String to Minimize Its Value",
+        "titleSlug": "replace-question-marks-in-string-to-minimize-its-value",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "IBM",
+        "frequency": 59.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2789",
+    "title": "Largest Element in an Array after Merge Operations",
+    "titleSlug": "largest-element-in-an-array-after-merge-operations",
+    "difficulty": "Medium",
+    "acRate": 47.0460019105795,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Jump Game",
+        "titleSlug": "jump-game",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Get Maximum in Generated Array",
+        "titleSlug": "get-maximum-in-generated-array",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2829",
+    "title": "Determine the Minimum Sum of a k-avoiding Array",
+    "titleSlug": "determine-the-minimum-sum-of-a-k-avoiding-array",
+    "difficulty": "Medium",
+    "acRate": 60.16682257561584,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2834",
+    "title": "Find the Minimum Possible Sum of a Beautiful Array",
+    "titleSlug": "find-the-minimum-possible-sum-of-a-beautiful-array",
+    "difficulty": "Medium",
+    "acRate": 35.692700288765025,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2847",
+    "title": "Smallest Number With Given Digit Product",
+    "titleSlug": "smallest-number-with-given-digit-product",
+    "difficulty": "Medium",
+    "acRate": 43.098688750862664,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Divisible Digit Product I",
+        "titleSlug": "smallest-divisible-digit-product-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Smallest Divisible Digit Product II",
+        "titleSlug": "smallest-divisible-digit-product-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2864",
+    "title": "Maximum Odd Binary Number",
+    "titleSlug": "maximum-odd-binary-number",
+    "difficulty": "Easy",
+    "acRate": 82.78524344044294,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2895",
+    "title": "Minimum Processing Time",
+    "titleSlug": "minimum-processing-time",
+    "difficulty": "Medium",
+    "acRate": 69.54124430547851,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 67.7
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2910",
+    "title": "Minimum Number of Groups to Create a Valid Assignment",
+    "titleSlug": "minimum-number-of-groups-to-create-a-valid-assignment",
+    "difficulty": "Medium",
+    "acRate": 24.08554399906509,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "BNY Mellon",
+        "frequency": 68.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2918",
+    "title": "Minimum Equal Sum of Two Arrays After Replacing Zeros",
+    "titleSlug": "minimum-equal-sum-of-two-arrays-after-replacing-zeros",
+    "difficulty": "Medium",
+    "acRate": 50.19535933943086,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 79.8
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 53.7
+      },
+      {
+        "name": "Twilio",
+        "frequency": 56.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2938",
+    "title": "Separate Black and White Balls",
+    "titleSlug": "separate-black-and-white-balls",
+    "difficulty": "Medium",
+    "acRate": 64.02480743340175,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2952",
+    "title": "Minimum Number of Coins to be Added",
+    "titleSlug": "minimum-number-of-coins-to-be-added",
+    "difficulty": "Medium",
+    "acRate": 57.15430219516103,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Most Expensive Item That Can Not Be Bought",
+        "titleSlug": "most-expensive-item-that-can-not-be-bought",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 83.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2966",
+    "title": "Divide Array Into Arrays With Max Difference",
+    "titleSlug": "divide-array-into-arrays-with-max-difference",
+    "difficulty": "Medium",
+    "acRate": 78.74942621069543,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2971",
+    "title": "Find Polygon With the Largest Perimeter",
+    "titleSlug": "find-polygon-with-the-largest-perimeter",
+    "difficulty": "Medium",
+    "acRate": 65.39105488190174,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "3Sum Smaller",
+        "titleSlug": "3sum-smaller",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Valid Triangle Number",
+        "titleSlug": "valid-triangle-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airtel",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3002",
+    "title": "Maximum Size of a Set After Removals",
+    "titleSlug": "maximum-size-of-a-set-after-removals",
+    "difficulty": "Medium",
+    "acRate": 45.20346382999252,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Intersection of Two Arrays",
+        "titleSlug": "intersection-of-two-arrays",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3014",
+    "title": "Minimum Number of Pushes to Type Word I",
+    "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "acRate": 66.43026004728132,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "titleSlug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3074",
+    "title": "Apple Redistribution into Boxes",
+    "titleSlug": "apple-redistribution-into-boxes",
+    "difficulty": "Easy",
+    "acRate": 68.49654949569552,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3075",
+    "title": "Maximize Happiness of Selected Children",
+    "titleSlug": "maximize-happiness-of-selected-children",
+    "difficulty": "Medium",
+    "acRate": 54.85687328765052,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Candies Allocated to K Children",
+        "titleSlug": "maximum-candies-allocated-to-k-children",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3086",
+    "title": "Minimum Moves to Pick K Ones",
+    "titleSlug": "minimum-moves-to-pick-k-ones",
+    "difficulty": "Hard",
+    "acRate": 20.715835140997832,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Swaps to Group All 1's Together",
+        "titleSlug": "minimum-swaps-to-group-all-1s-together",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3088",
+    "title": "Make String Anti-palindrome",
+    "titleSlug": "make-string-anti-palindrome",
+    "difficulty": "Hard",
+    "acRate": 43.319097010372175,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3106",
+    "title": "Lexicographically Smallest String After Operations With Constraint",
+    "titleSlug": "lexicographically-smallest-string-after-operations-with-constraint",
+    "difficulty": "Medium",
+    "acRate": 62.49359673934831,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lexicographically Smallest String After Substring Operation",
+        "titleSlug": "lexicographically-smallest-string-after-substring-operation",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ServiceNow",
+        "frequency": 93.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3107",
+    "title": "Minimum Operations to Make Median of Array Equal to K",
+    "titleSlug": "minimum-operations-to-make-median-of-array-equal-to-k",
+    "difficulty": "Medium",
+    "acRate": 47.03560535629821,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Median from Data Stream",
+        "titleSlug": "find-median-from-data-stream",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sliding Window Median",
+        "titleSlug": "sliding-window-median",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 75.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3111",
+    "title": "Minimum Rectangles to Cover Points",
+    "titleSlug": "minimum-rectangles-to-cover-points",
+    "difficulty": "Medium",
+    "acRate": 62.72104377795101,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Area Rectangle",
+        "titleSlug": "minimum-area-rectangle",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "titleSlug": "k-closest-points-to-origin",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3119",
+    "title": "Maximum Number of Potholes That Can Be Fixed",
+    "titleSlug": "maximum-number-of-potholes-that-can-be-fixed",
+    "difficulty": "Medium",
+    "acRate": 53.15427857589007,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Geico",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3125",
+    "title": "Maximum Number That Makes Result of Bitwise AND Zero",
+    "titleSlug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+    "difficulty": "Medium",
+    "acRate": 69.52789699570815,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3189",
+    "title": "Minimum Moves to Get a Peaceful Board",
+    "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+    "difficulty": "Medium",
+    "acRate": 75.86831275720165,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Transform to Chessboard",
+        "titleSlug": "transform-to-chessboard",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Most Stones Removed with Same Row or Column",
+        "titleSlug": "most-stones-removed-with-same-row-or-column",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3207",
+    "title": "Maximum Points After Enemy Battles",
+    "titleSlug": "maximum-points-after-enemy-battles",
+    "difficulty": "Medium",
+    "acRate": 32.6062399746967,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3216",
+    "title": "Lexicographically Smallest String After a Swap",
+    "titleSlug": "lexicographically-smallest-string-after-a-swap",
+    "difficulty": "Easy",
+    "acRate": 53.9192177135561,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lexicographically Smallest String After Applying Operations",
+        "titleSlug": "lexicographically-smallest-string-after-applying-operations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3219",
+    "title": "Minimum Cost for Cutting Cake II",
+    "titleSlug": "minimum-cost-for-cutting-cake-ii",
+    "difficulty": "Hard",
+    "acRate": 54.8531441900319,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost for Cutting Cake I",
+        "titleSlug": "minimum-cost-for-cutting-cake-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3273",
+    "title": "Minimum Amount of Damage Dealt to Bob",
+    "titleSlug": "minimum-amount-of-damage-dealt-to-bob",
+    "difficulty": "Hard",
+    "acRate": 38.55583054301937,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Time to Complete Trips",
+        "titleSlug": "minimum-time-to-complete-trips",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Penalty for a Shop",
+        "titleSlug": "minimum-penalty-for-a-shop",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3282",
+    "title": "Reach End of Array With Max Score",
+    "titleSlug": "reach-end-of-array-with-max-score",
+    "difficulty": "Medium",
+    "acRate": 32.69327279244832,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3301",
+    "title": "Maximize the Total Height of Unique Towers",
+    "titleSlug": "maximize-the-total-height-of-unique-towers",
+    "difficulty": "Medium",
+    "acRate": 36.67376210589664,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3397",
+    "title": "Maximum Number of Distinct Elements After Operations",
+    "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+    "difficulty": "Medium",
+    "acRate": 31.42680685686741,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Least Number of Unique Integers after K Removals",
+        "titleSlug": "least-number-of-unique-integers-after-k-removals",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3424",
+    "title": "Minimum Cost to Make Arrays Identical",
+    "titleSlug": "minimum-cost-to-make-arrays-identical",
+    "difficulty": "Medium",
+    "acRate": 37.02768439480085,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3439",
+    "title": "Reschedule Meetings for Maximum Free Time I",
+    "titleSlug": "reschedule-meetings-for-maximum-free-time-i",
+    "difficulty": "Medium",
+    "acRate": 53.8618556701031,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Meeting Scheduler",
+        "titleSlug": "meeting-scheduler",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3457",
+    "title": "Eat Pizzas!",
+    "titleSlug": "eat-pizzas",
+    "difficulty": "Medium",
+    "acRate": 32.46345363179534,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 88.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3487",
+    "title": "Maximum Unique Subarray Sum After Deletion",
+    "titleSlug": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "Easy",
+    "acRate": 40.32349160072939,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Subarray Sum with One Deletion",
+        "titleSlug": "maximum-subarray-sum-with-one-deletion",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3496",
+    "title": "Maximize Score After Pair Deletions",
+    "titleSlug": "maximize-score-after-pair-deletions",
+    "difficulty": "Medium",
+    "acRate": 54.90506329113924,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DRW",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3511",
+    "title": "Make a Positive Array",
+    "titleSlug": "make-a-positive-array",
+    "difficulty": "Medium",
+    "acRate": 36.44251626898048,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "UKG",
+        "frequency": 63.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3576",
+    "title": "Transform Array to All Equal Elements",
+    "titleSlug": "transform-array-to-all-equal-elements",
+    "difficulty": "Medium",
+    "acRate": 32.3301329394387,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3587",
+    "title": "Minimum Adjacent Swaps to Alternate Parity",
+    "titleSlug": "minimum-adjacent-swaps-to-alternate-parity",
+    "difficulty": "Medium",
+    "acRate": 41.71946879611145,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

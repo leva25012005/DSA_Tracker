@@ -1,0 +1,585 @@
+[
+  {
+    "questionFrontendId": "292",
+    "title": "Nim Game",
+    "titleSlug": "nim-game",
+    "difficulty": "Easy",
+    "acRate": 58.37466475172277,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flip Game II",
+        "titleSlug": "flip-game-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "319",
+    "title": "Bulb Switcher",
+    "titleSlug": "bulb-switcher",
+    "difficulty": "Medium",
+    "acRate": 54.42973903328783,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bulb Switcher II",
+        "titleSlug": "bulb-switcher-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Times Binary String Is Prefix-Aligned",
+        "titleSlug": "number-of-times-binary-string-is-prefix-aligned",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Pivot Integer",
+        "titleSlug": "find-the-pivot-integer",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "810",
+    "title": "Chalkboard XOR Game",
+    "titleSlug": "chalkboard-xor-game",
+    "difficulty": "Hard",
+    "acRate": 63.637452585346374,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "HashedIn",
+        "frequency": 60.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1025",
+    "title": "Divisor Game",
+    "titleSlug": "divisor-game",
+    "difficulty": "Easy",
+    "acRate": 70.75506136578203,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1033",
+    "title": "Moving Stones Until Consecutive",
+    "titleSlug": "moving-stones-until-consecutive",
+    "difficulty": "Medium",
+    "acRate": 49.97077341884196,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1503",
+    "title": "Last Moment Before All Ants Fall Out of a Plank",
+    "titleSlug": "last-moment-before-all-ants-fall-out-of-a-plank",
+    "difficulty": "Medium",
+    "acRate": 68.22442602907213,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Collisions on a Road",
+        "titleSlug": "count-collisions-on-a-road",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Movement of Robots",
+        "titleSlug": "movement-of-robots",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1908",
+    "title": "Game of Nim",
+    "titleSlug": "game-of-nim",
+    "difficulty": "Medium",
+    "acRate": 62.59445843828715,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subtree Removal Game with Fibonacci Tree",
+        "titleSlug": "subtree-removal-game-with-fibonacci-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2396",
+    "title": "Strictly Palindromic Number",
+    "titleSlug": "strictly-palindromic-number",
+    "difficulty": "Medium",
+    "acRate": 88.28814410115015,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Stone Game",
+        "titleSlug": "stone-game",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2419",
+    "title": "Longest Subarray With Maximum Bitwise AND",
+    "titleSlug": "longest-subarray-with-maximum-bitwise-and",
+    "difficulty": "Medium",
+    "acRate": 65.40067524217214,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Different Integers in a String",
+        "titleSlug": "number-of-different-integers-in-a-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+        "titleSlug": "remove-colored-pieces-if-both-neighbors-are-the-same-color",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Subarrays With Maximum Bitwise OR",
+        "titleSlug": "smallest-subarrays-with-maximum-bitwise-or",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "fourkites",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2425",
+    "title": "Bitwise XOR of All Pairings",
+    "titleSlug": "bitwise-xor-of-all-pairings",
+    "difficulty": "Medium",
+    "acRate": 66.96330501445831,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Trilogy",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2505",
+    "title": "Bitwise OR of All Subsequence Sums",
+    "titleSlug": "bitwise-or-of-all-subsequence-sums",
+    "difficulty": "Medium",
+    "acRate": 64.44744339481183,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bitwise ORs of Subarrays",
+        "titleSlug": "bitwise-ors-of-subarrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zomato",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2568",
+    "title": "Minimum Impossible OR",
+    "titleSlug": "minimum-impossible-or",
+    "difficulty": "Medium",
+    "acRate": 58.00921028066463,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2731",
+    "title": "Movement of Robots",
+    "titleSlug": "movement-of-robots",
+    "difficulty": "Medium",
+    "acRate": 27.3132791947844,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Last Moment Before All Ants Fall Out of a Plank",
+        "titleSlug": "last-moment-before-all-ants-fall-out-of-a-plank",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2745",
+    "title": "Construct the Longest New String",
+    "titleSlug": "construct-the-longest-new-string",
+    "difficulty": "Medium",
+    "acRate": 54.08789911926044,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Guidewire",
+        "frequency": 100.0
+      },
+      {
+        "name": "Zalando",
+        "frequency": 62.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2749",
+    "title": "Minimum Operations to Make the Integer Zero",
+    "titleSlug": "minimum-operations-to-make-the-integer-zero",
+    "difficulty": "Medium",
+    "acRate": 30.50294275013376,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Broken Calculator",
+        "titleSlug": "broken-calculator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Reduce X to Zero",
+        "titleSlug": "minimum-operations-to-reduce-x-to-zero",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3227",
+    "title": "Vowels Game in a String",
+    "titleSlug": "vowels-game-in-a-string",
+    "difficulty": "Medium",
+    "acRate": 62.600541897777084,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3577",
+    "title": "Count the Number of Computer Unlocking Permutations",
+    "titleSlug": "count-the-number-of-computer-unlocking-permutations",
+    "difficulty": "Medium",
+    "acRate": 38.83920609442279,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Clumsy Factorial",
+        "titleSlug": "clumsy-factorial",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3596",
+    "title": "Minimum Cost Path with Alternating Directions I",
+    "titleSlug": "minimum-cost-path-with-alternating-directions-i",
+    "difficulty": "Medium",
+    "acRate": 69.24939467312349,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

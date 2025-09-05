@@ -1,0 +1,2798 @@
+[
+  {
+    "questionFrontendId": "220",
+    "title": "Contains Duplicate III",
+    "titleSlug": "contains-duplicate-iii",
+    "difficulty": "Hard",
+    "acRate": 23.837884093323368,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Bucket Sort",
+        "slug": "bucket-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Contains Duplicate",
+        "titleSlug": "contains-duplicate",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Contains Duplicate II",
+        "titleSlug": "contains-duplicate-ii",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Netflix",
+        "frequency": 63.5
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 78.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "315",
+    "title": "Count of Smaller Numbers After Self",
+    "titleSlug": "count-of-smaller-numbers-after-self",
+    "difficulty": "Hard",
+    "acRate": 42.97160501987743,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Range Sum",
+        "titleSlug": "count-of-range-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Queue Reconstruction by Height",
+        "titleSlug": "queue-reconstruction-by-height",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reverse Pairs",
+        "titleSlug": "reverse-pairs",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "How Many Numbers Are Smaller Than the Current Number",
+        "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Good Triplets in an Array",
+        "titleSlug": "count-good-triplets-in-an-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count the Number of K-Big Indices",
+        "titleSlug": "count-the-number-of-k-big-indices",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Geico",
+        "frequency": 60.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "327",
+    "title": "Count of Range Sum",
+    "titleSlug": "count-of-range-sum",
+    "difficulty": "Hard",
+    "acRate": 37.324408824695055,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Reverse Pairs",
+        "titleSlug": "reverse-pairs",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count the Number of Fair Pairs",
+        "titleSlug": "count-the-number-of-fair-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Number of Copy Arrays",
+        "titleSlug": "find-the-number-of-copy-arrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "352",
+    "title": "Data Stream as Disjoint Intervals",
+    "titleSlug": "data-stream-as-disjoint-intervals",
+    "difficulty": "Hard",
+    "acRate": 59.60106956061823,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Summary Ranges",
+        "titleSlug": "summary-ranges",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Right Interval",
+        "titleSlug": "find-right-interval",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Range Module",
+        "titleSlug": "range-module",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Integers in Intervals",
+        "titleSlug": "count-integers-in-intervals",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "363",
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "titleSlug": "max-sum-of-rectangle-no-larger-than-k",
+    "difficulty": "Hard",
+    "acRate": 44.83814321793118,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "456",
+    "title": "132 Pattern",
+    "titleSlug": "132-pattern",
+    "difficulty": "Medium",
+    "acRate": 34.20781312836147,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Intuit",
+        "frequency": 56.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "493",
+    "title": "Reverse Pairs",
+    "titleSlug": "reverse-pairs",
+    "difficulty": "Hard",
+    "acRate": 32.69709762881626,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count of Range Sum",
+        "titleSlug": "count-of-range-sum",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "635",
+    "title": "Design Log Storage System",
+    "titleSlug": "design-log-storage-system",
+    "difficulty": "Medium",
+    "acRate": 59.126396039906496,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design In-Memory File System",
+        "titleSlug": "design-in-memory-file-system",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 89.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "683",
+    "title": "K Empty Slots",
+    "titleSlug": "k-empty-slots",
+    "difficulty": "Hard",
+    "acRate": 37.87137784904363,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "699",
+    "title": "Falling Squares",
+    "titleSlug": "falling-squares",
+    "difficulty": "Hard",
+    "acRate": 46.53760449635948,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Skyline Problem",
+        "titleSlug": "the-skyline-problem",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Block",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "715",
+    "title": "Range Module",
+    "titleSlug": "range-module",
+    "difficulty": "Hard",
+    "acRate": 44.3223293427254,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Insert Interval",
+        "titleSlug": "insert-interval",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Data Stream as Disjoint Intervals",
+        "titleSlug": "data-stream-as-disjoint-intervals",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 93.4
+      },
+      {
+        "name": "Machine Zone",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "716",
+    "title": "Max Stack",
+    "titleSlug": "max-stack",
+    "difficulty": "Hard",
+    "acRate": 45.57942468692976,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Min Stack",
+        "titleSlug": "min-stack",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 100.0
+      },
+      {
+        "name": "Lyft",
+        "frequency": 79.8
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 84.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "729",
+    "title": "My Calendar I",
+    "titleSlug": "my-calendar-i",
+    "difficulty": "Medium",
+    "acRate": 58.198785899544745,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "My Calendar II",
+        "titleSlug": "my-calendar-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "My Calendar III",
+        "titleSlug": "my-calendar-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Determine if Two Events Have Conflict",
+        "titleSlug": "determine-if-two-events-have-conflict",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flexport",
+        "frequency": 85.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "731",
+    "title": "My Calendar II",
+    "titleSlug": "my-calendar-ii",
+    "difficulty": "Medium",
+    "acRate": 62.437473001483745,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "My Calendar I",
+        "titleSlug": "my-calendar-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "My Calendar III",
+        "titleSlug": "my-calendar-iii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "732",
+    "title": "My Calendar III",
+    "titleSlug": "my-calendar-iii",
+    "difficulty": "Hard",
+    "acRate": 70.84299708041148,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "My Calendar I",
+        "titleSlug": "my-calendar-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "My Calendar II",
+        "titleSlug": "my-calendar-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Integers in Intervals",
+        "titleSlug": "count-integers-in-intervals",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "855",
+    "title": "Exam Room",
+    "titleSlug": "exam-room",
+    "difficulty": "Medium",
+    "acRate": 43.000498667142764,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximize Distance to Closest Person",
+        "titleSlug": "maximize-distance-to-closest-person",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "895",
+    "title": "Maximum Frequency Stack",
+    "titleSlug": "maximum-frequency-stack",
+    "difficulty": "Hard",
+    "acRate": 66.37857386031514,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 73.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "975",
+    "title": "Odd Even Jump",
+    "titleSlug": "odd-even-jump",
+    "difficulty": "Hard",
+    "acRate": 40.7930492728045,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1348",
+    "title": "Tweet Counts Per Frequency",
+    "titleSlug": "tweet-counts-per-frequency",
+    "difficulty": "Medium",
+    "acRate": 45.46963567731068,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Video Sharing Platform",
+        "titleSlug": "design-video-sharing-platform",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "X",
+        "frequency": 94.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1418",
+    "title": "Display Table of Food Orders in a Restaurant",
+    "titleSlug": "display-table-of-food-orders-in-a-restaurant",
+    "difficulty": "Medium",
+    "acRate": 75.83368001576493,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 70.4
+      },
+      {
+        "name": "Nordstrom",
+        "frequency": 88.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1438",
+    "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "titleSlug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "difficulty": "Medium",
+    "acRate": 56.899420552340885,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Array Such That Maximum Difference Is K",
+        "titleSlug": "partition-array-such-that-maximum-difference-is-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Subarrays With Fixed Bounds",
+        "titleSlug": "count-subarrays-with-fixed-bounds",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 68.9
+      },
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "eBay",
+        "frequency": 70.8
+      },
+      {
+        "name": "Moloco",
+        "frequency": 82.2
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 61.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 59.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1606",
+    "title": "Find Servers That Handled Most Number of Requests",
+    "titleSlug": "find-servers-that-handled-most-number-of-requests",
+    "difficulty": "Hard",
+    "acRate": 44.49590178998052,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Meeting Rooms III",
+        "titleSlug": "meeting-rooms-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 40.8
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Wish",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1649",
+    "title": "Create Sorted Array through Instructions",
+    "titleSlug": "create-sorted-array-through-instructions",
+    "difficulty": "Hard",
+    "acRate": 40.45013560739971,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Good Triplets in an Array",
+        "titleSlug": "count-good-triplets-in-an-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Substring of One Repeating Character",
+        "titleSlug": "longest-substring-of-one-repeating-character",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sort Array by Moving Items to Empty Space",
+        "titleSlug": "sort-array-by-moving-items-to-empty-space",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1675",
+    "title": "Minimize Deviation in Array",
+    "titleSlug": "minimize-deviation-in-array",
+    "difficulty": "Hard",
+    "acRate": 53.93497317807143,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Samsung",
+        "frequency": 85.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1756",
+    "title": "Design Most Recently Used Queue",
+    "titleSlug": "design-most-recently-used-queue",
+    "difficulty": "Medium",
+    "acRate": 77.76967236512418,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1818",
+    "title": "Minimum Absolute Sum Difference",
+    "titleSlug": "minimum-absolute-sum-difference",
+    "difficulty": "Medium",
+    "acRate": 31.602920138012287,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Sum of Squared Difference",
+        "titleSlug": "minimum-sum-of-squared-difference",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimize the Maximum Adjacent Element Difference",
+        "titleSlug": "minimize-the-maximum-adjacent-element-difference",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1847",
+    "title": "Closest Room",
+    "titleSlug": "closest-room",
+    "difficulty": "Hard",
+    "acRate": 40.180135978131354,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Beautiful Item for Each Query",
+        "titleSlug": "most-beautiful-item-for-each-query",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Time to Kill All Monsters",
+        "titleSlug": "minimum-time-to-kill-all-monsters",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1902",
+    "title": "Depth of BST Given Insertion Order",
+    "titleSlug": "depth-of-bst-given-insertion-order",
+    "difficulty": "Medium",
+    "acRate": 42.47221799360633,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1912",
+    "title": "Design Movie Rental System",
+    "titleSlug": "design-movie-rental-system",
+    "difficulty": "Hard",
+    "acRate": 35.926426610954074,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 83.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2021",
+    "title": "Brightest Position on Street",
+    "titleSlug": "brightest-position-on-street",
+    "difficulty": "Medium",
+    "acRate": 60.41855135395935,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Food Buckets to Feed the Hamsters",
+        "titleSlug": "minimum-number-of-food-buckets-to-feed-the-hamsters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Positions on Street With Required Brightness",
+        "titleSlug": "count-positions-on-street-with-required-brightness",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hertz",
+        "frequency": 90.3
+      },
+      {
+        "name": "Robinhood",
+        "frequency": 87.6
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2031",
+    "title": "Count Subarrays With More Ones Than Zeros",
+    "titleSlug": "count-subarrays-with-more-ones-than-zeros",
+    "difficulty": "Medium",
+    "acRate": 51.356369262506455,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Ones and Zeroes",
+        "titleSlug": "ones-and-zeroes",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longer Contiguous Segments of Ones than Zeros",
+        "titleSlug": "longer-contiguous-segments-of-ones-than-zeros",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "All Divisions With the Highest Score of a Binary Array",
+        "titleSlug": "all-divisions-with-the-highest-score-of-a-binary-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2035",
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+    "difficulty": "Hard",
+    "acRate": 22.238188748989256,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Equal Subset Sum",
+        "titleSlug": "partition-equal-subset-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split Array With Same Average",
+        "titleSlug": "split-array-with-same-average",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Tallest Billboard",
+        "titleSlug": "tallest-billboard",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Last Stone Weight II",
+        "titleSlug": "last-stone-weight-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Fair Distribution of Cookies",
+        "titleSlug": "fair-distribution-of-cookies",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Subsequence Sum",
+        "titleSlug": "closest-subsequence-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Ways to Split Array",
+        "titleSlug": "number-of-ways-to-split-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Sum of Squared Difference",
+        "titleSlug": "minimum-sum-of-squared-difference",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split With Minimum Sum",
+        "titleSlug": "split-with-minimum-sum",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arcesium",
+        "frequency": 95.0
+      },
+      {
+        "name": "Millennium",
+        "frequency": 100.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 89.5
+      },
+      {
+        "name": "Texas Instruments",
+        "frequency": 88.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2158",
+    "title": "Amount of New Area Painted Each Day",
+    "titleSlug": "amount-of-new-area-painted-each-day",
+    "difficulty": "Hard",
+    "acRate": 55.50054154417453,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Describe the Painting",
+        "titleSlug": "describe-the-painting",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Average Height of Buildings in Each Segment",
+        "titleSlug": "average-height-of-buildings-in-each-segment",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2179",
+    "title": "Count Good Triplets in an Array",
+    "titleSlug": "count-good-triplets-in-an-array",
+    "difficulty": "Hard",
+    "acRate": 65.96254974417283,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Increasing Triplet Subsequence",
+        "titleSlug": "increasing-triplet-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Create Sorted Array through Instructions",
+        "titleSlug": "create-sorted-array-through-instructions",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Good Paths",
+        "titleSlug": "number-of-good-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Increasing Quadruplets",
+        "titleSlug": "count-increasing-quadruplets",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Walmart Labs",
+        "frequency": 75.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2213",
+    "title": "Longest Substring of One Repeating Character",
+    "titleSlug": "longest-substring-of-one-repeating-character",
+    "difficulty": "Hard",
+    "acRate": 33.50183312965226,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "titleSlug": "longest-repeating-character-replacement",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Consecutive Characters",
+        "titleSlug": "consecutive-characters",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Create Sorted Array through Instructions",
+        "titleSlug": "create-sorted-array-through-instructions",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Increasing Subsequence II",
+        "titleSlug": "longest-increasing-subsequence-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2251",
+    "title": "Number of Flowers in Full Bloom",
+    "titleSlug": "number-of-flowers-in-full-bloom",
+    "difficulty": "Hard",
+    "acRate": 57.371643084031184,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Interval to Include Each Query",
+        "titleSlug": "minimum-interval-to-include-each-query",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 59.3
+      },
+      {
+        "name": "Databricks",
+        "frequency": 54.1
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Roblox",
+        "frequency": 56.2
+      },
+      {
+        "name": "Samsara",
+        "frequency": 65.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2254",
+    "title": "Design Video Sharing Platform",
+    "titleSlug": "design-video-sharing-platform",
+    "difficulty": "Hard",
+    "acRate": 63.51560484911014,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Tweet Counts Per Frequency",
+        "titleSlug": "tweet-counts-per-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Browser History",
+        "titleSlug": "design-browser-history",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Most Popular Video Creator",
+        "titleSlug": "most-popular-video-creator",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2276",
+    "title": "Count Integers in Intervals",
+    "titleSlug": "count-integers-in-intervals",
+    "difficulty": "Hard",
+    "acRate": 34.658902748647755,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Insert Interval",
+        "titleSlug": "insert-interval",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Data Stream as Disjoint Intervals",
+        "titleSlug": "data-stream-as-disjoint-intervals",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "My Calendar III",
+        "titleSlug": "my-calendar-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 50.0
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 60.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2336",
+    "title": "Smallest Number in Infinite Set",
+    "titleSlug": "smallest-number-in-infinite-set",
+    "difficulty": "Medium",
+    "acRate": 70.56236297819548,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2349",
+    "title": "Design a Number Container System",
+    "titleSlug": "design-a-number-container-system",
+    "difficulty": "Medium",
+    "acRate": 57.14218628931901,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Seat Reservation Manager",
+        "titleSlug": "seat-reservation-manager",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design a Food Rating System",
+        "titleSlug": "design-a-food-rating-system",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2353",
+    "title": "Design a Food Rating System",
+    "titleSlug": "design-a-food-rating-system",
+    "difficulty": "Medium",
+    "acRate": 45.01079383769993,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design a Number Container System",
+        "titleSlug": "design-a-number-container-system",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Most Popular Video Creator",
+        "titleSlug": "most-popular-video-creator",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Altimetrik",
+        "frequency": 65.6
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2363",
+    "title": "Merge Similar Items",
+    "titleSlug": "merge-similar-items",
+    "difficulty": "Easy",
+    "acRate": 77.00859335891874,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Two 2D Arrays by Summing Values",
+        "titleSlug": "merge-two-2d-arrays-by-summing-values",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2382",
+    "title": "Maximum Segment Sum After Removals",
+    "titleSlug": "maximum-segment-sum-after-removals",
+    "difficulty": "Hard",
+    "acRate": 48.79433229482309,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2424",
+    "title": "Longest Uploaded Prefix",
+    "titleSlug": "longest-uploaded-prefix",
+    "difficulty": "Medium",
+    "acRate": 54.11519233152915,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design an Ordered Stream",
+        "titleSlug": "design-an-ordered-stream",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find X Value of Array II",
+        "titleSlug": "find-x-value-of-array-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2426",
+    "title": "Number of Pairs Satisfying Inequality",
+    "titleSlug": "number-of-pairs-satisfying-inequality",
+    "difficulty": "Hard",
+    "acRate": 45.827549386011746,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "K-diff Pairs in an Array",
+        "titleSlug": "k-diff-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Nice Pairs in an Array",
+        "titleSlug": "count-nice-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Bad Pairs",
+        "titleSlug": "count-number-of-bad-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Balanced Subsequence Sum",
+        "titleSlug": "maximum-balanced-subsequence-sum",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2519",
+    "title": "Count the Number of K-Big Indices",
+    "titleSlug": "count-the-number-of-k-big-indices",
+    "difficulty": "Hard",
+    "acRate": 53.31224939289546,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find All Good Indices",
+        "titleSlug": "find-all-good-indices",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2612",
+    "title": "Minimum Reverse Operations",
+    "titleSlug": "minimum-reverse-operations",
+    "difficulty": "Hard",
+    "acRate": 15.51267499054105,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 93.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2613",
+    "title": "Beautiful Pairs",
+    "titleSlug": "beautiful-pairs",
+    "difficulty": "Hard",
+    "acRate": 43.901128425577646,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2659",
+    "title": "Make Array Empty",
+    "titleSlug": "make-array-empty",
+    "difficulty": "Hard",
+    "acRate": 25.78731350541734,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2762",
+    "title": "Continuous Subarrays",
+    "titleSlug": "continuous-subarrays",
+    "difficulty": "Medium",
+    "acRate": 57.985150306013765,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2763",
+    "title": "Sum of Imbalance Numbers of All Subarrays",
+    "titleSlug": "sum-of-imbalance-numbers-of-all-subarrays",
+    "difficulty": "Hard",
+    "acRate": 42.558710454398074,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Subarrays With Median K",
+        "titleSlug": "count-subarrays-with-median-k",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2817",
+    "title": "Minimum Absolute Difference Between Elements With Constraint",
+    "titleSlug": "minimum-absolute-difference-between-elements-with-constraint",
+    "difficulty": "Medium",
+    "acRate": 34.738691722519754,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "K-diff Pairs in an Array",
+        "titleSlug": "k-diff-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All K-Distant Indices in an Array",
+        "titleSlug": "find-all-k-distant-indices-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Indices With Index and Value Difference I",
+        "titleSlug": "find-indices-with-index-and-value-difference-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Indices With Index and Value Difference II",
+        "titleSlug": "find-indices-with-index-and-value-difference-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 40.8
+      },
+      {
+        "name": "Databricks",
+        "frequency": 60.3
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3073",
+    "title": "Maximum Increasing Triplet Value",
+    "titleSlug": "maximum-increasing-triplet-value",
+    "difficulty": "Medium",
+    "acRate": 35.722891566265055,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3092",
+    "title": "Most Frequent IDs",
+    "titleSlug": "most-frequent-ids",
+    "difficulty": "Medium",
+    "acRate": 41.81113345289205,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3102",
+    "title": "Minimize Manhattan Distances",
+    "titleSlug": "minimize-manhattan-distances",
+    "difficulty": "Hard",
+    "acRate": 31.941912164539556,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Deutsche Bank",
+        "frequency": 51.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3109",
+    "title": "Find the Index of Permutation",
+    "titleSlug": "find-the-index-of-permutation",
+    "difficulty": "Medium",
+    "acRate": 35.872855701311806,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3244",
+    "title": "Shortest Distance After Road Addition Queries II",
+    "titleSlug": "shortest-distance-after-road-addition-queries-ii",
+    "difficulty": "Hard",
+    "acRate": 25.813862373557487,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3391",
+    "title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "titleSlug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "difficulty": "Medium",
+    "acRate": 68.41216216216216,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Amdocs",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3408",
+    "title": "Design Task Manager",
+    "titleSlug": "design-task-manager",
+    "difficulty": "Medium",
+    "acRate": 34.41194490458145,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3479",
+    "title": "Fruits Into Baskets III",
+    "titleSlug": "fruits-into-baskets-iii",
+    "difficulty": "Medium",
+    "acRate": 38.91325689249116,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Block Placement Queries",
+        "titleSlug": "block-placement-queries",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3508",
+    "title": "Implement Router",
+    "titleSlug": "implement-router",
+    "difficulty": "Medium",
+    "acRate": 22.350117704607296,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3590",
+    "title": "Kth Smallest Path XOR Sum",
+    "titleSlug": "kth-smallest-path-xor-sum",
+    "difficulty": "Hard",
+    "acRate": 27.65765765765766,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3607",
+    "title": "Power Grid Maintenance",
+    "titleSlug": "power-grid-maintenance",
+    "difficulty": "Medium",
+    "acRate": 44.239497123995825,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

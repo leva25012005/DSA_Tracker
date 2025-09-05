@@ -1,0 +1,2621 @@
+[
+  {
+    "questionFrontendId": "3",
+    "title": "Longest Substring Without Repeating Characters",
+    "titleSlug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "acRate": 37.4229566293528,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Erasure Value",
+        "titleSlug": "maximum-erasure-value",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Equal Count Substrings",
+        "titleSlug": "number-of-equal-count-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Consecutive Cards to Pick Up",
+        "titleSlug": "minimum-consecutive-cards-to-pick-up",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Nice Subarray",
+        "titleSlug": "longest-nice-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Optimal Partition of String",
+        "titleSlug": "optimal-partition-of-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Complete Subarrays in an Array",
+        "titleSlug": "count-complete-subarrays-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Longest Special Substring That Occurs Thrice II",
+        "titleSlug": "find-longest-special-substring-that-occurs-thrice-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Longest Special Substring That Occurs Thrice I",
+        "titleSlug": "find-longest-special-substring-that-occurs-thrice-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 68.9
+      },
+      {
+        "name": "Accolite",
+        "frequency": 62.0
+      },
+      {
+        "name": "Adobe",
+        "frequency": 75.7
+      },
+      {
+        "name": "Agoda",
+        "frequency": 90.0
+      },
+      {
+        "name": "Airtel",
+        "frequency": 77.8
+      },
+      {
+        "name": "Alibaba",
+        "frequency": 63.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 82.6
+      },
+      {
+        "name": "AMD",
+        "frequency": 87.5
+      },
+      {
+        "name": "American Express",
+        "frequency": 55.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 78.3
+      },
+      {
+        "name": "athenahealth",
+        "frequency": 64.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 42.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 83.9
+      },
+      {
+        "name": "BNY Mellon",
+        "frequency": 58.8
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 74.9
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 53.2
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 56.7
+      },
+      {
+        "name": "Comcast",
+        "frequency": 87.3
+      },
+      {
+        "name": "Coupang",
+        "frequency": 70.2
+      },
+      {
+        "name": "Dell",
+        "frequency": 100.0
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 59.5
+      },
+      {
+        "name": "Docusign",
+        "frequency": 77.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Epic Systems",
+        "frequency": 51.3
+      },
+      {
+        "name": "Expedia",
+        "frequency": 71.3
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 75.9
+      },
+      {
+        "name": "Freecharge",
+        "frequency": 89.1
+      },
+      {
+        "name": "FreshWorks",
+        "frequency": 100.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 55.5
+      },
+      {
+        "name": "Google",
+        "frequency": 70.1
+      },
+      {
+        "name": "Grab",
+        "frequency": 71.3
+      },
+      {
+        "name": "HCL",
+        "frequency": 94.0
+      },
+      {
+        "name": "HPE",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      },
+      {
+        "name": "Infosys",
+        "frequency": 88.6
+      },
+      {
+        "name": "Intel",
+        "frequency": 76.9
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 59.5
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      },
+      {
+        "name": "Juspay",
+        "frequency": 62.6
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 27.8
+      },
+      {
+        "name": "Lucid",
+        "frequency": 64.9
+      },
+      {
+        "name": "Lyft",
+        "frequency": 56.4
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "MAQ Software",
+        "frequency": 74.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 63.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 79.4
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 65.9
+      },
+      {
+        "name": "Nagarro",
+        "frequency": 79.4
+      },
+      {
+        "name": "NCR",
+        "frequency": 89.6
+      },
+      {
+        "name": "Netflix",
+        "frequency": 63.5
+      },
+      {
+        "name": "Nike",
+        "frequency": 81.6
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 80.1
+      },
+      {
+        "name": "opentext",
+        "frequency": 74.2
+      },
+      {
+        "name": "Optum",
+        "frequency": 64.3
+      },
+      {
+        "name": "Oracle",
+        "frequency": 85.8
+      },
+      {
+        "name": "Ozon",
+        "frequency": 69.5
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 84.2
+      },
+      {
+        "name": "PayPal",
+        "frequency": 62.0
+      },
+      {
+        "name": "Paytm",
+        "frequency": 67.3
+      },
+      {
+        "name": "persistent systems",
+        "frequency": 64.2
+      },
+      {
+        "name": "PornHub",
+        "frequency": 79.3
+      },
+      {
+        "name": "Publicis Sapient",
+        "frequency": 88.4
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 73.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 87.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Softwire",
+        "frequency": 68.4
+      },
+      {
+        "name": "SOTI",
+        "frequency": 89.0
+      },
+      {
+        "name": "Spotify",
+        "frequency": 85.1
+      },
+      {
+        "name": "tcs",
+        "frequency": 43.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 100.0
+      },
+      {
+        "name": "ThoughtWorks",
+        "frequency": 63.9
+      },
+      {
+        "name": "TikTok",
+        "frequency": 84.8
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 100.0
+      },
+      {
+        "name": "Turing",
+        "frequency": 91.8
+      },
+      {
+        "name": "Uber",
+        "frequency": 49.5
+      },
+      {
+        "name": "Veeva Systems",
+        "frequency": 89.0
+      },
+      {
+        "name": "Virtusa",
+        "frequency": 66.2
+      },
+      {
+        "name": "Visa",
+        "frequency": 83.4
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wipro",
+        "frequency": 70.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 75.8
+      },
+      {
+        "name": "Yandex",
+        "frequency": 79.7
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      },
+      {
+        "name": "Zoho",
+        "frequency": 92.2
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      },
+      {
+        "name": "Zynga",
+        "frequency": 71.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "30",
+    "title": "Substring with Concatenation of All Words",
+    "titleSlug": "substring-with-concatenation-of-all-words",
+    "difficulty": "Hard",
+    "acRate": 33.23000297192292,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 32.6
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 24.5
+      },
+      {
+        "name": "Media.net",
+        "frequency": 74.4
+      },
+      {
+        "name": "Meta",
+        "frequency": 16.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 26.7
+      },
+      {
+        "name": "Roku",
+        "frequency": 100.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "76",
+    "title": "Minimum Window Substring",
+    "titleSlug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "acRate": 45.87887701411859,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Substring with Concatenation of All Words",
+        "titleSlug": "substring-with-concatenation-of-all-words",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Permutation in String",
+        "titleSlug": "permutation-in-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Range Covering Elements from K Lists",
+        "titleSlug": "smallest-range-covering-elements-from-k-lists",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Window Subsequence",
+        "titleSlug": "minimum-window-subsequence",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+        "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+        "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Agoda",
+        "frequency": 65.8
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 74.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 54.8
+      },
+      {
+        "name": "Apollo.io",
+        "frequency": 100.0
+      },
+      {
+        "name": "Apple",
+        "frequency": 37.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 35.4
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Fastenal",
+        "frequency": 100.0
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 64.8
+      },
+      {
+        "name": "Lyft",
+        "frequency": 91.9
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 70.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 68.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 41.4
+      },
+      {
+        "name": "Nagarro",
+        "frequency": 72.9
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 58.6
+      },
+      {
+        "name": "Snap",
+        "frequency": 95.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 91.6
+      },
+      {
+        "name": "SoFi",
+        "frequency": 92.9
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 82.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 76.9
+      },
+      {
+        "name": "Uber",
+        "frequency": 62.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 53.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 55.0
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 72.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "159",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+    "difficulty": "Medium",
+    "acRate": 56.64156304123611,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Google",
+        "frequency": 25.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 44.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "219",
+    "title": "Contains Duplicate II",
+    "titleSlug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "acRate": 49.543346592974956,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Contains Duplicate",
+        "titleSlug": "contains-duplicate",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Contains Duplicate III",
+        "titleSlug": "contains-duplicate-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 72.4
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 80.2
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      },
+      {
+        "name": "Google",
+        "frequency": 42.2
+      },
+      {
+        "name": "Netflix",
+        "frequency": 63.5
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 80.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "340",
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+    "difficulty": "Medium",
+    "acRate": 49.64084019905429,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Repeating Character Replacement",
+        "titleSlug": "longest-repeating-character-replacement",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "titleSlug": "maximize-the-confusion-of-an-exam",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AppDynamics",
+        "frequency": 100.0
+      },
+      {
+        "name": "BitGo",
+        "frequency": 73.2
+      },
+      {
+        "name": "Coupang",
+        "frequency": 95.8
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Yandex",
+        "frequency": 56.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "424",
+    "title": "Longest Repeating Character Replacement",
+    "titleSlug": "longest-repeating-character-replacement",
+    "difficulty": "Medium",
+    "acRate": 57.85378543379254,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "titleSlug": "maximize-the-confusion-of-an-exam",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring of One Repeating Character",
+        "titleSlug": "longest-substring-of-one-repeating-character",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 51.2
+      },
+      {
+        "name": "PayU",
+        "frequency": 66.6
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      },
+      {
+        "name": "UiPath",
+        "frequency": 62.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 40.1
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "438",
+    "title": "Find All Anagrams in a String",
+    "titleSlug": "find-all-anagrams-in-a-string",
+    "difficulty": "Medium",
+    "acRate": 52.51453486221656,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Anagram",
+        "titleSlug": "valid-anagram",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Permutation in String",
+        "titleSlug": "permutation-in-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Bolt",
+        "frequency": 80.5
+      },
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Revolut",
+        "frequency": 78.2
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 90.4
+      },
+      {
+        "name": "Splunk",
+        "frequency": 79.4
+      },
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 65.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "567",
+    "title": "Permutation in String",
+    "titleSlug": "permutation-in-string",
+    "difficulty": "Medium",
+    "acRate": 47.640193148732415,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find All Anagrams in a String",
+        "titleSlug": "find-all-anagrams-in-a-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Revolut",
+        "frequency": 63.2
+      },
+      {
+        "name": "Yandex",
+        "frequency": 81.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "643",
+    "title": "Maximum Average Subarray I",
+    "titleSlug": "maximum-average-subarray-i",
+    "difficulty": "Easy",
+    "acRate": 45.91717441918066,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Average Subarray II",
+        "titleSlug": "maximum-average-subarray-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "K Radius Subarray Averages",
+        "titleSlug": "k-radius-subarray-averages",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "904",
+    "title": "Fruit Into Baskets",
+    "titleSlug": "fruit-into-baskets",
+    "difficulty": "Medium",
+    "acRate": 49.442362594933655,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Nice Subarray",
+        "titleSlug": "longest-nice-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Fruits Into Baskets II",
+        "titleSlug": "fruits-into-baskets-ii",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deutsche Bank",
+        "frequency": 51.7
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1052",
+    "title": "Grumpy Bookstore Owner",
+    "titleSlug": "grumpy-bookstore-owner",
+    "difficulty": "Medium",
+    "acRate": 63.974238991950415,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1100",
+    "title": "Find K-Length Substrings With No Repeated Characters",
+    "titleSlug": "find-k-length-substrings-with-no-repeated-characters",
+    "difficulty": "Medium",
+    "acRate": 76.33655930738385,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1151",
+    "title": "Minimum Swaps to Group All 1's Together",
+    "titleSlug": "minimum-swaps-to-group-all-1s-together",
+    "difficulty": "Medium",
+    "acRate": 61.11091543094642,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Adjacent Swaps for K Consecutive Ones",
+        "titleSlug": "minimum-adjacent-swaps-for-k-consecutive-ones",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Swaps to Group All 1's Together II",
+        "titleSlug": "minimum-swaps-to-group-all-1s-together-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Time Needed to Rearrange a Binary String",
+        "titleSlug": "time-needed-to-rearrange-a-binary-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Moves to Pick K Ones",
+        "titleSlug": "minimum-moves-to-pick-k-ones",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 97.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1156",
+    "title": "Swap For Longest Repeated Character Substring",
+    "titleSlug": "swap-for-longest-repeated-character-substring",
+    "difficulty": "Medium",
+    "acRate": 43.87678437265214,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1176",
+    "title": "Diet Plan Performance",
+    "titleSlug": "diet-plan-performance",
+    "difficulty": "Easy",
+    "acRate": 54.33144467773017,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1234",
+    "title": "Replace the Substring for Balanced String",
+    "titleSlug": "replace-the-substring-for-balanced-string",
+    "difficulty": "Medium",
+    "acRate": 39.85193294306469,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Accolite",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1297",
+    "title": "Maximum Number of Occurrences of a Substring",
+    "titleSlug": "maximum-number-of-occurrences-of-a-substring",
+    "difficulty": "Medium",
+    "acRate": 53.69785332364223,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rearrange Characters to Make Target String",
+        "titleSlug": "rearrange-characters-to-make-target-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 37.1
+      },
+      {
+        "name": "Hubspot",
+        "frequency": 84.7
+      },
+      {
+        "name": "Roblox",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1343",
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "difficulty": "Medium",
+    "acRate": 70.73808685472844,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "K Radius Subarray Averages",
+        "titleSlug": "k-radius-subarray-averages",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Subarrays With Median K",
+        "titleSlug": "count-subarrays-with-median-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Apply Operations to Make All Array Elements Equal to Zero",
+        "titleSlug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Turo",
+        "frequency": 78.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1358",
+    "title": "Number of Substrings Containing All Three Characters",
+    "titleSlug": "number-of-substrings-containing-all-three-characters",
+    "difficulty": "Medium",
+    "acRate": 73.25869816911634,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Vowels of All Substrings",
+        "titleSlug": "vowels-of-all-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Complete Substrings",
+        "titleSlug": "count-complete-substrings",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 77.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1456",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "difficulty": "Medium",
+    "acRate": 60.79992255215891,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum White Tiles Covered by a Carpet",
+        "titleSlug": "maximum-white-tiles-covered-by-a-carpet",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Length of the Longest Alphabetical Continuous Substring",
+        "titleSlug": "length-of-the-longest-alphabetical-continuous-substring",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Turing",
+        "frequency": 51.8
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 53.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1652",
+    "title": "Defuse the Bomb",
+    "titleSlug": "defuse-the-bomb",
+    "difficulty": "Easy",
+    "acRate": 79.29533445936458,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Circular Sentence",
+        "titleSlug": "circular-sentence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Shortest Distance to Target String in a Circular Array",
+        "titleSlug": "shortest-distance-to-target-string-in-a-circular-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Take K of Each Character From Left and Right",
+        "titleSlug": "take-k-of-each-character-from-left-and-right",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1695",
+    "title": "Maximum Erasure Value",
+    "titleSlug": "maximum-erasure-value",
+    "difficulty": "Medium",
+    "acRate": 63.91539133232226,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cashfree",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1839",
+    "title": "Longest Substring Of All Vowels in Order",
+    "titleSlug": "longest-substring-of-all-vowels-in-order",
+    "difficulty": "Medium",
+    "acRate": 50.88114031353758,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Nice Subarray",
+        "titleSlug": "longest-nice-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+        "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+        "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Thomson Reuters",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1852",
+    "title": "Distinct Numbers in Each Subarray",
+    "titleSlug": "distinct-numbers-in-each-subarray",
+    "difficulty": "Medium",
+    "acRate": 77.06391318896696,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2090",
+    "title": "K Radius Subarray Averages",
+    "titleSlug": "k-radius-subarray-averages",
+    "difficulty": "Medium",
+    "acRate": 45.91963649463446,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Moving Average from Data Stream",
+        "titleSlug": "moving-average-from-data-stream",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Average Subarray I",
+        "titleSlug": "maximum-average-subarray-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Grid of Region Average",
+        "titleSlug": "find-the-grid-of-region-average",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Duolingo",
+        "frequency": 80.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2107",
+    "title": "Number of Unique Flavors After Sharing K Candies",
+    "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+    "difficulty": "Medium",
+    "acRate": 60.32898241875333,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Boxes",
+        "titleSlug": "remove-boxes",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ciena",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2134",
+    "title": "Minimum Swaps to Group All 1's Together II",
+    "titleSlug": "minimum-swaps-to-group-all-1s-together-ii",
+    "difficulty": "Medium",
+    "acRate": 65.57438344653195,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Swaps to Group All 1's Together",
+        "titleSlug": "minimum-swaps-to-group-all-1s-together",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Time Needed to Rearrange a Binary String",
+        "titleSlug": "time-needed-to-rearrange-a-binary-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 50.6
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2260",
+    "title": "Minimum Consecutive Cards to Pick Up",
+    "titleSlug": "minimum-consecutive-cards-to-pick-up",
+    "difficulty": "Medium",
+    "acRate": 52.91424233542975,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2269",
+    "title": "Find the K-Beauty of a Number",
+    "titleSlug": "find-the-k-beauty-of-a-number",
+    "difficulty": "Easy",
+    "acRate": 62.104845979298126,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Postmates",
+        "frequency": 98.1
+      },
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2379",
+    "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+    "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+    "difficulty": "Easy",
+    "acRate": 68.44266952898094,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Points You Can Obtain from Cards",
+        "titleSlug": "maximum-points-you-can-obtain-from-cards",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Vowels in a Substring of Given Length",
+        "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "HP",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2461",
+    "title": "Maximum Sum of Distinct Subarrays With Length K",
+    "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+    "difficulty": "Medium",
+    "acRate": 42.66151624962949,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Nice Subarray",
+        "titleSlug": "longest-nice-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Optimal Partition of String",
+        "titleSlug": "optimal-partition-of-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Good Subarrays",
+        "titleSlug": "count-the-number-of-good-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Good Subarray Sum",
+        "titleSlug": "maximum-good-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Power of K-Size Subarrays I",
+        "titleSlug": "find-the-power-of-k-size-subarrays-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Power of K-Size Subarrays II",
+        "titleSlug": "find-the-power-of-k-size-subarrays-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 63.5
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2516",
+    "title": "Take K of Each Character From Left and Right",
+    "titleSlug": "take-k-of-each-character-from-left-and-right",
+    "difficulty": "Medium",
+    "acRate": 51.54277569196657,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Reorder List",
+        "titleSlug": "reorder-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Defuse the Bomb",
+        "titleSlug": "defuse-the-bomb",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2537",
+    "title": "Count the Number of Good Subarrays",
+    "titleSlug": "count-the-number-of-good-subarrays",
+    "difficulty": "Medium",
+    "acRate": 65.99770797916543,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Number of Homogenous Substrings",
+        "titleSlug": "count-number-of-homogenous-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2653",
+    "title": "Sliding Subarray Beauty",
+    "titleSlug": "sliding-subarray-beauty",
+    "difficulty": "Medium",
+    "acRate": 34.690755445472426,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2730",
+    "title": "Find the Longest Semi-Repetitive Substring",
+    "titleSlug": "find-the-longest-semi-repetitive-substring",
+    "difficulty": "Medium",
+    "acRate": 37.59579263711495,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2743",
+    "title": "Count Substrings Without Repeating Character",
+    "titleSlug": "count-substrings-without-repeating-character",
+    "difficulty": "Medium",
+    "acRate": 76.20906912769544,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Complete Substrings",
+        "titleSlug": "count-complete-substrings",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2760",
+    "title": "Longest Even Odd Subarray With Threshold",
+    "titleSlug": "longest-even-odd-subarray-with-threshold",
+    "difficulty": "Easy",
+    "acRate": 30.70530619818554,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2781",
+    "title": "Length of the Longest Valid Substring",
+    "titleSlug": "length-of-the-longest-valid-substring",
+    "difficulty": "Hard",
+    "acRate": 37.88841662196179,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2799",
+    "title": "Count Complete Subarrays in an Array",
+    "titleSlug": "count-complete-subarrays-in-an-array",
+    "difficulty": "Medium",
+    "acRate": 75.85278658021129,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarrays with K Different Integers",
+        "titleSlug": "subarrays-with-k-different-integers",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2841",
+    "title": "Maximum Sum of Almost Unique Subarray",
+    "titleSlug": "maximum-sum-of-almost-unique-subarray",
+    "difficulty": "Medium",
+    "acRate": 39.7305299076676,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2904",
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "titleSlug": "shortest-and-lexicographically-smallest-beautiful-string",
+    "difficulty": "Medium",
+    "acRate": 40.1462215320911,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 55.7
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yelp",
+        "frequency": 55.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2953",
+    "title": "Count Complete Substrings",
+    "titleSlug": "count-complete-substrings",
+    "difficulty": "Hard",
+    "acRate": 29.03601818393752,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Substrings Containing All Three Characters",
+        "titleSlug": "number-of-substrings-containing-all-three-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Substrings Without Repeating Character",
+        "titleSlug": "count-substrings-without-repeating-character",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2958",
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "acRate": 55.980381017308645,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 61.1
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2962",
+    "title": "Count Subarrays Where Max Element Appears at Least K Times",
+    "titleSlug": "count-subarrays-where-max-element-appears-at-least-k-times",
+    "difficulty": "Medium",
+    "acRate": 62.49067372741911,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "titleSlug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3090",
+    "title": "Maximum Length Substring With Two Occurrences",
+    "titleSlug": "maximum-length-substring-with-two-occurrences",
+    "difficulty": "Easy",
+    "acRate": 64.12027113145241,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3206",
+    "title": "Alternating Groups I",
+    "titleSlug": "alternating-groups-i",
+    "difficulty": "Easy",
+    "acRate": 68.00819462227913,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Samsara",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3208",
+    "title": "Alternating Groups II",
+    "titleSlug": "alternating-groups-ii",
+    "difficulty": "Medium",
+    "acRate": 59.774405614381834,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Samsara",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3254",
+    "title": "Find the Power of K-Size Subarrays I",
+    "titleSlug": "find-the-power-of-k-size-subarrays-i",
+    "difficulty": "Medium",
+    "acRate": 62.37783430755491,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3255",
+    "title": "Find the Power of K-Size Subarrays II",
+    "titleSlug": "find-the-power-of-k-size-subarrays-ii",
+    "difficulty": "Medium",
+    "acRate": 30.75397384920523,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3258",
+    "title": "Count Substrings That Satisfy K-Constraint I",
+    "titleSlug": "count-substrings-that-satisfy-k-constraint-i",
+    "difficulty": "Easy",
+    "acRate": 78.18326303563788,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3297",
+    "title": "Count Substrings That Can Be Rearranged to Contain a String I",
+    "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+    "difficulty": "Medium",
+    "acRate": 41.796514844182184,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3298",
+    "title": "Count Substrings That Can Be Rearranged to Contain a String II",
+    "titleSlug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+    "difficulty": "Hard",
+    "acRate": 55.45511657126902,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3305",
+    "title": "Count of Substrings Containing Every Vowel and K Consonants I",
+    "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+    "difficulty": "Medium",
+    "acRate": 41.40475136491073,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Of All Vowels in Order",
+        "titleSlug": "longest-substring-of-all-vowels-in-order",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3306",
+    "title": "Count of Substrings Containing Every Vowel and K Consonants II",
+    "titleSlug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+    "difficulty": "Medium",
+    "acRate": 40.604238820274894,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Of All Vowels in Order",
+        "titleSlug": "longest-substring-of-all-vowels-in-order",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3325",
+    "title": "Count Substrings With K-Frequency Characters I",
+    "titleSlug": "count-substrings-with-k-frequency-characters-i",
+    "difficulty": "Medium",
+    "acRate": 54.83966016795168,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3329",
+    "title": "Count Substrings With K-Frequency Characters II",
+    "titleSlug": "count-substrings-with-k-frequency-characters-ii",
+    "difficulty": "Hard",
+    "acRate": 68.87417218543047,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "questionFrontendId": "1135",
+    "title": "Connecting Cities With Minimum Cost",
+    "titleSlug": "connecting-cities-with-minimum-cost",
+    "difficulty": "Medium",
+    "acRate": 62.70818733505301,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Reach City With Discounts",
+        "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1168",
+    "title": "Optimize Water Distribution in a Village",
+    "titleSlug": "optimize-water-distribution-in-a-village",
+    "difficulty": "Hard",
+    "acRate": 65.21658879852339,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1584",
+    "title": "Min Cost to Connect All Points",
+    "titleSlug": "min-cost-to-connect-all-points",
+    "difficulty": "Medium",
+    "acRate": 69.49561475008966,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Lines to Cover Points",
+        "titleSlug": "minimum-number-of-lines-to-cover-points",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      },
+      {
+        "name": "Directi",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1724",
+    "title": "Checking Existence of Edge Length Limited Paths II",
+    "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+    "difficulty": "Hard",
+    "acRate": 51.62903879951332,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Checking Existence of Edge Length Limited Paths",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Good Paths",
+        "titleSlug": "number-of-good-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Score of a Path Between Two Cities",
+        "titleSlug": "minimum-score-of-a-path-between-two-cities",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3600",
+    "title": "Maximize Spanning Tree Stability with Upgrades",
+    "titleSlug": "maximize-spanning-tree-stability-with-upgrades",
+    "difficulty": "Hard",
+    "acRate": 38.208654813820864,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

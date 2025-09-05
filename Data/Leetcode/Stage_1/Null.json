@@ -1,0 +1,1503 @@
+[
+  {
+    "questionFrontendId": "2618",
+    "title": "Check if Object Instance of Class",
+    "titleSlug": "check-if-object-instance-of-class",
+    "difficulty": "Medium",
+    "acRate": 28.430851063829788,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2619",
+    "title": "Array Prototype Last",
+    "titleSlug": "array-prototype-last",
+    "difficulty": "Easy",
+    "acRate": 74.46875508985286,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Snail Traversal",
+        "titleSlug": "snail-traversal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array Upper Bound",
+        "titleSlug": "array-upper-bound",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2620",
+    "title": "Counter",
+    "titleSlug": "counter",
+    "difficulty": "Easy",
+    "acRate": 82.2495080572249,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Memoize",
+        "titleSlug": "memoize",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Function Composition",
+        "titleSlug": "function-composition",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Counter II",
+        "titleSlug": "counter-ii",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "CARS24",
+        "frequency": 77.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2621",
+    "title": "Sleep",
+    "titleSlug": "sleep",
+    "difficulty": "Easy",
+    "acRate": 87.53091208844495,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Promise Time Limit",
+        "titleSlug": "promise-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Promise Pool",
+        "titleSlug": "promise-pool",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2622",
+    "title": "Cache With Time Limit",
+    "titleSlug": "cache-with-time-limit",
+    "difficulty": "Medium",
+    "acRate": 75.84373235008897,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Debounce",
+        "titleSlug": "debounce",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Promise Time Limit",
+        "titleSlug": "promise-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Promise Pool",
+        "titleSlug": "promise-pool",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Netflix",
+        "frequency": 68.4
+      },
+      {
+        "name": "ThousandEyes",
+        "frequency": 89.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2623",
+    "title": "Memoize",
+    "titleSlug": "memoize",
+    "difficulty": "Medium",
+    "acRate": 64.31603223139516,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Counter",
+        "titleSlug": "counter",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Curry",
+        "titleSlug": "curry",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Function Composition",
+        "titleSlug": "function-composition",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Memoize II",
+        "titleSlug": "memoize-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Shopee",
+        "frequency": 63.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2624",
+    "title": "Snail Traversal",
+    "titleSlug": "snail-traversal",
+    "difficulty": "Medium",
+    "acRate": 67.74357239512855,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Array Prototype Last",
+        "titleSlug": "array-prototype-last",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Group By",
+        "titleSlug": "group-by",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array Upper Bound",
+        "titleSlug": "array-upper-bound",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2625",
+    "title": "Flatten Deeply Nested Array",
+    "titleSlug": "flatten-deeply-nested-array",
+    "difficulty": "Medium",
+    "acRate": 64.86033310227252,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "JSON Deep Equal",
+        "titleSlug": "json-deep-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Convert Object to JSON String",
+        "titleSlug": "convert-object-to-json-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Nested Array Generator",
+        "titleSlug": "nested-array-generator",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Otter.ai",
+        "frequency": 82.5
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Rivian",
+        "frequency": 88.3
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2626",
+    "title": "Array Reduce Transformation",
+    "titleSlug": "array-reduce-transformation",
+    "difficulty": "Easy",
+    "acRate": 85.4113482533299,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Group By",
+        "titleSlug": "group-by",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Filter Elements from Array",
+        "titleSlug": "filter-elements-from-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Apply Transform Over Each Element in Array",
+        "titleSlug": "apply-transform-over-each-element-in-array",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2627",
+    "title": "Debounce",
+    "titleSlug": "debounce",
+    "difficulty": "Medium",
+    "acRate": 91.77628135794285,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Promise Time Limit",
+        "titleSlug": "promise-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Cache With Time Limit",
+        "titleSlug": "cache-with-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Throttle",
+        "titleSlug": "throttle",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Confluent",
+        "frequency": 65.0
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2628",
+    "title": "JSON Deep Equal",
+    "titleSlug": "json-deep-equal",
+    "difficulty": "Medium",
+    "acRate": 39.19969345303262,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Convert Object to JSON String",
+        "titleSlug": "convert-object-to-json-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten Deeply Nested Array",
+        "titleSlug": "flatten-deeply-nested-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array of Objects to Matrix",
+        "titleSlug": "array-of-objects-to-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Differences Between Two Objects",
+        "titleSlug": "differences-between-two-objects",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2629",
+    "title": "Function Composition",
+    "titleSlug": "function-composition",
+    "difficulty": "Easy",
+    "acRate": 86.89092869943157,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Memoize",
+        "titleSlug": "memoize",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Counter",
+        "titleSlug": "counter",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2630",
+    "title": "Memoize II",
+    "titleSlug": "memoize-ii",
+    "difficulty": "Hard",
+    "acRate": 37.614819350887934,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Memoize",
+        "titleSlug": "memoize",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Curry",
+        "titleSlug": "curry",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2631",
+    "title": "Group By",
+    "titleSlug": "group-by",
+    "difficulty": "Medium",
+    "acRate": 81.12344794651385,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Filter Elements from Array",
+        "titleSlug": "filter-elements-from-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Apply Transform Over Each Element in Array",
+        "titleSlug": "apply-transform-over-each-element-in-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Snail Traversal",
+        "titleSlug": "snail-traversal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array Reduce Transformation",
+        "titleSlug": "array-reduce-transformation",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Array Upper Bound",
+        "titleSlug": "array-upper-bound",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2632",
+    "title": "Curry",
+    "titleSlug": "curry",
+    "difficulty": "Medium",
+    "acRate": 89.48194662480377,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Memoize",
+        "titleSlug": "memoize",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Memoize II",
+        "titleSlug": "memoize-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2633",
+    "title": "Convert Object to JSON String",
+    "titleSlug": "convert-object-to-json-string",
+    "difficulty": "Medium",
+    "acRate": 78.0173669794277,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "JSON Deep Equal",
+        "titleSlug": "json-deep-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten Deeply Nested Array",
+        "titleSlug": "flatten-deeply-nested-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array of Objects to Matrix",
+        "titleSlug": "array-of-objects-to-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Differences Between Two Objects",
+        "titleSlug": "differences-between-two-objects",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2634",
+    "title": "Filter Elements from Array",
+    "titleSlug": "filter-elements-from-array",
+    "difficulty": "Easy",
+    "acRate": 85.47291144646032,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Group By",
+        "titleSlug": "group-by",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Apply Transform Over Each Element in Array",
+        "titleSlug": "apply-transform-over-each-element-in-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Array Reduce Transformation",
+        "titleSlug": "array-reduce-transformation",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2635",
+    "title": "Apply Transform Over Each Element in Array",
+    "titleSlug": "apply-transform-over-each-element-in-array",
+    "difficulty": "Easy",
+    "acRate": 86.15955803389403,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Group By",
+        "titleSlug": "group-by",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Filter Elements from Array",
+        "titleSlug": "filter-elements-from-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Array Reduce Transformation",
+        "titleSlug": "array-reduce-transformation",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2636",
+    "title": "Promise Pool",
+    "titleSlug": "promise-pool",
+    "difficulty": "Medium",
+    "acRate": 79.74923376985232,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Sleep",
+        "titleSlug": "sleep",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Promise Time Limit",
+        "titleSlug": "promise-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Cache With Time Limit",
+        "titleSlug": "cache-with-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Throttle",
+        "titleSlug": "throttle",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2637",
+    "title": "Promise Time Limit",
+    "titleSlug": "promise-time-limit",
+    "difficulty": "Medium",
+    "acRate": 82.89451863702432,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Sleep",
+        "titleSlug": "sleep",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Debounce",
+        "titleSlug": "debounce",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Promise Pool",
+        "titleSlug": "promise-pool",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Cache With Time Limit",
+        "titleSlug": "cache-with-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Throttle",
+        "titleSlug": "throttle",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2648",
+    "title": "Generate Fibonacci Sequence",
+    "titleSlug": "generate-fibonacci-sequence",
+    "difficulty": "Easy",
+    "acRate": 83.51002808655406,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Nested Array Generator",
+        "titleSlug": "nested-array-generator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Cancellable Function",
+        "titleSlug": "design-cancellable-function",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2649",
+    "title": "Nested Array Generator",
+    "titleSlug": "nested-array-generator",
+    "difficulty": "Medium",
+    "acRate": 79.90757677866563,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Flatten Deeply Nested Array",
+        "titleSlug": "flatten-deeply-nested-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Generate Fibonacci Sequence",
+        "titleSlug": "generate-fibonacci-sequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Design Cancellable Function",
+        "titleSlug": "design-cancellable-function",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2650",
+    "title": "Design Cancellable Function",
+    "titleSlug": "design-cancellable-function",
+    "difficulty": "Hard",
+    "acRate": 54.05609167671894,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Generate Fibonacci Sequence",
+        "titleSlug": "generate-fibonacci-sequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Nested Array Generator",
+        "titleSlug": "nested-array-generator",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2665",
+    "title": "Counter II",
+    "titleSlug": "counter-ii",
+    "difficulty": "Easy",
+    "acRate": 81.15117029843275,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Counter",
+        "titleSlug": "counter",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2666",
+    "title": "Allow One Function Call",
+    "titleSlug": "allow-one-function-call",
+    "difficulty": "Easy",
+    "acRate": 86.66283721615893,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2667",
+    "title": "Create Hello World Function",
+    "titleSlug": "create-hello-world-function",
+    "difficulty": "Easy",
+    "acRate": 82.03269199042913,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Wipro",
+        "frequency": 60.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2675",
+    "title": "Array of Objects to Matrix",
+    "titleSlug": "array-of-objects-to-matrix",
+    "difficulty": "Hard",
+    "acRate": 68.67334308540565,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "JSON Deep Equal",
+        "titleSlug": "json-deep-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Convert Object to JSON String",
+        "titleSlug": "convert-object-to-json-string",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2676",
+    "title": "Throttle",
+    "titleSlug": "throttle",
+    "difficulty": "Medium",
+    "acRate": 83.1713476697023,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Debounce",
+        "titleSlug": "debounce",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Promise Time Limit",
+        "titleSlug": "promise-time-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Promise Pool",
+        "titleSlug": "promise-pool",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2677",
+    "title": "Chunk Array",
+    "titleSlug": "chunk-array",
+    "difficulty": "Easy",
+    "acRate": 84.49742870500233,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2690",
+    "title": "Infinite Method Object",
+    "titleSlug": "infinite-method-object",
+    "difficulty": "Easy",
+    "acRate": 93.32003988035892,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Immutability Helper",
+        "titleSlug": "immutability-helper",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Make Object Immutable",
+        "titleSlug": "make-object-immutable",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2691",
+    "title": "Immutability Helper",
+    "titleSlug": "immutability-helper",
+    "difficulty": "Hard",
+    "acRate": 40.86538461538461,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Infinite Method Object",
+        "titleSlug": "infinite-method-object",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Make Object Immutable",
+        "titleSlug": "make-object-immutable",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2692",
+    "title": "Make Object Immutable",
+    "titleSlug": "make-object-immutable",
+    "difficulty": "Medium",
+    "acRate": 62.733529990167156,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Infinite Method Object",
+        "titleSlug": "infinite-method-object",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Immutability Helper",
+        "titleSlug": "immutability-helper",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2693",
+    "title": "Call Function with Custom Context",
+    "titleSlug": "call-function-with-custom-context",
+    "difficulty": "Medium",
+    "acRate": 78.50092719985643,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2694",
+    "title": "Event Emitter",
+    "titleSlug": "event-emitter",
+    "difficulty": "Medium",
+    "acRate": 74.55609212481427,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Box",
+        "frequency": 58.8
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 67.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2695",
+    "title": "Array Wrapper",
+    "titleSlug": "array-wrapper",
+    "difficulty": "Easy",
+    "acRate": 89.12587511691845,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2700",
+    "title": "Differences Between Two Objects",
+    "titleSlug": "differences-between-two-objects",
+    "difficulty": "Medium",
+    "acRate": 75.21459227467811,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "JSON Deep Equal",
+        "titleSlug": "json-deep-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Convert Object to JSON String",
+        "titleSlug": "convert-object-to-json-string",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2703",
+    "title": "Return Length of Arguments Passed",
+    "titleSlug": "return-length-of-arguments-passed",
+    "difficulty": "Easy",
+    "acRate": 94.50216967235957,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2704",
+    "title": "To Be Or Not To Be",
+    "titleSlug": "to-be-or-not-to-be",
+    "difficulty": "Easy",
+    "acRate": 62.99336060954994,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2705",
+    "title": "Compact Object",
+    "titleSlug": "compact-object",
+    "difficulty": "Medium",
+    "acRate": 67.02974584457546,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2715",
+    "title": "Timeout Cancellation",
+    "titleSlug": "timeout-cancellation",
+    "difficulty": "Easy",
+    "acRate": 89.61420963547042,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2721",
+    "title": "Execute Asynchronous Functions in Parallel",
+    "titleSlug": "execute-asynchronous-functions-in-parallel",
+    "difficulty": "Medium",
+    "acRate": 77.86130174337634,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2722",
+    "title": "Join Two Arrays by ID",
+    "titleSlug": "join-two-arrays-by-id",
+    "difficulty": "Medium",
+    "acRate": 56.26360063659099,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2723",
+    "title": "Add Two Promises",
+    "titleSlug": "add-two-promises",
+    "difficulty": "Easy",
+    "acRate": 91.7515791152398,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2724",
+    "title": "Sort By",
+    "titleSlug": "sort-by",
+    "difficulty": "Easy",
+    "acRate": 83.24825704759019,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2725",
+    "title": "Interval Cancellation",
+    "titleSlug": "interval-cancellation",
+    "difficulty": "Easy",
+    "acRate": 84.17265339771522,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2726",
+    "title": "Calculator with Method Chaining",
+    "titleSlug": "calculator-with-method-chaining",
+    "difficulty": "Easy",
+    "acRate": 77.59578968078304,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2727",
+    "title": "Is Object Empty",
+    "titleSlug": "is-object-empty",
+    "difficulty": "Easy",
+    "acRate": 81.53818373099057,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2753",
+    "title": "Count Houses in a Circular Street II",
+    "titleSlug": "count-houses-in-a-circular-street-ii",
+    "difficulty": "Hard",
+    "acRate": 61.64978292329957,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2754",
+    "title": "Bind Function to Context",
+    "titleSlug": "bind-function-to-context",
+    "difficulty": "Medium",
+    "acRate": 86.96832579185521,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2755",
+    "title": "Deep Merge of Two Objects",
+    "titleSlug": "deep-merge-of-two-objects",
+    "difficulty": "Medium",
+    "acRate": 64.78190630048465,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Valve",
+        "frequency": 66.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2756",
+    "title": "Query Batching",
+    "titleSlug": "query-batching",
+    "difficulty": "Hard",
+    "acRate": 66.24649859943978,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2757",
+    "title": "Generate Circular Array Values",
+    "titleSlug": "generate-circular-array-values",
+    "difficulty": "Medium",
+    "acRate": 74.44987775061125,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2758",
+    "title": "Next Day",
+    "titleSlug": "next-day",
+    "difficulty": "Easy",
+    "acRate": 85.46228710462287,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2759",
+    "title": "Convert JSON String to Object",
+    "titleSlug": "convert-json-string-to-object",
+    "difficulty": "Hard",
+    "acRate": 61.78137651821862,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2774",
+    "title": "Array Upper Bound",
+    "titleSlug": "array-upper-bound",
+    "difficulty": "Easy",
+    "acRate": 82.14574898785425,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Array Prototype Last",
+        "titleSlug": "array-prototype-last",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Group By",
+        "titleSlug": "group-by",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Snail Traversal",
+        "titleSlug": "snail-traversal",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2775",
+    "title": "Undefined to Null",
+    "titleSlug": "undefined-to-null",
+    "difficulty": "Medium",
+    "acRate": 71.53344208809136,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2776",
+    "title": "Convert Callback Based Function to Promise Based Function",
+    "titleSlug": "convert-callback-based-function-to-promise-based-function",
+    "difficulty": "Medium",
+    "acRate": 91.07569721115539,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2777",
+    "title": "Date Range Generator",
+    "titleSlug": "date-range-generator",
+    "difficulty": "Medium",
+    "acRate": 82.91666666666667,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2793",
+    "title": "Status of Flight Tickets",
+    "titleSlug": "status-of-flight-tickets",
+    "difficulty": "Hard",
+    "acRate": 78.95148669796556,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2794",
+    "title": "Create Object from Two Arrays",
+    "titleSlug": "create-object-from-two-arrays",
+    "difficulty": "Easy",
+    "acRate": 64.19597989949749,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2795",
+    "title": "Parallel Execution of Promises for Individual Results Retrieval",
+    "titleSlug": "parallel-execution-of-promises-for-individual-results-retrieval",
+    "difficulty": "Medium",
+    "acRate": 90.12464046021093,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2796",
+    "title": "Repeat String",
+    "titleSlug": "repeat-string",
+    "difficulty": "Easy",
+    "acRate": 93.30272751822847,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2797",
+    "title": "Partial Function with Placeholders",
+    "titleSlug": "partial-function-with-placeholders",
+    "difficulty": "Easy",
+    "acRate": 89.62732919254658,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2803",
+    "title": "Factorial Generator",
+    "titleSlug": "factorial-generator",
+    "difficulty": "Easy",
+    "acRate": 85.9190031152648,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2804",
+    "title": "Array Prototype ForEach",
+    "titleSlug": "array-prototype-foreach",
+    "difficulty": "Easy",
+    "acRate": 89.60953011250827,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2805",
+    "title": "Custom Interval",
+    "titleSlug": "custom-interval",
+    "difficulty": "Medium",
+    "acRate": 83.4625322997416,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2820",
+    "title": "Election Results",
+    "titleSlug": "election-results",
+    "difficulty": "Medium",
+    "acRate": 68.76508820798514,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2821",
+    "title": "Delay the Resolution of Each Promise",
+    "titleSlug": "delay-the-resolution-of-each-promise",
+    "difficulty": "Medium",
+    "acRate": 73.64152473641525,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2822",
+    "title": "Inversion of Object",
+    "titleSlug": "inversion-of-object",
+    "difficulty": "Easy",
+    "acRate": 60.147058823529406,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2823",
+    "title": "Deep Object Filter",
+    "titleSlug": "deep-object-filter",
+    "difficulty": "Medium",
+    "acRate": 56.42245480494766,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2877",
+    "title": "Create a DataFrame from List",
+    "titleSlug": "create-a-dataframe-from-list",
+    "difficulty": "Easy",
+    "acRate": 81.34664388718365,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2878",
+    "title": "Get the Size of a DataFrame",
+    "titleSlug": "get-the-size-of-a-dataframe",
+    "difficulty": "Easy",
+    "acRate": 85.13683104551954,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2879",
+    "title": "Display the First Three Rows",
+    "titleSlug": "display-the-first-three-rows",
+    "difficulty": "Easy",
+    "acRate": 93.08782756687692,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2880",
+    "title": "Select Data",
+    "titleSlug": "select-data",
+    "difficulty": "Easy",
+    "acRate": 79.09351834867336,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2881",
+    "title": "Create a New Column",
+    "titleSlug": "create-a-new-column",
+    "difficulty": "Easy",
+    "acRate": 90.27851764164284,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2882",
+    "title": "Drop Duplicate Rows",
+    "titleSlug": "drop-duplicate-rows",
+    "difficulty": "Easy",
+    "acRate": 85.47588167117391,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2883",
+    "title": "Drop Missing Data",
+    "titleSlug": "drop-missing-data",
+    "difficulty": "Easy",
+    "acRate": 64.4573730140971,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2884",
+    "title": "Modify Columns",
+    "titleSlug": "modify-columns",
+    "difficulty": "Easy",
+    "acRate": 92.50963214719971,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2885",
+    "title": "Rename Columns",
+    "titleSlug": "rename-columns",
+    "difficulty": "Easy",
+    "acRate": 85.53555200401115,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2886",
+    "title": "Change Data Type",
+    "titleSlug": "change-data-type",
+    "difficulty": "Easy",
+    "acRate": 87.50818169917528,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2887",
+    "title": "Fill Missing Data",
+    "titleSlug": "fill-missing-data",
+    "difficulty": "Easy",
+    "acRate": 72.35715447326928,
+    "topicTags": [],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Acko",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2888",
+    "title": "Reshape Data: Concatenate",
+    "titleSlug": "reshape-data-concatenate",
+    "difficulty": "Easy",
+    "acRate": 90.71229404309253,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2889",
+    "title": "Reshape Data: Pivot",
+    "titleSlug": "reshape-data-pivot",
+    "difficulty": "Easy",
+    "acRate": 83.52604348866754,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2890",
+    "title": "Reshape Data: Melt",
+    "titleSlug": "reshape-data-melt",
+    "difficulty": "Easy",
+    "acRate": 86.14509961762931,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2891",
+    "title": "Method Chaining",
+    "titleSlug": "method-chaining",
+    "difficulty": "Easy",
+    "acRate": 76.48481498116989,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3253",
+    "title": "Construct String with Minimum Cost (Easy)",
+    "titleSlug": "construct-string-with-minimum-cost-easy",
+    "difficulty": "Medium",
+    "acRate": 59.20271416454622,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3617",
+    "title": "Find Students with Study Spiral Pattern",
+    "titleSlug": "find-students-with-study-spiral-pattern",
+    "difficulty": "Hard",
+    "acRate": 29.861591695501733,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3626",
+    "title": "Find Stores with Inventory Imbalance",
+    "titleSlug": "find-stores-with-inventory-imbalance",
+    "difficulty": "Medium",
+    "acRate": 51.302498670919725,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3632",
+    "title": "Subarrays with XOR at Least K",
+    "titleSlug": "subarrays-with-xor-at-least-k",
+    "difficulty": "Hard",
+    "acRate": 42.565597667638485,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3641",
+    "title": "Longest Semi-Repeating Subarray",
+    "titleSlug": "longest-semi-repeating-subarray",
+    "difficulty": "Medium",
+    "acRate": 70.45908183632734,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3642",
+    "title": "Find Books with Polarized Opinions",
+    "titleSlug": "find-books-with-polarized-opinions",
+    "difficulty": "Easy",
+    "acRate": 46.90996270644646,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3644",
+    "title": "Maximum K to Sort a Permutation",
+    "titleSlug": "maximum-k-to-sort-a-permutation",
+    "difficulty": "Medium",
+    "acRate": 32.614121785744196,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3647",
+    "title": "Maximum Weight in Two Bags",
+    "titleSlug": "maximum-weight-in-two-bags",
+    "difficulty": "Medium",
+    "acRate": 68.9795918367347,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3648",
+    "title": "Minimum Sensors to Cover Grid",
+    "titleSlug": "minimum-sensors-to-cover-grid",
+    "difficulty": "Medium",
+    "acRate": 68.46837482459331,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3649",
+    "title": "Number of Perfect Pairs",
+    "titleSlug": "number-of-perfect-pairs",
+    "difficulty": "Medium",
+    "acRate": 30.277469478357382,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3650",
+    "title": "Minimum Cost Path with Edge Reversals",
+    "titleSlug": "minimum-cost-path-with-edge-reversals",
+    "difficulty": "Medium",
+    "acRate": 45.773518774003506,
+    "topicTags": [],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3651",
+    "title": "Minimum Cost Path with Teleportations",
+    "titleSlug": "minimum-cost-path-with-teleportations",
+    "difficulty": "Hard",
+    "acRate": 17.464508094645083,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3654",
+    "title": "Minimum Sum After Divisible Sum Deletions",
+    "titleSlug": "minimum-sum-after-divisible-sum-deletions",
+    "difficulty": "Medium",
+    "acRate": 26.91465417604477,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3656",
+    "title": "Determine if a Simple Graph Exists",
+    "titleSlug": "determine-if-a-simple-graph-exists",
+    "difficulty": "Medium",
+    "acRate": 56.112852664576806,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3657",
+    "title": "Find Loyal Customers",
+    "titleSlug": "find-loyal-customers",
+    "difficulty": "Medium",
+    "acRate": 65.30078465562337,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3658",
+    "title": "GCD of Odd and Even Sums",
+    "titleSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "acRate": 80.21426373288199,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3659",
+    "title": "Partition Array Into K-Distinct Groups",
+    "titleSlug": "partition-array-into-k-distinct-groups",
+    "difficulty": "Medium",
+    "acRate": 39.97521038554374,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3660",
+    "title": "Jump Game IX",
+    "titleSlug": "jump-game-ix",
+    "difficulty": "Medium",
+    "acRate": 19.126563092080335,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3661",
+    "title": "Maximum Walls Destroyed by Robots",
+    "titleSlug": "maximum-walls-destroyed-by-robots",
+    "difficulty": "Hard",
+    "acRate": 25.703259876104394,
+    "topicTags": [],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3662",
+    "title": "Filter Characters by Frequency",
+    "titleSlug": "filter-characters-by-frequency",
+    "difficulty": "Easy",
+    "acRate": 92.16589861751152,
+    "topicTags": [],
+    "similarQuestions": []
+  }
+]

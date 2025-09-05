@@ -1,0 +1,299 @@
+[
+  {
+    "questionFrontendId": "1044",
+    "title": "Longest Duplicate Substring",
+    "titleSlug": "longest-duplicate-substring",
+    "difficulty": "Hard",
+    "acRate": 30.887869129750428,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 70.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1062",
+    "title": "Longest Repeating Substring",
+    "titleSlug": "longest-repeating-substring",
+    "difficulty": "Medium",
+    "acRate": 63.226984955410835,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 75.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1698",
+    "title": "Number of Distinct Substrings in a String",
+    "titleSlug": "number-of-distinct-substrings-in-a-string",
+    "difficulty": "Medium",
+    "acRate": 64.50350718137138,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dunzo",
+        "frequency": 100.0
+      },
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1923",
+    "title": "Longest Common Subpath",
+    "titleSlug": "longest-common-subpath",
+    "difficulty": "Hard",
+    "acRate": 28.616313454903892,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reconstruct Itinerary",
+        "titleSlug": "reconstruct-itinerary",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Length of Repeated Subarray",
+        "titleSlug": "maximum-length-of-repeated-subarray",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1977",
+    "title": "Number of Ways to Separate Numbers",
+    "titleSlug": "number-of-ways-to-separate-numbers",
+    "difficulty": "Hard",
+    "acRate": 21.06943767927694,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Decode Ways",
+        "titleSlug": "decode-ways",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Decode Ways II",
+        "titleSlug": "decode-ways-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Restore The Array",
+        "titleSlug": "restore-the-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Beautiful Partitions",
+        "titleSlug": "number-of-beautiful-partitions",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Walmart Labs",
+        "frequency": 75.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2223",
+    "title": "Sum of Scores of Built Strings",
+    "titleSlug": "sum-of-scores-of-built-strings",
+    "difficulty": "Hard",
+    "acRate": 42.865449470868704,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Happy Prefix",
+        "titleSlug": "longest-happy-prefix",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3213",
+    "title": "Construct String with Minimum Cost",
+    "titleSlug": "construct-string-with-minimum-cost",
+    "difficulty": "Hard",
+    "acRate": 19.057408023217146,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Suffix Array",
+        "slug": "suffix-array"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Valid Strings to Form Target II",
+        "titleSlug": "minimum-number-of-valid-strings-to-form-target-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Valid Strings to Form Target I",
+        "titleSlug": "minimum-number-of-valid-strings-to-form-target-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Mitsogo",
+        "frequency": 100.0
+      }
+    ]
+  }
+]

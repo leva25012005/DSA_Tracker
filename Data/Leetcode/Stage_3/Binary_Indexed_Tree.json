@@ -1,0 +1,753 @@
+[
+  {
+    "questionFrontendId": "307",
+    "title": "Range Sum Query - Mutable",
+    "titleSlug": "range-sum-query-mutable",
+    "difficulty": "Medium",
+    "acRate": 41.994544508952735,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query - Immutable",
+        "titleSlug": "range-sum-query-immutable",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Range Sum Query 2D - Mutable",
+        "titleSlug": "range-sum-query-2d-mutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 5.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "308",
+    "title": "Range Sum Query 2D - Mutable",
+    "titleSlug": "range-sum-query-2d-mutable",
+    "difficulty": "Medium",
+    "acRate": 44.99226775654479,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query 2D - Immutable",
+        "titleSlug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Range Sum Query - Mutable",
+        "titleSlug": "range-sum-query-mutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Increment Submatrices by One",
+        "titleSlug": "increment-submatrices-by-one",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Matrix After Queries",
+        "titleSlug": "sum-of-matrix-after-queries",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "406",
+    "title": "Queue Reconstruction by Height",
+    "titleSlug": "queue-reconstruction-by-height",
+    "difficulty": "Medium",
+    "acRate": 74.2816279645938,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Reward Top K Students",
+        "titleSlug": "reward-top-k-students",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 67.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "673",
+    "title": "Number of Longest Increasing Subsequence",
+    "titleSlug": "number-of-longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "acRate": 50.478086114140865,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Continuous Increasing Subsequence",
+        "titleSlug": "longest-continuous-increasing-subsequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Increasing Subsequence II",
+        "titleSlug": "longest-increasing-subsequence-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Commvault",
+        "frequency": 82.5
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1157",
+    "title": "Online Majority Element In Subarray",
+    "titleSlug": "online-majority-element-in-subarray",
+    "difficulty": "Hard",
+    "acRate": 39.50649454778704,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1395",
+    "title": "Count Number of Teams",
+    "titleSlug": "count-number-of-teams",
+    "difficulty": "Medium",
+    "acRate": 70.11185708898384,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1505",
+    "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+    "titleSlug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+    "difficulty": "Hard",
+    "acRate": 40.33616264635824,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1964",
+    "title": "Find the Longest Valid Obstacle Course at Each Position",
+    "titleSlug": "find-the-longest-valid-obstacle-course-at-each-position",
+    "difficulty": "Hard",
+    "acRate": 62.54305040116773,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 87.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2193",
+    "title": "Minimum Number of Moves to Make Palindrome",
+    "titleSlug": "minimum-number-of-moves-to-make-palindrome",
+    "difficulty": "Hard",
+    "acRate": 52.25355868920225,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Insertion Steps to Make a String Palindrome",
+        "titleSlug": "minimum-insertion-steps-to-make-a-string-palindrome",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+        "titleSlug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2250",
+    "title": "Count Number of Rectangles Containing Each Point",
+    "titleSlug": "count-number-of-rectangles-containing-each-point",
+    "difficulty": "Medium",
+    "acRate": 36.347861941003664,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Queries on Number of Points Inside a Circle",
+        "titleSlug": "queries-on-number-of-points-inside-a-circle",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2286",
+    "title": "Booking Concert Tickets in Groups",
+    "titleSlug": "booking-concert-tickets-in-groups",
+    "difficulty": "Hard",
+    "acRate": 17.869060190073917,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cinema Seat Allocation",
+        "titleSlug": "cinema-seat-allocation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Increasing Subsequence II",
+        "titleSlug": "longest-increasing-subsequence-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2907",
+    "title": "Maximum Profitable Triplets With Increasing Prices I",
+    "titleSlug": "maximum-profitable-triplets-with-increasing-prices-i",
+    "difficulty": "Medium",
+    "acRate": 54.61133069828722,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 73.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2916",
+    "title": "Subarrays Distinct Element Sum of Squares II",
+    "titleSlug": "subarrays-distinct-element-sum-of-squares-ii",
+    "difficulty": "Hard",
+    "acRate": 21.199030660625855,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2921",
+    "title": "Maximum Profitable Triplets With Increasing Prices II",
+    "titleSlug": "maximum-profitable-triplets-with-increasing-prices-ii",
+    "difficulty": "Hard",
+    "acRate": 44.32647644326476,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2926",
+    "title": "Maximum Balanced Subsequence Sum",
+    "titleSlug": "maximum-balanced-subsequence-sum",
+    "difficulty": "Hard",
+    "acRate": 25.083769325730408,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Pairs Satisfying Inequality",
+        "titleSlug": "number-of-pairs-satisfying-inequality",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3161",
+    "title": "Block Placement Queries",
+    "titleSlug": "block-placement-queries",
+    "difficulty": "Hard",
+    "acRate": 17.393697982447616,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Building Boxes",
+        "titleSlug": "building-boxes",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Fruits Into Baskets III",
+        "titleSlug": "fruits-into-baskets-iii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Capital One",
+        "frequency": 92.0
+      },
+      {
+        "name": "PayPay",
+        "frequency": 73.7
+      },
+      {
+        "name": "Roblox",
+        "frequency": 51.9
+      },
+      {
+        "name": "SIG",
+        "frequency": 71.1
+      },
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3187",
+    "title": "Peaks in Array",
+    "titleSlug": "peaks-in-array",
+    "difficulty": "Hard",
+    "acRate": 26.167403031708446,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Siemens",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3245",
+    "title": "Alternating Groups III",
+    "titleSlug": "alternating-groups-iii",
+    "difficulty": "Hard",
+    "acRate": 15.66011745088088,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3515",
+    "title": "Shortest Path in a Weighted Tree",
+    "titleSlug": "shortest-path-in-a-weighted-tree",
+    "difficulty": "Hard",
+    "acRate": 33.12746081988728,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Juspay",
+        "frequency": 62.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3520",
+    "title": "Minimum Threshold for Inversion Pairs Count",
+    "titleSlug": "minimum-threshold-for-inversion-pairs-count",
+    "difficulty": "Medium",
+    "acRate": 54.092526690391466,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3624",
+    "title": "Number of Integers With Popcount-Depth Equal to K II",
+    "titleSlug": "number-of-integers-with-popcount-depth-equal-to-k-ii",
+    "difficulty": "Hard",
+    "acRate": 37.81702621768625,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

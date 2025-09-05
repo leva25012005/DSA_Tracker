@@ -1,0 +1,1458 @@
+[
+  {
+    "questionFrontendId": "399",
+    "title": "Evaluate Division",
+    "titleSlug": "evaluate-division",
+    "difficulty": "Medium",
+    "acRate": 63.42545319457622,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check for Contradictions in Equations",
+        "titleSlug": "check-for-contradictions-in-equations",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximize Amount After Two Days of Conversions",
+        "titleSlug": "maximize-amount-after-two-days-of-conversions",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BlackRock",
+        "frequency": 82.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 72.3
+      },
+      {
+        "name": "Coinbase",
+        "frequency": 53.1
+      },
+      {
+        "name": "GE Healthcare",
+        "frequency": 95.1
+      },
+      {
+        "name": "Jane Street",
+        "frequency": 56.9
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Nuro",
+        "frequency": 73.6
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Rippling",
+        "frequency": 84.2
+      },
+      {
+        "name": "Snap",
+        "frequency": 59.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Stripe",
+        "frequency": 68.2
+      },
+      {
+        "name": "Zeta",
+        "frequency": 70.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "499",
+    "title": "The Maze III",
+    "titleSlug": "the-maze-iii",
+    "difficulty": "Hard",
+    "acRate": 50.877921215391645,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Maze",
+        "titleSlug": "the-maze",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "The Maze II",
+        "titleSlug": "the-maze-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "505",
+    "title": "The Maze II",
+    "titleSlug": "the-maze-ii",
+    "difficulty": "Medium",
+    "acRate": 54.36378941335555,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Maze",
+        "titleSlug": "the-maze",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "The Maze III",
+        "titleSlug": "the-maze-iii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "743",
+    "title": "Network Delay Time",
+    "titleSlug": "network-delay-time",
+    "difficulty": "Medium",
+    "acRate": 58.34239002409173,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Time When the Network Becomes Idle",
+        "titleSlug": "the-time-when-the-network-becomes-idle",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Second Minimum Time to Reach Destination",
+        "titleSlug": "second-minimum-time-to-reach-destination",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "787",
+    "title": "Cheapest Flights Within K Stops",
+    "titleSlug": "cheapest-flights-within-k-stops",
+    "difficulty": "Medium",
+    "acRate": 40.7508522555667,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Vacation Days",
+        "titleSlug": "maximum-vacation-days",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost to Reach City With Discounts",
+        "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 80.4
+      },
+      {
+        "name": "Cloudera",
+        "frequency": 65.2
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 82.7
+      },
+      {
+        "name": "Snap",
+        "frequency": 69.7
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Stripe",
+        "frequency": 56.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "882",
+    "title": "Reachable Nodes In Subdivided Graph",
+    "titleSlug": "reachable-nodes-in-subdivided-graph",
+    "difficulty": "Hard",
+    "acRate": 51.03024460778407,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find All People With Secret",
+        "titleSlug": "find-all-people-with-secret",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Paths in Maze That Lead to Same Room",
+        "titleSlug": "paths-in-maze-that-lead-to-same-room",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 61.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1334",
+    "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+    "difficulty": "Medium",
+    "acRate": 71.06923828992979,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Second Minimum Time to Reach Destination",
+        "titleSlug": "second-minimum-time-to-reach-destination",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 71.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1368",
+    "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "difficulty": "Hard",
+    "acRate": 70.74927166788055,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Weighted Subgraph With the Required Paths",
+        "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "titleSlug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cleartrip",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1514",
+    "title": "Path with Maximum Probability",
+    "titleSlug": "path-with-maximum-probability",
+    "difficulty": "Medium",
+    "acRate": 65.34175396699534,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Ways to Arrive at Destination",
+        "titleSlug": "number-of-ways-to-arrive-at-destination",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BlackRock",
+        "frequency": 49.2
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1786",
+    "title": "Number of Restricted Paths From First to Last Node",
+    "titleSlug": "number-of-restricted-paths-from-first-to-last-node",
+    "difficulty": "Medium",
+    "acRate": 40.29364842604962,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "All Ancestors of a Node in a Directed Acyclic Graph",
+        "titleSlug": "all-ancestors-of-a-node-in-a-directed-acyclic-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Graph With Shortest Path Calculator",
+        "titleSlug": "design-graph-with-shortest-path-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost of a Path With Special Roads",
+        "titleSlug": "minimum-cost-of-a-path-with-special-roads",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1976",
+    "title": "Number of Ways to Arrive at Destination",
+    "titleSlug": "number-of-ways-to-arrive-at-destination",
+    "difficulty": "Medium",
+    "acRate": 37.23461485745614,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "All Paths From Source to Target",
+        "titleSlug": "all-paths-from-source-to-target",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Path with Maximum Probability",
+        "titleSlug": "path-with-maximum-probability",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Second Minimum Time to Reach Destination",
+        "titleSlug": "second-minimum-time-to-reach-destination",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2045",
+    "title": "Second Minimum Time to Reach Destination",
+    "titleSlug": "second-minimum-time-to-reach-destination",
+    "difficulty": "Hard",
+    "acRate": 62.431181313827345,
+    "topicTags": [
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Network Delay Time",
+        "titleSlug": "network-delay-time",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+        "titleSlug": "find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Ways to Arrive at Destination",
+        "titleSlug": "number-of-ways-to-arrive-at-destination",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2093",
+    "title": "Minimum Cost to Reach City With Discounts",
+    "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+    "difficulty": "Medium",
+    "acRate": 59.928434372244986,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "titleSlug": "cheapest-flights-within-k-stops",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Connecting Cities With Minimum Cost",
+        "titleSlug": "connecting-cities-with-minimum-cost",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Cost of Trip With K Highways",
+        "titleSlug": "maximum-cost-of-trip-with-k-highways",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 81.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2203",
+    "title": "Minimum Weighted Subgraph With the Required Paths",
+    "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+    "difficulty": "Hard",
+    "acRate": 39.10092551784927,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Escape the Spreading Fire",
+        "titleSlug": "escape-the-spreading-fire",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "titleSlug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2290",
+    "title": "Minimum Obstacle Removal to Reach Corner",
+    "titleSlug": "minimum-obstacle-removal-to-reach-corner",
+    "difficulty": "Hard",
+    "acRate": 70.19111639945535,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2297",
+    "title": "Jump Game VIII",
+    "titleSlug": "jump-game-viii",
+    "difficulty": "Medium",
+    "acRate": 44.99305848976881,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Jump Game II",
+        "titleSlug": "jump-game-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game",
+        "titleSlug": "jump-game",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game III",
+        "titleSlug": "jump-game-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game IV",
+        "titleSlug": "jump-game-iv",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Jump Game V",
+        "titleSlug": "jump-game-v",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Jump Game VI",
+        "titleSlug": "jump-game-vi",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game VII",
+        "titleSlug": "jump-game-vii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game VIII",
+        "titleSlug": "jump-game-viii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2473",
+    "title": "Minimum Cost to Buy Apples",
+    "titleSlug": "minimum-cost-to-buy-apples",
+    "difficulty": "Medium",
+    "acRate": 67.02853300028822,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Directi",
+        "frequency": 100.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2577",
+    "title": "Minimum Time to Visit a Cell In a Grid",
+    "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
+    "difficulty": "Hard",
+    "acRate": 56.635322186160884,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Minimum Time to Reach Last Room I",
+        "titleSlug": "find-minimum-time-to-reach-last-room-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Minimum Time to Reach Last Room II",
+        "titleSlug": "find-minimum-time-to-reach-last-room-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2642",
+    "title": "Design Graph With Shortest Path Calculator",
+    "titleSlug": "design-graph-with-shortest-path-calculator",
+    "difficulty": "Hard",
+    "acRate": 64.25657946013354,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Restricted Paths From First to Last Node",
+        "titleSlug": "number-of-restricted-paths-from-first-to-last-node",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Node to Path in Tree",
+        "titleSlug": "closest-node-to-path-in-tree",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nike",
+        "frequency": 81.6
+      },
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2662",
+    "title": "Minimum Cost of a Path With Special Roads",
+    "titleSlug": "minimum-cost-of-a-path-with-special-roads",
+    "difficulty": "Medium",
+    "acRate": 41.121934045299845,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Restricted Paths From First to Last Node",
+        "titleSlug": "number-of-restricted-paths-from-first-to-last-node",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Samsung",
+        "frequency": 87.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2699",
+    "title": "Modify Graph Edge Weights",
+    "titleSlug": "modify-graph-edge-weights",
+    "difficulty": "Hard",
+    "acRate": 55.89717318642189,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2714",
+    "title": "Find Shortest Path with K Hops",
+    "titleSlug": "find-shortest-path-with-k-hops",
+    "difficulty": "Hard",
+    "acRate": 68.42105263157895,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2737",
+    "title": "Find the Closest Marked Node",
+    "titleSlug": "find-the-closest-marked-node",
+    "difficulty": "Medium",
+    "acRate": 65.13881125395939,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2976",
+    "title": "Minimum Cost to Convert String I",
+    "titleSlug": "minimum-cost-to-convert-string-i",
+    "difficulty": "Medium",
+    "acRate": 57.466927667098155,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Can Convert String in K Moves",
+        "titleSlug": "can-convert-string-in-k-moves",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Moves to Convert String",
+        "titleSlug": "minimum-moves-to-convert-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2977",
+    "title": "Minimum Cost to Convert String II",
+    "titleSlug": "minimum-cost-to-convert-string-ii",
+    "difficulty": "Hard",
+    "acRate": 25.900116144018583,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Can Convert String in K Moves",
+        "titleSlug": "can-convert-string-in-k-moves",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Moves to Convert String",
+        "titleSlug": "minimum-moves-to-convert-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Number of Valid Strings to Form Target II",
+        "titleSlug": "minimum-number-of-valid-strings-to-form-target-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Valid Strings to Form Target I",
+        "titleSlug": "minimum-number-of-valid-strings-to-form-target-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3112",
+    "title": "Minimum Time to Visit Disappearing Nodes",
+    "titleSlug": "minimum-time-to-visit-disappearing-nodes",
+    "difficulty": "Medium",
+    "acRate": 36.244297277409856,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Last Marked Nodes in Tree",
+        "titleSlug": "find-the-last-marked-nodes-in-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3123",
+    "title": "Find Edges in Shortest Paths",
+    "titleSlug": "find-edges-in-shortest-paths",
+    "difficulty": "Hard",
+    "acRate": 45.849139589862006,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "WeRide",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3286",
+    "title": "Find a Safe Walk Through a Grid",
+    "titleSlug": "find-a-safe-walk-through-a-grid",
+    "difficulty": "Medium",
+    "acRate": 31.21519461446721,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3341",
+    "title": "Find Minimum Time to Reach Last Room I",
+    "titleSlug": "find-minimum-time-to-reach-last-room-i",
+    "difficulty": "Medium",
+    "acRate": 55.617889822783795,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Time to Visit a Cell In a Grid",
+        "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3342",
+    "title": "Find Minimum Time to Reach Last Room II",
+    "titleSlug": "find-minimum-time-to-reach-last-room-ii",
+    "difficulty": "Medium",
+    "acRate": 68.32196978109431,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Time to Visit a Cell In a Grid",
+        "titleSlug": "minimum-time-to-visit-a-cell-in-a-grid",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3419",
+    "title": "Minimize the Maximum Edge Weight of Graph",
+    "titleSlug": "minimize-the-maximum-edge-weight-of-graph",
+    "difficulty": "Medium",
+    "acRate": 43.065741441115534,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3604",
+    "title": "Minimum Time to Reach Destination in Directed Graph",
+    "titleSlug": "minimum-time-to-reach-destination-in-directed-graph",
+    "difficulty": "Medium",
+    "acRate": 45.69504258006023,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3620",
+    "title": "Network Recovery Pathways",
+    "titleSlug": "network-recovery-pathways",
+    "difficulty": "Hard",
+    "acRate": 30.076771837842898,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

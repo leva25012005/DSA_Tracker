@@ -1,0 +1,30 @@
+[
+  {
+    "questionFrontendId": "1192",
+    "title": "Critical Connections in a Network",
+    "titleSlug": "critical-connections-in-a-network",
+    "difficulty": "Hard",
+    "acRate": 58.43859011192315,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Biconnected Component",
+        "slug": "biconnected-component"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 57.7
+      }
+    ]
+  }
+]

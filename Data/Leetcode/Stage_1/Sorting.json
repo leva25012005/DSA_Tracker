@@ -1,0 +1,4784 @@
+[
+  {
+    "questionFrontendId": "15",
+    "title": "3Sum",
+    "titleSlug": "3sum",
+    "difficulty": "Medium",
+    "acRate": 37.554609328676726,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "3Sum Closest",
+        "titleSlug": "3sum-closest",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "4Sum",
+        "titleSlug": "4sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "3Sum Smaller",
+        "titleSlug": "3sum-smaller",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Arithmetic Triplets",
+        "titleSlug": "number-of-arithmetic-triplets",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Sum of Mountain Triplets I",
+        "titleSlug": "minimum-sum-of-mountain-triplets-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Sum of Mountain Triplets II",
+        "titleSlug": "minimum-sum-of-mountain-triplets-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 68.9
+      },
+      {
+        "name": "Adobe",
+        "frequency": 78.6
+      },
+      {
+        "name": "Agoda",
+        "frequency": 100.0
+      },
+      {
+        "name": "Altimetrik",
+        "frequency": 74.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 76.7
+      },
+      {
+        "name": "AMD",
+        "frequency": 87.5
+      },
+      {
+        "name": "American Express",
+        "frequency": 72.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 66.8
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Barclays",
+        "frequency": 71.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 78.8
+      },
+      {
+        "name": "BNY Mellon",
+        "frequency": 58.8
+      },
+      {
+        "name": "Bosch",
+        "frequency": 100.0
+      },
+      {
+        "name": "Cadence",
+        "frequency": 100.0
+      },
+      {
+        "name": "Careem",
+        "frequency": 89.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 45.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Cloudflare",
+        "frequency": 94.4
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 56.7
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Dream11",
+        "frequency": 72.2
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 66.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Gojek",
+        "frequency": 89.9
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 60.6
+      },
+      {
+        "name": "HCL",
+        "frequency": 75.5
+      },
+      {
+        "name": "Infosys",
+        "frequency": 62.1
+      },
+      {
+        "name": "Intuit",
+        "frequency": 63.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 76.7
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 72.9
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 61.6
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Paytm",
+        "frequency": 67.3
+      },
+      {
+        "name": "Rakuten",
+        "frequency": 100.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 58.6
+      },
+      {
+        "name": "Samsung",
+        "frequency": 66.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "smartnews",
+        "frequency": 78.7
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      },
+      {
+        "name": "tcs",
+        "frequency": 54.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 71.8
+      },
+      {
+        "name": "TikTok",
+        "frequency": 71.0
+      },
+      {
+        "name": "Trexquant",
+        "frequency": 89.2
+      },
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      },
+      {
+        "name": "Uber",
+        "frequency": 57.9
+      },
+      {
+        "name": "Vimeo",
+        "frequency": 66.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 87.4
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 62.8
+      },
+      {
+        "name": "Warnermedia",
+        "frequency": 60.8
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 60.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Works Applications",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 70.3
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 50.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "16",
+    "title": "3Sum Closest",
+    "titleSlug": "3sum-closest",
+    "difficulty": "Medium",
+    "acRate": 47.16932129329451,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "3Sum",
+        "titleSlug": "3sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "3Sum Smaller",
+        "titleSlug": "3sum-smaller",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 40.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 42.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 55.0
+      },
+      {
+        "name": "Google",
+        "frequency": 43.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 40.4
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 31.1
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      },
+      {
+        "name": "Uber",
+        "frequency": 30.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "18",
+    "title": "4Sum",
+    "titleSlug": "4sum",
+    "difficulty": "Medium",
+    "acRate": 38.749647463246745,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "3Sum",
+        "titleSlug": "3sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "4Sum II",
+        "titleSlug": "4sum-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Special Quadruplets",
+        "titleSlug": "count-special-quadruplets",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 40.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 57.6
+      },
+      {
+        "name": "Apple",
+        "frequency": 46.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 57.2
+      },
+      {
+        "name": "Cloudflare",
+        "frequency": 94.4
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 30.9
+      },
+      {
+        "name": "Google",
+        "frequency": 56.4
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Meta",
+        "frequency": 37.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 52.2
+      },
+      {
+        "name": "oyo",
+        "frequency": 100.0
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 33.8
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 39.2
+      },
+      {
+        "name": "TikTok",
+        "frequency": 29.3
+      },
+      {
+        "name": "Uber",
+        "frequency": 25.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      },
+      {
+        "name": "Zoox",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "49",
+    "title": "Group Anagrams",
+    "titleSlug": "group-anagrams",
+    "difficulty": "Medium",
+    "acRate": 71.34401408748565,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Anagram",
+        "titleSlug": "valid-anagram",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Group Shifted Strings",
+        "titleSlug": "group-shifted-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Resultant Array After Removing Anagrams",
+        "titleSlug": "find-resultant-array-after-removing-anagrams",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Anagrams",
+        "titleSlug": "count-anagrams",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Adobe",
+        "frequency": 68.6
+      },
+      {
+        "name": "Affirm",
+        "frequency": 76.6
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 78.9
+      },
+      {
+        "name": "Anduril",
+        "frequency": 88.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 74.2
+      },
+      {
+        "name": "athenahealth",
+        "frequency": 79.6
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 56.8
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 73.1
+      },
+      {
+        "name": "BlackRock",
+        "frequency": 58.6
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 66.9
+      },
+      {
+        "name": "BNY Mellon",
+        "frequency": 75.5
+      },
+      {
+        "name": "BP",
+        "frequency": 100.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "Compass",
+        "frequency": 89.4
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 80.8
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "Dell",
+        "frequency": 100.0
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "eBay",
+        "frequency": 76.7
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 97.6
+      },
+      {
+        "name": "Expedia",
+        "frequency": 71.3
+      },
+      {
+        "name": "Faire",
+        "frequency": 84.1
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 58.9
+      },
+      {
+        "name": "Google",
+        "frequency": 55.4
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 60.6
+      },
+      {
+        "name": "HCL",
+        "frequency": 75.5
+      },
+      {
+        "name": "IBM",
+        "frequency": 50.6
+      },
+      {
+        "name": "Infosys",
+        "frequency": 62.1
+      },
+      {
+        "name": "Intuit",
+        "frequency": 56.8
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 77.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 53.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 69.8
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      },
+      {
+        "name": "MSCI",
+        "frequency": 100.0
+      },
+      {
+        "name": "Myntra",
+        "frequency": 59.7
+      },
+      {
+        "name": "NetApp",
+        "frequency": 87.3
+      },
+      {
+        "name": "Niantic",
+        "frequency": 88.7
+      },
+      {
+        "name": "Nielsen",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 73.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 86.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 82.2
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 64.9
+      },
+      {
+        "name": "Paycom",
+        "frequency": 100.0
+      },
+      {
+        "name": "PayPal",
+        "frequency": 73.4
+      },
+      {
+        "name": "persistent systems",
+        "frequency": 84.6
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Publicis Sapient",
+        "frequency": 88.4
+      },
+      {
+        "name": "Qualtrics",
+        "frequency": 65.5
+      },
+      {
+        "name": "Ripple",
+        "frequency": 100.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 75.1
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 97.9
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "Sigmoid",
+        "frequency": 100.0
+      },
+      {
+        "name": "Smartsheet",
+        "frequency": 89.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Splunk",
+        "frequency": 91.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "Texas Instruments",
+        "frequency": 100.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 53.2
+      },
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      },
+      {
+        "name": "Twilio",
+        "frequency": 56.8
+      },
+      {
+        "name": "Uber",
+        "frequency": 67.8
+      },
+      {
+        "name": "Veeva Systems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Verily",
+        "frequency": 92.3
+      },
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 72.6
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 70.2
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 87.8
+      },
+      {
+        "name": "Wipro",
+        "frequency": 60.1
+      },
+      {
+        "name": "Workday",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 54.4
+      },
+      {
+        "name": "Yandex",
+        "frequency": 76.6
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 94.4
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "56",
+    "title": "Merge Intervals",
+    "titleSlug": "merge-intervals",
+    "difficulty": "Medium",
+    "acRate": 49.80753789963447,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Insert Interval",
+        "titleSlug": "insert-interval",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Meeting Rooms",
+        "titleSlug": "meeting-rooms",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Teemo Attacking",
+        "titleSlug": "teemo-attacking",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Add Bold Tag in String",
+        "titleSlug": "add-bold-tag-in-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Range Module",
+        "titleSlug": "range-module",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Employee Free Time",
+        "titleSlug": "employee-free-time",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Partition Labels",
+        "titleSlug": "partition-labels",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Interval List Intersections",
+        "titleSlug": "interval-list-intersections",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Amount of New Area Painted Each Day",
+        "titleSlug": "amount-of-new-area-painted-each-day",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Substring of One Repeating Character",
+        "titleSlug": "longest-substring-of-one-repeating-character",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Integers in Intervals",
+        "titleSlug": "count-integers-in-intervals",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Divide Intervals Into Minimum Number of Groups",
+        "titleSlug": "divide-intervals-into-minimum-number-of-groups",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Determine if Two Events Have Conflict",
+        "titleSlug": "determine-if-two-events-have-conflict",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Ways to Group Overlapping Ranges",
+        "titleSlug": "count-ways-to-group-overlapping-ranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Points That Intersect With Cars",
+        "titleSlug": "points-that-intersect-with-cars",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Days Without Meetings",
+        "titleSlug": "count-days-without-meetings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimize Connected Groups by Inserting Interval",
+        "titleSlug": "minimize-connected-groups-by-inserting-interval",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 55.3
+      },
+      {
+        "name": "Adobe",
+        "frequency": 52.3
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 36.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 75.8
+      },
+      {
+        "name": "AMD",
+        "frequency": 87.5
+      },
+      {
+        "name": "Anduril",
+        "frequency": 69.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 74.2
+      },
+      {
+        "name": "Applied Intuition",
+        "frequency": 100.0
+      },
+      {
+        "name": "athenahealth",
+        "frequency": 73.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 61.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 85.7
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 65.1
+      },
+      {
+        "name": "Cadence",
+        "frequency": 100.0
+      },
+      {
+        "name": "Capital One",
+        "frequency": 49.0
+      },
+      {
+        "name": "CARS24",
+        "frequency": 77.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 65.1
+      },
+      {
+        "name": "Citadel",
+        "frequency": 70.0
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 80.8
+      },
+      {
+        "name": "CrowdStrike",
+        "frequency": 77.0
+      },
+      {
+        "name": "Cruise",
+        "frequency": 74.0
+      },
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 59.5
+      },
+      {
+        "name": "Disney",
+        "frequency": 100.0
+      },
+      {
+        "name": "Docusign",
+        "frequency": 84.8
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 61.9
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 48.6
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 100.0
+      },
+      {
+        "name": "Grubhub",
+        "frequency": 100.0
+      },
+      {
+        "name": "Hubspot",
+        "frequency": 87.1
+      },
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      },
+      {
+        "name": "Infosys",
+        "frequency": 62.1
+      },
+      {
+        "name": "Instacart",
+        "frequency": 60.1
+      },
+      {
+        "name": "IXL",
+        "frequency": 86.4
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 72.4
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 61.0
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 70.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 46.5
+      },
+      {
+        "name": "Meta",
+        "frequency": 84.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 73.8
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 71.2
+      },
+      {
+        "name": "Moveworks",
+        "frequency": 52.0
+      },
+      {
+        "name": "Netflix",
+        "frequency": 100.0
+      },
+      {
+        "name": "Netskope",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nextdoor",
+        "frequency": 78.9
+      },
+      {
+        "name": "Nielsen",
+        "frequency": 88.7
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 73.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 67.4
+      },
+      {
+        "name": "Okta",
+        "frequency": 87.9
+      },
+      {
+        "name": "Oracle",
+        "frequency": 85.1
+      },
+      {
+        "name": "Ozon",
+        "frequency": 91.8
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 64.3
+      },
+      {
+        "name": "PayPal",
+        "frequency": 62.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "razorpay",
+        "frequency": 72.6
+      },
+      {
+        "name": "Ripple",
+        "frequency": 100.0
+      },
+      {
+        "name": "Rivian",
+        "frequency": 88.3
+      },
+      {
+        "name": "Roblox",
+        "frequency": 75.1
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 80.4
+      },
+      {
+        "name": "Samsung",
+        "frequency": 54.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 79.4
+      },
+      {
+        "name": "Siemens",
+        "frequency": 82.9
+      },
+      {
+        "name": "Snap",
+        "frequency": 59.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Synopsys",
+        "frequency": 100.0
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      },
+      {
+        "name": "Tesco",
+        "frequency": 100.0
+      },
+      {
+        "name": "Tesla",
+        "frequency": 89.6
+      },
+      {
+        "name": "TikTok",
+        "frequency": 89.6
+      },
+      {
+        "name": "Turing",
+        "frequency": 57.5
+      },
+      {
+        "name": "Uber",
+        "frequency": 51.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 64.6
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 81.5
+      },
+      {
+        "name": "Wix",
+        "frequency": 91.3
+      },
+      {
+        "name": "Workday",
+        "frequency": 88.0
+      },
+      {
+        "name": "X",
+        "frequency": 94.2
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 61.1
+      },
+      {
+        "name": "Yandex",
+        "frequency": 77.6
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zalando",
+        "frequency": 62.2
+      },
+      {
+        "name": "Zepto",
+        "frequency": 100.0
+      },
+      {
+        "name": "Zoho",
+        "frequency": 85.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "75",
+    "title": "Sort Colors",
+    "titleSlug": "sort-colors",
+    "difficulty": "Medium",
+    "acRate": 68.1470798555917,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort List",
+        "titleSlug": "sort-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Wiggle Sort",
+        "titleSlug": "wiggle-sort",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Wiggle Sort II",
+        "titleSlug": "wiggle-sort-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 49.0
+      },
+      {
+        "name": "Amazon",
+        "frequency": 56.4
+      },
+      {
+        "name": "Apple",
+        "frequency": 47.8
+      },
+      {
+        "name": "Arcesium",
+        "frequency": 57.8
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 52.6
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Docusign",
+        "frequency": 77.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 58.7
+      },
+      {
+        "name": "Groww",
+        "frequency": 64.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 51.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 65.8
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Optum",
+        "frequency": 64.3
+      },
+      {
+        "name": "Oracle",
+        "frequency": 51.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 53.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 80.5
+      },
+      {
+        "name": "Target",
+        "frequency": 100.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 49.7
+      },
+      {
+        "name": "TikTok",
+        "frequency": 64.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 25.0
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 69.8
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 50.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "88",
+    "title": "Merge Sorted Array",
+    "titleSlug": "merge-sorted-array",
+    "difficulty": "Easy",
+    "acRate": 53.42595156432447,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Squares of a Sorted Array",
+        "titleSlug": "squares-of-a-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Interval List Intersections",
+        "titleSlug": "interval-list-intersections",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Take K of Each Character From Left and Right",
+        "titleSlug": "take-k-of-each-character-from-left-and-right",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 75.0
+      },
+      {
+        "name": "Adobe",
+        "frequency": 71.6
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 81.4
+      },
+      {
+        "name": "Apple",
+        "frequency": 73.8
+      },
+      {
+        "name": "athenahealth",
+        "frequency": 64.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 37.1
+      },
+      {
+        "name": "Avito",
+        "frequency": 61.6
+      },
+      {
+        "name": "Barclays",
+        "frequency": 61.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 81.4
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Canonical",
+        "frequency": 65.6
+      },
+      {
+        "name": "Cisco",
+        "frequency": 49.7
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 56.7
+      },
+      {
+        "name": "Criteo",
+        "frequency": 72.2
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 79.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      },
+      {
+        "name": "HCL",
+        "frequency": 86.3
+      },
+      {
+        "name": "Hubspot",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 59.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 80.2
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 37.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 88.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 83.7
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 39.7
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 62.0
+      },
+      {
+        "name": "persistent systems",
+        "frequency": 64.2
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Squarespace",
+        "frequency": 100.0
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 75.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 56.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 53.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 61.8
+      },
+      {
+        "name": "Virtusa",
+        "frequency": 66.2
+      },
+      {
+        "name": "VK",
+        "frequency": 83.2
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wipro",
+        "frequency": 60.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 69.0
+      },
+      {
+        "name": "Yandex",
+        "frequency": 64.4
+      },
+      {
+        "name": "Zoho",
+        "frequency": 62.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "147",
+    "title": "Insertion Sort List",
+    "titleSlug": "insertion-sort-list",
+    "difficulty": "Medium",
+    "acRate": 56.99970212112967,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort List",
+        "titleSlug": "sort-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Insert into a Sorted Circular Linked List",
+        "titleSlug": "insert-into-a-sorted-circular-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 20.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "217",
+    "title": "Contains Duplicate",
+    "titleSlug": "contains-duplicate",
+    "difficulty": "Easy",
+    "acRate": 63.48825473385933,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Contains Duplicate II",
+        "titleSlug": "contains-duplicate-ii",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Contains Duplicate III",
+        "titleSlug": "contains-duplicate-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Make Array Zero by Subtracting Equal Amounts",
+        "titleSlug": "make-array-zero-by-subtracting-equal-amounts",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Valid Pair of Adjacent Digits in String",
+        "titleSlug": "find-valid-pair-of-adjacent-digits-in-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "Nagarro",
+        "frequency": 63.8
+      },
+      {
+        "name": "Netflix",
+        "frequency": 57.2
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 78.7
+      },
+      {
+        "name": "Paycom",
+        "frequency": 89.7
+      },
+      {
+        "name": "Siemens",
+        "frequency": 70.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 46.8
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "242",
+    "title": "Valid Anagram",
+    "titleSlug": "valid-anagram",
+    "difficulty": "Easy",
+    "acRate": 67.04723675535939,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Palindrome Permutation",
+        "titleSlug": "palindrome-permutation",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find All Anagrams in a String",
+        "titleSlug": "find-all-anagrams-in-a-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Resultant Array After Removing Anagrams",
+        "titleSlug": "find-resultant-array-after-removing-anagrams",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 65.1
+      },
+      {
+        "name": "Affirm",
+        "frequency": 65.6
+      },
+      {
+        "name": "American Express",
+        "frequency": 72.9
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "BlackRock",
+        "frequency": 41.7
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 73.4
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 80.8
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 84.5
+      },
+      {
+        "name": "Fidelity",
+        "frequency": 64.4
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Google",
+        "frequency": 51.4
+      },
+      {
+        "name": "Infosys",
+        "frequency": 67.9
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 86.5
+      },
+      {
+        "name": "Nagarro",
+        "frequency": 63.8
+      },
+      {
+        "name": "Nokia",
+        "frequency": 88.3
+      },
+      {
+        "name": "Oracle",
+        "frequency": 51.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 53.0
+      },
+      {
+        "name": "persistent systems",
+        "frequency": 64.2
+      },
+      {
+        "name": "Rokt",
+        "frequency": 89.8
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "tcs",
+        "frequency": 56.4
+      },
+      {
+        "name": "Tech Mahindra",
+        "frequency": 88.9
+      },
+      {
+        "name": "Tesla",
+        "frequency": 64.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wipro",
+        "frequency": 70.1
+      },
+      {
+        "name": "Yandex",
+        "frequency": 40.1
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "252",
+    "title": "Meeting Rooms",
+    "titleSlug": "meeting-rooms",
+    "difficulty": "Easy",
+    "acRate": 59.04972340365361,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Meeting Rooms III",
+        "titleSlug": "meeting-rooms-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Points That Intersect With Cars",
+        "titleSlug": "points-that-intersect-with-cars",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 64.9
+      },
+      {
+        "name": "Turo",
+        "frequency": 88.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "360",
+    "title": "Sort Transformed Array",
+    "titleSlug": "sort-transformed-array",
+    "difficulty": "Medium",
+    "acRate": 57.24420944639546,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Squares of a Sorted Array",
+        "titleSlug": "squares-of-a-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Time to Repair Cars",
+        "titleSlug": "minimum-time-to-repair-cars",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 61.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "414",
+    "title": "Third Maximum Number",
+    "titleSlug": "third-maximum-number",
+    "difficulty": "Easy",
+    "acRate": 37.677374309692816,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Neither Minimum nor Maximum",
+        "titleSlug": "neither-minimum-nor-maximum",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "462",
+    "title": "Minimum Moves to Equal Array Elements II",
+    "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+    "difficulty": "Medium",
+    "acRate": 61.120041783942206,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Best Meeting Point",
+        "titleSlug": "best-meeting-point",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Moves to Equal Array Elements",
+        "titleSlug": "minimum-moves-to-equal-array-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make a Uni-Value Grid",
+        "titleSlug": "minimum-operations-to-make-a-uni-value-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Removing Minimum Number of Magic Beans",
+        "titleSlug": "removing-minimum-number-of-magic-beans",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost to Make Array Equal",
+        "titleSlug": "minimum-cost-to-make-array-equal",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Operations to Make All Array Elements Equal",
+        "titleSlug": "minimum-operations-to-make-all-array-elements-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost to Make Array Equalindromic",
+        "titleSlug": "minimum-cost-to-make-array-equalindromic",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Subarray Elements Equal",
+        "titleSlug": "minimum-operations-to-make-subarray-elements-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+        "titleSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Myntra",
+        "frequency": 59.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "522",
+    "title": "Longest Uncommon Subsequence II",
+    "titleSlug": "longest-uncommon-subsequence-ii",
+    "difficulty": "Medium",
+    "acRate": 43.51484696849538,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Uncommon Subsequence I",
+        "titleSlug": "longest-uncommon-subsequence-i",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "524",
+    "title": "Longest Word in Dictionary through Deleting",
+    "titleSlug": "longest-word-in-dictionary-through-deleting",
+    "difficulty": "Medium",
+    "acRate": 52.065818243987,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Word in Dictionary",
+        "titleSlug": "longest-word-in-dictionary",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "539",
+    "title": "Minimum Time Difference",
+    "titleSlug": "minimum-time-difference",
+    "difficulty": "Medium",
+    "acRate": 62.43950923352223,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Set Cooking Time",
+        "titleSlug": "minimum-cost-to-set-cooking-time",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "carwale",
+        "frequency": 65.2
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 82.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 45.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "628",
+    "title": "Maximum Product of Three Numbers",
+    "titleSlug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "acRate": 45.42027877067841,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Product Subarray",
+        "titleSlug": "maximum-product-subarray",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "FreshWorks",
+        "frequency": 87.8
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 91.3
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 62.3
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "726",
+    "title": "Number of Atoms",
+    "titleSlug": "number-of-atoms",
+    "difficulty": "Hard",
+    "acRate": 65.00894365291157,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Decode String",
+        "titleSlug": "decode-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Encode String with Shortest Length",
+        "titleSlug": "encode-string-with-shortest-length",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "titleSlug": "parse-lisp-expression",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Confluent",
+        "frequency": 51.1
+      },
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Fastenal",
+        "frequency": 89.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "747",
+    "title": "Largest Number At Least Twice of Others",
+    "titleSlug": "largest-number-at-least-twice-of-others",
+    "difficulty": "Easy",
+    "acRate": 51.15657932296248,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Keep Multiplying Found Values by Two",
+        "titleSlug": "keep-multiplying-found-values-by-two",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "titleSlug": "largest-number-after-digit-swaps-by-parity",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "791",
+    "title": "Custom Sort String",
+    "titleSlug": "custom-sort-string",
+    "difficulty": "Medium",
+    "acRate": 72.11366948334805,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort the Students by Their Kth Score",
+        "titleSlug": "sort-the-students-by-their-kth-score",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "833",
+    "title": "Find And Replace in String",
+    "titleSlug": "find-and-replace-in-string",
+    "difficulty": "Medium",
+    "acRate": 51.18849914758313,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "891",
+    "title": "Sum of Subsequence Widths",
+    "titleSlug": "sum-of-subsequence-widths",
+    "difficulty": "Hard",
+    "acRate": 39.33324862615546,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "893",
+    "title": "Groups of Special-Equivalent Strings",
+    "titleSlug": "groups-of-special-equivalent-strings",
+    "difficulty": "Medium",
+    "acRate": 73.02742244650472,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "899",
+    "title": "Orderly Queue",
+    "titleSlug": "orderly-queue",
+    "difficulty": "Hard",
+    "acRate": 66.38441855767289,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "905",
+    "title": "Sort Array By Parity",
+    "titleSlug": "sort-array-by-parity",
+    "difficulty": "Easy",
+    "acRate": 76.34182306614517,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Array By Parity II",
+        "titleSlug": "sort-array-by-parity-ii",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Even and Odd Indices Independently",
+        "titleSlug": "sort-even-and-odd-indices-independently",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "titleSlug": "largest-number-after-digit-swaps-by-parity",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DXC Technology",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "922",
+    "title": "Sort Array By Parity II",
+    "titleSlug": "sort-array-by-parity-ii",
+    "difficulty": "Easy",
+    "acRate": 71.06564804649071,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Array By Parity",
+        "titleSlug": "sort-array-by-parity",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Rearrange Array Elements by Sign",
+        "titleSlug": "rearrange-array-elements-by-sign",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Even and Odd Indices Independently",
+        "titleSlug": "sort-even-and-odd-indices-independently",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "titleSlug": "largest-number-after-digit-swaps-by-parity",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Number of K-Even Arrays",
+        "titleSlug": "find-the-number-of-k-even-arrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "937",
+    "title": "Reorder Data in Log Files",
+    "titleSlug": "reorder-data-in-log-files",
+    "difficulty": "Medium",
+    "acRate": 56.811636987088775,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "977",
+    "title": "Squares of a Sorted Array",
+    "titleSlug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "acRate": 73.31497533748743,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Transformed Array",
+        "titleSlug": "sort-transformed-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "CrowdStrike",
+        "frequency": 67.5
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 51.7
+      },
+      {
+        "name": "Instacart",
+        "frequency": 74.9
+      },
+      {
+        "name": "Ozon",
+        "frequency": 91.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 57.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 53.1
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 78.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1040",
+    "title": "Moving Stones Until Consecutive II",
+    "titleSlug": "moving-stones-until-consecutive-ii",
+    "difficulty": "Medium",
+    "acRate": 57.787946814021765,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1133",
+    "title": "Largest Unique Number",
+    "titleSlug": "largest-unique-number",
+    "difficulty": "Easy",
+    "acRate": 70.83809787398306,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1152",
+    "title": "Analyze User Website Visit Pattern",
+    "titleSlug": "analyze-user-website-visit-pattern",
+    "difficulty": "Medium",
+    "acRate": 43.86857757729339,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 30.9
+      },
+      {
+        "name": "Spotify",
+        "frequency": 85.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1169",
+    "title": "Invalid Transactions",
+    "titleSlug": "invalid-transactions",
+    "difficulty": "Medium",
+    "acRate": 31.3221049828579,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1181",
+    "title": "Before and After Puzzle",
+    "titleSlug": "before-and-after-puzzle",
+    "difficulty": "Medium",
+    "acRate": 50.871379479626896,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1200",
+    "title": "Minimum Absolute Difference",
+    "titleSlug": "minimum-absolute-difference",
+    "difficulty": "Easy",
+    "acRate": 70.7990913805967,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimize the Maximum Difference of Pairs",
+        "titleSlug": "minimize-the-maximum-difference-of-pairs",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 82.9
+      },
+      {
+        "name": "Audible",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 81.1
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 82.9
+      },
+      {
+        "name": "Paycom",
+        "frequency": 89.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 62.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1229",
+    "title": "Meeting Scheduler",
+    "titleSlug": "meeting-scheduler",
+    "difficulty": "Medium",
+    "acRate": 55.19533113648215,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Two 2D Arrays by Summing Values",
+        "titleSlug": "merge-two-2d-arrays-by-summing-values",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Reschedule Meetings for Maximum Free Time I",
+        "titleSlug": "reschedule-meetings-for-maximum-free-time-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "Datadog",
+        "frequency": 82.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 75.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1288",
+    "title": "Remove Covered Intervals",
+    "titleSlug": "remove-covered-intervals",
+    "difficulty": "Medium",
+    "acRate": 56.16664518033959,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1331",
+    "title": "Rank Transform of an Array",
+    "titleSlug": "rank-transform-of-an-array",
+    "difficulty": "Easy",
+    "acRate": 70.70234439732904,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rank Transform of a Matrix",
+        "titleSlug": "rank-transform-of-a-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find Target Indices After Sorting Array",
+        "titleSlug": "find-target-indices-after-sorting-array",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1333",
+    "title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "titleSlug": "filter-restaurants-by-vegan-friendly-price-and-distance",
+    "difficulty": "Medium",
+    "acRate": 63.497146537381255,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Yelp",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1451",
+    "title": "Rearrange Words in a Sentence",
+    "titleSlug": "rearrange-words-in-a-sentence",
+    "difficulty": "Medium",
+    "acRate": 66.13620071684588,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1460",
+    "title": "Make Two Arrays Equal by Reversing Subarrays",
+    "titleSlug": "make-two-arrays-equal-by-reversing-subarrays",
+    "difficulty": "Easy",
+    "acRate": 75.81643236988238,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1471",
+    "title": "The k Strongest Values in an Array",
+    "titleSlug": "the-k-strongest-values-in-an-array",
+    "difficulty": "Medium",
+    "acRate": 62.080522853910935,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1491",
+    "title": "Average Salary Excluding the Minimum and Maximum Salary",
+    "titleSlug": "average-salary-excluding-the-minimum-and-maximum-salary",
+    "difficulty": "Easy",
+    "acRate": 63.43910413878394,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Netsuite",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1502",
+    "title": "Can Make Arithmetic Progression From Sequence",
+    "titleSlug": "can-make-arithmetic-progression-from-sequence",
+    "difficulty": "Easy",
+    "acRate": 69.44556220175423,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Arithmetic Subarrays",
+        "titleSlug": "arithmetic-subarrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1604",
+    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "titleSlug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+    "difficulty": "Medium",
+    "acRate": 45.980156312914914,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Karat",
+        "frequency": 80.2
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 92.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1619",
+    "title": "Mean of Array After Removing Some Elements",
+    "titleSlug": "mean-of-array-after-removing-some-elements",
+    "difficulty": "Easy",
+    "acRate": 70.713681656065,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1630",
+    "title": "Arithmetic Subarrays",
+    "titleSlug": "arithmetic-subarrays",
+    "difficulty": "Medium",
+    "acRate": 83.74773094409379,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Arithmetic Slices",
+        "titleSlug": "arithmetic-slices",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Can Make Arithmetic Progression From Sequence",
+        "titleSlug": "can-make-arithmetic-progression-from-sequence",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1636",
+    "title": "Sort Array by Increasing Frequency",
+    "titleSlug": "sort-array-by-increasing-frequency",
+    "difficulty": "Easy",
+    "acRate": 80.38120739161837,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Divide Array Into Equal Pairs",
+        "titleSlug": "divide-array-into-equal-pairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Most Frequent Number Following Key In an Array",
+        "titleSlug": "most-frequent-number-following-key-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Number of Pairs in Array",
+        "titleSlug": "maximum-number-of-pairs-in-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Node With Highest Edge Score",
+        "titleSlug": "node-with-highest-edge-score",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort the People",
+        "titleSlug": "sort-the-people",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Akuna Capital",
+        "frequency": 57.7
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1637",
+    "title": "Widest Vertical Area Between Two Points Containing No Points",
+    "titleSlug": "widest-vertical-area-between-two-points-containing-no-points",
+    "difficulty": "Easy",
+    "acRate": 87.10127220453379,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Gap",
+        "titleSlug": "maximum-gap",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Consecutive Floors Without Special Floors",
+        "titleSlug": "maximum-consecutive-floors-without-special-floors",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "General Motors",
+        "frequency": 56.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1679",
+    "title": "Max Number of K-Sum Pairs",
+    "titleSlug": "max-number-of-k-sum-pairs",
+    "difficulty": "Medium",
+    "acRate": 56.52524720808842,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Good Meals",
+        "titleSlug": "count-good-meals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Divide Players Into Teams of Equal Skill",
+        "titleSlug": "divide-players-into-teams-of-equal-skill",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 79.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1772",
+    "title": "Sort Features by Popularity",
+    "titleSlug": "sort-features-by-popularity",
+    "difficulty": "Medium",
+    "acRate": 66.06545184083302,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "titleSlug": "top-k-frequent-words",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1840",
+    "title": "Maximum Building Height",
+    "titleSlug": "maximum-building-height",
+    "difficulty": "Hard",
+    "acRate": 37.84469778446978,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dataminr",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1859",
+    "title": "Sorting the Sentence",
+    "titleSlug": "sorting-the-sentence",
+    "difficulty": "Easy",
+    "acRate": 83.86835240758583,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if Numbers Are Ascending in a Sentence",
+        "titleSlug": "check-if-numbers-are-ascending-in-a-sentence",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1887",
+    "title": "Reduction Operations to Make the Array Elements Equal",
+    "titleSlug": "reduction-operations-to-make-the-array-elements-equal",
+    "difficulty": "Medium",
+    "acRate": 72.33684149905697,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1913",
+    "title": "Maximum Product Difference Between Two Pairs",
+    "titleSlug": "maximum-product-difference-between-two-pairs",
+    "difficulty": "Easy",
+    "acRate": 82.93432147446617,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1943",
+    "title": "Describe the Painting",
+    "titleSlug": "describe-the-painting",
+    "difficulty": "Medium",
+    "acRate": 51.359381964046946,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Average Height of Buildings in Each Segment",
+        "titleSlug": "average-height-of-buildings-in-each-segment",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Amount of New Area Painted Each Day",
+        "titleSlug": "amount-of-new-area-painted-each-day",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1984",
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "titleSlug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+    "difficulty": "Easy",
+    "acRate": 58.93859525581957,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Array Partition",
+        "titleSlug": "array-partition",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Tinkoff",
+        "frequency": 67.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2046",
+    "title": "Sort Linked List Already Sorted Using Absolute Values",
+    "titleSlug": "sort-linked-list-already-sorted-using-absolute-values",
+    "difficulty": "Medium",
+    "acRate": 66.98041692987996,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort List",
+        "titleSlug": "sort-list",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2164",
+    "title": "Sort Even and Odd Indices Independently",
+    "titleSlug": "sort-even-and-odd-indices-independently",
+    "difficulty": "Easy",
+    "acRate": 62.81525512241575,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Array By Parity",
+        "titleSlug": "sort-array-by-parity",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Array By Parity II",
+        "titleSlug": "sort-array-by-parity-ii",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zoho",
+        "frequency": 82.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2165",
+    "title": "Smallest Value of the Rearranged Number",
+    "titleSlug": "smallest-value-of-the-rearranged-number",
+    "difficulty": "Medium",
+    "acRate": 52.93731500047741,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Number",
+        "titleSlug": "largest-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cognizant",
+        "frequency": 95.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2191",
+    "title": "Sort the Jumbled Numbers",
+    "titleSlug": "sort-the-jumbled-numbers",
+    "difficulty": "Medium",
+    "acRate": 59.98309681984355,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Map Sum Pairs",
+        "titleSlug": "map-sum-pairs",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2229",
+    "title": "Check if an Array Is Consecutive",
+    "titleSlug": "check-if-an-array-is-consecutive",
+    "difficulty": "Easy",
+    "acRate": 61.744293001087044,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Longest Consecutive Sequence",
+        "titleSlug": "binary-tree-longest-consecutive-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Longest Consecutive Sequence II",
+        "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Consecutive Characters",
+        "titleSlug": "consecutive-characters",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2273",
+    "title": "Find Resultant Array After Removing Anagrams",
+    "titleSlug": "find-resultant-array-after-removing-anagrams",
+    "difficulty": "Easy",
+    "acRate": 59.86533526062716,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Valid Anagram",
+        "titleSlug": "valid-anagram",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 68.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2274",
+    "title": "Maximum Consecutive Floors Without Special Floors",
+    "titleSlug": "maximum-consecutive-floors-without-special-floors",
+    "difficulty": "Medium",
+    "acRate": 52.24325129288171,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Consecutive Sequence",
+        "titleSlug": "longest-consecutive-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Gap",
+        "titleSlug": "maximum-gap",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Widest Vertical Area Between Two Points Containing No Points",
+        "titleSlug": "widest-vertical-area-between-two-points-containing-no-points",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2418",
+    "title": "Sort the People",
+    "titleSlug": "sort-the-people",
+    "difficulty": "Easy",
+    "acRate": 84.7949624814797,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "titleSlug": "sort-array-by-increasing-frequency",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort the Students by Their Kth Score",
+        "titleSlug": "sort-the-students-by-their-kth-score",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2441",
+    "title": "Largest Positive Integer That Exists With Its Negative",
+    "titleSlug": "largest-positive-integer-that-exists-with-its-negative",
+    "difficulty": "Easy",
+    "acRate": 74.57247863500169,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2465",
+    "title": "Number of Distinct Averages",
+    "titleSlug": "number-of-distinct-averages",
+    "difficulty": "Easy",
+    "acRate": 58.596325953838914,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Finding Pairs With a Certain Sum",
+        "titleSlug": "finding-pairs-with-a-certain-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Average of Smallest and Largest Elements",
+        "titleSlug": "minimum-average-of-smallest-and-largest-elements",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2475",
+    "title": "Number of Unequal Triplets in Array",
+    "titleSlug": "number-of-unequal-triplets-in-array",
+    "difficulty": "Easy",
+    "acRate": 72.75979039900743,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Good Triplets",
+        "titleSlug": "count-good-triplets",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Square Sum Triples",
+        "titleSlug": "count-square-sum-triples",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Arithmetic Triplets",
+        "titleSlug": "number-of-arithmetic-triplets",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Paytm",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2491",
+    "title": "Divide Players Into Teams of Equal Skill",
+    "titleSlug": "divide-players-into-teams-of-equal-skill",
+    "difficulty": "Medium",
+    "acRate": 68.93271395185457,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Moves to Equal Array Elements",
+        "titleSlug": "minimum-moves-to-equal-array-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Number of K-Sum Pairs",
+        "titleSlug": "max-number-of-k-sum-pairs",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 50.6
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2580",
+    "title": "Count Ways to Group Overlapping Ranges",
+    "titleSlug": "count-ways-to-group-overlapping-ranges",
+    "difficulty": "Medium",
+    "acRate": 38.37456215176319,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 85.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2655",
+    "title": "Find Maximal Uncovered Ranges",
+    "titleSlug": "find-maximal-uncovered-ranges",
+    "difficulty": "Medium",
+    "acRate": 49.477871705619094,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Missing Ranges",
+        "titleSlug": "missing-ranges",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Summary Ranges",
+        "titleSlug": "summary-ranges",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if All the Integers in a Range Are Covered",
+        "titleSlug": "check-if-all-the-integers-in-a-range-are-covered",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2733",
+    "title": "Neither Minimum nor Maximum",
+    "titleSlug": "neither-minimum-nor-maximum",
+    "difficulty": "Easy",
+    "acRate": 76.12147864163424,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Third Maximum Number",
+        "titleSlug": "third-maximum-number",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2740",
+    "title": "Find the Value of the Partition",
+    "titleSlug": "find-the-value-of-the-partition",
+    "difficulty": "Medium",
+    "acRate": 64.45477950336351,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2747",
+    "title": "Count Zero Request Servers",
+    "titleSlug": "count-zero-request-servers",
+    "difficulty": "Medium",
+    "acRate": 34.796929865448554,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DP world",
+        "frequency": 100.0
+      },
+      {
+        "name": "Flexport",
+        "frequency": 61.2
+      },
+      {
+        "name": "Honeywell",
+        "frequency": 75.5
+      },
+      {
+        "name": "LTI",
+        "frequency": 88.8
+      },
+      {
+        "name": "Zomato",
+        "frequency": 69.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2780",
+    "title": "Minimum Index of a Valid Split",
+    "titleSlug": "minimum-index-of-a-valid-split",
+    "difficulty": "Medium",
+    "acRate": 75.53515067551379,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Partition Array into Disjoint Intervals",
+        "titleSlug": "partition-array-into-disjoint-intervals",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2784",
+    "title": "Check if Array is Good",
+    "titleSlug": "check-if-array-is-good",
+    "difficulty": "Easy",
+    "acRate": 48.4836774946665,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2785",
+    "title": "Sort Vowels in a String",
+    "titleSlug": "sort-vowels-in-a-string",
+    "difficulty": "Medium",
+    "acRate": 79.53588627850861,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Vowels of a String",
+        "titleSlug": "reverse-vowels-of-a-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2840",
+    "title": "Check if Strings Can be Made Equal With Operations II",
+    "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii",
+    "difficulty": "Medium",
+    "acRate": 55.48365564682105,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Citrix",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2933",
+    "title": "High-Access Employees",
+    "titleSlug": "high-access-employees",
+    "difficulty": "Medium",
+    "acRate": 46.549028712947916,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 71.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2943",
+    "title": "Maximize Area of Square Hole in Grid",
+    "titleSlug": "maximize-area-of-square-hole-in-grid",
+    "difficulty": "Medium",
+    "acRate": 37.27498783718039,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximal Square",
+        "titleSlug": "maximal-square",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Square Area by Removing Fences From a Field",
+        "titleSlug": "maximum-square-area-by-removing-fences-from-a-field",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Swiggy",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2996",
+    "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "acRate": 34.20946093239077,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Next Greater Element I",
+        "titleSlug": "next-greater-element-i",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3024",
+    "title": "Type of Triangle",
+    "titleSlug": "type-of-triangle",
+    "difficulty": "Easy",
+    "acRate": 44.515600836896205,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3169",
+    "title": "Count Days Without Meetings",
+    "titleSlug": "count-days-without-meetings",
+    "difficulty": "Medium",
+    "acRate": 47.9412706076371,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3194",
+    "title": "Minimum Average of Smallest and Largest Elements",
+    "titleSlug": "minimum-average-of-smallest-and-largest-elements",
+    "difficulty": "Easy",
+    "acRate": 85.0006662817039,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Distinct Averages",
+        "titleSlug": "number-of-distinct-averages",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3365",
+    "title": "Rearrange K Substrings to Form Target String",
+    "titleSlug": "rearrange-k-substrings-to-form-target-string",
+    "difficulty": "Medium",
+    "acRate": 56.33216663821069,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3394",
+    "title": "Check if Grid can be Cut into Sections",
+    "titleSlug": "check-if-grid-can-be-cut-into-sections",
+    "difficulty": "Medium",
+    "acRate": 68.29061405126315,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3531",
+    "title": "Count Covered Buildings",
+    "titleSlug": "count-covered-buildings",
+    "difficulty": "Medium",
+    "acRate": 37.90002990877823,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3536",
+    "title": "Maximum Product of Two Digits",
+    "titleSlug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "acRate": 69.53348780354308,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3551",
+    "title": "Minimum Swaps to Sort by Digit Sum",
+    "titleSlug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
+    "acRate": 50.7246065193085,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3606",
+    "title": "Coupon Code Validator",
+    "titleSlug": "coupon-code-validator",
+    "difficulty": "Easy",
+    "acRate": 53.80870287009546,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3631",
+    "title": "Sort Threats by Severity and Exploitability",
+    "titleSlug": "sort-threats-by-severity-and-exploitability",
+    "difficulty": "Medium",
+    "acRate": 72.4390243902439,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort the Students by Their Kth Score",
+        "titleSlug": "sort-the-students-by-their-kth-score",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3634",
+    "title": "Minimum Removals to Balance Array",
+    "titleSlug": "minimum-removals-to-balance-array",
+    "difficulty": "Medium",
+    "acRate": 37.703011304804185,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

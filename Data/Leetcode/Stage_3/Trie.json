@@ -1,0 +1,1996 @@
+[
+  {
+    "questionFrontendId": "14",
+    "title": "Longest Common Prefix",
+    "titleSlug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "acRate": 46.01097926241243,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+        "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Length of the Longest Common Prefix",
+        "titleSlug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Common Suffix Queries",
+        "titleSlug": "longest-common-suffix-queries",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Common Prefix After at Most One Removal",
+        "titleSlug": "longest-common-prefix-after-at-most-one-removal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 75.0
+      },
+      {
+        "name": "Accolite",
+        "frequency": 53.4
+      },
+      {
+        "name": "Adobe",
+        "frequency": 79.0
+      },
+      {
+        "name": "Airbus SE",
+        "frequency": 65.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 70.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 77.6
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 74.8
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 67.1
+      },
+      {
+        "name": "CEDCOSS",
+        "frequency": 83.4
+      },
+      {
+        "name": "CME Group",
+        "frequency": 100.0
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 66.5
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 59.5
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 61.1
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "DXC Technology",
+        "frequency": 100.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 84.5
+      },
+      {
+        "name": "Google",
+        "frequency": 70.0
+      },
+      {
+        "name": "HCL",
+        "frequency": 75.5
+      },
+      {
+        "name": "HSBC",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 69.3
+      },
+      {
+        "name": "Infosys",
+        "frequency": 67.9
+      },
+      {
+        "name": "Jane Street",
+        "frequency": 56.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 66.7
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 65.8
+      },
+      {
+        "name": "Nokia",
+        "frequency": 88.3
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 57.3
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "PornHub",
+        "frequency": 79.3
+      },
+      {
+        "name": "PubMatic",
+        "frequency": 100.0
+      },
+      {
+        "name": "Pwc",
+        "frequency": 100.0
+      },
+      {
+        "name": "Revolut",
+        "frequency": 100.0
+      },
+      {
+        "name": "Roblox",
+        "frequency": 46.2
+      },
+      {
+        "name": "Roche",
+        "frequency": 100.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "SAP",
+        "frequency": 89.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 64.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 50.6
+      },
+      {
+        "name": "Turing",
+        "frequency": 65.7
+      },
+      {
+        "name": "Uber",
+        "frequency": 61.8
+      },
+      {
+        "name": "Visa",
+        "frequency": 75.8
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 60.8
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 62.9
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 74.4
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "208",
+    "title": "Implement Trie (Prefix Tree)",
+    "titleSlug": "implement-trie-prefix-tree",
+    "difficulty": "Medium",
+    "acRate": 68.38186210348489,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "titleSlug": "design-add-and-search-words-data-structure",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Search Autocomplete System",
+        "titleSlug": "design-search-autocomplete-system",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Replace Words",
+        "titleSlug": "replace-words",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Implement Magic Dictionary",
+        "titleSlug": "implement-magic-dictionary",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Encrypt and Decrypt Strings",
+        "titleSlug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Implement Trie II (Prefix Tree)",
+        "titleSlug": "implement-trie-ii-prefix-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Prefix and Suffix Pairs II",
+        "titleSlug": "count-prefix-and-suffix-pairs-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Prefix and Suffix Pairs I",
+        "titleSlug": "count-prefix-and-suffix-pairs-i",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "Block",
+        "frequency": 69.5
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Docusign",
+        "frequency": 100.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 53.5
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 56.3
+      },
+      {
+        "name": "instabase",
+        "frequency": 100.0
+      },
+      {
+        "name": "Lyft",
+        "frequency": 56.4
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Mapbox",
+        "frequency": 72.2
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "Roblox",
+        "frequency": 62.9
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "X",
+        "frequency": 94.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "211",
+    "title": "Design Add and Search Words Data Structure",
+    "titleSlug": "design-add-and-search-words-data-structure",
+    "difficulty": "Medium",
+    "acRate": 47.40355505426024,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Prefix and Suffix Search",
+        "titleSlug": "prefix-and-suffix-search",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Match Substring After Replacement",
+        "titleSlug": "match-substring-after-replacement",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sum of Prefix Scores of Strings",
+        "titleSlug": "sum-of-prefix-scores-of-strings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Prefix and Suffix Pairs II",
+        "titleSlug": "count-prefix-and-suffix-pairs-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Prefix and Suffix Pairs I",
+        "titleSlug": "count-prefix-and-suffix-pairs-i",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Datadog",
+        "frequency": 65.0
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 39.7
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 20.8
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 45.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "212",
+    "title": "Word Search II",
+    "titleSlug": "word-search-ii",
+    "difficulty": "Hard",
+    "acRate": 37.54472796899165,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Search",
+        "titleSlug": "word-search",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Paths III",
+        "titleSlug": "unique-paths-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Encrypt and Decrypt Strings",
+        "titleSlug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 72.4
+      },
+      {
+        "name": "Aurora",
+        "frequency": 74.6
+      },
+      {
+        "name": "Block",
+        "frequency": 60.0
+      },
+      {
+        "name": "Capital One",
+        "frequency": 49.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 63.2
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 45.6
+      },
+      {
+        "name": "eBay",
+        "frequency": 70.8
+      },
+      {
+        "name": "Google",
+        "frequency": 34.7
+      },
+      {
+        "name": "Instacart",
+        "frequency": 60.1
+      },
+      {
+        "name": "Karat",
+        "frequency": 47.6
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 90.4
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 91.3
+      },
+      {
+        "name": "Wix",
+        "frequency": 69.4
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "336",
+    "title": "Palindrome Pairs",
+    "titleSlug": "palindrome-pairs",
+    "difficulty": "Hard",
+    "acRate": 36.46201919405341,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Palindrome",
+        "titleSlug": "shortest-palindrome",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Palindrome by Concatenating Two Letter Words",
+        "titleSlug": "longest-palindrome-by-concatenating-two-letter-words",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Maximum Number of String Pairs",
+        "titleSlug": "find-maximum-number-of-string-pairs",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 94.5
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "386",
+    "title": "Lexicographical Numbers",
+    "titleSlug": "lexicographical-numbers",
+    "difficulty": "Medium",
+    "acRate": 76.07166844046745,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Barclays",
+        "frequency": 61.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "425",
+    "title": "Word Squares",
+    "titleSlug": "word-squares",
+    "difficulty": "Hard",
+    "acRate": 54.443752636124444,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Word Square",
+        "titleSlug": "valid-word-square",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "440",
+    "title": "K-th Smallest in Lexicographical Order",
+    "titleSlug": "k-th-smallest-in-lexicographical-order",
+    "difficulty": "Hard",
+    "acRate": 45.96102788187298,
+    "topicTags": [
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Special Integers",
+        "titleSlug": "count-special-integers",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 68.9
+      },
+      {
+        "name": "Hulu",
+        "frequency": 100.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "472",
+    "title": "Concatenated Words",
+    "titleSlug": "concatenated-words",
+    "difficulty": "Hard",
+    "acRate": 49.53016523087226,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Break II",
+        "titleSlug": "word-break-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "527",
+    "title": "Word Abbreviation",
+    "titleSlug": "word-abbreviation",
+    "difficulty": "Hard",
+    "acRate": 62.47002861783587,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Word Abbreviation",
+        "titleSlug": "valid-word-abbreviation",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Unique Word Abbreviation",
+        "titleSlug": "minimum-unique-word-abbreviation",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if a String Is an Acronym of Words",
+        "titleSlug": "check-if-a-string-is-an-acronym-of-words",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Applied Intuition",
+        "frequency": 89.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "588",
+    "title": "Design In-Memory File System",
+    "titleSlug": "design-in-memory-file-system",
+    "difficulty": "Hard",
+    "acRate": 48.28118702990174,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "LFU Cache",
+        "titleSlug": "lfu-cache",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Design Log Storage System",
+        "titleSlug": "design-log-storage-system",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Baidu",
+        "frequency": 97.8
+      },
+      {
+        "name": "Circle",
+        "frequency": 90.6
+      },
+      {
+        "name": "Coinbase",
+        "frequency": 84.4
+      },
+      {
+        "name": "Coupang",
+        "frequency": 90.7
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 64.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Shopify",
+        "frequency": 60.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 100.0
+      },
+      {
+        "name": "ThousandEyes",
+        "frequency": 89.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "648",
+    "title": "Replace Words",
+    "titleSlug": "replace-words",
+    "difficulty": "Medium",
+    "acRate": 68.43949696455765,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "676",
+    "title": "Implement Magic Dictionary",
+    "titleSlug": "implement-magic-dictionary",
+    "difficulty": "Medium",
+    "acRate": 56.83543178788327,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Word in Dictionary",
+        "titleSlug": "longest-word-in-dictionary",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "677",
+    "title": "Map Sum Pairs",
+    "titleSlug": "map-sum-pairs",
+    "difficulty": "Medium",
+    "acRate": 56.85162568644364,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort the Jumbled Numbers",
+        "titleSlug": "sort-the-jumbled-numbers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Prefix Scores of Strings",
+        "titleSlug": "sum-of-prefix-scores-of-strings",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "692",
+    "title": "Top K Frequent Words",
+    "titleSlug": "top-k-frequent-words",
+    "difficulty": "Medium",
+    "acRate": 59.5362696636582,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Bucket Sort",
+        "slug": "bucket-sort"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "titleSlug": "k-closest-points-to-origin",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Features by Popularity",
+        "titleSlug": "sort-features-by-popularity",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sender With Largest Word Count",
+        "titleSlug": "sender-with-largest-word-count",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Pairs in Array",
+        "titleSlug": "maximum-number-of-pairs-in-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Attentive",
+        "frequency": 56.2
+      },
+      {
+        "name": "Box",
+        "frequency": 92.6
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "Netflix",
+        "frequency": 57.2
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Robinhood",
+        "frequency": 80.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      },
+      {
+        "name": "Smartsheet",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "720",
+    "title": "Longest Word in Dictionary",
+    "titleSlug": "longest-word-in-dictionary",
+    "difficulty": "Medium",
+    "acRate": 53.76065108149442,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Word in Dictionary through Deleting",
+        "titleSlug": "longest-word-in-dictionary-through-deleting",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Implement Magic Dictionary",
+        "titleSlug": "implement-magic-dictionary",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Word With All Prefixes",
+        "titleSlug": "longest-word-with-all-prefixes",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Pinterest",
+        "frequency": 69.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "745",
+    "title": "Prefix and Suffix Search",
+    "titleSlug": "prefix-and-suffix-search",
+    "difficulty": "Hard",
+    "acRate": 40.506673409031706,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "titleSlug": "design-add-and-search-words-data-structure",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 33.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "792",
+    "title": "Number of Matching Subsequences",
+    "titleSlug": "number-of-matching-subsequences",
+    "difficulty": "Medium",
+    "acRate": 50.64343845371312,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Is Subsequence",
+        "titleSlug": "is-subsequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Shortest Way to Form String",
+        "titleSlug": "shortest-way-to-form-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "820",
+    "title": "Short Encoding of Words",
+    "titleSlug": "short-encoding-of-words",
+    "difficulty": "Medium",
+    "acRate": 60.61622251554826,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1065",
+    "title": "Index Pairs of a String",
+    "titleSlug": "index-pairs-of-a-string",
+    "difficulty": "Easy",
+    "acRate": 68.35346242943571,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1166",
+    "title": "Design File System",
+    "titleSlug": "design-file-system",
+    "difficulty": "Medium",
+    "acRate": 64.79909720897706,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 56.8
+      },
+      {
+        "name": "Capital One",
+        "frequency": 54.8
+      },
+      {
+        "name": "Coinbase",
+        "frequency": 67.5
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 75.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1233",
+    "title": "Remove Sub-Folders from the Filesystem",
+    "titleSlug": "remove-sub-folders-from-the-filesystem",
+    "difficulty": "Medium",
+    "acRate": 78.60001958528167,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Verkada",
+        "frequency": 72.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1268",
+    "title": "Search Suggestions System",
+    "titleSlug": "search-suggestions-system",
+    "difficulty": "Medium",
+    "acRate": 65.07873883149938,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 74.8
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Citadel",
+        "frequency": 52.2
+      },
+      {
+        "name": "Coursera",
+        "frequency": 70.0
+      },
+      {
+        "name": "Deliveroo",
+        "frequency": 85.4
+      },
+      {
+        "name": "Docusign",
+        "frequency": 77.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 82.2
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 55.7
+      },
+      {
+        "name": "UBS",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1804",
+    "title": "Implement Trie II (Prefix Tree)",
+    "titleSlug": "implement-trie-ii-prefix-tree",
+    "difficulty": "Medium",
+    "acRate": 63.152989773814916,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Encrypt and Decrypt Strings",
+        "titleSlug": "encrypt-and-decrypt-strings",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1858",
+    "title": "Longest Word With All Prefixes",
+    "titleSlug": "longest-word-with-all-prefixes",
+    "difficulty": "Medium",
+    "acRate": 71.78903826266804,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Word in Dictionary",
+        "titleSlug": "longest-word-in-dictionary",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2227",
+    "title": "Encrypt and Decrypt Strings",
+    "titleSlug": "encrypt-and-decrypt-strings",
+    "difficulty": "Hard",
+    "acRate": 37.148008445425,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Word Search II",
+        "titleSlug": "word-search-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Implement Trie II (Prefix Tree)",
+        "titleSlug": "implement-trie-ii-prefix-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Sum of Encrypted Integers",
+        "titleSlug": "find-the-sum-of-encrypted-integers",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Duolingo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2416",
+    "title": "Sum of Prefix Scores of Strings",
+    "titleSlug": "sum-of-prefix-scores-of-strings",
+    "difficulty": "Hard",
+    "acRate": 60.74090107919231,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "titleSlug": "design-add-and-search-words-data-structure",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Map Sum Pairs",
+        "titleSlug": "map-sum-pairs",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2452",
+    "title": "Words Within Two Edits of Dictionary",
+    "titleSlug": "words-within-two-edits-of-dictionary",
+    "difficulty": "Medium",
+    "acRate": 61.384733237202596,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Ladder",
+        "titleSlug": "word-ladder",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2479",
+    "title": "Maximum XOR of Two Non-Overlapping Subtrees",
+    "titleSlug": "maximum-xor-of-two-non-overlapping-subtrees",
+    "difficulty": "Hard",
+    "acRate": 50.14560279557367,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Directi",
+        "frequency": 100.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2707",
+    "title": "Extra Characters in a String",
+    "titleSlug": "extra-characters-in-a-string",
+    "difficulty": "Medium",
+    "acRate": 57.10774822008401,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Break",
+        "titleSlug": "word-break",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PornHub",
+        "frequency": 79.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3043",
+    "title": "Find the Length of the Longest Common Prefix",
+    "titleSlug": "find-the-length-of-the-longest-common-prefix",
+    "difficulty": "Medium",
+    "acRate": 56.503367365278955,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Common Suffix Queries",
+        "titleSlug": "longest-common-suffix-queries",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 59.3
+      },
+      {
+        "name": "Coinbase",
+        "frequency": 53.1
+      },
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "Roblox",
+        "frequency": 46.2
+      },
+      {
+        "name": "The Trade Desk",
+        "frequency": 100.0
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "ZipRecruiter",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3076",
+    "title": "Shortest Uncommon Substring in an Array",
+    "titleSlug": "shortest-uncommon-substring-in-an-array",
+    "difficulty": "Medium",
+    "acRate": 48.84049203468442,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Affirm",
+        "frequency": 81.0
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 55.6
+      },
+      {
+        "name": "Moveworks",
+        "frequency": 92.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3093",
+    "title": "Longest Common Suffix Queries",
+    "titleSlug": "longest-common-suffix-queries",
+    "difficulty": "Hard",
+    "acRate": 36.118545229174295,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Common Prefix",
+        "titleSlug": "longest-common-prefix",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Length of the Longest Common Prefix",
+        "titleSlug": "find-the-length-of-the-longest-common-prefix",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3485",
+    "title": "Longest Common Prefix of K Strings After Removal",
+    "titleSlug": "longest-common-prefix-of-k-strings-after-removal",
+    "difficulty": "Hard",
+    "acRate": 20.756658844839652,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3491",
+    "title": "Phone Number Prefix",
+    "titleSlug": "phone-number-prefix",
+    "difficulty": "Easy",
+    "acRate": 71.45260796410544,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

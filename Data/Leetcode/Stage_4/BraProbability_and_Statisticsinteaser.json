@@ -1,0 +1,174 @@
+[
+  {
+    "questionFrontendId": "808",
+    "title": "Soup Servings",
+    "titleSlug": "soup-servings",
+    "difficulty": "Medium",
+    "acRate": 59.957321022302665,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "837",
+    "title": "New 21 Game",
+    "titleSlug": "new-21-game",
+    "difficulty": "Medium",
+    "acRate": 52.0923608785514,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1093",
+    "title": "Statistics from a Large Sample",
+    "titleSlug": "statistics-from-a-large-sample",
+    "difficulty": "Medium",
+    "acRate": 42.3550621162359,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1227",
+    "title": "Airplane Seat Assignment Probability",
+    "titleSlug": "airplane-seat-assignment-probability",
+    "difficulty": "Medium",
+    "acRate": 66.82627601200952,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Microstrategy",
+        "frequency": 100.0
+      },
+      {
+        "name": "Toptal",
+        "frequency": 68.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1230",
+    "title": "Toss Strange Coins",
+    "titleSlug": "toss-strange-coins",
+    "difficulty": "Medium",
+    "acRate": 58.07235770255244,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Twitch",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1467",
+    "title": "Probability of a Two Boxes Having The Same Number of Distinct Balls",
+    "titleSlug": "probability-of-a-two-boxes-having-the-same-number-of-distinct-balls",
+    "difficulty": "Hard",
+    "acRate": 60.444215467399395,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Probability and Statistics",
+        "slug": "probability-and-statistics"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

@@ -1,0 +1,718 @@
+[
+  {
+    "questionFrontendId": "215",
+    "title": "Kth Largest Element in an Array",
+    "titleSlug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "acRate": 68.30687299207906,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Wiggle Sort II",
+        "titleSlug": "wiggle-sort-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Third Maximum Number",
+        "titleSlug": "third-maximum-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Kth Largest Element in a Stream",
+        "titleSlug": "kth-largest-element-in-a-stream",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "titleSlug": "k-closest-points-to-origin",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Kth Largest Integer in the Array",
+        "titleSlug": "find-the-kth-largest-integer-in-the-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Subsequence of Length K With the Largest Sum",
+        "titleSlug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "K Highest Ranked Items Within a Price Range",
+        "titleSlug": "k-highest-ranked-items-within-a-price-range",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "AMD",
+        "frequency": 87.5
+      },
+      {
+        "name": "Avito",
+        "frequency": 53.8
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 70.5
+      },
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 59.5
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 51.7
+      },
+      {
+        "name": "eBay",
+        "frequency": 70.8
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 51.2
+      },
+      {
+        "name": "Guidewire",
+        "frequency": 89.3
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 63.0
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 65.5
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "SAP",
+        "frequency": 62.7
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 74.5
+      },
+      {
+        "name": "SIG",
+        "frequency": 71.1
+      },
+      {
+        "name": "Spotify",
+        "frequency": 82.2
+      },
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      },
+      {
+        "name": "Verily",
+        "frequency": 92.3
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 72.6
+      },
+      {
+        "name": "Wipro",
+        "frequency": 70.1
+      },
+      {
+        "name": "Yandex",
+        "frequency": 35.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "324",
+    "title": "Wiggle Sort II",
+    "titleSlug": "wiggle-sort-ii",
+    "difficulty": "Medium",
+    "acRate": 35.989838090520706,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Colors",
+        "titleSlug": "sort-colors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Wiggle Sort",
+        "titleSlug": "wiggle-sort",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array With Elements Not Equal to Average of Neighbors",
+        "titleSlug": "array-with-elements-not-equal-to-average-of-neighbors",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "347",
+    "title": "Top K Frequent Elements",
+    "titleSlug": "top-k-frequent-elements",
+    "difficulty": "Medium",
+    "acRate": 64.57569580097618,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Bucket Sort",
+        "slug": "bucket-sort"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Frequency",
+        "titleSlug": "word-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split Array into Consecutive Subsequences",
+        "titleSlug": "split-array-into-consecutive-subsequences",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "titleSlug": "top-k-frequent-words",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Closest Points to Origin",
+        "titleSlug": "k-closest-points-to-origin",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Features by Popularity",
+        "titleSlug": "sort-features-by-popularity",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sender With Largest Word Count",
+        "titleSlug": "sender-with-largest-word-count",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Most Frequent Even Element",
+        "titleSlug": "most-frequent-even-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Linked List Frequency",
+        "titleSlug": "linked-list-frequency",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 46.2
+      },
+      {
+        "name": "Avito",
+        "frequency": 100.0
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Chewy",
+        "frequency": 100.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Docusign",
+        "frequency": 84.8
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 61.9
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Hubspot",
+        "frequency": 56.5
+      },
+      {
+        "name": "Intuit",
+        "frequency": 63.9
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "Microstrategy",
+        "frequency": 65.6
+      },
+      {
+        "name": "Netflix",
+        "frequency": 72.4
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 53.0
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 42.7
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Robinhood",
+        "frequency": 53.5
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 54.3
+      },
+      {
+        "name": "Smartsheet",
+        "frequency": 89.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "SoFi",
+        "frequency": 66.0
+      },
+      {
+        "name": "Tesla",
+        "frequency": 82.2
+      },
+      {
+        "name": "Tiger Analytics",
+        "frequency": 66.2
+      },
+      {
+        "name": "Twilio",
+        "frequency": 65.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 62.8
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "973",
+    "title": "K Closest Points to Origin",
+    "titleSlug": "k-closest-points-to-origin",
+    "difficulty": "Medium",
+    "acRate": 68.2096112356515,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "titleSlug": "top-k-frequent-words",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Nearest Point That Has the Same X or Y Coordinate",
+        "titleSlug": "find-nearest-point-that-has-the-same-x-or-y-coordinate",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Rectangles to Cover Points",
+        "titleSlug": "minimum-rectangles-to-cover-points",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K-th Nearest Obstacle Queries",
+        "titleSlug": "k-th-nearest-obstacle-queries",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Asana",
+        "frequency": 79.5
+      },
+      {
+        "name": "Axon",
+        "frequency": 62.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1738",
+    "title": "Find Kth Largest XOR Coordinate Value",
+    "titleSlug": "find-kth-largest-xor-coordinate-value",
+    "difficulty": "Medium",
+    "acRate": 63.48946986201888,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1985",
+    "title": "Find the Kth Largest Integer in the Array",
+    "titleSlug": "find-the-kth-largest-integer-in-the-array",
+    "difficulty": "Medium",
+    "acRate": 47.07573908186276,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2343",
+    "title": "Query Kth Smallest Trimmed Number",
+    "titleSlug": "query-kth-smallest-trimmed-number",
+    "difficulty": "Medium",
+    "acRate": 46.014853952746485,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Radix Sort",
+        "slug": "radix-sort"
+      },
+      {
+        "name": "Quickselect",
+        "slug": "quickselect"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 77.4
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      }
+    ]
+  }
+]

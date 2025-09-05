@@ -1,0 +1,134 @@
+[
+  {
+    "questionFrontendId": "332",
+    "title": "Reconstruct Itinerary",
+    "titleSlug": "reconstruct-itinerary",
+    "difficulty": "Hard",
+    "acRate": 43.79046963702047,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Eulerian Circuit",
+        "slug": "eulerian-circuit"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Common Subpath",
+        "titleSlug": "longest-common-subpath",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Valid Arrangement of Pairs",
+        "titleSlug": "valid-arrangement-of-pairs",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Booking.com",
+        "frequency": 74.9
+      },
+      {
+        "name": "eBay",
+        "frequency": 70.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Netflix",
+        "frequency": 85.8
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 94.8
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Twilio",
+        "frequency": 56.8
+      },
+      {
+        "name": "Yandex",
+        "frequency": 53.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "753",
+    "title": "Cracking the Safe",
+    "titleSlug": "cracking-the-safe",
+    "difficulty": "Hard",
+    "acRate": 58.050210073136576,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Eulerian Circuit",
+        "slug": "eulerian-circuit"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2097",
+    "title": "Valid Arrangement of Pairs",
+    "titleSlug": "valid-arrangement-of-pairs",
+    "difficulty": "Hard",
+    "acRate": 66.32788032393778,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Eulerian Circuit",
+        "slug": "eulerian-circuit"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reconstruct Itinerary",
+        "titleSlug": "reconstruct-itinerary",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find if Path Exists in Graph",
+        "titleSlug": "find-if-path-exists-in-graph",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 50.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 65.1
+      }
+    ]
+  }
+]

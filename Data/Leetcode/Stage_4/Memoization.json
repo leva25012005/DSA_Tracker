@@ -1,0 +1,2119 @@
+[
+  {
+    "questionFrontendId": "70",
+    "title": "Climbing Stairs",
+    "titleSlug": "climbing-stairs",
+    "difficulty": "Easy",
+    "acRate": 53.6646358283062,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Min Cost Climbing Stairs",
+        "titleSlug": "min-cost-climbing-stairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Fibonacci Number",
+        "titleSlug": "fibonacci-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "N-th Tribonacci Number",
+        "titleSlug": "n-th-tribonacci-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Rounds to Complete All Tasks",
+        "titleSlug": "minimum-rounds-to-complete-all-tasks",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Ways to Place Houses",
+        "titleSlug": "count-number-of-ways-to-place-houses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Ways to Reach a Position After Exactly k Steps",
+        "titleSlug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Ways To Build Good Strings",
+        "titleSlug": "count-ways-to-build-good-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Frog Jump II",
+        "titleSlug": "frog-jump-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Number of Ways to Reach the K-th Stair",
+        "titleSlug": "find-number-of-ways-to-reach-the-k-th-stair",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "The Number of Ways to Make the Sum",
+        "titleSlug": "the-number-of-ways-to-make-the-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 92.0
+      },
+      {
+        "name": "Accolite",
+        "frequency": 72.8
+      },
+      {
+        "name": "Adobe",
+        "frequency": 69.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 69.8
+      },
+      {
+        "name": "AMD",
+        "frequency": 87.5
+      },
+      {
+        "name": "Apple",
+        "frequency": 70.1
+      },
+      {
+        "name": "Barclays",
+        "frequency": 61.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 64.2
+      },
+      {
+        "name": "Bolt",
+        "frequency": 61.7
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 69.7
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 37.0
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 70.5
+      },
+      {
+        "name": "IBM",
+        "frequency": 50.6
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 55.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 52.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 68.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      },
+      {
+        "name": "Oracle",
+        "frequency": 25.3
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      },
+      {
+        "name": "tcs",
+        "frequency": 54.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 44.2
+      },
+      {
+        "name": "Turing",
+        "frequency": 57.5
+      },
+      {
+        "name": "Uber",
+        "frequency": 47.3
+      },
+      {
+        "name": "Wipro",
+        "frequency": 60.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 62.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "139",
+    "title": "Word Break",
+    "titleSlug": "word-break",
+    "difficulty": "Medium",
+    "acRate": 48.54000338640123,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Break II",
+        "titleSlug": "word-break-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Extra Characters in a String",
+        "titleSlug": "extra-characters-in-a-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Block",
+        "frequency": 97.8
+      },
+      {
+        "name": "Cleartrip",
+        "frequency": 100.0
+      },
+      {
+        "name": "Coupang",
+        "frequency": 100.0
+      },
+      {
+        "name": "CureFit",
+        "frequency": 66.4
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 56.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Intuit",
+        "frequency": 69.5
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 100.0
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      },
+      {
+        "name": "Netskope",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nordstrom",
+        "frequency": 88.1
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Otter.ai",
+        "frequency": 82.5
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 93.6
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "TikTok",
+        "frequency": 57.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 60.6
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 77.4
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 64.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 45.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "140",
+    "title": "Word Break II",
+    "titleSlug": "word-break-ii",
+    "difficulty": "Hard",
+    "acRate": 54.048735333293294,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Break",
+        "titleSlug": "word-break",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Concatenated Words",
+        "titleSlug": "concatenated-words",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 62.2
+      },
+      {
+        "name": "Moveworks",
+        "frequency": 86.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 44.5
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 89.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 63.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 53.3
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "241",
+    "title": "Different Ways to Add Parentheses",
+    "titleSlug": "different-ways-to-add-parentheses",
+    "difficulty": "Medium",
+    "acRate": 72.58277740375789,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Binary Search Trees II",
+        "titleSlug": "unique-binary-search-trees-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Basic Calculator",
+        "titleSlug": "basic-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Expression Add Operators",
+        "titleSlug": "expression-add-operators",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "The Score of Students Solving Math Expression",
+        "titleSlug": "the-score-of-students-solving-math-expression",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "titleSlug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DeltaX",
+        "frequency": 68.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "294",
+    "title": "Flip Game II",
+    "titleSlug": "flip-game-ii",
+    "difficulty": "Medium",
+    "acRate": 52.200388654651576,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Nim Game",
+        "titleSlug": "nim-game",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Flip Game",
+        "titleSlug": "flip-game",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Guess Number Higher or Lower II",
+        "titleSlug": "guess-number-higher-or-lower-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Can I Win",
+        "titleSlug": "can-i-win",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 22.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "329",
+    "title": "Longest Increasing Path in a Matrix",
+    "titleSlug": "longest-increasing-path-in-a-matrix",
+    "difficulty": "Hard",
+    "acRate": 55.66269506851156,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Increasing Paths in a Grid",
+        "titleSlug": "number-of-increasing-paths-in-a-grid",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 92.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "WeRide",
+        "frequency": 74.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "397",
+    "title": "Integer Replacement",
+    "titleSlug": "integer-replacement",
+    "difficulty": "Medium",
+    "acRate": 36.71898822764878,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Baidu",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "464",
+    "title": "Can I Win",
+    "titleSlug": "can-i-win",
+    "difficulty": "Medium",
+    "acRate": 30.568879094287443,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flip Game II",
+        "titleSlug": "flip-game-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Guess Number Higher or Lower II",
+        "titleSlug": "guess-number-higher-or-lower-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Predict the Winner",
+        "titleSlug": "predict-the-winner",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Winning Player in Coin Game",
+        "titleSlug": "find-the-winning-player-in-coin-game",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Number of Winning Players",
+        "titleSlug": "find-the-number-of-winning-players",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 56.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "488",
+    "title": "Zuma Game",
+    "titleSlug": "zuma-game",
+    "difficulty": "Hard",
+    "acRate": 31.149213189533643,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Baidu",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "509",
+    "title": "Fibonacci Number",
+    "titleSlug": "fibonacci-number",
+    "difficulty": "Easy",
+    "acRate": 73.29412693178199,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Split Array into Fibonacci Sequence",
+        "titleSlug": "split-array-into-fibonacci-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Length of Longest Fibonacci Subsequence",
+        "titleSlug": "length-of-longest-fibonacci-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "N-th Tribonacci Number",
+        "titleSlug": "n-th-tribonacci-number",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 60.7
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 78.8
+      },
+      {
+        "name": "EY",
+        "frequency": 100.0
+      },
+      {
+        "name": "Infosys",
+        "frequency": 62.1
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 44.8
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 63.8
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      },
+      {
+        "name": "tcs",
+        "frequency": 61.4
+      },
+      {
+        "name": "Zoox",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "546",
+    "title": "Remove Boxes",
+    "titleSlug": "remove-boxes",
+    "difficulty": "Hard",
+    "acRate": 48.5304439375329,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Strange Printer",
+        "titleSlug": "strange-printer",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 59.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 49.7
+      },
+      {
+        "name": "Tencent",
+        "frequency": 97.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "638",
+    "title": "Shopping Offers",
+    "titleSlug": "shopping-offers",
+    "difficulty": "Medium",
+    "acRate": 52.0324338128884,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 75.9
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 88.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "691",
+    "title": "Stickers to Spell Word",
+    "titleSlug": "stickers-to-spell-word",
+    "difficulty": "Hard",
+    "acRate": 50.21071279241214,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Ransom Note",
+        "titleSlug": "ransom-note",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IXL",
+        "frequency": 88.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "698",
+    "title": "Partition to K Equal Sum Subsets",
+    "titleSlug": "partition-to-k-equal-sum-subsets",
+    "difficulty": "Medium",
+    "acRate": 38.18392192615507,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Equal Subset Sum",
+        "titleSlug": "partition-equal-subset-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Fair Distribution of Cookies",
+        "titleSlug": "fair-distribution-of-cookies",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Ways to Partition an Array",
+        "titleSlug": "maximum-number-of-ways-to-partition-an-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Rows Covered by Columns",
+        "titleSlug": "maximum-rows-covered-by-columns",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 68.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "773",
+    "title": "Sliding Puzzle",
+    "titleSlug": "sliding-puzzle",
+    "difficulty": "Hard",
+    "acRate": 73.27295957315162,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 79.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "894",
+    "title": "All Possible Full Binary Trees",
+    "titleSlug": "all-possible-full-binary-trees",
+    "difficulty": "Medium",
+    "acRate": 82.71911746878409,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "913",
+    "title": "Cat and Mouse",
+    "titleSlug": "cat-and-mouse",
+    "difficulty": "Hard",
+    "acRate": 33.91465149359886,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cat and Mouse II",
+        "titleSlug": "cat-and-mouse-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "964",
+    "title": "Least Operators to Express Number",
+    "titleSlug": "least-operators-to-express-number",
+    "difficulty": "Hard",
+    "acRate": 48.438532716457374,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1137",
+    "title": "N-th Tribonacci Number",
+    "titleSlug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "acRate": 63.49461953161916,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Fibonacci Number",
+        "titleSlug": "fibonacci-number",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Coursera",
+        "frequency": 100.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 39.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1387",
+    "title": "Sort Integers by The Power Value",
+    "titleSlug": "sort-integers-by-the-power-value",
+    "difficulty": "Medium",
+    "acRate": 70.90049621642915,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Score of an Array After Marking All Elements",
+        "titleSlug": "find-score-of-an-array-after-marking-all-elements",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1444",
+    "title": "Number of Ways of Cutting a Pizza",
+    "titleSlug": "number-of-ways-of-cutting-a-pizza",
+    "difficulty": "Hard",
+    "acRate": 61.55399092365189,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Selling Pieces of Wood",
+        "titleSlug": "selling-pieces-of-wood",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1553",
+    "title": "Minimum Number of Days to Eat N Oranges",
+    "titleSlug": "minimum-number-of-days-to-eat-n-oranges",
+    "difficulty": "Hard",
+    "acRate": 35.784834870880346,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1569",
+    "title": "Number of Ways to Reorder Array to Get Same BST",
+    "titleSlug": "number-of-ways-to-reorder-array-to-get-same-bst",
+    "difficulty": "Hard",
+    "acRate": 53.67903023448959,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1575",
+    "title": "Count All Possible Routes",
+    "titleSlug": "count-all-possible-routes",
+    "difficulty": "Hard",
+    "acRate": 64.93033160314097,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1611",
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+    "difficulty": "Hard",
+    "acRate": 73.22548468832048,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Apply Bitwise Operations to Make Strings Equal",
+        "titleSlug": "apply-bitwise-operations-to-make-strings-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      },
+      {
+        "name": "McKinsey",
+        "frequency": 80.2
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1659",
+    "title": "Maximize Grid Happiness",
+    "titleSlug": "maximize-grid-happiness",
+    "difficulty": "Hard",
+    "acRate": 40.06166017101972,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1728",
+    "title": "Cat and Mouse II",
+    "titleSlug": "cat-and-mouse-ii",
+    "difficulty": "Hard",
+    "acRate": 39.62255423470096,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Escape The Ghosts",
+        "titleSlug": "escape-the-ghosts",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Cat and Mouse",
+        "titleSlug": "cat-and-mouse",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1815",
+    "title": "Maximum Number of Groups Getting Fresh Donuts",
+    "titleSlug": "maximum-number-of-groups-getting-fresh-donuts",
+    "difficulty": "Hard",
+    "acRate": 40.789131226901254,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1857",
+    "title": "Largest Color Value in a Directed Graph",
+    "titleSlug": "largest-color-value-in-a-directed-graph",
+    "difficulty": "Hard",
+    "acRate": 57.505562362956276,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Juspay",
+        "frequency": 62.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1900",
+    "title": "The Earliest and Latest Rounds Where Players Compete",
+    "titleSlug": "the-earliest-and-latest-rounds-where-players-compete",
+    "difficulty": "Hard",
+    "acRate": 73.28327085568266,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2019",
+    "title": "The Score of Students Solving Math Expression",
+    "titleSlug": "the-score-of-students-solving-math-expression",
+    "difficulty": "Hard",
+    "acRate": 33.533143902533965,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Basic Calculator",
+        "titleSlug": "basic-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "titleSlug": "different-ways-to-add-parentheses",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 81.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2311",
+    "title": "Longest Binary Subsequence Less Than or Equal to K",
+    "titleSlug": "longest-binary-subsequence-less-than-or-equal-to-k",
+    "difficulty": "Medium",
+    "acRate": 52.905448725792006,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Binary String After Change",
+        "titleSlug": "maximum-binary-string-after-change",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2312",
+    "title": "Selling Pieces of Wood",
+    "titleSlug": "selling-pieces-of-wood",
+    "difficulty": "Hard",
+    "acRate": 51.948146529750204,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Tiling a Rectangle with the Fewest Squares",
+        "titleSlug": "tiling-a-rectangle-with-the-fewest-squares",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Ways of Cutting a Pizza",
+        "titleSlug": "number-of-ways-of-cutting-a-pizza",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Palantir Technologies",
+        "frequency": 78.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2318",
+    "title": "Number of Distinct Roll Sequences",
+    "titleSlug": "number-of-distinct-roll-sequences",
+    "difficulty": "Hard",
+    "acRate": 57.71820942823188,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Dice Roll Simulation",
+        "titleSlug": "dice-roll-simulation",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Paint House III",
+        "titleSlug": "paint-house-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ServiceNow",
+        "frequency": 93.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2328",
+    "title": "Number of Increasing Paths in a Grid",
+    "titleSlug": "number-of-increasing-paths-in-a-grid",
+    "difficulty": "Hard",
+    "acRate": 57.56600318941586,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Increasing Path in a Matrix",
+        "titleSlug": "longest-increasing-path-in-a-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "All Paths From Source to Target",
+        "titleSlug": "all-paths-from-source-to-target",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Strictly Increasing Cells in a Matrix",
+        "titleSlug": "maximum-strictly-increasing-cells-in-a-matrix",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2713",
+    "title": "Maximum Strictly Increasing Cells in a Matrix",
+    "titleSlug": "maximum-strictly-increasing-cells-in-a-matrix",
+    "difficulty": "Hard",
+    "acRate": 30.831363278171786,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Increasing Paths in a Grid",
+        "titleSlug": "number-of-increasing-paths-in-a-grid",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2876",
+    "title": "Count Visited Nodes in a Directed Graph",
+    "titleSlug": "count-visited-nodes-in-a-directed-graph",
+    "difficulty": "Hard",
+    "acRate": 29.437091372986764,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "BNY Mellon",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2920",
+    "title": "Maximum Points After Collecting Coins From All Nodes",
+    "titleSlug": "maximum-points-after-collecting-coins-from-all-nodes",
+    "difficulty": "Hard",
+    "acRate": 35.86543289577505,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 79.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2998",
+    "title": "Minimum Number of Operations to Make X and Y Equal",
+    "titleSlug": "minimum-number-of-operations-to-make-x-and-y-equal",
+    "difficulty": "Medium",
+    "acRate": 47.79097211978168,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Bridge",
+        "titleSlug": "shortest-bridge",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "titleSlug": "minimum-moves-to-spread-stones-over-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Groww",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3040",
+    "title": "Maximum Number of Operations With the Same Score II",
+    "titleSlug": "maximum-number-of-operations-with-the-same-score-ii",
+    "difficulty": "Medium",
+    "acRate": 33.34041257840264,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3154",
+    "title": "Find Number of Ways to Reach the K-th Stair",
+    "titleSlug": "find-number-of-ways-to-reach-the-k-th-stair",
+    "difficulty": "Hard",
+    "acRate": 36.595505904557854,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Min Cost Climbing Stairs",
+        "titleSlug": "min-cost-climbing-stairs",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3459",
+    "title": "Length of Longest V-Shaped Diagonal Segment",
+    "titleSlug": "length-of-longest-v-shaped-diagonal-segment",
+    "difficulty": "Hard",
+    "acRate": 53.14176684933866,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Memoization",
+        "slug": "memoization"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Visa",
+        "frequency": 100.0
+      }
+    ]
+  }
+]

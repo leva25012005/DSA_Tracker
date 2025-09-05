@@ -1,0 +1,1624 @@
+[
+  {
+    "questionFrontendId": "133",
+    "title": "Clone Graph",
+    "titleSlug": "clone-graph",
+    "difficulty": "Medium",
+    "acRate": 63.17763429610363,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Copy List with Random Pointer",
+        "titleSlug": "copy-list-with-random-pointer",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Clone Binary Tree With Random Pointer",
+        "titleSlug": "clone-binary-tree-with-random-pointer",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Clone N-ary Tree",
+        "titleSlug": "clone-n-ary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Flexport",
+        "frequency": 98.1
+      },
+      {
+        "name": "Google",
+        "frequency": 38.6
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "ThousandEyes",
+        "frequency": 100.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 49.5
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "797",
+    "title": "All Paths From Source to Target",
+    "titleSlug": "all-paths-from-source-to-target",
+    "difficulty": "Medium",
+    "acRate": 83.25255113823059,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Ways to Arrive at Destination",
+        "titleSlug": "number-of-ways-to-arrive-at-destination",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Increasing Paths in a Grid",
+        "titleSlug": "number-of-increasing-paths-in-a-grid",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "834",
+    "title": "Sum of Distances in Tree",
+    "titleSlug": "sum-of-distances-in-tree",
+    "difficulty": "Hard",
+    "acRate": 65.38187520496979,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Distribute Coins in Binary Tree",
+        "titleSlug": "distribute-coins-in-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Nodes With the Highest Score",
+        "titleSlug": "count-nodes-with-the-highest-score",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Collect Coins in a Tree",
+        "titleSlug": "collect-coins-in-a-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Score After Applying Operations on a Tree",
+        "titleSlug": "maximum-score-after-applying-operations-on-a-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+        "titleSlug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Time Taken to Mark All Nodes",
+        "titleSlug": "time-taken-to-mark-all-nodes",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 60.7
+      },
+      {
+        "name": "Media.net",
+        "frequency": 46.5
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 61.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "841",
+    "title": "Keys and Rooms",
+    "titleSlug": "keys-and-rooms",
+    "difficulty": "Medium",
+    "acRate": 74.96960352206932,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Graph Valid Tree",
+        "titleSlug": "graph-valid-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Graviton",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 85.0
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 53.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "997",
+    "title": "Find the Town Judge",
+    "titleSlug": "find-the-town-judge",
+    "difficulty": "Easy",
+    "acRate": 50.16302113193998,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Celebrity",
+        "titleSlug": "find-the-celebrity",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 97.6
+      },
+      {
+        "name": "Turing",
+        "frequency": 62.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1042",
+    "title": "Flower Planting With No Adjacent",
+    "titleSlug": "flower-planting-with-no-adjacent",
+    "difficulty": "Medium",
+    "acRate": 52.72081257482717,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Vimeo",
+        "frequency": 66.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1129",
+    "title": "Shortest Path with Alternating Colors",
+    "titleSlug": "shortest-path-with-alternating-colors",
+    "difficulty": "Medium",
+    "acRate": 47.423320124778684,
+    "topicTags": [
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1153",
+    "title": "String Transforms Into Another String",
+    "titleSlug": "string-transforms-into-another-string",
+    "difficulty": "Hard",
+    "acRate": 34.733464029451916,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1298",
+    "title": "Maximum Candies You Can Get from Boxes",
+    "titleSlug": "maximum-candies-you-can-get-from-boxes",
+    "difficulty": "Hard",
+    "acRate": 68.42729889369365,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 72.4
+      },
+      {
+        "name": "Lyft",
+        "frequency": 50.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1311",
+    "title": "Get Watched Videos by Your Friends",
+    "titleSlug": "get-watched-videos-by-your-friends",
+    "difficulty": "Medium",
+    "acRate": 50.28496794110663,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Guidewire",
+        "frequency": 89.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1377",
+    "title": "Frog Position After T Seconds",
+    "titleSlug": "frog-position-after-t-seconds",
+    "difficulty": "Hard",
+    "acRate": 36.09507144940216,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Special Path",
+        "titleSlug": "longest-special-path",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1466",
+    "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "difficulty": "Medium",
+    "acRate": 65.26307077599327,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Edge Reversals So Every Node Is Reachable",
+        "titleSlug": "minimum-edge-reversals-so-every-node-is-reachable",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "DRW",
+        "frequency": 64.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1548",
+    "title": "The Most Similar Path in a Graph",
+    "titleSlug": "the-most-similar-path-in-a-graph",
+    "difficulty": "Hard",
+    "acRate": 59.299101326295386,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1557",
+    "title": "Minimum Number of Vertices to Reach All Nodes",
+    "titleSlug": "minimum-number-of-vertices-to-reach-all-nodes",
+    "difficulty": "Medium",
+    "acRate": 81.25406894881073,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1615",
+    "title": "Maximal Network Rank",
+    "titleSlug": "maximal-network-rank",
+    "difficulty": "Medium",
+    "acRate": 65.62947256824808,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DRW",
+        "frequency": 64.2
+      },
+      {
+        "name": "smartnews",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1719",
+    "title": "Number Of Ways To Reconstruct A Tree",
+    "titleSlug": "number-of-ways-to-reconstruct-a-tree",
+    "difficulty": "Hard",
+    "acRate": 44.4206008583691,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Create Binary Tree From Descriptions",
+        "titleSlug": "create-binary-tree-from-descriptions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Star Sum of a Graph",
+        "titleSlug": "maximum-star-sum-of-a-graph",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1782",
+    "title": "Count Pairs Of Nodes",
+    "titleSlug": "count-pairs-of-nodes",
+    "difficulty": "Hard",
+    "acRate": 41.125724791401495,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1791",
+    "title": "Find Center of Star Graph",
+    "titleSlug": "find-center-of-star-graph",
+    "difficulty": "Easy",
+    "acRate": 86.64639725055869,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Star Sum of a Graph",
+        "titleSlug": "maximum-star-sum-of-a-graph",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1820",
+    "title": "Maximum Number of Accepted Invitations",
+    "titleSlug": "maximum-number-of-accepted-invitations",
+    "difficulty": "Medium",
+    "acRate": 51.816784811381545,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1928",
+    "title": "Minimum Cost to Reach Destination in Time",
+    "titleSlug": "minimum-cost-to-reach-destination-in-time",
+    "difficulty": "Hard",
+    "acRate": 40.34219665580541,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Cost of Trip With K Highways",
+        "titleSlug": "maximum-cost-of-trip-with-k-highways",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Path Quality of a Graph",
+        "titleSlug": "maximum-path-quality-of-a-graph",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost to Reach City With Discounts",
+        "titleSlug": "minimum-cost-to-reach-city-with-discounts",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Minimum Time to Reach Last Room I",
+        "titleSlug": "find-minimum-time-to-reach-last-room-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Minimum Time to Reach Last Room II",
+        "titleSlug": "find-minimum-time-to-reach-last-room-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost Path with Edge Reversals",
+        "titleSlug": "minimum-cost-path-with-edge-reversals",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2039",
+    "title": "The Time When the Network Becomes Idle",
+    "titleSlug": "the-time-when-the-network-becomes-idle",
+    "difficulty": "Medium",
+    "acRate": 54.316283924843425,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Network Delay Time",
+        "titleSlug": "network-delay-time",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "N-ary Tree Level Order Traversal",
+        "titleSlug": "n-ary-tree-level-order-traversal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Depth of N-ary Tree",
+        "titleSlug": "maximum-depth-of-n-ary-tree",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 46.2
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 89.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2065",
+    "title": "Maximum Path Quality of a Graph",
+    "titleSlug": "maximum-path-quality-of-a-graph",
+    "difficulty": "Hard",
+    "acRate": 60.07644797650412,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cherry Pickup",
+        "titleSlug": "cherry-pickup",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost to Reach Destination in Time",
+        "titleSlug": "minimum-cost-to-reach-destination-in-time",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 30.9
+      },
+      {
+        "name": "SAP",
+        "frequency": 91.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2077",
+    "title": "Paths in Maze That Lead to Same Room",
+    "titleSlug": "paths-in-maze-that-lead-to-same-room",
+    "difficulty": "Medium",
+    "acRate": 56.19967793880838,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reachable Nodes In Subdivided Graph",
+        "titleSlug": "reachable-nodes-in-subdivided-graph",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Distance to a Cycle in Undirected Graph",
+        "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find if Path Exists in Graph",
+        "titleSlug": "find-if-path-exists-in-graph",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2123",
+    "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+    "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+    "difficulty": "Hard",
+    "acRate": 41.79838426413769,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "01 Matrix",
+        "titleSlug": "01-matrix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2359",
+    "title": "Find Closest Node to Given Two Nodes",
+    "titleSlug": "find-closest-node-to-given-two-nodes",
+    "difficulty": "Medium",
+    "acRate": 52.87829484716614,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Juspay",
+        "frequency": 95.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2374",
+    "title": "Node With Highest Edge Score",
+    "titleSlug": "node-with-highest-edge-score",
+    "difficulty": "Medium",
+    "acRate": 48.68915176266253,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "titleSlug": "sort-array-by-increasing-frequency",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Juspay",
+        "frequency": 90.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2467",
+    "title": "Most Profitable Path in a Tree",
+    "titleSlug": "most-profitable-path-in-a-tree",
+    "difficulty": "Medium",
+    "acRate": 67.47177535420731,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Snakes and Ladders",
+        "titleSlug": "snakes-and-ladders",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Time Taken to Mark All Nodes",
+        "titleSlug": "time-taken-to-mark-all-nodes",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 93.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2477",
+    "title": "Minimum Fuel Cost to Report to the Capital",
+    "titleSlug": "minimum-fuel-cost-to-report-to-the-capital",
+    "difficulty": "Medium",
+    "acRate": 64.41495683107847,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Postorder Traversal",
+        "titleSlug": "binary-tree-postorder-traversal",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 65.8
+      },
+      {
+        "name": "DRW",
+        "frequency": 64.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2508",
+    "title": "Add Edges to Make Degrees of All Nodes Even",
+    "titleSlug": "add-edges-to-make-degrees-of-all-nodes-even",
+    "difficulty": "Hard",
+    "acRate": 33.75473609183329,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Degree of a Connected Trio in a Graph",
+        "titleSlug": "minimum-degree-of-a-connected-trio-in-a-graph",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hudson River Trading",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2608",
+    "title": "Shortest Cycle in a Graph",
+    "titleSlug": "shortest-cycle-in-a-graph",
+    "difficulty": "Hard",
+    "acRate": 38.16387255969229,
+    "topicTags": [
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Redundant Connection",
+        "titleSlug": "redundant-connection",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Cycle in a Graph",
+        "titleSlug": "longest-cycle-in-a-graph",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Divide Nodes Into the Maximum Number of Groups",
+        "titleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zomato",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2646",
+    "title": "Minimize the Total Price of the Trips",
+    "titleSlug": "minimize-the-total-price-of-the-trips",
+    "difficulty": "Hard",
+    "acRate": 46.65289256198347,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2858",
+    "title": "Minimum Edge Reversals So Every Node Is Reachable",
+    "titleSlug": "minimum-edge-reversals-so-every-node-is-reachable",
+    "difficulty": "Hard",
+    "acRate": 55.57528409090909,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
+        "titleSlug": "reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "MathWorks",
+        "frequency": 72.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2924",
+    "title": "Find Champion II",
+    "titleSlug": "find-champion-ii",
+    "difficulty": "Medium",
+    "acRate": 70.11679441903863,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3015",
+    "title": "Count the Number of Houses at a Certain Distance I",
+    "titleSlug": "count-the-number-of-houses-at-a-certain-distance-i",
+    "difficulty": "Medium",
+    "acRate": 55.881616961259354,
+    "topicTags": [
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3017",
+    "title": "Count the Number of Houses at a Certain Distance II",
+    "titleSlug": "count-the-number-of-houses-at-a-certain-distance-ii",
+    "difficulty": "Hard",
+    "acRate": 22.353349531412704,
+    "topicTags": [
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3203",
+    "title": "Find Minimum Diameter After Merging Two Trees",
+    "titleSlug": "find-minimum-diameter-after-merging-two-trees",
+    "difficulty": "Hard",
+    "acRate": 57.22550292261632,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Height Trees",
+        "titleSlug": "minimum-height-trees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Tree Diameter",
+        "titleSlug": "tree-diameter",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "titleSlug": "maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximize Sum of Weights after Edge Removals",
+        "titleSlug": "maximize-sum-of-weights-after-edge-removals",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ServiceNow",
+        "frequency": 93.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3241",
+    "title": "Time Taken to Mark All Nodes",
+    "titleSlug": "time-taken-to-mark-all-nodes",
+    "difficulty": "Hard",
+    "acRate": 25.601556970983726,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of Distances in Tree",
+        "titleSlug": "sum-of-distances-in-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Most Profitable Path in a Tree",
+        "titleSlug": "most-profitable-path-in-a-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Last Marked Nodes in Tree",
+        "titleSlug": "find-the-last-marked-nodes-in-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3243",
+    "title": "Shortest Distance After Road Addition Queries I",
+    "titleSlug": "shortest-distance-after-road-addition-queries-i",
+    "difficulty": "Medium",
+    "acRate": 61.84227053535834,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3310",
+    "title": "Remove Methods From Project",
+    "titleSlug": "remove-methods-from-project",
+    "difficulty": "Medium",
+    "acRate": 49.65481566957802,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3311",
+    "title": "Construct 2D Grid Matching Graph Layout",
+    "titleSlug": "construct-2d-grid-matching-graph-layout",
+    "difficulty": "Hard",
+    "acRate": 28.333333333333332,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3385",
+    "title": "Minimum Time to Break Locks II",
+    "titleSlug": "minimum-time-to-break-locks-ii",
+    "difficulty": "Hard",
+    "acRate": 43.02134646962233,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IVP",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3387",
+    "title": "Maximize Amount After Two Days of Conversions",
+    "titleSlug": "maximize-amount-after-two-days-of-conversions",
+    "difficulty": "Medium",
+    "acRate": 59.62528924386057,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Evaluate Division",
+        "titleSlug": "evaluate-division",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rippling",
+        "frequency": 55.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3528",
+    "title": "Unit Conversion I",
+    "titleSlug": "unit-conversion-i",
+    "difficulty": "Medium",
+    "acRate": 55.68821806713223,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3534",
+    "title": "Path Existence Queries in a Graph II",
+    "titleSlug": "path-existence-queries-in-a-graph-ii",
+    "difficulty": "Hard",
+    "acRate": 23.140559172730754,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3535",
+    "title": "Unit Conversion II",
+    "titleSlug": "unit-conversion-ii",
+    "difficulty": "Medium",
+    "acRate": 67.74891774891775,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3543",
+    "title": "Maximum Weighted K-Edge Path",
+    "titleSlug": "maximum-weighted-k-edge-path",
+    "difficulty": "Medium",
+    "acRate": 18.831948753878493,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3547",
+    "title": "Maximum Sum of Edge Values in a Graph",
+    "titleSlug": "maximum-sum-of-edge-values-in-a-graph",
+    "difficulty": "Hard",
+    "acRate": 33.88459901501793,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

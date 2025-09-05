@@ -1,0 +1,1602 @@
+[
+  {
+    "questionFrontendId": "62",
+    "title": "Unique Paths",
+    "titleSlug": "unique-paths",
+    "difficulty": "Medium",
+    "acRate": 66.03176738550903,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths II",
+        "titleSlug": "unique-paths-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Path Cost in a Grid",
+        "titleSlug": "minimum-path-cost-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Ways to Reach a Position After Exactly k Steps",
+        "titleSlug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Adobe",
+        "frequency": 49.0
+      },
+      {
+        "name": "Amazon",
+        "frequency": 56.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 59.8
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Coupang",
+        "frequency": 75.9
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 42.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 52.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 39.7
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 56.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 25.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "458",
+    "title": "Poor Pigs",
+    "titleSlug": "poor-pigs",
+    "difficulty": "Hard",
+    "acRate": 59.130556007342186,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "634",
+    "title": "Find the Derangement of An Array",
+    "titleSlug": "find-the-derangement-of-an-array",
+    "difficulty": "Medium",
+    "acRate": 41.759342405194445,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IXL",
+        "frequency": 86.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "920",
+    "title": "Number of Music Playlists",
+    "titleSlug": "number-of-music-playlists",
+    "difficulty": "Hard",
+    "acRate": 59.98011316555789,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count the Number of Good Subsequences",
+        "titleSlug": "count-the-number-of-good-subsequences",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coursera",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1201",
+    "title": "Ugly Number III",
+    "titleSlug": "ugly-number-iii",
+    "difficulty": "Medium",
+    "acRate": 30.671416784262924,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Ugly Number II",
+        "titleSlug": "ugly-number-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 95.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1359",
+    "title": "Count All Valid Pickup and Delivery Options",
+    "titleSlug": "count-all-valid-pickup-and-delivery-options",
+    "difficulty": "Hard",
+    "acRate": 64.8604771656263,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Acko",
+        "frequency": 100.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 56.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1621",
+    "title": "Number of Sets of K Non-Overlapping Line Segments",
+    "titleSlug": "number-of-sets-of-k-non-overlapping-line-segments",
+    "difficulty": "Medium",
+    "acRate": 44.87349708637604,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1641",
+    "title": "Count Sorted Vowel Strings",
+    "titleSlug": "count-sorted-vowel-strings",
+    "difficulty": "Medium",
+    "acRate": 78.99745967279954,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1643",
+    "title": "Kth Smallest Instructions",
+    "titleSlug": "kth-smallest-instructions",
+    "difficulty": "Hard",
+    "acRate": 44.03878319046623,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1735",
+    "title": "Count Ways to Make Array With Product",
+    "titleSlug": "count-ways-to-make-array-with-product",
+    "difficulty": "Hard",
+    "acRate": 53.44027831465017,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count the Number of Ideal Arrays",
+        "titleSlug": "count-the-number-of-ideal-arrays",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Smallest Value After Replacing With Sum of Prime Factors",
+        "titleSlug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Prime Numbers in Range",
+        "titleSlug": "closest-prime-numbers-in-range",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1830",
+    "title": "Minimum Number of Operations to Make String Sorted",
+    "titleSlug": "minimum-number-of-operations-to-make-string-sorted",
+    "difficulty": "Hard",
+    "acRate": 50.28611585182211,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1866",
+    "title": "Number of Ways to Rearrange Sticks With K Sticks Visible",
+    "titleSlug": "number-of-ways-to-rearrange-sticks-with-k-sticks-visible",
+    "difficulty": "Hard",
+    "acRate": 58.14349863974565,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1916",
+    "title": "Count Ways to Build Rooms in an Ant Colony",
+    "titleSlug": "count-ways-to-build-rooms-in-an-ant-colony",
+    "difficulty": "Hard",
+    "acRate": 49.01557600370123,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Anagrams",
+        "titleSlug": "count-anagrams",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count the Number of Good Subsequences",
+        "titleSlug": "count-the-number-of-good-subsequences",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2063",
+    "title": "Vowels of All Substrings",
+    "titleSlug": "vowels-of-all-substrings",
+    "difficulty": "Medium",
+    "acRate": 54.7809915608842,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Substrings Containing All Three Characters",
+        "titleSlug": "number-of-substrings-containing-all-three-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Total Appeal of A String",
+        "titleSlug": "total-appeal-of-a-string",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2338",
+    "title": "Count the Number of Ideal Arrays",
+    "titleSlug": "count-the-number-of-ideal-arrays",
+    "difficulty": "Hard",
+    "acRate": 56.995072228972596,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Ways to Make Array With Product",
+        "titleSlug": "count-ways-to-make-array-with-product",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count the Number of Beautiful Subarrays",
+        "titleSlug": "count-the-number-of-beautiful-subarrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 90.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2400",
+    "title": "Number of Ways to Reach a Position After Exactly k Steps",
+    "titleSlug": "number-of-ways-to-reach-a-position-after-exactly-k-steps",
+    "difficulty": "Medium",
+    "acRate": 36.3178965057085,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Reach a Number",
+        "titleSlug": "reach-a-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reaching Points",
+        "titleSlug": "reaching-points",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Ways to Stay in the Same Place After Some Steps",
+        "titleSlug": "number-of-ways-to-stay-in-the-same-place-after-some-steps",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2514",
+    "title": "Count Anagrams",
+    "titleSlug": "count-anagrams",
+    "difficulty": "Hard",
+    "acRate": 35.77436807845126,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Group Anagrams",
+        "titleSlug": "group-anagrams",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "titleSlug": "count-ways-to-build-rooms-in-an-ant-colony",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "MathWorks",
+        "frequency": 88.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2539",
+    "title": "Count the Number of Good Subsequences",
+    "titleSlug": "count-the-number-of-good-subsequences",
+    "difficulty": "Medium",
+    "acRate": 49.39742903053026,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Music Playlists",
+        "titleSlug": "number-of-music-playlists",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Ways to Build Rooms in an Ant Colony",
+        "titleSlug": "count-ways-to-build-rooms-in-an-ant-colony",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 53.7
+      },
+      {
+        "name": "TuSimple",
+        "frequency": 100.0
+      },
+      {
+        "name": "UKG",
+        "frequency": 79.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2597",
+    "title": "The Number of Beautiful Subsets",
+    "titleSlug": "the-number-of-beautiful-subsets",
+    "difficulty": "Medium",
+    "acRate": 50.84115147141368,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Construct the Lexicographically Largest Valid Sequence",
+        "titleSlug": "construct-the-lexicographically-largest-valid-sequence",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2638",
+    "title": "Count the Number of K-Free Subsets",
+    "titleSlug": "count-the-number-of-k-free-subsets",
+    "difficulty": "Medium",
+    "acRate": 46.903225806451616,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2842",
+    "title": "Count K-Subsequences of a String With Maximum Beauty",
+    "titleSlug": "count-k-subsequences-of-a-string-with-maximum-beauty",
+    "difficulty": "Hard",
+    "acRate": 29.799378829849744,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Distinct Subsequences II",
+        "titleSlug": "distinct-subsequences-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2912",
+    "title": "Number of Ways to Reach Destination in the Grid",
+    "titleSlug": "number-of-ways-to-reach-destination-in-the-grid",
+    "difficulty": "Hard",
+    "acRate": 59.08602150537634,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2927",
+    "title": "Distribute Candies Among Children III",
+    "titleSlug": "distribute-candies-among-children-iii",
+    "difficulty": "Hard",
+    "acRate": 57.43702518992403,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 61.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2930",
+    "title": "Number of Strings Which Can Be Rearranged to Contain Substring",
+    "titleSlug": "number-of-strings-which-can-be-rearranged-to-contain-substring",
+    "difficulty": "Medium",
+    "acRate": 55.81557806496682,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Vowels Permutation",
+        "titleSlug": "count-vowels-permutation",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2954",
+    "title": "Count the Number of Infection Sequences",
+    "titleSlug": "count-the-number-of-infection-sequences",
+    "difficulty": "Hard",
+    "acRate": 34.02926057730328,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Contain Virus",
+        "titleSlug": "contain-virus",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "SAP",
+        "frequency": 91.8
+      },
+      {
+        "name": "Tekion",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2963",
+    "title": "Count the Number of Good Partitions",
+    "titleSlug": "count-the-number-of-good-partitions",
+    "difficulty": "Hard",
+    "acRate": 47.74911831823525,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if There is a Valid Partition For The Array",
+        "titleSlug": "check-if-there-is-a-valid-partition-for-the-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3116",
+    "title": "Kth Smallest Amount With Single Denomination Combination",
+    "titleSlug": "kth-smallest-amount-with-single-denomination-combination",
+    "difficulty": "Hard",
+    "acRate": 18.795265854089383,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Smallest Number in Multiplication Table",
+        "titleSlug": "kth-smallest-number-in-multiplication-table",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Number of Possible Ways for an Event",
+        "titleSlug": "find-the-number-of-possible-ways-for-an-event",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3128",
+    "title": "Right Triangles",
+    "titleSlug": "right-triangles",
+    "difficulty": "Medium",
+    "acRate": 47.45700537297974,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Mitsogo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3247",
+    "title": "Number of Subsequences with Odd Sum",
+    "titleSlug": "number-of-subsequences-with-odd-sum",
+    "difficulty": "Medium",
+    "acRate": 46.98979591836735,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3250",
+    "title": "Find the Count of Monotonic Pairs I",
+    "titleSlug": "find-the-count-of-monotonic-pairs-i",
+    "difficulty": "Hard",
+    "acRate": 46.85949617070469,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Monotonic Array",
+        "titleSlug": "monotonic-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arcesium",
+        "frequency": 67.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3251",
+    "title": "Find the Count of Monotonic Pairs II",
+    "titleSlug": "find-the-count-of-monotonic-pairs-ii",
+    "difficulty": "Hard",
+    "acRate": 23.313549045886784,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "BNY Mellon",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3312",
+    "title": "Sorted GCD Pair Queries",
+    "titleSlug": "sorted-gcd-pair-queries",
+    "difficulty": "Hard",
+    "acRate": 20.212464014921135,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3317",
+    "title": "Find the Number of Possible Ways for an Event",
+    "titleSlug": "find-the-number-of-possible-ways-for-an-event",
+    "difficulty": "Hard",
+    "acRate": 33.73150913257865,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Smallest Amount With Single Denomination Combination",
+        "titleSlug": "kth-smallest-amount-with-single-denomination-combination",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3343",
+    "title": "Count Number of Balanced Permutations",
+    "titleSlug": "count-number-of-balanced-permutations",
+    "difficulty": "Hard",
+    "acRate": 49.3100851924232,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3352",
+    "title": "Count K-Reducible Numbers Less Than N",
+    "titleSlug": "count-k-reducible-numbers-less-than-n",
+    "difficulty": "Hard",
+    "acRate": 25.759534583063992,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3395",
+    "title": "Subsequences with a Unique Middle Mode I",
+    "titleSlug": "subsequences-with-a-unique-middle-mode-i",
+    "difficulty": "Hard",
+    "acRate": 17.92811839323467,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsequences with a Unique Middle Mode II",
+        "titleSlug": "subsequences-with-a-unique-middle-mode-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3405",
+    "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+    "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+    "difficulty": "Hard",
+    "acRate": 58.4026141271496,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Good Numbers",
+        "titleSlug": "count-good-numbers",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 84.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3416",
+    "title": "Subsequences with a Unique Middle Mode II",
+    "titleSlug": "subsequences-with-a-unique-middle-mode-ii",
+    "difficulty": "Hard",
+    "acRate": 45.69892473118279,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsequences with a Unique Middle Mode I",
+        "titleSlug": "subsequences-with-a-unique-middle-mode-i",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3426",
+    "title": "Manhattan Distances of All Arrangements of Pieces",
+    "titleSlug": "manhattan-distances-of-all-arrangements-of-pieces",
+    "difficulty": "Hard",
+    "acRate": 33.472884821341644,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 61.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3428",
+    "title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+    "titleSlug": "maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+    "difficulty": "Medium",
+    "acRate": 20.607775370234407,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3463",
+    "title": "Check If Digits Are Equal in String After Operations II",
+    "titleSlug": "check-if-digits-are-equal-in-string-after-operations-ii",
+    "difficulty": "Hard",
+    "acRate": 11.178447208630548,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Pascal's Triangle",
+        "titleSlug": "pascals-triangle",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3518",
+    "title": "Smallest Palindromic Rearrangement II",
+    "titleSlug": "smallest-palindromic-rearrangement-ii",
+    "difficulty": "Hard",
+    "acRate": 12.49902594872594,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3539",
+    "title": "Find Sum of Array Product of Magical Sequences",
+    "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+    "difficulty": "Hard",
+    "acRate": 23.3458177278402,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Number With All Set Bits",
+        "titleSlug": "smallest-number-with-all-set-bits",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3621",
+    "title": "Number of Integers With Popcount-Depth Equal to K I",
+    "titleSlug": "number-of-integers-with-popcount-depth-equal-to-k-i",
+    "difficulty": "Hard",
+    "acRate": 19.93281681746763,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Pattern in Infinite Stream II",
+        "titleSlug": "find-pattern-in-infinite-stream-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4577 @@
+[
+  {
+    "questionFrontendId": "169",
+    "title": "Majority Element",
+    "titleSlug": "majority-element",
+    "difficulty": "Easy",
+    "acRate": 65.83417013524434,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Majority Element II",
+        "titleSlug": "majority-element-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check If a Number Is Majority Element in a Sorted Array",
+        "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Most Frequent Even Element",
+        "titleSlug": "most-frequent-even-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Index of a Valid Split",
+        "titleSlug": "minimum-index-of-a-valid-split",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Exceed Threshold Value I",
+        "titleSlug": "minimum-operations-to-exceed-threshold-value-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Most Common Response",
+        "titleSlug": "find-the-most-common-response",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Valid Pair of Adjacent Digits in String",
+        "titleSlug": "find-valid-pair-of-adjacent-digits-in-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 68.9
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "CVENT",
+        "frequency": 100.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 65.3
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 59.5
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 46.5
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 48.4
+      },
+      {
+        "name": "Pwc",
+        "frequency": 100.0
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 72.2
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "229",
+    "title": "Majority Element II",
+    "titleSlug": "majority-element-ii",
+    "difficulty": "Medium",
+    "acRate": 54.96258192929715,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check If a Number Is Majority Element in a Sorted Array",
+        "titleSlug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Most Frequent Even Element",
+        "titleSlug": "most-frequent-even-element",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 52.2
+      },
+      {
+        "name": "Darwinbox",
+        "frequency": 58.4
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "299",
+    "title": "Bulls and Cows",
+    "titleSlug": "bulls-and-cows",
+    "difficulty": "Medium",
+    "acRate": 51.63533211351663,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Make Number of Distinct Characters Equal",
+        "titleSlug": "make-number-of-distinct-characters-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "CARS24",
+        "frequency": 77.3
+      },
+      {
+        "name": "Epic Systems",
+        "frequency": 51.3
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 68.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "383",
+    "title": "Ransom Note",
+    "titleSlug": "ransom-note",
+    "difficulty": "Easy",
+    "acRate": 64.86538851670933,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Stickers to Spell Word",
+        "titleSlug": "stickers-to-spell-word",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "titleSlug": "find-words-that-can-be-formed-by-characters",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Criteo",
+        "frequency": 72.2
+      },
+      {
+        "name": "Disney",
+        "frequency": 100.0
+      },
+      {
+        "name": "Karat",
+        "frequency": 60.9
+      },
+      {
+        "name": "Spotify",
+        "frequency": 55.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "387",
+    "title": "First Unique Character in a String",
+    "titleSlug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "acRate": 64.06878553118058,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "First Letter to Appear Twice",
+        "titleSlug": "first-letter-to-appear-twice",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 77.8
+      },
+      {
+        "name": "Ozon",
+        "frequency": 69.5
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      },
+      {
+        "name": "Yandex",
+        "frequency": 35.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "594",
+    "title": "Longest Harmonious Subsequence",
+    "titleSlug": "longest-harmonious-subsequence",
+    "difficulty": "Easy",
+    "acRate": 63.843755128836364,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "LiveRamp",
+        "frequency": 100.0
+      },
+      {
+        "name": "ZS Associates",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "811",
+    "title": "Subdomain Visit Count",
+    "titleSlug": "subdomain-visit-count",
+    "difficulty": "Medium",
+    "acRate": 76.9215711463055,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Karat",
+        "frequency": 47.6
+      },
+      {
+        "name": "Peloton",
+        "frequency": 79.6
+      },
+      {
+        "name": "Roblox",
+        "frequency": 69.9
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "819",
+    "title": "Most Common Word",
+    "titleSlug": "most-common-word",
+    "difficulty": "Easy",
+    "acRate": 44.70378899997778,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Datadog",
+        "frequency": 91.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "884",
+    "title": "Uncommon Words from Two Sentences",
+    "titleSlug": "uncommon-words-from-two-sentences",
+    "difficulty": "Easy",
+    "acRate": 75.42543423997145,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Common Words With One Occurrence",
+        "titleSlug": "count-common-words-with-one-occurrence",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "923",
+    "title": "3Sum With Multiplicity",
+    "titleSlug": "3sum-with-multiplicity",
+    "difficulty": "Medium",
+    "acRate": 45.92329590890189,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "945",
+    "title": "Minimum Increment to Make Array Unique",
+    "titleSlug": "minimum-increment-to-make-array-unique",
+    "difficulty": "Medium",
+    "acRate": 60.41636685220346,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Make the Array Increasing",
+        "titleSlug": "minimum-operations-to-make-the-array-increasing",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Product After K Increments",
+        "titleSlug": "maximum-product-after-k-increments",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+        "titleSlug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coursera",
+        "frequency": 97.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "992",
+    "title": "Subarrays with K Different Integers",
+    "titleSlug": "subarrays-with-k-different-integers",
+    "difficulty": "Hard",
+    "acRate": 66.61873379716033,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Most K Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-k-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Vowel Substrings of a String",
+        "titleSlug": "count-vowel-substrings-of-a-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Unique Flavors After Sharing K Candies",
+        "titleSlug": "number-of-unique-flavors-after-sharing-k-candies",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Divisible Elements Subarrays",
+        "titleSlug": "k-divisible-elements-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Complete Subarrays in an Array",
+        "titleSlug": "count-complete-subarrays-in-an-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Roblox",
+        "frequency": 46.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1010",
+    "title": "Pairs of Songs With Total Durations Divisible by 60",
+    "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+    "difficulty": "Medium",
+    "acRate": 53.30277813340162,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Destroy Sequential Targets",
+        "titleSlug": "destroy-sequential-targets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Pairs That Form a Complete Day II",
+        "titleSlug": "count-pairs-that-form-a-complete-day-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akamai",
+        "frequency": 62.9
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 37.1
+      },
+      {
+        "name": "BlackRock",
+        "frequency": 71.4
+      },
+      {
+        "name": "Citrix",
+        "frequency": 63.7
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "PayPal",
+        "frequency": 65.5
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1079",
+    "title": "Letter Tile Possibilities",
+    "titleSlug": "letter-tile-possibilities",
+    "difficulty": "Medium",
+    "acRate": 83.5882389024066,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1090",
+    "title": "Largest Values From Labels",
+    "titleSlug": "largest-values-from-labels",
+    "difficulty": "Medium",
+    "acRate": 63.524231484520286,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values",
+        "titleSlug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1121",
+    "title": "Divide Array Into Increasing Sequences",
+    "titleSlug": "divide-array-into-increasing-sequences",
+    "difficulty": "Hard",
+    "acRate": 60.65405651777576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1128",
+    "title": "Number of Equivalent Domino Pairs",
+    "titleSlug": "number-of-equivalent-domino-pairs",
+    "difficulty": "Easy",
+    "acRate": 60.626568369207746,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1160",
+    "title": "Find Words That Can Be Formed by Characters",
+    "titleSlug": "find-words-that-can-be-formed-by-characters",
+    "difficulty": "Easy",
+    "acRate": 71.19462300859645,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Ransom Note",
+        "titleSlug": "ransom-note",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Rearrange Characters to Make Target String",
+        "titleSlug": "rearrange-characters-to-make-target-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Datadog",
+        "frequency": 46.9
+      },
+      {
+        "name": "Karat",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1189",
+    "title": "Maximum Number of Balloons",
+    "titleSlug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "acRate": 59.8022932506582,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Tesla",
+        "frequency": 71.8
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 92.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1213",
+    "title": "Intersection of Three Sorted Arrays",
+    "titleSlug": "intersection-of-three-sorted-arrays",
+    "difficulty": "Easy",
+    "acRate": 80.0613180197139,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Intersection of Two Arrays",
+        "titleSlug": "intersection-of-two-arrays",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Intersection of Multiple Arrays",
+        "titleSlug": "intersection-of-multiple-arrays",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1221",
+    "title": "Split a String in Balanced Strings",
+    "titleSlug": "split-a-string-in-balanced-strings",
+    "difficulty": "Easy",
+    "acRate": 86.95539204973167,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Strings by Separator",
+        "titleSlug": "split-strings-by-separator",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1347",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+    "difficulty": "Medium",
+    "acRate": 82.2140152205733,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Determine if Two Strings Are Close",
+        "titleSlug": "determine-if-two-strings-are-close",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Character Frequencies Equal",
+        "titleSlug": "minimum-operations-to-make-character-frequencies-equal",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 70.6
+      },
+      {
+        "name": "IXL",
+        "frequency": 75.5
+      },
+      {
+        "name": "SoFi",
+        "frequency": 100.0
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1366",
+    "title": "Rank Teams by Votes",
+    "titleSlug": "rank-teams-by-votes",
+    "difficulty": "Medium",
+    "acRate": 59.613772548045574,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Online Election",
+        "titleSlug": "online-election",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 100.0
+      },
+      {
+        "name": "Coursera",
+        "frequency": 89.6
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1370",
+    "title": "Increasing Decreasing String",
+    "titleSlug": "increasing-decreasing-string",
+    "difficulty": "Easy",
+    "acRate": 76.94013303769401,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1394",
+    "title": "Find Lucky Integer in an Array",
+    "titleSlug": "find-lucky-integer-in-an-array",
+    "difficulty": "Easy",
+    "acRate": 75.4239256678281,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1400",
+    "title": "Construct K Palindrome Strings",
+    "titleSlug": "construct-k-palindrome-strings",
+    "difficulty": "Medium",
+    "acRate": 68.66565764898881,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1419",
+    "title": "Minimum Number of Frogs Croaking",
+    "titleSlug": "minimum-number-of-frogs-croaking",
+    "difficulty": "Medium",
+    "acRate": 50.88835421144115,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Divide Intervals Into Minimum Number of Groups",
+        "titleSlug": "divide-intervals-into-minimum-number-of-groups",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Zoox",
+        "frequency": 72.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1481",
+    "title": "Least Number of Unique Integers after K Removals",
+    "titleSlug": "least-number-of-unique-integers-after-k-removals",
+    "difficulty": "Medium",
+    "acRate": 63.519676999096255,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Number of Distinct Elements After Operations",
+        "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 93.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1497",
+    "title": "Check If Array Pairs Are Divisible by k",
+    "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+    "difficulty": "Medium",
+    "acRate": 46.179821544817365,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Array Pairs Divisible by K",
+        "titleSlug": "count-array-pairs-divisible-by-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Deletions to Make Array Divisible",
+        "titleSlug": "minimum-deletions-to-make-array-divisible",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Pairs That Form a Complete Day II",
+        "titleSlug": "count-pairs-that-form-a-complete-day-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Pairs That Form a Complete Day I",
+        "titleSlug": "count-pairs-that-form-a-complete-day-i",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DevRev",
+        "frequency": 100.0
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1512",
+    "title": "Number of Good Pairs",
+    "titleSlug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "acRate": 89.65197560624428,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Pairs of Interchangeable Rectangles",
+        "titleSlug": "number-of-pairs-of-interchangeable-rectangles",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Substrings That Begin and End With the Same Letter",
+        "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1519",
+    "title": "Number of Nodes in the Sub-Tree With the Same Label",
+    "titleSlug": "number-of-nodes-in-the-sub-tree-with-the-same-label",
+    "difficulty": "Medium",
+    "acRate": 55.13015263464903,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1612",
+    "title": "Check If Two Expression Trees are Equivalent",
+    "titleSlug": "check-if-two-expression-trees-are-equivalent",
+    "difficulty": "Medium",
+    "acRate": 71.30180063754631,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Build Binary Expression Tree From Infix Expression",
+        "titleSlug": "build-binary-expression-tree-from-infix-expression",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Flips in Binary Tree to Get Result",
+        "titleSlug": "minimum-flips-in-binary-tree-to-get-result",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Evaluate Boolean Binary Tree",
+        "titleSlug": "evaluate-boolean-binary-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1657",
+    "title": "Determine if Two Strings Are Close",
+    "titleSlug": "determine-if-two-strings-are-close",
+    "difficulty": "Medium",
+    "acRate": 54.19872136387853,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Buddy Strings",
+        "titleSlug": "buddy-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Swaps to Make Strings Equal",
+        "titleSlug": "minimum-swaps-to-make-strings-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram",
+        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Postmates",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1704",
+    "title": "Determine if String Halves Are Alike",
+    "titleSlug": "determine-if-string-halves-are-alike",
+    "difficulty": "Easy",
+    "acRate": 78.67256943102856,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1726",
+    "title": "Tuple with Same Product",
+    "titleSlug": "tuple-with-same-product",
+    "difficulty": "Medium",
+    "acRate": 70.12027657525074,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1737",
+    "title": "Change Minimum Characters to Satisfy One of Three Conditions",
+    "titleSlug": "change-minimum-characters-to-satisfy-one-of-three-conditions",
+    "difficulty": "Medium",
+    "acRate": 37.283367899115596,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1742",
+    "title": "Maximum Number of Balls in a Box",
+    "titleSlug": "maximum-number-of-balls-in-a-box",
+    "difficulty": "Easy",
+    "acRate": 74.37464414499905,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Number of Distinct Colors Among the Balls",
+        "titleSlug": "find-the-number-of-distinct-colors-among-the-balls",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AppDynamics",
+        "frequency": 100.0
+      },
+      {
+        "name": "Lucid",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1748",
+    "title": "Sum of Unique Elements",
+    "titleSlug": "sum-of-unique-elements",
+    "difficulty": "Easy",
+    "acRate": 79.29123876044505,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1775",
+    "title": "Equal Sum Arrays With Minimum Number of Operations",
+    "titleSlug": "equal-sum-arrays-with-minimum-number-of-operations",
+    "difficulty": "Medium",
+    "acRate": 54.137903160617576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Dice Rolls With Target Sum",
+        "titleSlug": "number-of-dice-rolls-with-target-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 95.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1781",
+    "title": "Sum of Beauty of All Substrings",
+    "titleSlug": "sum-of-beauty-of-all-substrings",
+    "difficulty": "Medium",
+    "acRate": 71.98407661685802,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Substrings That Begin and End With the Same Letter",
+        "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Fastenal",
+        "frequency": 89.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1790",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "titleSlug": "check-if-one-string-swap-can-make-strings-equal",
+    "difficulty": "Easy",
+    "acRate": 49.46890101145237,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Buddy Strings",
+        "titleSlug": "buddy-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Make Number of Distinct Characters Equal",
+        "titleSlug": "make-number-of-distinct-characters-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Almost Equal Pairs I",
+        "titleSlug": "count-almost-equal-pairs-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 74.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1814",
+    "title": "Count Nice Pairs in an Array",
+    "titleSlug": "count-nice-pairs-in-an-array",
+    "difficulty": "Medium",
+    "acRate": 48.498260296439355,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Pairs of Interchangeable Rectangles",
+        "titleSlug": "number-of-pairs-of-interchangeable-rectangles",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Bad Pairs",
+        "titleSlug": "count-number-of-bad-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Pairs Satisfying Inequality",
+        "titleSlug": "number-of-pairs-satisfying-inequality",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Block",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1854",
+    "title": "Maximum Population Year",
+    "titleSlug": "maximum-population-year",
+    "difficulty": "Easy",
+    "acRate": 62.95546050898692,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 45.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1876",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "titleSlug": "substrings-of-size-three-with-distinct-characters",
+    "difficulty": "Easy",
+    "acRate": 75.88609988569195,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1897",
+    "title": "Redistribute Characters to Make All Strings Equal",
+    "titleSlug": "redistribute-characters-to-make-all-strings-equal",
+    "difficulty": "Easy",
+    "acRate": 66.76949219005294,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Moengage",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1940",
+    "title": "Longest Common Subsequence Between Sorted Arrays",
+    "titleSlug": "longest-common-subsequence-between-sorted-arrays",
+    "difficulty": "Medium",
+    "acRate": 81.2660632472902,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1941",
+    "title": "Check if All Characters Have Equal Number of Occurrences",
+    "titleSlug": "check-if-all-characters-have-equal-number-of-occurrences",
+    "difficulty": "Easy",
+    "acRate": 78.85886992371886,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rings and Rods",
+        "titleSlug": "rings-and-rods",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Make Number of Distinct Characters Equal",
+        "titleSlug": "make-number-of-distinct-characters-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Bolt",
+        "frequency": 94.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2006",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+    "difficulty": "Easy",
+    "acRate": 85.04426278456089,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "K-diff Pairs in an Array",
+        "titleSlug": "k-diff-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Finding Pairs With a Certain Sum",
+        "titleSlug": "finding-pairs-with-a-certain-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Equal and Divisible Pairs in an Array",
+        "titleSlug": "count-equal-and-divisible-pairs-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Number of Bad Pairs",
+        "titleSlug": "count-number-of-bad-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Fair Pairs",
+        "titleSlug": "count-the-number-of-fair-pairs",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2023",
+    "title": "Number of Pairs of Strings With Concatenation Equal to Target",
+    "titleSlug": "number-of-pairs-of-strings-with-concatenation-equal-to-target",
+    "difficulty": "Medium",
+    "acRate": 74.97440549471911,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2053",
+    "title": "Kth Distinct String in an Array",
+    "titleSlug": "kth-distinct-string-in-an-array",
+    "difficulty": "Easy",
+    "acRate": 82.04631741198618,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Common Words With One Occurrence",
+        "titleSlug": "count-common-words-with-one-occurrence",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2067",
+    "title": "Number of Equal Count Substrings",
+    "titleSlug": "number-of-equal-count-substrings",
+    "difficulty": "Medium",
+    "acRate": 44.75131369913235,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "titleSlug": "unique-substrings-with-equal-digit-frequency",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2068",
+    "title": "Check Whether Two Strings are Almost Equivalent",
+    "titleSlug": "check-whether-two-strings-are-almost-equivalent",
+    "difficulty": "Easy",
+    "acRate": 63.79435874155225,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Occurrence of First Almost Equal Substring",
+        "titleSlug": "find-the-occurrence-of-first-almost-equal-substring",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 82.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 70.8
+      },
+      {
+        "name": "Vanguard",
+        "frequency": 84.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2083",
+    "title": "Substrings That Begin and End With the Same Letter",
+    "titleSlug": "substrings-that-begin-and-end-with-the-same-letter",
+    "difficulty": "Medium",
+    "acRate": 74.31919279592059,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Good Pairs",
+        "titleSlug": "number-of-good-pairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Beauty of All Substrings",
+        "titleSlug": "sum-of-beauty-of-all-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Pairs in Two Arrays",
+        "titleSlug": "count-pairs-in-two-arrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Substrings With Equal Digit Frequency",
+        "titleSlug": "unique-substrings-with-equal-digit-frequency",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2085",
+    "title": "Count Common Words With One Occurrence",
+    "titleSlug": "count-common-words-with-one-occurrence",
+    "difficulty": "Easy",
+    "acRate": 72.66724296994748,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Intersection of Two Arrays",
+        "titleSlug": "intersection-of-two-arrays",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Uncommon Words from Two Sentences",
+        "titleSlug": "uncommon-words-from-two-sentences",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Kth Distinct String in an Array",
+        "titleSlug": "kth-distinct-string-in-an-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Jane Street",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2131",
+    "title": "Longest Palindrome by Concatenating Two Letter Words",
+    "titleSlug": "longest-palindrome-by-concatenating-two-letter-words",
+    "difficulty": "Medium",
+    "acRate": 53.69453698686987,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Palindrome Pairs",
+        "titleSlug": "palindrome-pairs",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Palindrome",
+        "titleSlug": "longest-palindrome",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 67.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2148",
+    "title": "Count Elements With Strictly Smaller and Greater Elements ",
+    "titleSlug": "count-elements-with-strictly-smaller-and-greater-elements",
+    "difficulty": "Easy",
+    "acRate": 59.33118293726548,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Smallest Letter Greater Than Target",
+        "titleSlug": "find-smallest-letter-greater-than-target",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2150",
+    "title": "Find All Lonely Numbers in the Array",
+    "titleSlug": "find-all-lonely-numbers-in-the-array",
+    "difficulty": "Medium",
+    "acRate": 61.96734645294397,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Frequency of the Most Frequent Element",
+        "titleSlug": "frequency-of-the-most-frequent-element",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2170",
+    "title": "Minimum Operations to Make the Array Alternating",
+    "titleSlug": "minimum-operations-to-make-the-array-alternating",
+    "difficulty": "Medium",
+    "acRate": 34.81406126370521,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Deletions to Make Array Beautiful",
+        "titleSlug": "minimum-deletions-to-make-array-beautiful",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Flips to Make the Binary String Alternating",
+        "titleSlug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2186",
+    "title": "Minimum Number of Steps to Make Two Strings Anagram II",
+    "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram-ii",
+    "difficulty": "Medium",
+    "acRate": 72.91561975046304,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Steps to Make Two Strings Anagram",
+        "titleSlug": "minimum-number-of-steps-to-make-two-strings-anagram",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Wealthfront",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2190",
+    "title": "Most Frequent Number Following Key In an Array",
+    "titleSlug": "most-frequent-number-following-key-in-an-array",
+    "difficulty": "Easy",
+    "acRate": 59.27688037959303,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "titleSlug": "sort-array-by-increasing-frequency",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2225",
+    "title": "Find Players With Zero or One Losses",
+    "titleSlug": "find-players-with-zero-or-one-losses",
+    "difficulty": "Medium",
+    "acRate": 72.5446406440547,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Indeed",
+        "frequency": 100.0
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 53.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2244",
+    "title": "Minimum Rounds to Complete All Tasks",
+    "titleSlug": "minimum-rounds-to-complete-all-tasks",
+    "difficulty": "Medium",
+    "acRate": 63.02891671908656,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Climbing Stairs",
+        "titleSlug": "climbing-stairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Odd String Difference",
+        "titleSlug": "odd-string-difference",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Levels to Gain More Points",
+        "titleSlug": "minimum-levels-to-gain-more-points",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2248",
+    "title": "Intersection of Multiple Arrays",
+    "titleSlug": "intersection-of-multiple-arrays",
+    "difficulty": "Easy",
+    "acRate": 68.49529966138618,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Intersection of Two Arrays",
+        "titleSlug": "intersection-of-two-arrays",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Intersection of Two Arrays II",
+        "titleSlug": "intersection-of-two-arrays-ii",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Smallest Common Element in All Rows",
+        "titleSlug": "find-smallest-common-element-in-all-rows",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Intersection of Three Sorted Arrays",
+        "titleSlug": "intersection-of-three-sorted-arrays",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Difference of Two Arrays",
+        "titleSlug": "find-the-difference-of-two-arrays",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2268",
+    "title": "Minimum Number of Keypresses",
+    "titleSlug": "minimum-number-of-keypresses",
+    "difficulty": "Medium",
+    "acRate": 71.32813573967518,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 59.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2283",
+    "title": "Check if Number Has Equal Digit Count and Digit Value",
+    "titleSlug": "check-if-number-has-equal-digit-count-and-digit-value",
+    "difficulty": "Easy",
+    "acRate": 72.6520409419295,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Self Dividing Numbers",
+        "titleSlug": "self-dividing-numbers",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 70.4
+      },
+      {
+        "name": "PornHub",
+        "frequency": 79.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2284",
+    "title": "Sender With Largest Word Count",
+    "titleSlug": "sender-with-largest-word-count",
+    "difficulty": "Medium",
+    "acRate": 58.699598902258806,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "titleSlug": "top-k-frequent-words",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2287",
+    "title": "Rearrange Characters to Make Target String",
+    "titleSlug": "rearrange-characters-to-make-target-string",
+    "difficulty": "Easy",
+    "acRate": 60.441186834872084,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Words That Can Be Formed by Characters",
+        "titleSlug": "find-words-that-can-be-formed-by-characters",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Number of Occurrences of a Substring",
+        "titleSlug": "maximum-number-of-occurrences-of-a-substring",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2341",
+    "title": "Maximum Number of Pairs in Array",
+    "titleSlug": "maximum-number-of-pairs-in-array",
+    "difficulty": "Easy",
+    "acRate": 75.64707245963321,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Words",
+        "titleSlug": "top-k-frequent-words",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "titleSlug": "sort-array-by-increasing-frequency",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Altimetrik",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2347",
+    "title": "Best Poker Hand",
+    "titleSlug": "best-poker-hand",
+    "difficulty": "Easy",
+    "acRate": 61.32204716704178,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Categorize Box According to Criteria",
+        "titleSlug": "categorize-box-according-to-criteria",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2364",
+    "title": "Count Number of Bad Pairs",
+    "titleSlug": "count-number-of-bad-pairs",
+    "difficulty": "Medium",
+    "acRate": 54.312258687258684,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "K-diff Pairs in an Array",
+        "titleSlug": "k-diff-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Nice Pairs in an Array",
+        "titleSlug": "count-nice-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Pairs With Absolute Difference K",
+        "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Equal and Divisible Pairs in an Array",
+        "titleSlug": "count-equal-and-divisible-pairs-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Pairs Satisfying Inequality",
+        "titleSlug": "number-of-pairs-satisfying-inequality",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2384",
+    "title": "Largest Palindromic Number",
+    "titleSlug": "largest-palindromic-number",
+    "difficulty": "Medium",
+    "acRate": 36.632385055775245,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Palindrome",
+        "titleSlug": "longest-palindrome",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Bentley Systems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Geico",
+        "frequency": 100.0
+      },
+      {
+        "name": "smartnews",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2404",
+    "title": "Most Frequent Even Element",
+    "titleSlug": "most-frequent-even-element",
+    "difficulty": "Easy",
+    "acRate": 52.406634372837466,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Majority Element II",
+        "titleSlug": "majority-element-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2423",
+    "title": "Remove Letter To Equalize Frequency",
+    "titleSlug": "remove-letter-to-equalize-frequency",
+    "difficulty": "Easy",
+    "acRate": 18.36489633308083,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Equal Frequency",
+        "titleSlug": "maximum-equal-frequency",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "tcs",
+        "frequency": 56.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2442",
+    "title": "Count Number of Distinct Integers After Reverse Operations",
+    "titleSlug": "count-number-of-distinct-integers-after-reverse-operations",
+    "difficulty": "Medium",
+    "acRate": 80.59551536740193,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Integer",
+        "titleSlug": "reverse-integer",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2453",
+    "title": "Destroy Sequential Targets",
+    "titleSlug": "destroy-sequential-targets",
+    "difficulty": "Medium",
+    "acRate": 40.94832503137001,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Arithmetic Slices II - Subsequence",
+        "titleSlug": "arithmetic-slices-ii-subsequence",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Pairs of Songs With Total Durations Divisible by 60",
+        "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Arithmetic Subsequence",
+        "titleSlug": "longest-arithmetic-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Arithmetic Subsequence of Given Difference",
+        "titleSlug": "longest-arithmetic-subsequence-of-given-difference",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2499",
+    "title": "Minimum Total Cost to Make Arrays Unequal",
+    "titleSlug": "minimum-total-cost-to-make-arrays-unequal",
+    "difficulty": "Hard",
+    "acRate": 40.68907207778482,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 78.9
+      },
+      {
+        "name": "razorpay",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2529",
+    "title": "Maximum Count of Positive Integer and Negative Integer",
+    "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+    "difficulty": "Easy",
+    "acRate": 74.49755586039815,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Search",
+        "titleSlug": "binary-search",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Negative Numbers in a Sorted Matrix",
+        "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ShareChat",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2531",
+    "title": "Make Number of Distinct Characters Equal",
+    "titleSlug": "make-number-of-distinct-characters-equal",
+    "difficulty": "Medium",
+    "acRate": 27.181595269003317,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bulls and Cows",
+        "titleSlug": "bulls-and-cows",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Buddy Strings",
+        "titleSlug": "buddy-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Swaps to Make Strings Equal",
+        "titleSlug": "minimum-swaps-to-make-strings-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if One String Swap Can Make Strings Equal",
+        "titleSlug": "check-if-one-string-swap-can-make-strings-equal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if All Characters Have Equal Number of Occurrences",
+        "titleSlug": "check-if-all-characters-have-equal-number-of-occurrences",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2547",
+    "title": "Minimum Cost to Split an Array",
+    "titleSlug": "minimum-cost-to-split-an-array",
+    "difficulty": "Hard",
+    "acRate": 42.85309212578331,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split Array Largest Sum",
+        "titleSlug": "split-array-largest-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "titleSlug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Sum of Values by Dividing Array",
+        "titleSlug": "minimum-sum-of-values-by-dividing-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost to Divide Array Into Subarrays",
+        "titleSlug": "minimum-cost-to-divide-array-into-subarrays",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Indeed",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2586",
+    "title": "Count the Number of Vowel Strings in Range",
+    "titleSlug": "count-the-number-of-vowel-strings-in-range",
+    "difficulty": "Easy",
+    "acRate": 73.71664554711786,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 77.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2833",
+    "title": "Furthest Point From Origin",
+    "titleSlug": "furthest-point-from-origin",
+    "difficulty": "Easy",
+    "acRate": 64.74812774578315,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Robot Return to Origin",
+        "titleSlug": "robot-return-to-origin",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Barclays",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2856",
+    "title": "Minimum Array Length After Pair Removals",
+    "titleSlug": "minimum-array-length-after-pair-removals",
+    "difficulty": "Medium",
+    "acRate": 25.681846013890592,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Maximum Number of Marked Indices",
+        "titleSlug": "find-the-maximum-number-of-marked-indices",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snowflake",
+        "frequency": 78.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2870",
+    "title": "Minimum Number of Operations to Make Array Empty",
+    "titleSlug": "minimum-number-of-operations-to-make-array-empty",
+    "difficulty": "Medium",
+    "acRate": 61.91439574123454,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2950",
+    "title": "Number of Divisible Substrings",
+    "titleSlug": "number-of-divisible-substrings",
+    "difficulty": "Medium",
+    "acRate": 73.35834896810508,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Substrings Divisible By Last Digit",
+        "titleSlug": "count-substrings-divisible-by-last-digit",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Amdocs",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 55.7
+      },
+      {
+        "name": "Paytm",
+        "frequency": 80.2
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2955",
+    "title": "Number of Same-End Substrings",
+    "titleSlug": "number-of-same-end-substrings",
+    "difficulty": "Medium",
+    "acRate": 61.431272319865556,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Sprinklr",
+        "frequency": 90.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2981",
+    "title": "Find Longest Special Substring That Occurs Thrice I",
+    "titleSlug": "find-longest-special-substring-that-occurs-thrice-i",
+    "difficulty": "Medium",
+    "acRate": 61.884559078475945,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2982",
+    "title": "Find Longest Special Substring That Occurs Thrice II",
+    "titleSlug": "find-longest-special-substring-that-occurs-thrice-ii",
+    "difficulty": "Medium",
+    "acRate": 38.52303256667322,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Least K Repeating Characters",
+        "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 61.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3005",
+    "title": "Count Elements With Maximum Frequency",
+    "titleSlug": "count-elements-with-maximum-frequency",
+    "difficulty": "Easy",
+    "acRate": 77.9140817844792,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Frequency of an Element After Performing Operations I",
+        "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Frequency of an Element After Performing Operations II",
+        "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Difference Between Even and Odd Frequency II",
+        "titleSlug": "maximum-difference-between-even-and-odd-frequency-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capgemini",
+        "frequency": 79.2
+      },
+      {
+        "name": "CRED",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
+    "acRate": 79.90611598514957,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "titleSlug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3035",
+    "title": "Maximum Palindromes After Operations",
+    "titleSlug": "maximum-palindromes-after-operations",
+    "difficulty": "Medium",
+    "acRate": 43.411062240459984,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Palindrome",
+        "titleSlug": "valid-palindrome",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 88.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3039",
+    "title": "Apply Operations to Make String Empty",
+    "titleSlug": "apply-operations-to-make-string-empty",
+    "difficulty": "Medium",
+    "acRate": 56.4863109048724,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Virtusa",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3046",
+    "title": "Split the Array",
+    "titleSlug": "split-the-array",
+    "difficulty": "Easy",
+    "acRate": 59.84836531834149,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Visa",
+        "frequency": 93.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3063",
+    "title": "Linked List Frequency",
+    "titleSlug": "linked-list-frequency",
+    "difficulty": "Easy",
+    "acRate": 85.40853581770112,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3084",
+    "title": "Count Substrings Starting and Ending with Given Character",
+    "titleSlug": "count-substrings-starting-and-ending-with-given-character",
+    "difficulty": "Medium",
+    "acRate": 49.223273144167386,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3085",
+    "title": "Minimum Deletions to Make String K-Special",
+    "titleSlug": "minimum-deletions-to-make-string-k-special",
+    "difficulty": "Medium",
+    "acRate": 67.12892944190988,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Deletions to Make Character Frequencies Unique",
+        "titleSlug": "minimum-deletions-to-make-character-frequencies-unique",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 77.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3137",
+    "title": "Minimum Number of Operations to Make Word K-Periodic",
+    "titleSlug": "minimum-number-of-operations-to-make-word-k-periodic",
+    "difficulty": "Medium",
+    "acRate": 60.01557112668223,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Repeating Substring",
+        "titleSlug": "maximum-repeating-substring",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3138",
+    "title": "Minimum Length of Anagram Concatenation",
+    "titleSlug": "minimum-length-of-anagram-concatenation",
+    "difficulty": "Medium",
+    "acRate": 39.774718397997496,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Turing",
+        "frequency": 62.0
+      },
+      {
+        "name": "UKG",
+        "frequency": 79.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3144",
+    "title": "Minimum Substring Partition of Equal Character Frequency",
+    "titleSlug": "minimum-substring-partition-of-equal-character-frequency",
+    "difficulty": "Medium",
+    "acRate": 39.31390910599559,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Array for Maximum Sum",
+        "titleSlug": "partition-array-for-maximum-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Partition String Into Minimum Beautiful Substrings",
+        "titleSlug": "partition-string-into-minimum-beautiful-substrings",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Mitsogo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3153",
+    "title": "Sum of Digit Differences of All Pairs",
+    "titleSlug": "sum-of-digit-differences-of-all-pairs",
+    "difficulty": "Medium",
+    "acRate": 42.6759046861102,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Total Hamming Distance",
+        "titleSlug": "total-hamming-distance",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3167",
+    "title": "Better Compression of String",
+    "titleSlug": "better-compression-of-string",
+    "difficulty": "Medium",
+    "acRate": 75.84449621432732,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Riot Games",
+        "frequency": 72.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3184",
+    "title": "Count Pairs That Form a Complete Day I",
+    "titleSlug": "count-pairs-that-form-a-complete-day-i",
+    "difficulty": "Easy",
+    "acRate": 77.6769530041116,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check If Array Pairs Are Divisible by k",
+        "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3185",
+    "title": "Count Pairs That Form a Complete Day II",
+    "titleSlug": "count-pairs-that-form-a-complete-day-ii",
+    "difficulty": "Medium",
+    "acRate": 43.165080444142305,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Pairs of Songs With Total Durations Divisible by 60",
+        "titleSlug": "pairs-of-songs-with-total-durations-divisible-by-60",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check If Array Pairs Are Divisible by k",
+        "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3186",
+    "title": "Maximum Total Damage With Spell Casting",
+    "titleSlug": "maximum-total-damage-with-spell-casting",
+    "difficulty": "Medium",
+    "acRate": 28.11799548110074,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 76.4
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3223",
+    "title": "Minimum Length of String After Operations",
+    "titleSlug": "minimum-length-of-string-after-operations",
+    "difficulty": "Medium",
+    "acRate": 74.95221911313965,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3228",
+    "title": "Maximum Number of Operations to Move Ones to the End",
+    "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+    "difficulty": "Medium",
+    "acRate": 53.10760431030081,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3238",
+    "title": "Find the Number of Winning Players",
+    "titleSlug": "find-the-number-of-winning-players",
+    "difficulty": "Easy",
+    "acRate": 59.9625443114173,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Can I Win",
+        "titleSlug": "can-i-win",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Predict the Winner",
+        "titleSlug": "predict-the-winner",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3335",
+    "title": "Total Characters in String After Transformations I",
+    "titleSlug": "total-characters-in-string-after-transformations-i",
+    "difficulty": "Medium",
+    "acRate": 45.74622339506843,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3337",
+    "title": "Total Characters in String After Transformations II",
+    "titleSlug": "total-characters-in-string-after-transformations-ii",
+    "difficulty": "Hard",
+    "acRate": 58.1641601671829,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3438",
+    "title": "Find Valid Pair of Adjacent Digits in String",
+    "titleSlug": "find-valid-pair-of-adjacent-digits-in-string",
+    "difficulty": "Easy",
+    "acRate": 59.882702091577166,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Contains Duplicate",
+        "titleSlug": "contains-duplicate",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3442",
+    "title": "Maximum Difference Between Even and Odd Frequency I",
+    "titleSlug": "maximum-difference-between-even-and-odd-frequency-i",
+    "difficulty": "Easy",
+    "acRate": 61.12995857563642,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3443",
+    "title": "Maximum Manhattan Distance After K Changes",
+    "titleSlug": "maximum-manhattan-distance-after-k-changes",
+    "difficulty": "Medium",
+    "acRate": 54.067397859438685,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "As Far from Land as Possible",
+        "titleSlug": "as-far-from-land-as-possible",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3467",
+    "title": "Transform Array by Parity",
+    "titleSlug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "acRate": 89.6165629422028,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Odd Even Linked List",
+        "titleSlug": "odd-even-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 88.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3527",
+    "title": "Find the Most Common Response",
+    "titleSlug": "find-the-most-common-response",
+    "difficulty": "Medium",
+    "acRate": 74.97661146973525,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Majority Element",
+        "titleSlug": "majority-element",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3541",
+    "title": "Find Most Frequent Vowel and Consonant",
+    "titleSlug": "find-most-frequent-vowel-and-consonant",
+    "difficulty": "Easy",
+    "acRate": 87.66927054188956,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3545",
+    "title": "Minimum Deletions for At Most K Distinct Characters",
+    "titleSlug": "minimum-deletions-for-at-most-k-distinct-characters",
+    "difficulty": "Easy",
+    "acRate": 72.65217818861245,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3583",
+    "title": "Count Special Triplets",
+    "titleSlug": "count-special-triplets",
+    "difficulty": "Medium",
+    "acRate": 36.93702727481091,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3636",
+    "title": "Threshold Majority Queries",
+    "titleSlug": "threshold-majority-queries",
+    "difficulty": "Hard",
+    "acRate": 19.763275057009448,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

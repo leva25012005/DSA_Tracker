@@ -1,0 +1,1143 @@
+[
+  {
+    "questionFrontendId": "149",
+    "title": "Max Points on a Line",
+    "titleSlug": "max-points-on-a-line",
+    "difficulty": "Hard",
+    "acRate": 29.32999215267002,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Line Reflection",
+        "titleSlug": "line-reflection",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Lines to Cover Points",
+        "titleSlug": "minimum-number-of-lines-to-cover-points",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Lines to Represent a Line Chart",
+        "titleSlug": "minimum-lines-to-represent-a-line-chart",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Special Subsequences",
+        "titleSlug": "count-special-subsequences",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 58.9
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 58.8
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 39.7
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 60.4
+      },
+      {
+        "name": "Waymo",
+        "frequency": 100.0
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "223",
+    "title": "Rectangle Area",
+    "titleSlug": "rectangle-area",
+    "difficulty": "Medium",
+    "acRate": 47.642887097525744,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rectangle Overlap",
+        "titleSlug": "rectangle-overlap",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Number of Ways to Place People II",
+        "titleSlug": "find-the-number-of-ways-to-place-people-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Number of Ways to Place People I",
+        "titleSlug": "find-the-number-of-ways-to-place-people-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Largest Area of Square Inside Two Rectangles",
+        "titleSlug": "find-the-largest-area-of-square-inside-two-rectangles",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "335",
+    "title": "Self Crossing",
+    "titleSlug": "self-crossing",
+    "difficulty": "Hard",
+    "acRate": 32.6372578657303,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "469",
+    "title": "Convex Polygon",
+    "titleSlug": "convex-polygon",
+    "difficulty": "Medium",
+    "acRate": 39.95786516853933,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "587",
+    "title": "Erect the Fence",
+    "titleSlug": "erect-the-fence",
+    "difficulty": "Hard",
+    "acRate": 52.33623264949083,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Erect the Fence II",
+        "titleSlug": "erect-the-fence-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sort the Students by Their Kth Score",
+        "titleSlug": "sort-the-students-by-their-kth-score",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "593",
+    "title": "Valid Square",
+    "titleSlug": "valid-square",
+    "difficulty": "Medium",
+    "acRate": 44.469594741653246,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Pure Storage",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "812",
+    "title": "Largest Triangle Area",
+    "titleSlug": "largest-triangle-area",
+    "difficulty": "Easy",
+    "acRate": 62.436976347593976,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Perimeter Triangle",
+        "titleSlug": "largest-perimeter-triangle",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "836",
+    "title": "Rectangle Overlap",
+    "titleSlug": "rectangle-overlap",
+    "difficulty": "Easy",
+    "acRate": 45.90727562486349,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rectangle Area",
+        "titleSlug": "rectangle-area",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "858",
+    "title": "Mirror Reflection",
+    "titleSlug": "mirror-reflection",
+    "difficulty": "Medium",
+    "acRate": 61.91096969964794,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "883",
+    "title": "Projection Area of 3D Shapes",
+    "titleSlug": "projection-area-of-3d-shapes",
+    "difficulty": "Easy",
+    "acRate": 74.4739774695751,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "892",
+    "title": "Surface Area of 3D Shapes",
+    "titleSlug": "surface-area-of-3d-shapes",
+    "difficulty": "Easy",
+    "acRate": 68.54187054382777,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "939",
+    "title": "Minimum Area Rectangle",
+    "titleSlug": "minimum-area-rectangle",
+    "difficulty": "Medium",
+    "acRate": 55.0922493695187,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Rectangles to Cover Points",
+        "titleSlug": "minimum-rectangles-to-cover-points",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Area Rectangle With Point Constraints I",
+        "titleSlug": "maximum-area-rectangle-with-point-constraints-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Area Rectangle With Point Constraints II",
+        "titleSlug": "maximum-area-rectangle-with-point-constraints-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Verily",
+        "frequency": 81.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "963",
+    "title": "Minimum Area Rectangle II",
+    "titleSlug": "minimum-area-rectangle-ii",
+    "difficulty": "Medium",
+    "acRate": 55.729842484765854,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Verily",
+        "frequency": 92.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1030",
+    "title": "Matrix Cells in Distance Order",
+    "titleSlug": "matrix-cells-in-distance-order",
+    "difficulty": "Easy",
+    "acRate": 73.13661757237176,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cells in a Range on an Excel Sheet",
+        "titleSlug": "cells-in-a-range-on-an-excel-sheet",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1037",
+    "title": "Valid Boomerang",
+    "titleSlug": "valid-boomerang",
+    "difficulty": "Easy",
+    "acRate": 38.33318167341553,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1232",
+    "title": "Check If It Is a Straight Line",
+    "titleSlug": "check-if-it-is-a-straight-line",
+    "difficulty": "Easy",
+    "acRate": 39.756008525892824,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Datadog",
+        "frequency": 54.9
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 78.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1266",
+    "title": "Minimum Time Visiting All Points",
+    "titleSlug": "minimum-time-visiting-all-points",
+    "difficulty": "Easy",
+    "acRate": 82.61148745290654,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1401",
+    "title": "Circle and Rectangle Overlapping",
+    "titleSlug": "circle-and-rectangle-overlapping",
+    "difficulty": "Medium",
+    "acRate": 49.044502042788736,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1453",
+    "title": "Maximum Number of Darts Inside of a Circular Dartboard",
+    "titleSlug": "maximum-number-of-darts-inside-of-a-circular-dartboard",
+    "difficulty": "Hard",
+    "acRate": 38.95503642300929,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1610",
+    "title": "Maximum Number of Visible Points",
+    "titleSlug": "maximum-number-of-visible-points",
+    "difficulty": "Hard",
+    "acRate": 37.7456121949514,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 92.9
+      },
+      {
+        "name": "Applied Intuition",
+        "frequency": 67.5
+      },
+      {
+        "name": "Nuro",
+        "frequency": 95.1
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 75.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1828",
+    "title": "Queries on Number of Points Inside a Circle",
+    "titleSlug": "queries-on-number-of-points-inside-a-circle",
+    "difficulty": "Medium",
+    "acRate": 86.55773441493928,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Lattice Points Inside a Circle",
+        "titleSlug": "count-lattice-points-inside-a-circle",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Rectangles Containing Each Point",
+        "titleSlug": "count-number-of-rectangles-containing-each-point",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if the Rectangle Corner Is Reachable",
+        "titleSlug": "check-if-the-rectangle-corner-is-reachable",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1924",
+    "title": "Erect the Fence II",
+    "titleSlug": "erect-the-fence-ii",
+    "difficulty": "Hard",
+    "acRate": 50.02839295854628,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Erect the Fence",
+        "titleSlug": "erect-the-fence",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2101",
+    "title": "Detonate the Maximum Bombs",
+    "titleSlug": "detonate-the-maximum-bombs",
+    "difficulty": "Medium",
+    "acRate": 49.456144339906714,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minesweeper",
+        "titleSlug": "minesweeper",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Provinces",
+        "titleSlug": "number-of-provinces",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Rotting Oranges",
+        "titleSlug": "rotting-oranges",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Chime",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2152",
+    "title": "Minimum Number of Lines to Cover Points",
+    "titleSlug": "minimum-number-of-lines-to-cover-points",
+    "difficulty": "Medium",
+    "acRate": 43.09906858594412,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Bitmask",
+        "slug": "bitmask"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Points on a Line",
+        "titleSlug": "max-points-on-a-line",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Min Cost to Connect All Points",
+        "titleSlug": "min-cost-to-connect-all-points",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Lines to Represent a Line Chart",
+        "titleSlug": "minimum-lines-to-represent-a-line-chart",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 87.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2280",
+    "title": "Minimum Lines to Represent a Line Chart",
+    "titleSlug": "minimum-lines-to-represent-a-line-chart",
+    "difficulty": "Medium",
+    "acRate": 26.298981003680915,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Points on a Line",
+        "titleSlug": "max-points-on-a-line",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Lines to Cover Points",
+        "titleSlug": "minimum-number-of-lines-to-cover-points",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2481",
+    "title": "Minimum Cuts to Divide a Circle",
+    "titleSlug": "minimum-cuts-to-divide-a-circle",
+    "difficulty": "Easy",
+    "acRate": 55.3982415309025,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Even Multiple",
+        "titleSlug": "smallest-even-multiple",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Total Number of Colored Cells",
+        "titleSlug": "count-total-number-of-colored-cells",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "tcs",
+        "frequency": 56.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3009",
+    "title": "Maximum Number of Intersections on the Chart",
+    "titleSlug": "maximum-number-of-intersections-on-the-chart",
+    "difficulty": "Hard",
+    "acRate": 45.093432995194874,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3047",
+    "title": "Find the Largest Area of Square Inside Two Rectangles",
+    "titleSlug": "find-the-largest-area-of-square-inside-two-rectangles",
+    "difficulty": "Medium",
+    "acRate": 45.302532978262214,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rectangle Area",
+        "titleSlug": "rectangle-area",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3235",
+    "title": "Check if the Rectangle Corner Is Reachable",
+    "titleSlug": "check-if-the-rectangle-corner-is-reachable",
+    "difficulty": "Hard",
+    "acRate": 25.546091496084628,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Queries on Number of Points Inside a Circle",
+        "titleSlug": "queries-on-number-of-points-inside-a-circle",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if Point Is Reachable",
+        "titleSlug": "check-if-point-is-reachable",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3382",
+    "title": "Maximum Area Rectangle With Point Constraints II",
+    "titleSlug": "maximum-area-rectangle-with-point-constraints-ii",
+    "difficulty": "Hard",
+    "acRate": 20.36647378572681,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Area Rectangle",
+        "titleSlug": "minimum-area-rectangle",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "UKG",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3623",
+    "title": "Count Number of Trapezoids I",
+    "titleSlug": "count-number-of-trapezoids-i",
+    "difficulty": "Medium",
+    "acRate": 29.80858004554687,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3625",
+    "title": "Count Number of Trapezoids II",
+    "titleSlug": "count-number-of-trapezoids-ii",
+    "difficulty": "Hard",
+    "acRate": 12.493599590373785,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

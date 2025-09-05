@@ -1,0 +1,116 @@
+[
+  {
+    "questionFrontendId": "1489",
+    "title": "Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree",
+    "titleSlug": "find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree",
+    "difficulty": "Hard",
+    "acRate": 66.18210104152986,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Minimum Spanning Tree",
+        "slug": "minimum-spanning-tree"
+      },
+      {
+        "name": "Strongly Connected Component",
+        "slug": "strongly-connected-component"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1568",
+    "title": "Minimum Number of Days to Disconnect Island",
+    "titleSlug": "minimum-number-of-days-to-disconnect-island",
+    "difficulty": "Hard",
+    "acRate": 58.966412391759285,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Strongly Connected Component",
+        "slug": "strongly-connected-component"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "titleSlug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Runes to Add to Cast Spell",
+        "titleSlug": "minimum-runes-to-add-to-cast-spell",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2846",
+    "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+    "titleSlug": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+    "difficulty": "Hard",
+    "acRate": 43.56749894202285,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Strongly Connected Component",
+        "slug": "strongly-connected-component"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Ancestor of a Tree Node",
+        "titleSlug": "kth-ancestor-of-a-tree-node",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Runes to Add to Cast Spell",
+        "titleSlug": "minimum-runes-to-add-to-cast-spell",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Sprinklr",
+        "frequency": 100.0
+      }
+    ]
+  }
+]

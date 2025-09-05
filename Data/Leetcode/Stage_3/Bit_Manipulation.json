@@ -1,0 +1,5759 @@
+[
+  {
+    "questionFrontendId": "29",
+    "title": "Divide Two Integers",
+    "titleSlug": "divide-two-integers",
+    "difficulty": "Medium",
+    "acRate": 18.647965461934294,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 45.2
+      },
+      {
+        "name": "Amazon",
+        "frequency": 45.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 42.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 45.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 43.3
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 49.5
+      },
+      {
+        "name": "Nextdoor",
+        "frequency": 64.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 35.2
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 48.3
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "78",
+    "title": "Subsets",
+    "titleSlug": "subsets",
+    "difficulty": "Medium",
+    "acRate": 81.31807947794623,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsets II",
+        "titleSlug": "subsets-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Generalized Abbreviation",
+        "titleSlug": "generalized-abbreviation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Letter Case Permutation",
+        "titleSlug": "letter-case-permutation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Array Given Subset Sums",
+        "titleSlug": "find-array-given-subset-sums",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 45.2
+      },
+      {
+        "name": "Amazon",
+        "frequency": 58.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 37.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 70.0
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Coupang",
+        "frequency": 100.0
+      },
+      {
+        "name": "Fiverr",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 75.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 64.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 52.2
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      },
+      {
+        "name": "TikTok",
+        "frequency": 53.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 53.3
+      },
+      {
+        "name": "Wix",
+        "frequency": 69.4
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 51.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 45.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "89",
+    "title": "Gray Code",
+    "titleSlug": "gray-code",
+    "difficulty": "Medium",
+    "acRate": 62.46484026520973,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "1-bit and 2-bit Characters",
+        "titleSlug": "1-bit-and-2-bit-characters",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Amazon",
+        "frequency": 26.8
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 15.8
+      },
+      {
+        "name": "Google",
+        "frequency": 12.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "90",
+    "title": "Subsets II",
+    "titleSlug": "subsets-ii",
+    "difficulty": "Medium",
+    "acRate": 59.99898001525341,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsets",
+        "titleSlug": "subsets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Array Given Subset Sums",
+        "titleSlug": "find-array-given-subset-sums",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 17.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 43.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 15.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 43.8
+      },
+      {
+        "name": "Google",
+        "frequency": 34.7
+      },
+      {
+        "name": "Meta",
+        "frequency": 37.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 36.2
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "136",
+    "title": "Single Number",
+    "titleSlug": "single-number",
+    "difficulty": "Easy",
+    "acRate": 76.4591887104736,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Single Number II",
+        "titleSlug": "single-number-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Single Number III",
+        "titleSlug": "single-number-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Missing Number",
+        "titleSlug": "missing-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Duplicate Number",
+        "titleSlug": "find-the-duplicate-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Difference",
+        "titleSlug": "find-the-difference",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the XOR of Numbers Which Appear Twice",
+        "titleSlug": "find-the-xor-of-numbers-which-appear-twice",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Google",
+        "frequency": 55.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 78.7
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "tcs",
+        "frequency": 56.4
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 43.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "137",
+    "title": "Single Number II",
+    "titleSlug": "single-number-ii",
+    "difficulty": "Medium",
+    "acRate": 65.74763952254352,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Single Number III",
+        "titleSlug": "single-number-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the XOR of Numbers Which Appear Twice",
+        "titleSlug": "find-the-xor-of-numbers-which-appear-twice",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "187",
+    "title": "Repeated DNA Sequences",
+    "titleSlug": "repeated-dna-sequences",
+    "difficulty": "Medium",
+    "acRate": 51.797726770890954,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Grammarly",
+        "frequency": 78.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 57.6
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "190",
+    "title": "Reverse Bits",
+    "titleSlug": "reverse-bits",
+    "difficulty": "Easy",
+    "acRate": 64.04940537951951,
+    "topicTags": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Integer",
+        "titleSlug": "reverse-integer",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "A Number After a Double Reversal",
+        "titleSlug": "a-number-after-a-double-reversal",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 75.8
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 74.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "191",
+    "title": "Number of 1 Bits",
+    "titleSlug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "acRate": 75.13029374232251,
+    "topicTags": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Bits",
+        "titleSlug": "reverse-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Two",
+        "titleSlug": "power-of-two",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Counting Bits",
+        "titleSlug": "counting-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Watch",
+        "titleSlug": "binary-watch",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Hamming Distance",
+        "titleSlug": "hamming-distance",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Number with Alternating Bits",
+        "titleSlug": "binary-number-with-alternating-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Prime Number of Set Bits in Binary Representation",
+        "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Convert Date to Binary",
+        "titleSlug": "convert-date-to-binary",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AMD",
+        "frequency": 100.0
+      },
+      {
+        "name": "Box",
+        "frequency": 100.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      },
+      {
+        "name": "Verkada",
+        "frequency": 63.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "201",
+    "title": "Bitwise AND of Numbers Range",
+    "titleSlug": "bitwise-and-of-numbers-range",
+    "difficulty": "Medium",
+    "acRate": 48.04843744918865,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Nice Subarray",
+        "titleSlug": "longest-nice-subarray",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 17.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "222",
+    "title": "Count Complete Tree Nodes",
+    "titleSlug": "count-complete-tree-nodes",
+    "difficulty": "Easy",
+    "acRate": 70.75374261701573,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Closest Binary Search Tree Value",
+        "titleSlug": "closest-binary-search-tree-value",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dunzo",
+        "frequency": 63.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "231",
+    "title": "Power of Two",
+    "titleSlug": "power-of-two",
+    "difficulty": "Easy",
+    "acRate": 49.32232038320436,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Three",
+        "titleSlug": "power-of-three",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Four",
+        "titleSlug": "power-of-four",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Wipro",
+        "frequency": 60.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "260",
+    "title": "Single Number III",
+    "titleSlug": "single-number-iii",
+    "difficulty": "Medium",
+    "acRate": 70.46197800153958,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Single Number II",
+        "titleSlug": "single-number-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find The Original Array of Prefix Xor",
+        "titleSlug": "find-the-original-array-of-prefix-xor",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the XOR of Numbers Which Appear Twice",
+        "titleSlug": "find-the-xor-of-numbers-which-appear-twice",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "266",
+    "title": "Palindrome Permutation",
+    "titleSlug": "palindrome-permutation",
+    "difficulty": "Easy",
+    "acRate": 68.53334369656459,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Palindromic Substring",
+        "titleSlug": "longest-palindromic-substring",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Valid Anagram",
+        "titleSlug": "valid-anagram",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Palindrome Permutation II",
+        "titleSlug": "palindrome-permutation-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Palindrome",
+        "titleSlug": "longest-palindrome",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Google",
+        "frequency": 22.3
+      },
+      {
+        "name": "Nordstrom",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "268",
+    "title": "Missing Number",
+    "titleSlug": "missing-number",
+    "difficulty": "Easy",
+    "acRate": 70.6250081301021,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Duplicate Number",
+        "titleSlug": "find-the-duplicate-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Couples Holding Hands",
+        "titleSlug": "couples-holding-hands",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find Unique Binary String",
+        "titleSlug": "find-unique-binary-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Largest Almost Missing Integer",
+        "titleSlug": "find-the-largest-almost-missing-integer",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AQR Capital Management",
+        "frequency": 63.1
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 67.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Genpact",
+        "frequency": 78.9
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 37.0
+      },
+      {
+        "name": "Google",
+        "frequency": 42.2
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 70.6
+      },
+      {
+        "name": "Revolut",
+        "frequency": 63.2
+      },
+      {
+        "name": "tcs",
+        "frequency": 46.8
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "Warnermedia",
+        "frequency": 80.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "287",
+    "title": "Find the Duplicate Number",
+    "titleSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "acRate": 63.25620438726417,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Linked List Cycle II",
+        "titleSlug": "linked-list-cycle-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Missing Number",
+        "titleSlug": "missing-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Set Mismatch",
+        "titleSlug": "set-mismatch",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "Citadel",
+        "frequency": 67.4
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Google",
+        "frequency": 43.1
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "Niantic",
+        "frequency": 88.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 59.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "318",
+    "title": "Maximum Product of Word Lengths",
+    "titleSlug": "maximum-product-of-word-lengths",
+    "difficulty": "Medium",
+    "acRate": 60.67724840893531,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "320",
+    "title": "Generalized Abbreviation",
+    "titleSlug": "generalized-abbreviation",
+    "difficulty": "Medium",
+    "acRate": 60.16461170482641,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsets",
+        "titleSlug": "subsets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Word Abbreviation",
+        "titleSlug": "unique-word-abbreviation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Unique Word Abbreviation",
+        "titleSlug": "minimum-unique-word-abbreviation",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "338",
+    "title": "Counting Bits",
+    "titleSlug": "counting-bits",
+    "difficulty": "Easy",
+    "acRate": 79.96353777630232,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Values at Indices With K Set Bits",
+        "titleSlug": "sum-of-values-at-indices-with-k-set-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the K-or of an Array",
+        "titleSlug": "find-the-k-or-of-an-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "342",
+    "title": "Power of Four",
+    "titleSlug": "power-of-four",
+    "difficulty": "Easy",
+    "acRate": 51.028427108733524,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Power of Two",
+        "titleSlug": "power-of-two",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Three",
+        "titleSlug": "power-of-three",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 93.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "371",
+    "title": "Sum of Two Integers",
+    "titleSlug": "sum-of-two-integers",
+    "difficulty": "Medium",
+    "acRate": 54.16422184967868,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hulu",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "389",
+    "title": "Find the Difference",
+    "titleSlug": "find-the-difference",
+    "difficulty": "Easy",
+    "acRate": 59.78169195921432,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Permutation Difference between Two Strings",
+        "titleSlug": "permutation-difference-between-two-strings",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "393",
+    "title": "UTF-8 Validation",
+    "titleSlug": "utf-8-validation",
+    "difficulty": "Medium",
+    "acRate": 45.63743534387355,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "401",
+    "title": "Binary Watch",
+    "titleSlug": "binary-watch",
+    "difficulty": "Easy",
+    "acRate": 57.050926109546666,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "titleSlug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "405",
+    "title": "Convert a Number to Hexadecimal",
+    "titleSlug": "convert-a-number-to-hexadecimal",
+    "difficulty": "Easy",
+    "acRate": 51.486781255773806,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "411",
+    "title": "Minimum Unique Word Abbreviation",
+    "titleSlug": "minimum-unique-word-abbreviation",
+    "difficulty": "Hard",
+    "acRate": 40.23557617136603,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Generalized Abbreviation",
+        "titleSlug": "generalized-abbreviation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Valid Word Abbreviation",
+        "titleSlug": "valid-word-abbreviation",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Word Abbreviation",
+        "titleSlug": "word-abbreviation",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "421",
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+    "difficulty": "Medium",
+    "acRate": 53.353932420507576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "titleSlug": "maximum-xor-with-an-element-from-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum XOR After Operations ",
+        "titleSlug": "maximum-xor-after-operations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Prefix Scores of Strings",
+        "titleSlug": "sum-of-prefix-scores-of-strings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimize XOR",
+        "titleSlug": "minimize-xor",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Strong Pair XOR I",
+        "titleSlug": "maximum-strong-pair-xor-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Strong Pair XOR II",
+        "titleSlug": "maximum-strong-pair-xor-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "461",
+    "title": "Hamming Distance",
+    "titleSlug": "hamming-distance",
+    "difficulty": "Easy",
+    "acRate": 76.24034619565985,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Total Hamming Distance",
+        "titleSlug": "total-hamming-distance",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "476",
+    "title": "Number Complement",
+    "titleSlug": "number-complement",
+    "difficulty": "Easy",
+    "acRate": 70.34278767457666,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Cloudera",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "477",
+    "title": "Total Hamming Distance",
+    "titleSlug": "total-hamming-distance",
+    "difficulty": "Medium",
+    "acRate": 54.02367473864154,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Hamming Distance",
+        "titleSlug": "hamming-distance",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Digit Differences of All Pairs",
+        "titleSlug": "sum-of-digit-differences-of-all-pairs",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "491",
+    "title": "Non-decreasing Subsequences",
+    "titleSlug": "non-decreasing-subsequences",
+    "difficulty": "Medium",
+    "acRate": 61.93837116560533,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Length of Pair Chain",
+        "titleSlug": "maximum-length-of-pair-chain",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "645",
+    "title": "Set Mismatch",
+    "titleSlug": "set-mismatch",
+    "difficulty": "Easy",
+    "acRate": 45.20624071588804,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Duplicate Number",
+        "titleSlug": "find-the-duplicate-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "672",
+    "title": "Bulb Switcher II",
+    "titleSlug": "bulb-switcher-ii",
+    "difficulty": "Medium",
+    "acRate": 49.638662243342594,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bulb Switcher",
+        "titleSlug": "bulb-switcher",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Times Binary String Is Prefix-Aligned",
+        "titleSlug": "number-of-times-binary-string-is-prefix-aligned",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "693",
+    "title": "Binary Number with Alternating Bits",
+    "titleSlug": "binary-number-with-alternating-bits",
+    "difficulty": "Easy",
+    "acRate": 63.63478808886088,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "751",
+    "title": "IP to CIDR",
+    "titleSlug": "ip-to-cidr",
+    "difficulty": "Medium",
+    "acRate": 54.24378355467646,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Restore IP Addresses",
+        "titleSlug": "restore-ip-addresses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Validate IP Address",
+        "titleSlug": "validate-ip-address",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Databricks",
+        "frequency": 92.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "756",
+    "title": "Pyramid Transition Matrix",
+    "titleSlug": "pyramid-transition-matrix",
+    "difficulty": "Medium",
+    "acRate": 53.070273284997214,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "762",
+    "title": "Prime Number of Set Bits in Binary Representation",
+    "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+    "difficulty": "Easy",
+    "acRate": 71.40702497317052,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of 1 Bits",
+        "titleSlug": "number-of-1-bits",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "779",
+    "title": "K-th Symbol in Grammar",
+    "titleSlug": "k-th-symbol-in-grammar",
+    "difficulty": "Medium",
+    "acRate": 47.67193540803606,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "782",
+    "title": "Transform to Chessboard",
+    "titleSlug": "transform-to-chessboard",
+    "difficulty": "Hard",
+    "acRate": 50.78506366061094,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Moves to Get a Peaceful Board",
+        "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "784",
+    "title": "Letter Case Permutation",
+    "titleSlug": "letter-case-permutation",
+    "difficulty": "Medium",
+    "acRate": 75.34689583207569,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsets",
+        "titleSlug": "subsets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Brace Expansion",
+        "titleSlug": "brace-expansion",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "861",
+    "title": "Score After Flipping Matrix",
+    "titleSlug": "score-after-flipping-matrix",
+    "difficulty": "Medium",
+    "acRate": 80.24408428363414,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove All Ones With Row and Column Flips",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IIT Bombay",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "864",
+    "title": "Shortest Path to Get All Keys",
+    "titleSlug": "shortest-path-to-get-all-keys",
+    "difficulty": "Hard",
+    "acRate": 54.0108919634972,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 74.3
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "868",
+    "title": "Binary Gap",
+    "titleSlug": "binary-gap",
+    "difficulty": "Easy",
+    "acRate": 64.93514970724353,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 95.1
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "898",
+    "title": "Bitwise ORs of Subarrays",
+    "titleSlug": "bitwise-ors-of-subarrays",
+    "difficulty": "Medium",
+    "acRate": 56.45536260947497,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Nice Subarray",
+        "titleSlug": "longest-nice-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Subarrays With Maximum Bitwise OR",
+        "titleSlug": "smallest-subarrays-with-maximum-bitwise-or",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Bitwise OR of All Subsequence Sums",
+        "titleSlug": "bitwise-or-of-all-subsequence-sums",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Maximum Sequence Value of Array",
+        "titleSlug": "find-the-maximum-sequence-value-of-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "tcs",
+        "frequency": 54.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "957",
+    "title": "Prison Cells After N Days",
+    "titleSlug": "prison-cells-after-n-days",
+    "difficulty": "Medium",
+    "acRate": 38.99176674564055,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "980",
+    "title": "Unique Paths III",
+    "titleSlug": "unique-paths-iii",
+    "difficulty": "Hard",
+    "acRate": 82.47194288571588,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sudoku Solver",
+        "titleSlug": "sudoku-solver",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Unique Paths II",
+        "titleSlug": "unique-paths-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Word Search II",
+        "titleSlug": "word-search-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cruise",
+        "frequency": 74.0
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 48.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "982",
+    "title": "Triples with Bitwise AND Equal To Zero",
+    "titleSlug": "triples-with-bitwise-and-equal-to-zero",
+    "difficulty": "Hard",
+    "acRate": 59.58646121427631,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 81.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "995",
+    "title": "Minimum Number of K Consecutive Bit Flips",
+    "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+    "difficulty": "Hard",
+    "acRate": 62.17558555072497,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bulb Switcher",
+        "titleSlug": "bulb-switcher",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Time to Remove All Cars Containing Illegal Goods",
+        "titleSlug": "minimum-time-to-remove-all-cars-containing-illegal-goods",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Distinct Binary Strings After Applying Operations",
+        "titleSlug": "number-of-distinct-binary-strings-after-applying-operations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Number With All Set Bits",
+        "titleSlug": "smallest-number-with-all-set-bits",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "thoughtspot",
+        "frequency": 71.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1009",
+    "title": "Complement of Base 10 Integer",
+    "titleSlug": "complement-of-base-10-integer",
+    "difficulty": "Easy",
+    "acRate": 60.6442381098938,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Cloudera",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1016",
+    "title": "Binary String With Substrings Representing 1 To N",
+    "titleSlug": "binary-string-with-substrings-representing-1-to-n",
+    "difficulty": "Medium",
+    "acRate": 58.113309214071286,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1018",
+    "title": "Binary Prefix Divisible By 5",
+    "titleSlug": "binary-prefix-divisible-by-5",
+    "difficulty": "Easy",
+    "acRate": 47.14575364227336,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Average Value of Even Numbers That Are Divisible by Three",
+        "titleSlug": "average-value-of-even-numbers-that-are-divisible-by-three",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Maximum Divisibility Score",
+        "titleSlug": "find-the-maximum-divisibility-score",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1177",
+    "title": "Can Make Palindrome from Substring",
+    "titleSlug": "can-make-palindrome-from-substring",
+    "difficulty": "Medium",
+    "acRate": 40.51079251196788,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Plates Between Candles",
+        "titleSlug": "plates-between-candles",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize the Number of Partitions After Operations",
+        "titleSlug": "maximize-the-number-of-partitions-after-operations",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1178",
+    "title": "Number of Valid Words for Each Puzzle",
+    "titleSlug": "number-of-valid-words-for-each-puzzle",
+    "difficulty": "Hard",
+    "acRate": 47.30548199898586,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1238",
+    "title": "Circular Permutation in Binary Representation",
+    "titleSlug": "circular-permutation-in-binary-representation",
+    "difficulty": "Medium",
+    "acRate": 71.92148295691842,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1239",
+    "title": "Maximum Length of a Concatenated String with Unique Characters",
+    "titleSlug": "maximum-length-of-a-concatenated-string-with-unique-characters",
+    "difficulty": "Medium",
+    "acRate": 54.34273289918298,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 64.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1256",
+    "title": "Encode Number",
+    "titleSlug": "encode-number",
+    "difficulty": "Medium",
+    "acRate": 70.11156782149148,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Convert to Base -2",
+        "titleSlug": "convert-to-base-2",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1284",
+    "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+    "difficulty": "Hard",
+    "acRate": 72.17217601751724,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1310",
+    "title": "XOR Queries of a Subarray",
+    "titleSlug": "xor-queries-of-a-subarray",
+    "difficulty": "Medium",
+    "acRate": 78.2891089702291,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airtel",
+        "frequency": 97.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1318",
+    "title": "Minimum Flips to Make a OR b Equal to c",
+    "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+    "difficulty": "Medium",
+    "acRate": 71.77787319766765,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Bit Flips to Convert Number",
+        "titleSlug": "minimum-bit-flips-to-convert-number",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1342",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+    "difficulty": "Easy",
+    "acRate": 85.68775970019135,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Moves to Reach Target Score",
+        "titleSlug": "minimum-moves-to-reach-target-score",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Operations to Obtain Zero",
+        "titleSlug": "count-operations-to-obtain-zero",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hudson River Trading",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1356",
+    "title": "Sort Integers by The Number of 1 Bits",
+    "titleSlug": "sort-integers-by-the-number-of-1-bits",
+    "difficulty": "Easy",
+    "acRate": 78.79323845055501,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Subsequence of Length K With the Largest Sum",
+        "titleSlug": "find-subsequence-of-length-k-with-the-largest-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find if Array Can Be Sorted",
+        "titleSlug": "find-if-array-can-be-sorted",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 68.9
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 100.0
+      },
+      {
+        "name": "Mapbox",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1371",
+    "title": "Find the Longest Substring Containing Vowels in Even Counts",
+    "titleSlug": "find-the-longest-substring-containing-vowels-in-even-counts",
+    "difficulty": "Medium",
+    "acRate": 75.71149298613842,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1386",
+    "title": "Cinema Seat Allocation",
+    "titleSlug": "cinema-seat-allocation",
+    "difficulty": "Medium",
+    "acRate": 43.01094725413915,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Booking Concert Tickets in Groups",
+        "titleSlug": "booking-concert-tickets-in-groups",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Geico",
+        "frequency": 60.0
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1442",
+    "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+    "titleSlug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+    "difficulty": "Medium",
+    "acRate": 84.82308022895866,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find The Original Array of Prefix Xor",
+        "titleSlug": "find-the-original-array-of-prefix-xor",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1457",
+    "title": "Pseudo-Palindromic Paths in a Binary Tree",
+    "titleSlug": "pseudo-palindromic-paths-in-a-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 68.32972313956654,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1461",
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "titleSlug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+    "difficulty": "Medium",
+    "acRate": 56.70533642691416,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1486",
+    "title": "XOR Operation in an Array",
+    "titleSlug": "xor-operation-in-an-array",
+    "difficulty": "Easy",
+    "acRate": 87.04568676105679,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1506",
+    "title": "Find Root of N-Ary Tree",
+    "titleSlug": "find-root-of-n-ary-tree",
+    "difficulty": "Medium",
+    "acRate": 78.42944932642072,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Move Sub-Tree of N-Ary Tree",
+        "titleSlug": "move-sub-tree-of-n-ary-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1521",
+    "title": "Find a Value of a Mysterious Function Closest to Target",
+    "titleSlug": "find-a-value-of-a-mysterious-function-closest-to-target",
+    "difficulty": "Hard",
+    "acRate": 46.09369395222039,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 95.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1525",
+    "title": "Number of Good Ways to Split a String",
+    "titleSlug": "number-of-good-ways-to-split-a-string",
+    "difficulty": "Medium",
+    "acRate": 68.410063560544,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1542",
+    "title": "Find Longest Awesome Substring",
+    "titleSlug": "find-longest-awesome-substring",
+    "difficulty": "Hard",
+    "acRate": 45.59835108892696,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Directi",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1558",
+    "title": "Minimum Numbers of Function Calls to Make Target Array",
+    "titleSlug": "minimum-numbers-of-function-calls-to-make-target-array",
+    "difficulty": "Medium",
+    "acRate": 62.697603263641,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1684",
+    "title": "Count the Number of Consistent Strings",
+    "titleSlug": "count-the-number-of-consistent-strings",
+    "difficulty": "Easy",
+    "acRate": 88.32909820835955,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Pairs Of Similar Strings",
+        "titleSlug": "count-pairs-of-similar-strings",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Robinhood",
+        "frequency": 87.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1707",
+    "title": "Maximum XOR With an Element From Array",
+    "titleSlug": "maximum-xor-with-an-element-from-array",
+    "difficulty": "Hard",
+    "acRate": 56.29054663668781,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Genetic Difference Query",
+        "titleSlug": "maximum-genetic-difference-query",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimize XOR",
+        "titleSlug": "minimize-xor",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Strong Pair XOR I",
+        "titleSlug": "maximum-strong-pair-xor-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Strong Pair XOR II",
+        "titleSlug": "maximum-strong-pair-xor-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1720",
+    "title": "Decode XORed Array",
+    "titleSlug": "decode-xored-array",
+    "difficulty": "Easy",
+    "acRate": 87.0897081130329,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find The Original Array of Prefix Xor",
+        "titleSlug": "find-the-original-array-of-prefix-xor",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1734",
+    "title": "Decode XORed Permutation",
+    "titleSlug": "decode-xored-permutation",
+    "difficulty": "Medium",
+    "acRate": 66.26039171480907,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Xor-Beauty of Array",
+        "titleSlug": "find-xor-beauty-of-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1763",
+    "title": "Longest Nice Substring",
+    "titleSlug": "longest-nice-substring",
+    "difficulty": "Easy",
+    "acRate": 62.937612907244755,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Good Paths",
+        "titleSlug": "number-of-good-paths",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1787",
+    "title": "Make the XOR of All Segments Equal to Zero",
+    "titleSlug": "make-the-xor-of-all-segments-equal-to-zero",
+    "difficulty": "Hard",
+    "acRate": 40.172337882885714,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR Score Subarray Queries",
+        "titleSlug": "maximum-xor-score-subarray-queries",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1803",
+    "title": "Count Pairs With XOR in a Range",
+    "titleSlug": "count-pairs-with-xor-in-a-range",
+    "difficulty": "Hard",
+    "acRate": 45.88735818476499,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Paths With the Given XOR Value",
+        "titleSlug": "count-paths-with-the-given-xor-value",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Vimeo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1829",
+    "title": "Maximum XOR for Each Query",
+    "titleSlug": "maximum-xor-for-each-query",
+    "difficulty": "Medium",
+    "acRate": 84.78678678678678,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count the Number of Beautiful Subarrays",
+        "titleSlug": "count-the-number-of-beautiful-subarrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1835",
+    "title": "Find XOR Sum of All Pairs Bitwise AND",
+    "titleSlug": "find-xor-sum-of-all-pairs-bitwise-and",
+    "difficulty": "Hard",
+    "acRate": 61.956936217810195,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1915",
+    "title": "Number of Wonderful Substrings",
+    "titleSlug": "number-of-wonderful-substrings",
+    "difficulty": "Medium",
+    "acRate": 66.65703575854806,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1930",
+    "title": "Unique Length-3 Palindromic Subsequences",
+    "titleSlug": "unique-length-3-palindromic-subsequences",
+    "difficulty": "Medium",
+    "acRate": 70.95563615690111,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Palindromic Subsequences",
+        "titleSlug": "count-palindromic-subsequences",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1938",
+    "title": "Maximum Genetic Difference Query",
+    "titleSlug": "maximum-genetic-difference-query",
+    "difficulty": "Hard",
+    "acRate": 45.01748807631161,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "titleSlug": "maximum-xor-with-an-element-from-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 86.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2032",
+    "title": "Two Out of Three",
+    "titleSlug": "two-out-of-three",
+    "difficulty": "Easy",
+    "acRate": 76.80676977332466,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Booking.com",
+        "frequency": 85.5
+      },
+      {
+        "name": "Info Edge",
+        "frequency": 84.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2128",
+    "title": "Remove All Ones With Row and Column Flips",
+    "titleSlug": "remove-all-ones-with-row-and-column-flips",
+    "difficulty": "Medium",
+    "acRate": 76.17650327887074,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Score After Flipping Matrix",
+        "titleSlug": "score-after-flipping-matrix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "titleSlug": "difference-between-ones-and-zeros-in-row-and-column",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2135",
+    "title": "Count Words Obtained After Adding a Letter",
+    "titleSlug": "count-words-obtained-after-adding-a-letter",
+    "difficulty": "Medium",
+    "acRate": 43.65472666600149,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Strings Differ by One Character",
+        "titleSlug": "strings-differ-by-one-character",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Substrings That Differ by One Character",
+        "titleSlug": "count-substrings-that-differ-by-one-character",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Score From Removing Substrings",
+        "titleSlug": "maximum-score-from-removing-substrings",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2157",
+    "title": "Groups of Strings",
+    "titleSlug": "groups-of-strings",
+    "difficulty": "Hard",
+    "acRate": 26.954432959673895,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Ladder II",
+        "titleSlug": "word-ladder-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Similar String Groups",
+        "titleSlug": "similar-string-groups",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Largest Component Size by Common Factor",
+        "titleSlug": "largest-component-size-by-common-factor",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Lowe's",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2174",
+    "title": "Remove All Ones With Row and Column Flips II",
+    "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+    "difficulty": "Medium",
+    "acRate": 67.24370779619399,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+        "titleSlug": "minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2206",
+    "title": "Divide Array Into Equal Pairs",
+    "titleSlug": "divide-array-into-equal-pairs",
+    "difficulty": "Easy",
+    "acRate": 79.27357574893479,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Array by Increasing Frequency",
+        "titleSlug": "sort-array-by-increasing-frequency",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Distribute Elements Into Two Arrays I",
+        "titleSlug": "distribute-elements-into-two-arrays-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Distribute Elements Into Two Arrays II",
+        "titleSlug": "distribute-elements-into-two-arrays-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2220",
+    "title": "Minimum Bit Flips to Convert Number",
+    "titleSlug": "minimum-bit-flips-to-convert-number",
+    "difficulty": "Easy",
+    "acRate": 87.66205757163901,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Flips to Make a OR b Equal to c",
+        "titleSlug": "minimum-flips-to-make-a-or-b-equal-to-c",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+        "titleSlug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Number With All Set Bits",
+        "titleSlug": "smallest-number-with-all-set-bits",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "persistent systems",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2275",
+    "title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "titleSlug": "largest-combination-with-bitwise-and-greater-than-zero",
+    "difficulty": "Medium",
+    "acRate": 80.83353217211486,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Number of Maximum Bitwise-OR Subsets",
+        "titleSlug": "count-number-of-maximum-bitwise-or-subsets",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Jump Trading",
+        "frequency": 82.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2317",
+    "title": "Maximum XOR After Operations ",
+    "titleSlug": "maximum-xor-after-operations",
+    "difficulty": "Medium",
+    "acRate": 79.53888174807197,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Xor Product",
+        "titleSlug": "maximum-xor-product",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "titleSlug": "minimize-or-of-remaining-elements-using-operations",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2322",
+    "title": "Minimum Score After Removals on a Tree",
+    "titleSlug": "minimum-score-after-removals-on-a-tree",
+    "difficulty": "Hard",
+    "acRate": 76.45588602849288,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2351",
+    "title": "First Letter to Appear Twice",
+    "titleSlug": "first-letter-to-appear-twice",
+    "difficulty": "Easy",
+    "acRate": 74.40980622966627,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "First Unique Character in a String",
+        "titleSlug": "first-unique-character-in-a-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2354",
+    "title": "Number of Excellent Pairs",
+    "titleSlug": "number-of-excellent-pairs",
+    "difficulty": "Hard",
+    "acRate": 48.33471875865891,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2401",
+    "title": "Longest Nice Subarray",
+    "titleSlug": "longest-nice-subarray",
+    "difficulty": "Medium",
+    "acRate": 64.79884618906627,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Substring Without Repeating Characters",
+        "titleSlug": "longest-substring-without-repeating-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Bitwise AND of Numbers Range",
+        "titleSlug": "bitwise-and-of-numbers-range",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Bitwise ORs of Subarrays",
+        "titleSlug": "bitwise-ors-of-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Fruit Into Baskets",
+        "titleSlug": "fruit-into-baskets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Consecutive Ones III",
+        "titleSlug": "max-consecutive-ones-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Get Equal Substrings Within Budget",
+        "titleSlug": "get-equal-substrings-within-budget",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Frequency of the Most Frequent Element",
+        "titleSlug": "frequency-of-the-most-frequent-element",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring Of All Vowels in Order",
+        "titleSlug": "longest-substring-of-all-vowels-in-order",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize the Confusion of an Exam",
+        "titleSlug": "maximize-the-confusion-of-an-exam",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Paytm",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2411",
+    "title": "Smallest Subarrays With Maximum Bitwise OR",
+    "titleSlug": "smallest-subarrays-with-maximum-bitwise-or",
+    "difficulty": "Medium",
+    "acRate": 62.06257148077717,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge k Sorted Lists",
+        "titleSlug": "merge-k-sorted-lists",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Bitwise ORs of Subarrays",
+        "titleSlug": "bitwise-ors-of-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Subarray With Maximum Bitwise AND",
+        "titleSlug": "longest-subarray-with-maximum-bitwise-and",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2429",
+    "title": "Minimize XOR",
+    "titleSlug": "minimize-xor",
+    "difficulty": "Medium",
+    "acRate": 62.44005082869909,
+    "topicTags": [
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "titleSlug": "maximum-xor-with-an-element-from-array",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2433",
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor",
+    "difficulty": "Medium",
+    "acRate": 88.17503904872272,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Single Number III",
+        "titleSlug": "single-number-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Triplets That Can Form Two Arrays of Equal XOR",
+        "titleSlug": "count-triplets-that-can-form-two-arrays-of-equal-xor",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Decode XORed Array",
+        "titleSlug": "decode-xored-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 89.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2438",
+    "title": "Range Product Queries of Powers",
+    "titleSlug": "range-product-queries-of-powers",
+    "difficulty": "Medium",
+    "acRate": 61.28128160437243,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 47.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2506",
+    "title": "Count Pairs Of Similar Strings",
+    "titleSlug": "count-pairs-of-similar-strings",
+    "difficulty": "Easy",
+    "acRate": 72.8824983149854,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Characters By Frequency",
+        "titleSlug": "sort-characters-by-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Consistent Strings",
+        "titleSlug": "count-the-number-of-consistent-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Good Paths",
+        "titleSlug": "number-of-good-paths",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 55.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2527",
+    "title": "Find Xor-Beauty of Array",
+    "titleSlug": "find-xor-beauty-of-array",
+    "difficulty": "Medium",
+    "acRate": 69.70330372176741,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Decode XORed Permutation",
+        "titleSlug": "decode-xored-permutation",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2546",
+    "title": "Apply Bitwise Operations to Make Strings Equal",
+    "titleSlug": "apply-bitwise-operations-to-make-strings-equal",
+    "difficulty": "Medium",
+    "acRate": 41.91442365957114,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum One Bit Operations to Make Integers Zero",
+        "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Sprinklr",
+        "frequency": 90.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2564",
+    "title": "Substring XOR Queries",
+    "titleSlug": "substring-xor-queries",
+    "difficulty": "Medium",
+    "acRate": 34.86401530681974,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "String Matching in an Array",
+        "titleSlug": "string-matching-in-an-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Trilogy",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2571",
+    "title": "Minimum Operations to Reduce an Integer to 0",
+    "titleSlug": "minimum-operations-to-reduce-an-integer-to-0",
+    "difficulty": "Medium",
+    "acRate": 58.334429488022685,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 85.3
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2588",
+    "title": "Count the Number of Beautiful Subarrays",
+    "titleSlug": "count-the-number-of-beautiful-subarrays",
+    "difficulty": "Medium",
+    "acRate": 52.3709095856861,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR for Each Query",
+        "titleSlug": "maximum-xor-for-each-query",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Ideal Arrays",
+        "titleSlug": "count-the-number-of-ideal-arrays",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2595",
+    "title": "Number of Even and Odd Bits",
+    "titleSlug": "number-of-even-and-odd-bits",
+    "difficulty": "Easy",
+    "acRate": 72.89014615747288,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Numbers with Even Number of Digits",
+        "titleSlug": "find-numbers-with-even-number-of-digits",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2657",
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "titleSlug": "find-the-prefix-common-array-of-two-arrays",
+    "difficulty": "Medium",
+    "acRate": 87.01872403744807,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2680",
+    "title": "Maximum OR",
+    "titleSlug": "maximum-or",
+    "difficulty": "Medium",
+    "acRate": 41.673601253120566,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2683",
+    "title": "Neighboring Bitwise XOR",
+    "titleSlug": "neighboring-bitwise-xor",
+    "difficulty": "Medium",
+    "acRate": 79.81867426090594,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bitwise OR of Adjacent Elements",
+        "titleSlug": "bitwise-or-of-adjacent-elements",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2732",
+    "title": "Find a Good Subset of the Matrix",
+    "titleSlug": "find-a-good-subset-of-the-matrix",
+    "difficulty": "Hard",
+    "acRate": 46.25140093198844,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2802",
+    "title": "Find The K-th Lucky Number",
+    "titleSlug": "find-the-k-th-lucky-number",
+    "difficulty": "Medium",
+    "acRate": 76,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2835",
+    "title": "Minimum Operations to Form Subsequence With Target Sum",
+    "titleSlug": "minimum-operations-to-form-subsequence-with-target-sum",
+    "difficulty": "Hard",
+    "acRate": 31.85604642456009,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Subsequences That Satisfy the Given Sum Condition",
+        "titleSlug": "number-of-subsequences-that-satisfy-the-given-sum-condition",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Subsequence Sum",
+        "titleSlug": "closest-subsequence-sum",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2836",
+    "title": "Maximize Value of Function in a Ball Passing Game",
+    "titleSlug": "maximize-value-of-function-in-a-ball-passing-game",
+    "difficulty": "Hard",
+    "acRate": 29.36387267644318,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Jump Game VI",
+        "titleSlug": "jump-game-vi",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2857",
+    "title": "Count Pairs of Points With Distance k",
+    "titleSlug": "count-pairs-of-points-with-distance-k",
+    "difficulty": "Medium",
+    "acRate": 32.254777070063696,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2859",
+    "title": "Sum of Values at Indices With K Set Bits",
+    "titleSlug": "sum-of-values-at-indices-with-k-set-bits",
+    "difficulty": "Easy",
+    "acRate": 85.81716323880048,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Counting Bits",
+        "titleSlug": "counting-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the K-or of an Array",
+        "titleSlug": "find-the-k-or-of-an-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 77.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2869",
+    "title": "Minimum Operations to Collect Elements",
+    "titleSlug": "minimum-operations-to-collect-elements",
+    "difficulty": "Easy",
+    "acRate": 61.417247374834005,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Build an Array With Stack Operations",
+        "titleSlug": "build-an-array-with-stack-operations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deutsche Bank",
+        "frequency": 89.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2871",
+    "title": "Split Array Into Maximum Number of Subarrays",
+    "titleSlug": "split-array-into-maximum-number-of-subarrays",
+    "difficulty": "Medium",
+    "acRate": 41.695748002571406,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2897",
+    "title": "Apply Operations on Array to Maximize Sum of Squares",
+    "titleSlug": "apply-operations-on-array-to-maximize-sum-of-squares",
+    "difficulty": "Hard",
+    "acRate": 43.5976110898033,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimize OR of Remaining Elements Using Operations",
+        "titleSlug": "minimize-or-of-remaining-elements-using-operations",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Sprinklr",
+        "frequency": 94.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2917",
+    "title": "Find the K-or of an Array",
+    "titleSlug": "find-the-k-or-of-an-array",
+    "difficulty": "Easy",
+    "acRate": 72.30176579304816,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Counting Bits",
+        "titleSlug": "counting-bits",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Values at Indices With K Set Bits",
+        "titleSlug": "sum-of-values-at-indices-with-k-set-bits",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2932",
+    "title": "Maximum Strong Pair XOR I",
+    "titleSlug": "maximum-strong-pair-xor-i",
+    "difficulty": "Easy",
+    "acRate": 75.2550687197945,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "titleSlug": "maximum-xor-with-an-element-from-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ZScaler",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2935",
+    "title": "Maximum Strong Pair XOR II",
+    "titleSlug": "maximum-strong-pair-xor-ii",
+    "difficulty": "Hard",
+    "acRate": 31.155739006191457,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR of Two Numbers in an Array",
+        "titleSlug": "maximum-xor-of-two-numbers-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum XOR With an Element From Array",
+        "titleSlug": "maximum-xor-with-an-element-from-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ZScaler",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2939",
+    "title": "Maximum Xor Product",
+    "titleSlug": "maximum-xor-product",
+    "difficulty": "Medium",
+    "acRate": 27.505827505827508,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR After Operations ",
+        "titleSlug": "maximum-xor-after-operations",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2980",
+    "title": "Check if Bitwise OR Has Trailing Zeros",
+    "titleSlug": "check-if-bitwise-or-has-trailing-zeros",
+    "difficulty": "Easy",
+    "acRate": 70.12288786482334,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Odd Numbers in an Interval Range",
+        "titleSlug": "count-odd-numbers-in-an-interval-range",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Trailing Zeros From a String",
+        "titleSlug": "remove-trailing-zeros-from-a-string",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2997",
+    "title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "titleSlug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "difficulty": "Medium",
+    "acRate": 85.38960573990005,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Bit Flips to Convert Number",
+        "titleSlug": "minimum-bit-flips-to-convert-number",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 95.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3007",
+    "title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+    "titleSlug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+    "difficulty": "Medium",
+    "acRate": 37.444749153089205,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3011",
+    "title": "Find if Array Can Be Sorted",
+    "titleSlug": "find-if-array-can-be-sorted",
+    "difficulty": "Medium",
+    "acRate": 66.5157244096271,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Integers by The Number of 1 Bits",
+        "titleSlug": "sort-integers-by-the-number-of-1-bits",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Edelweiss Group",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3022",
+    "title": "Minimize OR of Remaining Elements Using Operations",
+    "titleSlug": "minimize-or-of-remaining-elements-using-operations",
+    "difficulty": "Hard",
+    "acRate": 28.798373738894746,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum XOR After Operations ",
+        "titleSlug": "maximum-xor-after-operations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Apply Operations on Array to Maximize Sum of Squares",
+        "titleSlug": "apply-operations-on-array-to-maximize-sum-of-squares",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Aon",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3068",
+    "title": "Find the Maximum Sum of Node Values",
+    "titleSlug": "find-the-maximum-sum-of-node-values",
+    "difficulty": "Hard",
+    "acRate": 69.67785468189301,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Score After Applying Operations on a Tree",
+        "titleSlug": "maximum-score-after-applying-operations-on-a-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Number of Coins to Place in Tree Nodes",
+        "titleSlug": "find-number-of-coins-to-place-in-tree-nodes",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BlackRock",
+        "frequency": 73.2
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 91.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3095",
+    "title": "Shortest Subarray With OR at Least K I",
+    "titleSlug": "shortest-subarray-with-or-at-least-k-i",
+    "difficulty": "Easy",
+    "acRate": 43.209204413472705,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Subarray with Sum at Least K",
+        "titleSlug": "shortest-subarray-with-sum-at-least-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Mitsogo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3097",
+    "title": "Shortest Subarray With OR at Least K II",
+    "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+    "difficulty": "Medium",
+    "acRate": 50.21547608602528,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Size Subarray Sum Equals k",
+        "titleSlug": "maximum-size-subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Subarray with Sum at Least K",
+        "titleSlug": "shortest-subarray-with-sum-at-least-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Mitsogo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3108",
+    "title": "Minimum Cost Walk in Weighted Graph",
+    "titleSlug": "minimum-cost-walk-in-weighted-graph",
+    "difficulty": "Hard",
+    "acRate": 68.36302286192557,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 79.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3117",
+    "title": "Minimum Sum of Values by Dividing Array",
+    "titleSlug": "minimum-sum-of-values-by-dividing-array",
+    "difficulty": "Hard",
+    "acRate": 27.253921737631444,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Split an Array",
+        "titleSlug": "minimum-cost-to-split-an-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Split With Minimum Sum",
+        "titleSlug": "split-with-minimum-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Subarray With Bitwise OR Closest to K",
+        "titleSlug": "find-subarray-with-bitwise-or-closest-to-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find X Value of Array II",
+        "titleSlug": "find-x-value-of-array-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3133",
+    "title": "Minimum Array End",
+    "titleSlug": "minimum-array-end",
+    "difficulty": "Medium",
+    "acRate": 55.47463768115942,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3141",
+    "title": "Maximum Hamming Distances",
+    "titleSlug": "maximum-hamming-distances",
+    "difficulty": "Hard",
+    "acRate": 47.30639730639731,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3145",
+    "title": "Find Products of Elements of Big Array",
+    "titleSlug": "find-products-of-elements-of-big-array",
+    "difficulty": "Hard",
+    "acRate": 22.22984562607204,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3158",
+    "title": "Find the XOR of Numbers Which Appear Twice",
+    "titleSlug": "find-the-xor-of-numbers-which-appear-twice",
+    "difficulty": "Easy",
+    "acRate": 78.01471283943609,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Single Number",
+        "titleSlug": "single-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Single Number II",
+        "titleSlug": "single-number-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Single Number III",
+        "titleSlug": "single-number-iii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3171",
+    "title": "Find Subarray With Bitwise OR Closest to K",
+    "titleSlug": "find-subarray-with-bitwise-or-closest-to-k",
+    "difficulty": "Hard",
+    "acRate": 30.077308817384036,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Sum of Values by Dividing Array",
+        "titleSlug": "minimum-sum-of-values-by-dividing-array",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3173",
+    "title": "Bitwise OR of Adjacent Elements",
+    "titleSlug": "bitwise-or-of-adjacent-elements",
+    "difficulty": "Easy",
+    "acRate": 95.07066528783177,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Neighboring Bitwise XOR",
+        "titleSlug": "neighboring-bitwise-xor",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3181",
+    "title": "Maximum Total Reward Using Operations II",
+    "titleSlug": "maximum-total-reward-using-operations-ii",
+    "difficulty": "Hard",
+    "acRate": 20.855981846007705,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Mitsogo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3191",
+    "title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+    "titleSlug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+    "difficulty": "Medium",
+    "acRate": 80.46460097062827,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3199",
+    "title": "Count Triplets with Even XOR Set Bits I",
+    "titleSlug": "count-triplets-with-even-xor-set-bits-i",
+    "difficulty": "Easy",
+    "acRate": 82.98572996706916,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3209",
+    "title": "Number of Subarrays With AND Value of K",
+    "titleSlug": "number-of-subarrays-with-and-value-of-k",
+    "difficulty": "Hard",
+    "acRate": 34.22832980972516,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 77.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3211",
+    "title": "Generate Binary Strings Without Adjacent Zeros",
+    "titleSlug": "generate-binary-strings-without-adjacent-zeros",
+    "difficulty": "Medium",
+    "acRate": 87.56979720678541,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Non-negative Integers without Consecutive Ones",
+        "titleSlug": "non-negative-integers-without-consecutive-ones",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3215",
+    "title": "Count Triplets with Even XOR Set Bits II",
+    "titleSlug": "count-triplets-with-even-xor-set-bits-ii",
+    "difficulty": "Medium",
+    "acRate": 59.688581314878896,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3226",
+    "title": "Number of Bit Changes to Make Two Integers Equal",
+    "titleSlug": "number-of-bit-changes-to-make-two-integers-equal",
+    "difficulty": "Easy",
+    "acRate": 62.8915536745304,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "ThoughtWorks",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3287",
+    "title": "Find the Maximum Sequence Value of Array",
+    "titleSlug": "find-the-maximum-sequence-value-of-array",
+    "difficulty": "Hard",
+    "acRate": 19.29426251587332,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bitwise ORs of Subarrays",
+        "titleSlug": "bitwise-ors-of-subarrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3307",
+    "title": "Find the K-th Character in String Game II",
+    "titleSlug": "find-the-k-th-character-in-string-game-ii",
+    "difficulty": "Hard",
+    "acRate": 48.64689178555544,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shifting Letters",
+        "titleSlug": "shifting-letters",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3314",
+    "title": "Construct the Minimum Bitwise Array I",
+    "titleSlug": "construct-the-minimum-bitwise-array-i",
+    "difficulty": "Easy",
+    "acRate": 74.18966382338184,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Aon",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3315",
+    "title": "Construct the Minimum Bitwise Array II",
+    "titleSlug": "construct-the-minimum-bitwise-array-ii",
+    "difficulty": "Medium",
+    "acRate": 35.146397389540525,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Aon",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3344",
+    "title": "Maximum Sized Array",
+    "titleSlug": "maximum-sized-array",
+    "difficulty": "Medium",
+    "acRate": 51.505711318795434,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3370",
+    "title": "Smallest Number With All Set Bits",
+    "titleSlug": "smallest-number-with-all-set-bits",
+    "difficulty": "Easy",
+    "acRate": 75.92127930492097,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of K Consecutive Bit Flips",
+        "titleSlug": "minimum-number-of-k-consecutive-bit-flips",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Bit Flips to Convert Number",
+        "titleSlug": "minimum-bit-flips-to-convert-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Sum of Array Product of Magical Sequences",
+        "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3393",
+    "title": "Count Paths With the Given XOR Value",
+    "titleSlug": "count-paths-with-the-given-xor-value",
+    "difficulty": "Medium",
+    "acRate": 39.920338156397335,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Pairs With XOR in a Range",
+        "titleSlug": "count-pairs-with-xor-in-a-range",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3495",
+    "title": "Minimum Operations to Make Array Elements Zero",
+    "titleSlug": "minimum-operations-to-make-array-elements-zero",
+    "difficulty": "Hard",
+    "acRate": 32.289194747666514,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3513",
+    "title": "Number of Unique XOR Triplets I",
+    "titleSlug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "acRate": 25.432612169848607,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3568",
+    "title": "Minimum Moves to Clean the Classroom",
+    "titleSlug": "minimum-moves-to-clean-the-classroom",
+    "difficulty": "Medium",
+    "acRate": 25.548953758718678,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3595",
+    "title": "Once Twice",
+    "titleSlug": "once-twice",
+    "difficulty": "Medium",
+    "acRate": 77.57352941176471,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3599",
+    "title": "Partition Array to Minimize XOR",
+    "titleSlug": "partition-array-to-minimize-xor",
+    "difficulty": "Medium",
+    "acRate": 39.963776174891166,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

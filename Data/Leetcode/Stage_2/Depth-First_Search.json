@@ -1,0 +1,4463 @@
+[
+  {
+    "questionFrontendId": "94",
+    "title": "Binary Tree Inorder Traversal",
+    "titleSlug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "acRate": 79.01788872939295,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Validate Binary Search Tree",
+        "titleSlug": "validate-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Preorder Traversal",
+        "titleSlug": "binary-tree-preorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Tree Postorder Traversal",
+        "titleSlug": "binary-tree-postorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Kth Smallest Element in a BST",
+        "titleSlug": "kth-smallest-element-in-a-bst",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Binary Search Tree Value II",
+        "titleSlug": "closest-binary-search-tree-value-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Inorder Successor in BST",
+        "titleSlug": "inorder-successor-in-bst",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Distance Between BST Nodes",
+        "titleSlug": "minimum-distance-between-bst-nodes",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 37.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 37.6
+      },
+      {
+        "name": "Apple",
+        "frequency": 42.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 33.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 34.5
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 49.5
+      },
+      {
+        "name": "Uber",
+        "frequency": 25.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "98",
+    "title": "Validate Binary Search Tree",
+    "titleSlug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 34.68526985070733,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Mode in Binary Search Tree",
+        "titleSlug": "find-mode-in-binary-search-tree",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 54.0
+      },
+      {
+        "name": "Apple",
+        "frequency": 46.1
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 67.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "IBM",
+        "frequency": 50.6
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 20.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 41.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 55.6
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 54.3
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      },
+      {
+        "name": "SIG",
+        "frequency": 100.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 50.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 30.7
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 56.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "99",
+    "title": "Recover Binary Search Tree",
+    "titleSlug": "recover-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 57.19811017154951,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Amazon",
+        "frequency": 30.5
+      },
+      {
+        "name": "Apple",
+        "frequency": 15.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 27.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 36.2
+      },
+      {
+        "name": "TikTok",
+        "frequency": 21.2
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "110",
+    "title": "Balanced Binary Tree",
+    "titleSlug": "balanced-binary-tree",
+    "difficulty": "Easy",
+    "acRate": 55.95810935500998,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Depth of Binary Tree",
+        "titleSlug": "maximum-depth-of-binary-tree",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+        "titleSlug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check Balanced String",
+        "titleSlug": "check-balanced-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 33.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 40.0
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "Meta",
+        "frequency": 22.3
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 35.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "113",
+    "title": "Path Sum II",
+    "titleSlug": "path-sum-ii",
+    "difficulty": "Medium",
+    "acRate": 60.913914329003184,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum",
+        "titleSlug": "path-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Tree Paths",
+        "titleSlug": "binary-tree-paths",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Path Sum III",
+        "titleSlug": "path-sum-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Path Sum IV",
+        "titleSlug": "path-sum-iv",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "TikTok",
+        "frequency": 35.4
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "114",
+    "title": "Flatten Binary Tree to Linked List",
+    "titleSlug": "flatten-binary-tree-to-linked-list",
+    "difficulty": "Medium",
+    "acRate": 69.14651966874621,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flatten a Multilevel Doubly Linked List",
+        "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Correct a Binary Tree",
+        "titleSlug": "correct-a-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 63.2
+      },
+      {
+        "name": "Apple",
+        "frequency": 15.2
+      },
+      {
+        "name": "Google",
+        "frequency": 37.4
+      },
+      {
+        "name": "Media.net",
+        "frequency": 74.4
+      },
+      {
+        "name": "Myntra",
+        "frequency": 59.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 25.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "124",
+    "title": "Binary Tree Maximum Path Sum",
+    "titleSlug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "acRate": 41.4801415161428,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum",
+        "titleSlug": "path-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum Root to Leaf Numbers",
+        "titleSlug": "sum-root-to-leaf-numbers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Path Sum IV",
+        "titleSlug": "path-sum-iv",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Univalue Path",
+        "titleSlug": "longest-univalue-path",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Time Needed to Inform All Employees",
+        "titleSlug": "time-needed-to-inform-all-employees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Difference Between Maximum and Minimum Price Sum",
+        "titleSlug": "difference-between-maximum-and-minimum-price-sum",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arcesium",
+        "frequency": 67.8
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 67.3
+      },
+      {
+        "name": "Baidu",
+        "frequency": 97.8
+      },
+      {
+        "name": "Citadel",
+        "frequency": 98.7
+      },
+      {
+        "name": "Datadog",
+        "frequency": 65.0
+      },
+      {
+        "name": "Directi",
+        "frequency": 62.4
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 95.3
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 75.9
+      },
+      {
+        "name": "Hotstar",
+        "frequency": 66.6
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 59.6
+      },
+      {
+        "name": "Patreon",
+        "frequency": 68.2
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 65.5
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 64.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 30.7
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 51.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "129",
+    "title": "Sum Root to Leaf Numbers",
+    "titleSlug": "sum-root-to-leaf-numbers",
+    "difficulty": "Medium",
+    "acRate": 68.86950020773587,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum",
+        "titleSlug": "path-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Smallest String Starting From Leaf",
+        "titleSlug": "smallest-string-starting-from-leaf",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "144",
+    "title": "Binary Tree Preorder Traversal",
+    "titleSlug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "acRate": 73.96151054134396,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Verify Preorder Sequence in Binary Search Tree",
+        "titleSlug": "verify-preorder-sequence-in-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "N-ary Tree Preorder Traversal",
+        "titleSlug": "n-ary-tree-preorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Kth Largest Sum in a Binary Tree",
+        "titleSlug": "kth-largest-sum-in-a-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "145",
+    "title": "Binary Tree Postorder Traversal",
+    "titleSlug": "binary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "acRate": 76.44512929217375,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "N-ary Tree Postorder Traversal",
+        "titleSlug": "n-ary-tree-postorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Fuel Cost to Report to the Capital",
+        "titleSlug": "minimum-fuel-cost-to-report-to-the-capital",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 25.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "156",
+    "title": "Binary Tree Upside Down",
+    "titleSlug": "binary-tree-upside-down",
+    "difficulty": "Medium",
+    "acRate": 64.69434845867055,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 69.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "230",
+    "title": "Kth Smallest Element in a BST",
+    "titleSlug": "kth-smallest-element-in-a-bst",
+    "difficulty": "Medium",
+    "acRate": 75.75983961604405,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Second Minimum Node In a Binary Tree",
+        "titleSlug": "second-minimum-node-in-a-binary-tree",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Google",
+        "frequency": 40.2
+      },
+      {
+        "name": "Oracle",
+        "frequency": 48.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "235",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 68.96451984131613,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Common Region",
+        "titleSlug": "smallest-common-region",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 26.4
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 62.1
+      },
+      {
+        "name": "Oracle",
+        "frequency": 25.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      },
+      {
+        "name": "Yandex",
+        "frequency": 40.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "236",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 67.48022694919912,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Common Region",
+        "titleSlug": "smallest-common-region",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Players With Zero or One Losses",
+        "titleSlug": "find-players-with-zero-or-one-losses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Cycle Length Queries in a Tree",
+        "titleSlug": "cycle-length-queries-in-a-tree",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 54.6
+      },
+      {
+        "name": "BitGo",
+        "frequency": 64.1
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "GE Healthcare",
+        "frequency": 73.8
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 63.0
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 71.1
+      },
+      {
+        "name": "Myntra",
+        "frequency": 59.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Snapdeal",
+        "frequency": 67.6
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 53.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "250",
+    "title": "Count Univalue Subtrees",
+    "titleSlug": "count-univalue-subtrees",
+    "difficulty": "Medium",
+    "acRate": 57.24082610656486,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subtree of Another Tree",
+        "titleSlug": "subtree-of-another-tree",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Univalue Path",
+        "titleSlug": "longest-univalue-path",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "257",
+    "title": "Binary Tree Paths",
+    "titleSlug": "binary-tree-paths",
+    "difficulty": "Easy",
+    "acRate": 67.12591206680271,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum II",
+        "titleSlug": "path-sum-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest String Starting From Leaf",
+        "titleSlug": "smallest-string-starting-from-leaf",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+        "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 49.0
+      },
+      {
+        "name": "Google",
+        "frequency": 29.6
+      },
+      {
+        "name": "Revolut",
+        "frequency": 83.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "270",
+    "title": "Closest Binary Search Tree Value",
+    "titleSlug": "closest-binary-search-tree-value",
+    "difficulty": "Easy",
+    "acRate": 49.562227719646664,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Complete Tree Nodes",
+        "titleSlug": "count-complete-tree-nodes",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Closest Binary Search Tree Value II",
+        "titleSlug": "closest-binary-search-tree-value-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Search in a Binary Search Tree",
+        "titleSlug": "search-in-a-binary-search-tree",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Closest Nodes Queries in a Binary Search Tree",
+        "titleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "285",
+    "title": "Inorder Successor in BST",
+    "titleSlug": "inorder-successor-in-bst",
+    "difficulty": "Medium",
+    "acRate": 50.92400792648355,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Inorder Successor in BST II",
+        "titleSlug": "inorder-successor-in-bst-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 74.5
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "298",
+    "title": "Binary Tree Longest Consecutive Sequence",
+    "titleSlug": "binary-tree-longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "acRate": 54.17530352383773,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Consecutive Sequence",
+        "titleSlug": "longest-consecutive-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Longest Consecutive Sequence II",
+        "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if an Array Is Consecutive",
+        "titleSlug": "check-if-an-array-is-consecutive",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "333",
+    "title": "Largest BST Subtree",
+    "titleSlug": "largest-bst-subtree",
+    "difficulty": "Medium",
+    "acRate": 45.68002200156327,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "337",
+    "title": "House Robber III",
+    "titleSlug": "house-robber-iii",
+    "difficulty": "Medium",
+    "acRate": 55.137469719597156,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "House Robber",
+        "titleSlug": "house-robber",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "House Robber II",
+        "titleSlug": "house-robber-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "oyo",
+        "frequency": 87.4
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "366",
+    "title": "Find Leaves of Binary Tree",
+    "titleSlug": "find-leaves-of-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 81.11304115446285,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 77.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "385",
+    "title": "Mini Parser",
+    "titleSlug": "mini-parser",
+    "difficulty": "Medium",
+    "acRate": 40.711139119316975,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Ternary Expression Parser",
+        "titleSlug": "ternary-expression-parser",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Comments",
+        "titleSlug": "remove-comments",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "388",
+    "title": "Longest Absolute File Path",
+    "titleSlug": "longest-absolute-file-path",
+    "difficulty": "Medium",
+    "acRate": 48.62786604042145,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "426",
+    "title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+    "titleSlug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+    "difficulty": "Medium",
+    "acRate": 65.57845843296568,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "430",
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "titleSlug": "flatten-a-multilevel-doubly-linked-list",
+    "difficulty": "Medium",
+    "acRate": 61.671629094002554,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flatten Binary Tree to Linked List",
+        "titleSlug": "flatten-binary-tree-to-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Correct a Binary Tree",
+        "titleSlug": "correct-a-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "SoFi",
+        "frequency": 66.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "437",
+    "title": "Path Sum III",
+    "titleSlug": "path-sum-iii",
+    "difficulty": "Medium",
+    "acRate": 46.126639187843395,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum",
+        "titleSlug": "path-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Path Sum II",
+        "titleSlug": "path-sum-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Path Sum IV",
+        "titleSlug": "path-sum-iv",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Univalue Path",
+        "titleSlug": "longest-univalue-path",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "NetApp",
+        "frequency": 87.3
+      },
+      {
+        "name": "Zepto",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "501",
+    "title": "Find Mode in Binary Search Tree",
+    "titleSlug": "find-mode-in-binary-search-tree",
+    "difficulty": "Easy",
+    "acRate": 57.79855313702428,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Validate Binary Search Tree",
+        "titleSlug": "validate-binary-search-tree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "508",
+    "title": "Most Frequent Subtree Sum",
+    "titleSlug": "most-frequent-subtree-sum",
+    "difficulty": "Medium",
+    "acRate": 68.21034282393957,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subtree of Another Tree",
+        "titleSlug": "subtree-of-another-tree",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Nodes Equal to Sum of Descendants",
+        "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "536",
+    "title": "Construct Binary Tree from String",
+    "titleSlug": "construct-binary-tree-from-string",
+    "difficulty": "Medium",
+    "acRate": 58.50000237476668,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Construct String from Binary Tree",
+        "titleSlug": "construct-string-from-binary-tree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "538",
+    "title": "Convert BST to Greater Tree",
+    "titleSlug": "convert-bst-to-greater-tree",
+    "difficulty": "Medium",
+    "acRate": 70.8041994794798,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "543",
+    "title": "Diameter of Binary Tree",
+    "titleSlug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "acRate": 64.14893162172642,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Diameter of N-Ary Tree",
+        "titleSlug": "diameter-of-n-ary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Path With Different Adjacent Characters",
+        "titleSlug": "longest-path-with-different-adjacent-characters",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Aurora",
+        "frequency": 74.6
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 27.8
+      },
+      {
+        "name": "Verkada",
+        "frequency": 63.8
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "545",
+    "title": "Boundary of Binary Tree",
+    "titleSlug": "boundary-of-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 47.331475772781026,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Right Side View",
+        "titleSlug": "binary-tree-right-side-view",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BlackRock",
+        "frequency": 41.7
+      },
+      {
+        "name": "Geico",
+        "frequency": 69.5
+      },
+      {
+        "name": "Juniper Networks",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 67.7
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "549",
+    "title": "Binary Tree Longest Consecutive Sequence II",
+    "titleSlug": "binary-tree-longest-consecutive-sequence-ii",
+    "difficulty": "Medium",
+    "acRate": 49.584754815810335,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Longest Consecutive Sequence",
+        "titleSlug": "binary-tree-longest-consecutive-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if an Array Is Consecutive",
+        "titleSlug": "check-if-an-array-is-consecutive",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "563",
+    "title": "Binary Tree Tilt",
+    "titleSlug": "binary-tree-tilt",
+    "difficulty": "Easy",
+    "acRate": 64.49987076764022,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find All The Lonely Nodes",
+        "titleSlug": "find-all-the-lonely-nodes",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Indeed",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "565",
+    "title": "Array Nesting",
+    "titleSlug": "array-nesting",
+    "difficulty": "Medium",
+    "acRate": 56.12073960497117,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Nested List Weight Sum",
+        "titleSlug": "nested-list-weight-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Nested List Weight Sum II",
+        "titleSlug": "nested-list-weight-sum-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "589",
+    "title": "N-ary Tree Preorder Traversal",
+    "titleSlug": "n-ary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "acRate": 76.36310192123283,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Preorder Traversal",
+        "titleSlug": "binary-tree-preorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "N-ary Tree Level Order Traversal",
+        "titleSlug": "n-ary-tree-level-order-traversal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "N-ary Tree Postorder Traversal",
+        "titleSlug": "n-ary-tree-postorder-traversal",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "590",
+    "title": "N-ary Tree Postorder Traversal",
+    "titleSlug": "n-ary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "acRate": 80.77624165522465,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Postorder Traversal",
+        "titleSlug": "binary-tree-postorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "N-ary Tree Level Order Traversal",
+        "titleSlug": "n-ary-tree-level-order-traversal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "N-ary Tree Preorder Traversal",
+        "titleSlug": "n-ary-tree-preorder-traversal",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "606",
+    "title": "Construct String from Binary Tree",
+    "titleSlug": "construct-string-from-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 70.28193859550733,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Construct Binary Tree from String",
+        "titleSlug": "construct-binary-tree-from-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Duplicate Subtrees",
+        "titleSlug": "find-duplicate-subtrees",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "652",
+    "title": "Find Duplicate Subtrees",
+    "titleSlug": "find-duplicate-subtrees",
+    "difficulty": "Medium",
+    "acRate": 60.269034481232566,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "titleSlug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Serialize and Deserialize BST",
+        "titleSlug": "serialize-and-deserialize-bst",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Construct String from Binary Tree",
+        "titleSlug": "construct-string-from-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Delete Duplicate Folders in System",
+        "titleSlug": "delete-duplicate-folders-in-system",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Yandex",
+        "frequency": 53.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "663",
+    "title": "Equal Tree Partition",
+    "titleSlug": "equal-tree-partition",
+    "difficulty": "Medium",
+    "acRate": 42.2476951659831,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Create Components With Same Value",
+        "titleSlug": "create-components-with-same-value",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "666",
+    "title": "Path Sum IV",
+    "titleSlug": "path-sum-iv",
+    "difficulty": "Medium",
+    "acRate": 62.70000308289916,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum",
+        "titleSlug": "path-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Path Sum II",
+        "titleSlug": "path-sum-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Path Sum III",
+        "titleSlug": "path-sum-iii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Alibaba",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "669",
+    "title": "Trim a Binary Search Tree",
+    "titleSlug": "trim-a-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 66.4127507823682,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "671",
+    "title": "Second Minimum Node In a Binary Tree",
+    "titleSlug": "second-minimum-node-in-a-binary-tree",
+    "difficulty": "Easy",
+    "acRate": 45.508106351479846,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Smallest Element in a BST",
+        "titleSlug": "kth-smallest-element-in-a-bst",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "687",
+    "title": "Longest Univalue Path",
+    "titleSlug": "longest-univalue-path",
+    "difficulty": "Medium",
+    "acRate": 42.902548024245014,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Univalue Subtrees",
+        "titleSlug": "count-univalue-subtrees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Path Sum III",
+        "titleSlug": "path-sum-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Path With Different Adjacent Characters",
+        "titleSlug": "longest-path-with-different-adjacent-characters",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      },
+      {
+        "name": "Zepto",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "814",
+    "title": "Binary Tree Pruning",
+    "titleSlug": "binary-tree-pruning",
+    "difficulty": "Medium",
+    "acRate": 72.37939799190009,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Hulu",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "872",
+    "title": "Leaf-Similar Trees",
+    "titleSlug": "leaf-similar-trees",
+    "difficulty": "Easy",
+    "acRate": 70.13883848259242,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "897",
+    "title": "Increasing Order Search Tree",
+    "titleSlug": "increasing-order-search-tree",
+    "difficulty": "Easy",
+    "acRate": 78.75252428472457,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "938",
+    "title": "Range Sum of BST",
+    "titleSlug": "range-sum-of-bst",
+    "difficulty": "Easy",
+    "acRate": 87.4982412763894,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "951",
+    "title": "Flip Equivalent Binary Trees",
+    "titleSlug": "flip-equivalent-binary-trees",
+    "difficulty": "Medium",
+    "acRate": 69.64467113921269,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "968",
+    "title": "Binary Tree Cameras",
+    "titleSlug": "binary-tree-cameras",
+    "difficulty": "Hard",
+    "acRate": 47.37936622503187,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Distribute Coins in Binary Tree",
+        "titleSlug": "distribute-coins-in-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Choose Edges to Maximize Score in a Tree",
+        "titleSlug": "choose-edges-to-maximize-score-in-a-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 100.0
+      },
+      {
+        "name": "DP world",
+        "frequency": 87.6
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Graviton",
+        "frequency": 89.5
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 88.9
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Quora",
+        "frequency": 52.3
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "971",
+    "title": "Flip Binary Tree To Match Preorder Traversal",
+    "titleSlug": "flip-binary-tree-to-match-preorder-traversal",
+    "difficulty": "Medium",
+    "acRate": 51.27637662423034,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "979",
+    "title": "Distribute Coins in Binary Tree",
+    "titleSlug": "distribute-coins-in-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 77.1874721474536,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of Distances in Tree",
+        "titleSlug": "sum-of-distances-in-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Binary Tree Cameras",
+        "titleSlug": "binary-tree-cameras",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "988",
+    "title": "Smallest String Starting From Leaf",
+    "titleSlug": "smallest-string-starting-from-leaf",
+    "difficulty": "Medium",
+    "acRate": 60.93865665064217,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum Root to Leaf Numbers",
+        "titleSlug": "sum-root-to-leaf-numbers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Paths",
+        "titleSlug": "binary-tree-paths",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1022",
+    "title": "Sum of Root To Leaf Binary Numbers",
+    "titleSlug": "sum-of-root-to-leaf-binary-numbers",
+    "difficulty": "Easy",
+    "acRate": 73.50813770989272,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1026",
+    "title": "Maximum Difference Between Node and Ancestor",
+    "titleSlug": "maximum-difference-between-node-and-ancestor",
+    "difficulty": "Medium",
+    "acRate": 78.08715776529061,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "EPAM Systems",
+        "frequency": 66.8
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1028",
+    "title": "Recover a Tree From Preorder Traversal",
+    "titleSlug": "recover-a-tree-from-preorder-traversal",
+    "difficulty": "Hard",
+    "acRate": 83.29974325724791,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1038",
+    "title": "Binary Search Tree to Greater Sum Tree",
+    "titleSlug": "binary-search-tree-to-greater-sum-tree",
+    "difficulty": "Medium",
+    "acRate": 88.29573106618199,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Datadog",
+        "frequency": 46.9
+      },
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1080",
+    "title": "Insufficient Nodes in Root to Leaf Paths",
+    "titleSlug": "insufficient-nodes-in-root-to-leaf-paths",
+    "difficulty": "Medium",
+    "acRate": 54.07907051062567,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "titleSlug": "count-nodes-equal-to-average-of-subtree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1110",
+    "title": "Delete Nodes And Return Forest",
+    "titleSlug": "delete-nodes-and-return-forest",
+    "difficulty": "Medium",
+    "acRate": 72.44610070408083,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Nodes With the Highest Score",
+        "titleSlug": "count-nodes-with-the-highest-score",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1120",
+    "title": "Maximum Average Subtree",
+    "titleSlug": "maximum-average-subtree",
+    "difficulty": "Medium",
+    "acRate": 66.86534216335541,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Nodes Equal to Sum of Descendants",
+        "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "titleSlug": "count-nodes-equal-to-average-of-subtree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1145",
+    "title": "Binary Tree Coloring Game",
+    "titleSlug": "binary-tree-coloring-game",
+    "difficulty": "Medium",
+    "acRate": 52.57714394524008,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1214",
+    "title": "Two Sum BSTs",
+    "titleSlug": "two-sum-bsts",
+    "difficulty": "Medium",
+    "acRate": 67.37497732357744,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum IV - Input is a BST",
+        "titleSlug": "two-sum-iv-input-is-a-bst",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1305",
+    "title": "All Elements in Two Binary Search Trees",
+    "titleSlug": "all-elements-in-two-binary-search-trees",
+    "difficulty": "Medium",
+    "acRate": 80.08969248291572,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1325",
+    "title": "Delete Leaves With a Given Value",
+    "titleSlug": "delete-leaves-with-a-given-value",
+    "difficulty": "Medium",
+    "acRate": 77.25758965201022,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1339",
+    "title": "Maximum Product of Splitted Binary Tree",
+    "titleSlug": "maximum-product-of-splitted-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 47.99777293908208,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Nodes With the Highest Score",
+        "titleSlug": "count-nodes-with-the-highest-score",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1367",
+    "title": "Linked List in Binary Tree",
+    "titleSlug": "linked-list-in-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 51.892404672781865,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "SoundHound",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1372",
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "titleSlug": "longest-zigzag-path-in-a-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 66.80671938520089,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Zigzag Grid Traversal With Skip",
+        "titleSlug": "zigzag-grid-traversal-with-skip",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1373",
+    "title": "Maximum Sum BST in Binary Tree",
+    "titleSlug": "maximum-sum-bst-in-binary-tree",
+    "difficulty": "Hard",
+    "acRate": 45.06379501791289,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1516",
+    "title": "Move Sub-Tree of N-Ary Tree",
+    "titleSlug": "move-sub-tree-of-n-ary-tree",
+    "difficulty": "Hard",
+    "acRate": 60,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Root of N-Ary Tree",
+        "titleSlug": "find-root-of-n-ary-tree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1522",
+    "title": "Diameter of N-Ary Tree",
+    "titleSlug": "diameter-of-n-ary-tree",
+    "difficulty": "Medium",
+    "acRate": 75.3033228070624,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Diameter of Binary Tree",
+        "titleSlug": "diameter-of-binary-tree",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1530",
+    "title": "Number of Good Leaf Nodes Pairs",
+    "titleSlug": "number-of-good-leaf-nodes-pairs",
+    "difficulty": "Medium",
+    "acRate": 71.75862696895202,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "josh technology",
+        "frequency": 81.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1644",
+    "title": "Lowest Common Ancestor of a Binary Tree II",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+    "difficulty": "Medium",
+    "acRate": 68.97890427831379,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1666",
+    "title": "Change the Root of a Binary Tree",
+    "titleSlug": "change-the-root-of-a-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 74.92071881606765,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1676",
+    "title": "Lowest Common Ancestor of a Binary Tree IV",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+    "difficulty": "Medium",
+    "acRate": 79.17527443593795,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of Deepest Leaves",
+        "titleSlug": "lowest-common-ancestor-of-deepest-leaves",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree III",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1743",
+    "title": "Restore the Array From Adjacent Pairs",
+    "titleSlug": "restore-the-array-from-adjacent-pairs",
+    "difficulty": "Medium",
+    "acRate": 74.78350806866071,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Robinhood",
+        "frequency": 91.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1932",
+    "title": "Merge BSTs to Create Single BST",
+    "titleSlug": "merge-bsts-to-create-single-bst",
+    "difficulty": "Hard",
+    "acRate": 36.4575584759071,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1973",
+    "title": "Count Nodes Equal to Sum of Descendants",
+    "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+    "difficulty": "Medium",
+    "acRate": 77.19192224404492,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Frequent Subtree Sum",
+        "titleSlug": "most-frequent-subtree-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Average Subtree",
+        "titleSlug": "maximum-average-subtree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Nodes Equal to Average of Subtree",
+        "titleSlug": "count-nodes-equal-to-average-of-subtree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2049",
+    "title": "Count Nodes With the Highest Score",
+    "titleSlug": "count-nodes-with-the-highest-score",
+    "difficulty": "Medium",
+    "acRate": 51.529005101329695,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of Distances in Tree",
+        "titleSlug": "sum-of-distances-in-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Delete Nodes And Return Forest",
+        "titleSlug": "delete-nodes-and-return-forest",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Product of Splitted Binary Tree",
+        "titleSlug": "maximum-product-of-splitted-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 62.2
+      },
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2096",
+    "title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "titleSlug": "step-by-step-directions-from-a-binary-tree-node-to-another",
+    "difficulty": "Medium",
+    "acRate": 56.33998895353676,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path Sum II",
+        "titleSlug": "path-sum-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Paths",
+        "titleSlug": "binary-tree-paths",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Distance in a Binary Tree",
+        "titleSlug": "find-distance-in-a-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 60.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 83.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 44.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2265",
+    "title": "Count Nodes Equal to Average of Subtree",
+    "titleSlug": "count-nodes-equal-to-average-of-subtree",
+    "difficulty": "Medium",
+    "acRate": 86.57955812034682,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Average Subtree",
+        "titleSlug": "maximum-average-subtree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Insufficient Nodes in Root to Leaf Paths",
+        "titleSlug": "insufficient-nodes-in-root-to-leaf-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Nodes Equal to Sum of Descendants",
+        "titleSlug": "count-nodes-equal-to-sum-of-descendants",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "INDmoney",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2313",
+    "title": "Minimum Flips in Binary Tree to Get Result",
+    "titleSlug": "minimum-flips-in-binary-tree-to-get-result",
+    "difficulty": "Hard",
+    "acRate": 56.67548713014193,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check If Two Expression Trees are Equivalent",
+        "titleSlug": "check-if-two-expression-trees-are-equivalent",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design an Expression Tree With Evaluate Function",
+        "titleSlug": "design-an-expression-tree-with-evaluate-function",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Evaluate Boolean Binary Tree",
+        "titleSlug": "evaluate-boolean-binary-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2331",
+    "title": "Evaluate Boolean Binary Tree",
+    "titleSlug": "evaluate-boolean-binary-tree",
+    "difficulty": "Easy",
+    "acRate": 82.40633730052429,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check If Two Expression Trees are Equivalent",
+        "titleSlug": "check-if-two-expression-trees-are-equivalent",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design an Expression Tree With Evaluate Function",
+        "titleSlug": "design-an-expression-tree-with-evaluate-function",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Flips in Binary Tree to Get Result",
+        "titleSlug": "minimum-flips-in-binary-tree-to-get-result",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2378",
+    "title": "Choose Edges to Maximize Score in a Tree",
+    "titleSlug": "choose-edges-to-maximize-score-in-a-tree",
+    "difficulty": "Medium",
+    "acRate": 56.20501007774259,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Cameras",
+        "titleSlug": "binary-tree-cameras",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Path With Different Adjacent Characters",
+        "titleSlug": "longest-path-with-different-adjacent-characters",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Sprinklr",
+        "frequency": 90.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2476",
+    "title": "Closest Nodes Queries in a Binary Search Tree",
+    "titleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 43.219650832318315,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Closest Binary Search Tree Value",
+        "titleSlug": "closest-binary-search-tree-value",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Closest Binary Search Tree Value II",
+        "titleSlug": "closest-binary-search-tree-value-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Search in a Binary Search Tree",
+        "titleSlug": "search-in-a-binary-search-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2538",
+    "title": "Difference Between Maximum and Minimum Price Sum",
+    "titleSlug": "difference-between-maximum-and-minimum-price-sum",
+    "difficulty": "Hard",
+    "acRate": 32.32715680414425,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Maximum Path Sum",
+        "titleSlug": "binary-tree-maximum-path-sum",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Directi",
+        "frequency": 100.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2581",
+    "title": "Count Number of Possible Root Nodes",
+    "titleSlug": "count-number-of-possible-root-nodes",
+    "difficulty": "Hard",
+    "acRate": 47.02699591319865,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Closest Node to Path in Tree",
+        "titleSlug": "closest-node-to-path-in-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2689",
+    "title": "Extract Kth Character From The Rope Tree",
+    "titleSlug": "extract-kth-character-from-the-rope-tree",
+    "difficulty": "Easy",
+    "acRate": 73.6094264425576,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2764",
+    "title": "Is Array a Preorder of Some ‌Binary Tree",
+    "titleSlug": "is-array-a-preorder-of-some-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 66.15816940987555,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2872",
+    "title": "Maximum Number of K-Divisible Components",
+    "titleSlug": "maximum-number-of-k-divisible-components",
+    "difficulty": "Hard",
+    "acRate": 69.61998967544254,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Create Components With Same Value",
+        "titleSlug": "create-components-with-same-value",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2925",
+    "title": "Maximum Score After Applying Operations on a Tree",
+    "titleSlug": "maximum-score-after-applying-operations-on-a-tree",
+    "difficulty": "Medium",
+    "acRate": 46.52522064410544,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of Distances in Tree",
+        "titleSlug": "sum-of-distances-in-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Collect Coins in a Tree",
+        "titleSlug": "collect-coins-in-a-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Maximum Sum of Node Values",
+        "titleSlug": "find-the-maximum-sum-of-node-values",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3004",
+    "title": "Maximum Subtree of the Same Color",
+    "titleSlug": "maximum-subtree-of-the-same-color",
+    "difficulty": "Medium",
+    "acRate": 57.628571428571426,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "BlackRock",
+        "frequency": 71.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3067",
+    "title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "titleSlug": "count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+    "difficulty": "Medium",
+    "acRate": 54.58911034084344,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Height Trees",
+        "titleSlug": "minimum-height-trees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Distances in Tree",
+        "titleSlug": "sum-of-distances-in-tree",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "thoughtspot",
+        "frequency": 71.6
+      },
+      {
+        "name": "UBS",
+        "frequency": 94.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3249",
+    "title": "Count the Number of Good Nodes",
+    "titleSlug": "count-the-number-of-good-nodes",
+    "difficulty": "Medium",
+    "acRate": 54.8333736037024,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Depth of N-ary Tree",
+        "titleSlug": "maximum-depth-of-n-ary-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3313",
+    "title": "Find the Last Marked Nodes in Tree",
+    "titleSlug": "find-the-last-marked-nodes-in-tree",
+    "difficulty": "Hard",
+    "acRate": 53.191489361702125,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Time to Visit Disappearing Nodes",
+        "titleSlug": "minimum-time-to-visit-disappearing-nodes",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Time Taken to Mark All Nodes",
+        "titleSlug": "time-taken-to-mark-all-nodes",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3319",
+    "title": "K-th Largest Perfect Subtree Size in Binary Tree",
+    "titleSlug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 61.292320888232354,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Balanced Binary Tree",
+        "titleSlug": "balanced-binary-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3331",
+    "title": "Find Subtree Sizes After Changes",
+    "titleSlug": "find-subtree-sizes-after-changes",
+    "difficulty": "Medium",
+    "acRate": 54.07160527762507,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3367",
+    "title": "Maximize Sum of Weights after Edge Removals",
+    "titleSlug": "maximize-sum-of-weights-after-edge-removals",
+    "difficulty": "Hard",
+    "acRate": 29.106252397391636,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Minimum Diameter After Merging Two Trees",
+        "titleSlug": "find-minimum-diameter-after-merging-two-trees",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Gameskraft",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3425",
+    "title": "Longest Special Path",
+    "titleSlug": "longest-special-path",
+    "difficulty": "Hard",
+    "acRate": 20.395429867919944,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Frog Position After T Seconds",
+        "titleSlug": "frog-position-after-t-seconds",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Special Path II",
+        "titleSlug": "longest-special-path-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3486",
+    "title": "Longest Special Path II",
+    "titleSlug": "longest-special-path-ii",
+    "difficulty": "Hard",
+    "acRate": 16.342678519097394,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Special Path",
+        "titleSlug": "longest-special-path",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3544",
+    "title": "Subtree Inversion Sum",
+    "titleSlug": "subtree-inversion-sum",
+    "difficulty": "Hard",
+    "acRate": 41.26098479564793,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3553",
+    "title": "Minimum Weighted Subgraph With the Required Paths II",
+    "titleSlug": "minimum-weighted-subgraph-with-the-required-paths-ii",
+    "difficulty": "Hard",
+    "acRate": 49.030295347952844,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3558",
+    "title": "Number of Ways to Assign Edge Weights I",
+    "titleSlug": "number-of-ways-to-assign-edge-weights-i",
+    "difficulty": "Medium",
+    "acRate": 53.63349131121643,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3559",
+    "title": "Number of Ways to Assign Edge Weights II",
+    "titleSlug": "number-of-ways-to-assign-edge-weights-ii",
+    "difficulty": "Hard",
+    "acRate": 60.363859362224034,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3562",
+    "title": "Maximum Profit from Trading Stocks with Discounts",
+    "titleSlug": "maximum-profit-from-trading-stocks-with-discounts",
+    "difficulty": "Hard",
+    "acRate": 20.37664112160637,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3585",
+    "title": "Find Weighted Median Node in Tree",
+    "titleSlug": "find-weighted-median-node-in-tree",
+    "difficulty": "Hard",
+    "acRate": 23.337113883514576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3593",
+    "title": "Minimum Increments to Equalize Leaf Paths",
+    "titleSlug": "minimum-increments-to-equalize-leaf-paths",
+    "difficulty": "Medium",
+    "acRate": 40.688798153736904,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

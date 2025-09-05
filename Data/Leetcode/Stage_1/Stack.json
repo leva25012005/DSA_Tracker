@@ -1,0 +1,2084 @@
+[
+  {
+    "questionFrontendId": "20",
+    "title": "Valid Parentheses",
+    "titleSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "acRate": 42.73580103457269,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Generate Parentheses",
+        "titleSlug": "generate-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Valid Parentheses",
+        "titleSlug": "longest-valid-parentheses",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove Invalid Parentheses",
+        "titleSlug": "remove-invalid-parentheses",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check If Word Is Valid After Substitutions",
+        "titleSlug": "check-if-word-is-valid-after-substitutions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if a Parentheses String Can Be Valid",
+        "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Move Pieces to Obtain a String",
+        "titleSlug": "move-pieces-to-obtain-a-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 65.1
+      },
+      {
+        "name": "Accolite",
+        "frequency": 62.0
+      },
+      {
+        "name": "Adobe",
+        "frequency": 66.6
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 77.7
+      },
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 76.9
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 66.1
+      },
+      {
+        "name": "Bank of America",
+        "frequency": 100.0
+      },
+      {
+        "name": "Barclays",
+        "frequency": 71.0
+      },
+      {
+        "name": "BlackRock",
+        "frequency": 94.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 83.1
+      },
+      {
+        "name": "Bolt",
+        "frequency": 61.7
+      },
+      {
+        "name": "Booking.com",
+        "frequency": 52.0
+      },
+      {
+        "name": "Braze",
+        "frequency": 100.0
+      },
+      {
+        "name": "Capital One",
+        "frequency": 40.8
+      },
+      {
+        "name": "Cisco",
+        "frequency": 56.3
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 66.5
+      },
+      {
+        "name": "Criteo",
+        "frequency": 72.2
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Dell",
+        "frequency": 100.0
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 82.5
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "eBay",
+        "frequency": 70.8
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Epic Systems",
+        "frequency": 81.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 85.9
+      },
+      {
+        "name": "FreshWorks",
+        "frequency": 100.0
+      },
+      {
+        "name": "GE Healthcare",
+        "frequency": 84.9
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 47.2
+      },
+      {
+        "name": "Google",
+        "frequency": 66.7
+      },
+      {
+        "name": "Grab",
+        "frequency": 61.6
+      },
+      {
+        "name": "HCL",
+        "frequency": 100.0
+      },
+      {
+        "name": "Huawei",
+        "frequency": 83.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 66.5
+      },
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      },
+      {
+        "name": "Intel",
+        "frequency": 94.4
+      },
+      {
+        "name": "Intuit",
+        "frequency": 95.2
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 70.4
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 76.5
+      },
+      {
+        "name": "Lucid",
+        "frequency": 73.8
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 94.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 71.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 72.9
+      },
+      {
+        "name": "Millennium",
+        "frequency": 100.0
+      },
+      {
+        "name": "Mitsogo",
+        "frequency": 61.3
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Nagarro",
+        "frequency": 63.8
+      },
+      {
+        "name": "Netflix",
+        "frequency": 57.2
+      },
+      {
+        "name": "Nike",
+        "frequency": 92.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 70.6
+      },
+      {
+        "name": "Odoo",
+        "frequency": 100.0
+      },
+      {
+        "name": "opentext",
+        "frequency": 65.5
+      },
+      {
+        "name": "Ozon",
+        "frequency": 100.0
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 53.0
+      },
+      {
+        "name": "Paytm",
+        "frequency": 74.6
+      },
+      {
+        "name": "persistent systems",
+        "frequency": 73.2
+      },
+      {
+        "name": "Publicis Sapient",
+        "frequency": 88.4
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      },
+      {
+        "name": "Roblox",
+        "frequency": 67.8
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 68.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 54.0
+      },
+      {
+        "name": "SAP",
+        "frequency": 83.2
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 97.9
+      },
+      {
+        "name": "Shopee",
+        "frequency": 72.6
+      },
+      {
+        "name": "Siemens",
+        "frequency": 82.9
+      },
+      {
+        "name": "SOTI",
+        "frequency": 89.0
+      },
+      {
+        "name": "Splunk",
+        "frequency": 79.4
+      },
+      {
+        "name": "Spotify",
+        "frequency": 82.2
+      },
+      {
+        "name": "Squarespace",
+        "frequency": 64.7
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 75.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 61.4
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 82.2
+      },
+      {
+        "name": "ThoughtWorks",
+        "frequency": 63.9
+      },
+      {
+        "name": "TikTok",
+        "frequency": 66.0
+      },
+      {
+        "name": "Tripadvisor",
+        "frequency": 89.3
+      },
+      {
+        "name": "Turing",
+        "frequency": 100.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 56.5
+      },
+      {
+        "name": "UBS",
+        "frequency": 61.7
+      },
+      {
+        "name": "Visa",
+        "frequency": 72.6
+      },
+      {
+        "name": "VK",
+        "frequency": 90.2
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 86.5
+      },
+      {
+        "name": "Wipro",
+        "frequency": 70.1
+      },
+      {
+        "name": "Wix",
+        "frequency": 46.6
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 62.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 72.9
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zillow",
+        "frequency": 100.0
+      },
+      {
+        "name": "Zoho",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "71",
+    "title": "Simplify Path",
+    "titleSlug": "simplify-path",
+    "difficulty": "Medium",
+    "acRate": 48.5598323339644,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 24.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 45.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 37.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 39.2
+      },
+      {
+        "name": "Capital One",
+        "frequency": 71.2
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "Gojek",
+        "frequency": 100.0
+      },
+      {
+        "name": "Grab",
+        "frequency": 61.6
+      },
+      {
+        "name": "Harness",
+        "frequency": 100.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 85.9
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 49.5
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 53.9
+      },
+      {
+        "name": "Patreon",
+        "frequency": 100.0
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 35.4
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 80.5
+      },
+      {
+        "name": "Upstart",
+        "frequency": 85.6
+      },
+      {
+        "name": "Visa",
+        "frequency": 68.9
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 53.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "143",
+    "title": "Reorder List",
+    "titleSlug": "reorder-list",
+    "difficulty": "Medium",
+    "acRate": 63.20614387870908,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Delete the Middle Node of a Linked List",
+        "titleSlug": "delete-the-middle-node-of-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Take K of Each Character From Left and Right",
+        "titleSlug": "take-k-of-each-character-from-left-and-right",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 88.6
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 20.8
+      },
+      {
+        "name": "TikTok",
+        "frequency": 50.6
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "150",
+    "title": "Evaluate Reverse Polish Notation",
+    "titleSlug": "evaluate-reverse-polish-notation",
+    "difficulty": "Medium",
+    "acRate": 55.539635509712525,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Basic Calculator",
+        "titleSlug": "basic-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Expression Add Operators",
+        "titleSlug": "expression-add-operators",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Apollo.io",
+        "frequency": 93.2
+      },
+      {
+        "name": "Attentive",
+        "frequency": 56.2
+      },
+      {
+        "name": "Canonical",
+        "frequency": 79.6
+      },
+      {
+        "name": "Citadel",
+        "frequency": 64.5
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 48.0
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 57.6
+      },
+      {
+        "name": "Odoo",
+        "frequency": 78.1
+      },
+      {
+        "name": "Yandex",
+        "frequency": 58.2
+      },
+      {
+        "name": "Zendesk",
+        "frequency": 67.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "224",
+    "title": "Basic Calculator",
+    "titleSlug": "basic-calculator",
+    "difficulty": "Hard",
+    "acRate": 45.99540337105679,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Evaluate Reverse Polish Notation",
+        "titleSlug": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Basic Calculator II",
+        "titleSlug": "basic-calculator-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "titleSlug": "different-ways-to-add-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Expression Add Operators",
+        "titleSlug": "expression-add-operators",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Basic Calculator III",
+        "titleSlug": "basic-calculator-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "The Score of Students Solving Math Expression",
+        "titleSlug": "the-score-of-students-solving-math-expression",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimize Result by Adding Parentheses to Expression",
+        "titleSlug": "minimize-result-by-adding-parentheses-to-expression",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 50.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "Ripple",
+        "frequency": 88.3
+      },
+      {
+        "name": "Rokt",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 73.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "227",
+    "title": "Basic Calculator II",
+    "titleSlug": "basic-calculator-ii",
+    "difficulty": "Medium",
+    "acRate": 46.0972707034965,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Basic Calculator",
+        "titleSlug": "basic-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Expression Add Operators",
+        "titleSlug": "expression-add-operators",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Basic Calculator III",
+        "titleSlug": "basic-calculator-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 72.4
+      },
+      {
+        "name": "Anduril",
+        "frequency": 63.2
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 70.5
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 56.5
+      },
+      {
+        "name": "Google",
+        "frequency": 30.6
+      },
+      {
+        "name": "Highspot",
+        "frequency": 100.0
+      },
+      {
+        "name": "IXL",
+        "frequency": 66.9
+      },
+      {
+        "name": "NetApp",
+        "frequency": 87.3
+      },
+      {
+        "name": "Rokt",
+        "frequency": 100.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 76.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      },
+      {
+        "name": "Tesla",
+        "frequency": 92.6
+      },
+      {
+        "name": "The Trade Desk",
+        "frequency": 66.1
+      },
+      {
+        "name": "Verkada",
+        "frequency": 84.4
+      },
+      {
+        "name": "Zoho",
+        "frequency": 62.2
+      },
+      {
+        "name": "Zoox",
+        "frequency": 72.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "234",
+    "title": "Palindrome Linked List",
+    "titleSlug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "acRate": 56.43415342636505,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Valid Palindrome",
+        "titleSlug": "valid-palindrome",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Twin Sum of a Linked List",
+        "titleSlug": "maximum-twin-sum-of-a-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Barclays",
+        "frequency": 61.2
+      },
+      {
+        "name": "Devsinc",
+        "frequency": 90.1
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "IXL",
+        "frequency": 90.2
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "394",
+    "title": "Decode String",
+    "titleSlug": "decode-string",
+    "difficulty": "Medium",
+    "acRate": 61.48804347007347,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Encode String with Shortest Length",
+        "titleSlug": "encode-string-with-shortest-length",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Atoms",
+        "titleSlug": "number-of-atoms",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Brace Expansion",
+        "titleSlug": "brace-expansion",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Activision",
+        "frequency": 65.9
+      },
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 49.7
+      },
+      {
+        "name": "Compass",
+        "frequency": 89.4
+      },
+      {
+        "name": "Coupang",
+        "frequency": 98.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      },
+      {
+        "name": "Flexport",
+        "frequency": 100.0
+      },
+      {
+        "name": "Geico",
+        "frequency": 60.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "Hertz",
+        "frequency": 100.0
+      },
+      {
+        "name": "Huawei",
+        "frequency": 83.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Mountblue",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "Ola Cabs",
+        "frequency": 100.0
+      },
+      {
+        "name": "Ozon",
+        "frequency": 69.5
+      },
+      {
+        "name": "razorpay",
+        "frequency": 63.4
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "Splunk",
+        "frequency": 79.4
+      },
+      {
+        "name": "Sumo Logic",
+        "frequency": 66.0
+      },
+      {
+        "name": "Tencent",
+        "frequency": 100.0
+      },
+      {
+        "name": "Tesco",
+        "frequency": 58.6
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 67.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 77.8
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "439",
+    "title": "Ternary Expression Parser",
+    "titleSlug": "ternary-expression-parser",
+    "difficulty": "Medium",
+    "acRate": 62.11989137358769,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Mini Parser",
+        "titleSlug": "mini-parser",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Comments",
+        "titleSlug": "remove-comments",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Parse Lisp Expression",
+        "titleSlug": "parse-lisp-expression",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "445",
+    "title": "Add Two Numbers II",
+    "titleSlug": "add-two-numbers-ii",
+    "difficulty": "Medium",
+    "acRate": 61.93705305076862,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add Two Polynomials Represented as Linked Lists",
+        "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Juniper Networks",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "591",
+    "title": "Tag Validator",
+    "titleSlug": "tag-validator",
+    "difficulty": "Hard",
+    "acRate": 39.41971197692422,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Add Bold Tag in String",
+        "titleSlug": "add-bold-tag-in-string",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "636",
+    "title": "Exclusive Time of Functions",
+    "titleSlug": "exclusive-time-of-functions",
+    "difficulty": "Medium",
+    "acRate": 65.10653764434802,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "athenahealth",
+        "frequency": 64.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 100.0
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 63.9
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "736",
+    "title": "Parse Lisp Expression",
+    "titleSlug": "parse-lisp-expression",
+    "difficulty": "Hard",
+    "acRate": 53.016281587710154,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Ternary Expression Parser",
+        "titleSlug": "ternary-expression-parser",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Atoms",
+        "titleSlug": "number-of-atoms",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Basic Calculator IV",
+        "titleSlug": "basic-calculator-iv",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Affirm",
+        "frequency": 74.9
+      },
+      {
+        "name": "Attentive",
+        "frequency": 93.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "770",
+    "title": "Basic Calculator IV",
+    "titleSlug": "basic-calculator-iv",
+    "difficulty": "Hard",
+    "acRate": 48.94286691755046,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Parse Lisp Expression",
+        "titleSlug": "parse-lisp-expression",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Basic Calculator III",
+        "titleSlug": "basic-calculator-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "772",
+    "title": "Basic Calculator III",
+    "titleSlug": "basic-calculator-iii",
+    "difficulty": "Hard",
+    "acRate": 52.70949710800888,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Basic Calculator",
+        "titleSlug": "basic-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Basic Calculator II",
+        "titleSlug": "basic-calculator-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Basic Calculator IV",
+        "titleSlug": "basic-calculator-iv",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Build Binary Expression Tree From Infix Expression",
+        "titleSlug": "build-binary-expression-tree-from-infix-expression",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 64.0
+      },
+      {
+        "name": "Houzz",
+        "frequency": 100.0
+      },
+      {
+        "name": "Hulu",
+        "frequency": 100.0
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Verkada",
+        "frequency": 63.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "856",
+    "title": "Score of Parentheses",
+    "titleSlug": "score-of-parentheses",
+    "difficulty": "Medium",
+    "acRate": 63.62107860629116,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Mountblue",
+        "frequency": 93.1
+      },
+      {
+        "name": "Snap",
+        "frequency": 59.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "880",
+    "title": "Decoded String at Index",
+    "titleSlug": "decoded-string-at-index",
+    "difficulty": "Medium",
+    "acRate": 36.72639331647796,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "National Instruments",
+        "frequency": 100.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 90.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1003",
+    "title": "Check If Word Is Valid After Substitutions",
+    "titleSlug": "check-if-word-is-valid-after-substitutions",
+    "difficulty": "Medium",
+    "acRate": 60.523726050988714,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Parentheses",
+        "titleSlug": "valid-parentheses",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1021",
+    "title": "Remove Outermost Parentheses",
+    "titleSlug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "acRate": 86.13708920784048,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1047",
+    "title": "Remove All Adjacent Duplicates In String",
+    "titleSlug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "acRate": 71.96244439047442,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Removing Stars From a String",
+        "titleSlug": "removing-stars-from-a-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimize String Length",
+        "titleSlug": "minimize-string-length",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Geico",
+        "frequency": 60.0
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 93.2
+      },
+      {
+        "name": "Paytm",
+        "frequency": 100.0
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 87.8
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1106",
+    "title": "Parsing A Boolean Expression",
+    "titleSlug": "parsing-a-boolean-expression",
+    "difficulty": "Hard",
+    "acRate": 69.83995973829894,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "HiLabs",
+        "frequency": 67.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1111",
+    "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+    "titleSlug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+    "difficulty": "Medium",
+    "acRate": 71.52145942468523,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Nesting Depth of the Parentheses",
+        "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1190",
+    "title": "Reverse Substrings Between Each Pair of Parentheses",
+    "titleSlug": "reverse-substrings-between-each-pair-of-parentheses",
+    "difficulty": "Medium",
+    "acRate": 71.7755028068241,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1209",
+    "title": "Remove All Adjacent Duplicates in String II",
+    "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+    "difficulty": "Medium",
+    "acRate": 59.95847368850248,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove All Adjacent Duplicates In String",
+        "titleSlug": "remove-all-adjacent-duplicates-in-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Replace Non-Coprime Numbers in Array",
+        "titleSlug": "replace-non-coprime-numbers-in-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimize String Length",
+        "titleSlug": "minimize-string-length",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Attentive",
+        "frequency": 100.0
+      },
+      {
+        "name": "Disney",
+        "frequency": 91.6
+      },
+      {
+        "name": "FactSet",
+        "frequency": 100.0
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 88.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1249",
+    "title": "Minimum Remove to Make Valid Parentheses",
+    "titleSlug": "minimum-remove-to-make-valid-parentheses",
+    "difficulty": "Medium",
+    "acRate": 70.94724671153324,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Swaps to Make the String Balanced",
+        "titleSlug": "minimum-number-of-swaps-to-make-the-string-balanced",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if a Parentheses String Can Be Valid",
+        "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "GE Digital",
+        "frequency": 67.3
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1265",
+    "title": "Print Immutable Linked List in Reverse",
+    "titleSlug": "print-immutable-linked-list-in-reverse",
+    "difficulty": "Medium",
+    "acRate": 94.06028368794325,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1544",
+    "title": "Make The String Great",
+    "titleSlug": "make-the-string-great",
+    "difficulty": "Easy",
+    "acRate": 68.29084994608647,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "BlackStone",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1598",
+    "title": "Crawler Log Folder",
+    "titleSlug": "crawler-log-folder",
+    "difficulty": "Easy",
+    "acRate": 71.61252879191832,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Baseball Game",
+        "titleSlug": "baseball-game",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Backspace String Compare",
+        "titleSlug": "backspace-string-compare",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 37.1
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Mercari",
+        "frequency": 94.5
+      },
+      {
+        "name": "ZS Associates",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1614",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "acRate": 84.47527300610793,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+        "titleSlug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intel",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2000",
+    "title": "Reverse Prefix of Word",
+    "titleSlug": "reverse-prefix-of-word",
+    "difficulty": "Easy",
+    "acRate": 86.44055887903,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Optum",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2130",
+    "title": "Maximum Twin Sum of a Linked List",
+    "titleSlug": "maximum-twin-sum-of-a-linked-list",
+    "difficulty": "Medium",
+    "acRate": 81.56189912734803,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "titleSlug": "palindrome-linked-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Middle of the Linked List",
+        "titleSlug": "middle-of-the-linked-list",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "josh technology",
+        "frequency": 88.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2524",
+    "title": "Maximum Frequency Score of a Subarray",
+    "titleSlug": "maximum-frequency-score-of-a-subarray",
+    "difficulty": "Hard",
+    "acRate": 35.43514744665548,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 75.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2816",
+    "title": "Double a Number Represented as a Linked List",
+    "titleSlug": "double-a-number-represented-as-a-linked-list",
+    "difficulty": "Medium",
+    "acRate": 61.22687864989324,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Plus One Linked List",
+        "titleSlug": "plus-one-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      }
+    ]
+  }
+]

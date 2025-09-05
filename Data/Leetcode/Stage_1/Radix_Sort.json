@@ -1,0 +1,45 @@
+[
+  {
+    "questionFrontendId": "164",
+    "title": "Maximum Gap",
+    "titleSlug": "maximum-gap",
+    "difficulty": "Medium",
+    "acRate": 49.97624906021461,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Bucket Sort",
+        "slug": "bucket-sort"
+      },
+      {
+        "name": "Radix Sort",
+        "slug": "radix-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Widest Vertical Area Between Two Points Containing No Points",
+        "titleSlug": "widest-vertical-area-between-two-points-containing-no-points",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Consecutive Floors Without Special Floors",
+        "titleSlug": "maximum-consecutive-floors-without-special-floors",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      }
+    ]
+  }
+]

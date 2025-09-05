@@ -1,0 +1,2632 @@
+[
+  {
+    "questionFrontendId": "146",
+    "title": "LRU Cache",
+    "titleSlug": "lru-cache",
+    "difficulty": "Medium",
+    "acRate": 45.74089581938137,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "LFU Cache",
+        "titleSlug": "lfu-cache",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Design In-Memory File System",
+        "titleSlug": "design-in-memory-file-system",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Design Compressed String Iterator",
+        "titleSlug": "design-compressed-string-iterator",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Design Most Recently Used Queue",
+        "titleSlug": "design-most-recently-used-queue",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AppFolio",
+        "frequency": 100.0
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 74.5
+      },
+      {
+        "name": "Aurora",
+        "frequency": 100.0
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "BitGo",
+        "frequency": 73.2
+      },
+      {
+        "name": "Booking.com",
+        "frequency": 52.0
+      },
+      {
+        "name": "BP",
+        "frequency": 82.8
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 100.0
+      },
+      {
+        "name": "Capital One",
+        "frequency": 40.8
+      },
+      {
+        "name": "Chewy",
+        "frequency": 88.9
+      },
+      {
+        "name": "Cisco",
+        "frequency": 66.8
+      },
+      {
+        "name": "Citadel",
+        "frequency": 74.4
+      },
+      {
+        "name": "Citrix",
+        "frequency": 63.7
+      },
+      {
+        "name": "Cloudflare",
+        "frequency": 63.9
+      },
+      {
+        "name": "Cohesity",
+        "frequency": 100.0
+      },
+      {
+        "name": "Confluent",
+        "frequency": 100.0
+      },
+      {
+        "name": "Coupang",
+        "frequency": 93.4
+      },
+      {
+        "name": "Cruise",
+        "frequency": 65.3
+      },
+      {
+        "name": "Disney",
+        "frequency": 100.0
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      },
+      {
+        "name": "eBay",
+        "frequency": 97.7
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Fiverr",
+        "frequency": 90.4
+      },
+      {
+        "name": "Freecharge",
+        "frequency": 100.0
+      },
+      {
+        "name": "FreshWorks",
+        "frequency": 87.8
+      },
+      {
+        "name": "General Motors",
+        "frequency": 56.8
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 59.7
+      },
+      {
+        "name": "Grab",
+        "frequency": 71.3
+      },
+      {
+        "name": "Groww",
+        "frequency": 64.8
+      },
+      {
+        "name": "Highspot",
+        "frequency": 100.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Intel",
+        "frequency": 69.6
+      },
+      {
+        "name": "Intuit",
+        "frequency": 89.1
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 44.8
+      },
+      {
+        "name": "KLA",
+        "frequency": 80.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 56.3
+      },
+      {
+        "name": "Media.net",
+        "frequency": 55.5
+      },
+      {
+        "name": "Mobileye",
+        "frequency": 90.0
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 81.7
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "Navan",
+        "frequency": 100.0
+      },
+      {
+        "name": "NetApp",
+        "frequency": 100.0
+      },
+      {
+        "name": "Netflix",
+        "frequency": 72.4
+      },
+      {
+        "name": "Niantic",
+        "frequency": 88.7
+      },
+      {
+        "name": "Nokia",
+        "frequency": 88.3
+      },
+      {
+        "name": "Nordstrom",
+        "frequency": 88.1
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 83.8
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 89.6
+      },
+      {
+        "name": "Okta",
+        "frequency": 87.9
+      },
+      {
+        "name": "Optiver",
+        "frequency": 87.1
+      },
+      {
+        "name": "Oracle",
+        "frequency": 100.0
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 80.6
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 100.0
+      },
+      {
+        "name": "PayPal",
+        "frequency": 79.2
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 74.2
+      },
+      {
+        "name": "Rakuten",
+        "frequency": 100.0
+      },
+      {
+        "name": "razorpay",
+        "frequency": 63.4
+      },
+      {
+        "name": "Reddit",
+        "frequency": 81.6
+      },
+      {
+        "name": "Ripple",
+        "frequency": 100.0
+      },
+      {
+        "name": "Rivian",
+        "frequency": 100.0
+      },
+      {
+        "name": "Roku",
+        "frequency": 100.0
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 62.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 78.8
+      },
+      {
+        "name": "Samsung",
+        "frequency": 87.6
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 95.5
+      },
+      {
+        "name": "Shopee",
+        "frequency": 88.4
+      },
+      {
+        "name": "Shopify",
+        "frequency": 88.5
+      },
+      {
+        "name": "smartnews",
+        "frequency": 94.8
+      },
+      {
+        "name": "Snap",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      },
+      {
+        "name": "SoFi",
+        "frequency": 66.0
+      },
+      {
+        "name": "Splunk",
+        "frequency": 79.4
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      },
+      {
+        "name": "Squarespace",
+        "frequency": 94.3
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 77.5
+      },
+      {
+        "name": "The Trade Desk",
+        "frequency": 66.1
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 82.1
+      },
+      {
+        "name": "ThousandEyes",
+        "frequency": 89.5
+      },
+      {
+        "name": "TikTok",
+        "frequency": 96.0
+      },
+      {
+        "name": "Tripadvisor",
+        "frequency": 74.8
+      },
+      {
+        "name": "Turo",
+        "frequency": 94.8
+      },
+      {
+        "name": "Twitch",
+        "frequency": 92.1
+      },
+      {
+        "name": "Verkada",
+        "frequency": 63.8
+      },
+      {
+        "name": "Vimeo",
+        "frequency": 66.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 75.8
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 96.3
+      },
+      {
+        "name": "Workday",
+        "frequency": 88.0
+      },
+      {
+        "name": "X",
+        "frequency": 91.9
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 67.7
+      },
+      {
+        "name": "Yandex",
+        "frequency": 58.2
+      },
+      {
+        "name": "Zalando",
+        "frequency": 70.3
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "155",
+    "title": "Min Stack",
+    "titleSlug": "min-stack",
+    "difficulty": "Medium",
+    "acRate": 56.865054780424686,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Max Stack",
+        "titleSlug": "max-stack",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Delhivery",
+        "frequency": 100.0
+      },
+      {
+        "name": "IMC",
+        "frequency": 54.3
+      },
+      {
+        "name": "Informatica",
+        "frequency": 88.8
+      },
+      {
+        "name": "Intuit",
+        "frequency": 63.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 43.4
+      },
+      {
+        "name": "Lucid",
+        "frequency": 73.8
+      },
+      {
+        "name": "Lyft",
+        "frequency": 67.5
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Nike",
+        "frequency": 92.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Odoo",
+        "frequency": 94.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 64.9
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Paytm",
+        "frequency": 94.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 54.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 84.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 100.0
+      },
+      {
+        "name": "Veeva Systems",
+        "frequency": 89.0
+      },
+      {
+        "name": "Vimeo",
+        "frequency": 66.4
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 53.1
+      },
+      {
+        "name": "Yandex",
+        "frequency": 65.4
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "225",
+    "title": "Implement Stack using Queues",
+    "titleSlug": "implement-stack-using-queues",
+    "difficulty": "Easy",
+    "acRate": 68.09237164512187,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Queue using Stacks",
+        "titleSlug": "implement-queue-using-stacks",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Google",
+        "frequency": 33.2
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "232",
+    "title": "Implement Queue using Stacks",
+    "titleSlug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "acRate": 68.46247826952782,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Stack using Queues",
+        "titleSlug": "implement-stack-using-queues",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "244",
+    "title": "Shortest Word Distance II",
+    "titleSlug": "shortest-word-distance-ii",
+    "difficulty": "Medium",
+    "acRate": 62.22916231383632,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Shortest Word Distance",
+        "titleSlug": "shortest-word-distance",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Shortest Word Distance III",
+        "titleSlug": "shortest-word-distance-iii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 63.2
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 77.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "271",
+    "title": "Encode and Decode Strings",
+    "titleSlug": "encode-and-decode-strings",
+    "difficulty": "Medium",
+    "acRate": 50.11533523180992,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count and Say",
+        "titleSlug": "count-and-say",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "titleSlug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Binary Substrings",
+        "titleSlug": "count-binary-substrings",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "CrowdStrike",
+        "frequency": 77.0
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 53.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 60.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "288",
+    "title": "Unique Word Abbreviation",
+    "titleSlug": "unique-word-abbreviation",
+    "difficulty": "Medium",
+    "acRate": 27.166579996533198,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum III - Data structure design",
+        "titleSlug": "two-sum-iii-data-structure-design",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Generalized Abbreviation",
+        "titleSlug": "generalized-abbreviation",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 22.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "297",
+    "title": "Serialize and Deserialize Binary Tree",
+    "titleSlug": "serialize-and-deserialize-binary-tree",
+    "difficulty": "Hard",
+    "acRate": 59.4570303974802,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Encode and Decode Strings",
+        "titleSlug": "encode-and-decode-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Serialize and Deserialize BST",
+        "titleSlug": "serialize-and-deserialize-bst",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Duplicate Subtrees",
+        "titleSlug": "find-duplicate-subtrees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Serialize and Deserialize N-ary Tree",
+        "titleSlug": "serialize-and-deserialize-n-ary-tree",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 67.4
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 60.1
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 66.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 67.5
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "Workday",
+        "frequency": 88.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "303",
+    "title": "Range Sum Query - Immutable",
+    "titleSlug": "range-sum-query-immutable",
+    "difficulty": "Easy",
+    "acRate": 69.4992140413785,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query 2D - Immutable",
+        "titleSlug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Range Sum Query - Mutable",
+        "titleSlug": "range-sum-query-mutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Size Subarray Sum Equals k",
+        "titleSlug": "maximum-size-subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Variable Length Subarrays",
+        "titleSlug": "sum-of-variable-length-subarrays",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Palantir Technologies",
+        "frequency": 80.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "304",
+    "title": "Range Sum Query 2D - Immutable",
+    "titleSlug": "range-sum-query-2d-immutable",
+    "difficulty": "Medium",
+    "acRate": 56.92139254200175,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query - Immutable",
+        "titleSlug": "range-sum-query-immutable",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Range Sum Query 2D - Mutable",
+        "titleSlug": "range-sum-query-2d-mutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Grid of Region Average",
+        "titleSlug": "find-the-grid-of-region-average",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Applied Intuition",
+        "frequency": 67.5
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "Lyft",
+        "frequency": 70.1
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Upstart",
+        "frequency": 66.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "355",
+    "title": "Design Twitter",
+    "titleSlug": "design-twitter",
+    "difficulty": "Medium",
+    "acRate": 43.24949074755804,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design a File Sharing System",
+        "titleSlug": "design-a-file-sharing-system",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 80.5
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "X",
+        "frequency": 94.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "379",
+    "title": "Design Phone Directory",
+    "titleSlug": "design-phone-directory",
+    "difficulty": "Medium",
+    "acRate": 52.5323421158121,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Seat Reservation Manager",
+        "titleSlug": "seat-reservation-manager",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "431",
+    "title": "Encode N-ary Tree to Binary Tree",
+    "titleSlug": "encode-n-ary-tree-to-binary-tree",
+    "difficulty": "Hard",
+    "acRate": 80.25416096861345,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Serialize and Deserialize N-ary Tree",
+        "titleSlug": "serialize-and-deserialize-n-ary-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "432",
+    "title": "All O`one Data Structure",
+    "titleSlug": "all-oone-data-structure",
+    "difficulty": "Hard",
+    "acRate": 44.089824948941455,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 44.8
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 77.2
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 94.4
+      },
+      {
+        "name": "Media.net",
+        "frequency": 46.5
+      },
+      {
+        "name": "Nextdoor",
+        "frequency": 98.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "449",
+    "title": "Serialize and Deserialize BST",
+    "titleSlug": "serialize-and-deserialize-bst",
+    "difficulty": "Medium",
+    "acRate": 58.835949713171985,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Serialize and Deserialize Binary Tree",
+        "titleSlug": "serialize-and-deserialize-binary-tree",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find Duplicate Subtrees",
+        "titleSlug": "find-duplicate-subtrees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Serialize and Deserialize N-ary Tree",
+        "titleSlug": "serialize-and-deserialize-n-ary-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "460",
+    "title": "LFU Cache",
+    "titleSlug": "lfu-cache",
+    "difficulty": "Hard",
+    "acRate": 47.2945069413631,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design In-Memory File System",
+        "titleSlug": "design-in-memory-file-system",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 79.8
+      },
+      {
+        "name": "Coupang",
+        "frequency": 95.8
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 30.9
+      },
+      {
+        "name": "Gameskraft",
+        "frequency": 65.7
+      },
+      {
+        "name": "KLA",
+        "frequency": 70.9
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Rippling",
+        "frequency": 55.1
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 80.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      },
+      {
+        "name": "Siemens",
+        "frequency": 70.3
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "622",
+    "title": "Design Circular Queue",
+    "titleSlug": "design-circular-queue",
+    "difficulty": "Medium",
+    "acRate": 52.94046400412588,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Circular Deque",
+        "titleSlug": "design-circular-deque",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Front Middle Back Queue",
+        "titleSlug": "design-front-middle-back-queue",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Applied Intuition",
+        "frequency": 67.5
+      },
+      {
+        "name": "Citadel",
+        "frequency": 52.2
+      },
+      {
+        "name": "Cloudflare",
+        "frequency": 100.0
+      },
+      {
+        "name": "Datadog",
+        "frequency": 86.9
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Tesla",
+        "frequency": 86.1
+      },
+      {
+        "name": "Zoox",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "631",
+    "title": "Design Excel Sum Formula",
+    "titleSlug": "design-excel-sum-formula",
+    "difficulty": "Hard",
+    "acRate": 41.395948714058115,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Topological Sort",
+        "slug": "topological-sort"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 50.8
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 75.4
+      },
+      {
+        "name": "Opendoor",
+        "frequency": 100.0
+      },
+      {
+        "name": "Rippling",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "641",
+    "title": "Design Circular Deque",
+    "titleSlug": "design-circular-deque",
+    "difficulty": "Medium",
+    "acRate": 64.39179595240006,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Circular Queue",
+        "titleSlug": "design-circular-queue",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Front Middle Back Queue",
+        "titleSlug": "design-front-middle-back-queue",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "707",
+    "title": "Design Linked List",
+    "titleSlug": "design-linked-list",
+    "difficulty": "Medium",
+    "acRate": 29.291968566284137,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Skiplist",
+        "titleSlug": "design-skiplist",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "911",
+    "title": "Online Election",
+    "titleSlug": "online-election",
+    "difficulty": "Medium",
+    "acRate": 52.10483935320532,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rank Teams by Votes",
+        "titleSlug": "rank-teams-by-votes",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 46.2
+      },
+      {
+        "name": "CARS24",
+        "frequency": 94.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "919",
+    "title": "Complete Binary Tree Inserter",
+    "titleSlug": "complete-binary-tree-inserter",
+    "difficulty": "Medium",
+    "acRate": 64.71228376366717,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "981",
+    "title": "Time Based Key-Value Store",
+    "titleSlug": "time-based-key-value-store",
+    "difficulty": "Medium",
+    "acRate": 49.47657898737787,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Stock Price Fluctuation ",
+        "titleSlug": "stock-price-fluctuation",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 36.3
+      },
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "Axon",
+        "frequency": 100.0
+      },
+      {
+        "name": "CARS24",
+        "frequency": 100.0
+      },
+      {
+        "name": "Coinbase",
+        "frequency": 90.4
+      },
+      {
+        "name": "Compass",
+        "frequency": 89.4
+      },
+      {
+        "name": "Confluent",
+        "frequency": 93.9
+      },
+      {
+        "name": "CrowdStrike",
+        "frequency": 67.5
+      },
+      {
+        "name": "Databricks",
+        "frequency": 79.9
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flexport",
+        "frequency": 96.1
+      },
+      {
+        "name": "Gusto",
+        "frequency": 100.0
+      },
+      {
+        "name": "Instacart",
+        "frequency": 100.0
+      },
+      {
+        "name": "Lyft",
+        "frequency": 94.3
+      },
+      {
+        "name": "Netflix",
+        "frequency": 75.8
+      },
+      {
+        "name": "Nextdoor",
+        "frequency": 64.4
+      },
+      {
+        "name": "Notion",
+        "frequency": 100.0
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 71.8
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 64.2
+      },
+      {
+        "name": "Verkada",
+        "frequency": 63.8
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1146",
+    "title": "Snapshot Array",
+    "titleSlug": "snapshot-array",
+    "difficulty": "Medium",
+    "acRate": 36.67312258174796,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "Databricks",
+        "frequency": 71.9
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 49.2
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "StackAdapt",
+        "frequency": 100.0
+      },
+      {
+        "name": "Verkada",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1172",
+    "title": "Dinner Plate Stacks",
+    "titleSlug": "dinner-plate-stacks",
+    "difficulty": "Hard",
+    "acRate": 33.05523896360459,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1206",
+    "title": "Design Skiplist",
+    "titleSlug": "design-skiplist",
+    "difficulty": "Hard",
+    "acRate": 58.63232613164734,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design HashSet",
+        "titleSlug": "design-hashset",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Design HashMap",
+        "titleSlug": "design-hashmap",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Design Linked List",
+        "titleSlug": "design-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 95.1
+      },
+      {
+        "name": "Pure Storage",
+        "frequency": 84.1
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1244",
+    "title": "Design A Leaderboard",
+    "titleSlug": "design-a-leaderboard",
+    "difficulty": "Medium",
+    "acRate": 67.95715720182974,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 92.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1261",
+    "title": "Find Elements in a Contaminated Binary Tree",
+    "titleSlug": "find-elements-in-a-contaminated-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 84.0479059190877,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1357",
+    "title": "Apply Discount Every n Orders",
+    "titleSlug": "apply-discount-every-n-orders",
+    "difficulty": "Medium",
+    "acRate": 64.58451369216242,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Apply Discount to Prices",
+        "titleSlug": "apply-discount-to-prices",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1381",
+    "title": "Design a Stack With Increment Operation",
+    "titleSlug": "design-a-stack-with-increment-operation",
+    "difficulty": "Medium",
+    "acRate": 80.08614203056486,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Cloudflare",
+        "frequency": 84.3
+      },
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      },
+      {
+        "name": "IMC",
+        "frequency": 67.5
+      },
+      {
+        "name": "Moloco",
+        "frequency": 92.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1396",
+    "title": "Design Underground System",
+    "titleSlug": "design-underground-system",
+    "difficulty": "Medium",
+    "acRate": 74.08659636342273,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Bitset",
+        "titleSlug": "design-bitset",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1476",
+    "title": "Subrectangle Queries",
+    "titleSlug": "subrectangle-queries",
+    "difficulty": "Medium",
+    "acRate": 86.04411041652034,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Info Edge",
+        "frequency": 73.1
+      },
+      {
+        "name": "Nuro",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1483",
+    "title": "Kth Ancestor of a Tree Node",
+    "titleSlug": "kth-ancestor-of-a-tree-node",
+    "difficulty": "Hard",
+    "acRate": 36.33474081114348,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Edge Weight Equilibrium Queries in a Tree",
+        "titleSlug": "minimum-edge-weight-equilibrium-queries-in-a-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1570",
+    "title": "Dot Product of Two Sparse Vectors",
+    "titleSlug": "dot-product-of-two-sparse-vectors",
+    "difficulty": "Medium",
+    "acRate": 89.91089583574417,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "General Motors",
+        "frequency": 56.8
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 70.6
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1600",
+    "title": "Throne Inheritance",
+    "titleSlug": "throne-inheritance",
+    "difficulty": "Medium",
+    "acRate": 65.71719226856561,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Operations on Tree",
+        "titleSlug": "operations-on-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snowflake",
+        "frequency": 67.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1628",
+    "title": "Design an Expression Tree With Evaluate Function",
+    "titleSlug": "design-an-expression-tree-with-evaluate-function",
+    "difficulty": "Medium",
+    "acRate": 82.40180406485499,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Flips in Binary Tree to Get Result",
+        "titleSlug": "minimum-flips-in-binary-tree-to-get-result",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Evaluate Boolean Binary Tree",
+        "titleSlug": "evaluate-boolean-binary-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1797",
+    "title": "Design Authentication Manager",
+    "titleSlug": "design-authentication-manager",
+    "difficulty": "Medium",
+    "acRate": 58.02269260617089,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Confluent",
+        "frequency": 65.0
+      },
+      {
+        "name": "Docusign",
+        "frequency": 84.8
+      },
+      {
+        "name": "Genpact",
+        "frequency": 100.0
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1845",
+    "title": "Seat Reservation Manager",
+    "titleSlug": "seat-reservation-manager",
+    "difficulty": "Medium",
+    "acRate": 66.58760189002466,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Phone Directory",
+        "titleSlug": "design-phone-directory",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design a Number Container System",
+        "titleSlug": "design-a-number-container-system",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1865",
+    "title": "Finding Pairs With a Certain Sum",
+    "titleSlug": "finding-pairs-with-a-certain-sum",
+    "difficulty": "Medium",
+    "acRate": 61.7091092281369,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Number of Pairs With Absolute Difference K",
+        "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Distinct Averages",
+        "titleSlug": "number-of-distinct-averages",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count the Number of Fair Pairs",
+        "titleSlug": "count-the-number-of-fair-pairs",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1993",
+    "title": "Operations on Tree",
+    "titleSlug": "operations-on-tree",
+    "difficulty": "Medium",
+    "acRate": 44.096217187344045,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Throne Inheritance",
+        "titleSlug": "throne-inheritance",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Juspay",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2013",
+    "title": "Detect Squares",
+    "titleSlug": "detect-squares",
+    "difficulty": "Medium",
+    "acRate": 51.601537129248754,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2166",
+    "title": "Design Bitset",
+    "titleSlug": "design-bitset",
+    "difficulty": "Medium",
+    "acRate": 32.03482708231856,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Underground System",
+        "titleSlug": "design-underground-system",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2241",
+    "title": "Design an ATM Machine",
+    "titleSlug": "design-an-atm-machine",
+    "difficulty": "Medium",
+    "acRate": 42.779047954039164,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Simple Bank System",
+        "titleSlug": "simple-bank-system",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Convert Time",
+        "titleSlug": "minimum-number-of-operations-to-convert-time",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Yandex",
+        "frequency": 62.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2408",
+    "title": "Design SQL",
+    "titleSlug": "design-sql",
+    "difficulty": "Medium",
+    "acRate": 68.08186370563901,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "OpenAI",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2590",
+    "title": "Design a Todo List",
+    "titleSlug": "design-a-todo-list",
+    "difficulty": "Medium",
+    "acRate": 58.55185247843004,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Notion",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2671",
+    "title": "Frequency Tracker",
+    "titleSlug": "frequency-tracker",
+    "difficulty": "Medium",
+    "acRate": 30.093125577048024,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3484",
+    "title": "Design Spreadsheet",
+    "titleSlug": "design-spreadsheet",
+    "difficulty": "Medium",
+    "acRate": 67.33835319940249,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Excel Sheet Column Title",
+        "titleSlug": "excel-sheet-column-title",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rippling",
+        "frequency": 88.8
+      }
+    ]
+  }
+]

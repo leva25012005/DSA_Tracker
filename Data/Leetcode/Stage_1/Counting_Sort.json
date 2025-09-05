@@ -1,0 +1,179 @@
+[
+  {
+    "questionFrontendId": "274",
+    "title": "H-Index",
+    "titleSlug": "h-index",
+    "difficulty": "Medium",
+    "acRate": 40.572944753234516,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "H-Index II",
+        "titleSlug": "h-index-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Zoox",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1051",
+    "title": "Height Checker",
+    "titleSlug": "height-checker",
+    "difficulty": "Easy",
+    "acRate": 81.25222650263038,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Salesforce",
+        "frequency": 73.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1122",
+    "title": "Relative Sort Array",
+    "titleSlug": "relative-sort-array",
+    "difficulty": "Easy",
+    "acRate": 74.95184643011657,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 79.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1365",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "acRate": 87.20111422540572,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count of Smaller Numbers After Self",
+        "titleSlug": "count-of-smaller-numbers-after-self",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Subsequence With Limited Sum",
+        "titleSlug": "longest-subsequence-with-limited-sum",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3517",
+    "title": "Smallest Palindromic Rearrangement I",
+    "titleSlug": "smallest-palindromic-rearrangement-i",
+    "difficulty": "Medium",
+    "acRate": 63.001904459609584,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Palindrome",
+        "titleSlug": "shortest-palindrome",
+        "difficulty": "Hard"
+      }
+    ]
+  }
+]

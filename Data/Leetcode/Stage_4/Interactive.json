@@ -1,0 +1,653 @@
+[
+  {
+    "questionFrontendId": "277",
+    "title": "Find the Celebrity",
+    "titleSlug": "find-the-celebrity",
+    "difficulty": "Medium",
+    "acRate": 48.55313264814365,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Town Judge",
+        "titleSlug": "find-the-town-judge",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 30.9
+      },
+      {
+        "name": "Google",
+        "frequency": 9.8
+      },
+      {
+        "name": "Hubspot",
+        "frequency": 75.1
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 79.1
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "Toast",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "278",
+    "title": "First Bad Version",
+    "titleSlug": "first-bad-version",
+    "difficulty": "Easy",
+    "acRate": 46.19057298246271,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find First and Last Position of Element in Sorted Array",
+        "titleSlug": "find-first-and-last-position-of-element-in-sorted-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Search Insert Position",
+        "titleSlug": "search-insert-position",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Guess Number Higher or Lower",
+        "titleSlug": "guess-number-higher-or-lower",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "374",
+    "title": "Guess Number Higher or Lower",
+    "titleSlug": "guess-number-higher-or-lower",
+    "difficulty": "Easy",
+    "acRate": 56.20886515953062,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "First Bad Version",
+        "titleSlug": "first-bad-version",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Guess Number Higher or Lower II",
+        "titleSlug": "guess-number-higher-or-lower-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find K Closest Elements",
+        "titleSlug": "find-k-closest-elements",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "489",
+    "title": "Robot Room Cleaner",
+    "titleSlug": "robot-room-cleaner",
+    "difficulty": "Hard",
+    "acRate": 77.61652938054141,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Path in a Hidden Grid",
+        "titleSlug": "shortest-path-in-a-hidden-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Spaces Cleaning Robot Cleaned",
+        "titleSlug": "number-of-spaces-cleaning-robot-cleaned",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "DRW",
+        "frequency": 64.2
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 55.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "702",
+    "title": "Search in a Sorted Array of Unknown Size",
+    "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+    "difficulty": "Medium",
+    "acRate": 72.87978317178029,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Search",
+        "titleSlug": "binary-search",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Index of the Large Integer",
+        "titleSlug": "find-the-index-of-the-large-integer",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1095",
+    "title": "Find in Mountain Array",
+    "titleSlug": "find-in-mountain-array",
+    "difficulty": "Hard",
+    "acRate": 40.641629050607364,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Peak Index in a Mountain Array",
+        "titleSlug": "peak-index-in-a-mountain-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Removals to Make Mountain Array",
+        "titleSlug": "minimum-number-of-removals-to-make-mountain-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find Good Days to Rob the Bank",
+        "titleSlug": "find-good-days-to-rob-the-bank",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Indices of Stable Mountains",
+        "titleSlug": "find-indices-of-stable-mountains",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1236",
+    "title": "Web Crawler",
+    "titleSlug": "web-crawler",
+    "difficulty": "Medium",
+    "acRate": 68.73707511723414,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Web Crawler Multithreaded",
+        "titleSlug": "web-crawler-multithreaded",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 92.7
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 40.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1237",
+    "title": "Find Positive Integer Solution for a Given Equation",
+    "titleSlug": "find-positive-integer-solution-for-a-given-equation",
+    "difficulty": "Medium",
+    "acRate": 69.61739490279689,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1274",
+    "title": "Number of Ships in a Rectangle",
+    "titleSlug": "number-of-ships-in-a-rectangle",
+    "difficulty": "Hard",
+    "acRate": 68.80649609315152,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1428",
+    "title": "Leftmost Column with at Least a One",
+    "titleSlug": "leftmost-column-with-at-least-a-one",
+    "difficulty": "Medium",
+    "acRate": 54.960184670530985,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "SAP",
+        "frequency": 62.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1533",
+    "title": "Find the Index of the Large Integer",
+    "titleSlug": "find-the-index-of-the-large-integer",
+    "difficulty": "Medium",
+    "acRate": 56.57338701627126,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Search in a Sorted Array of Unknown Size",
+        "titleSlug": "search-in-a-sorted-array-of-unknown-size",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1538",
+    "title": "Guess the Majority in a Hidden Array",
+    "titleSlug": "guess-the-majority-in-a-hidden-array",
+    "difficulty": "Medium",
+    "acRate": 69.62399662019433,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1618",
+    "title": "Maximum Font to Fit a Sentence in a Screen",
+    "titleSlug": "maximum-font-to-fit-a-sentence-in-a-screen",
+    "difficulty": "Medium",
+    "acRate": 61.52611120500253,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1778",
+    "title": "Shortest Path in a Hidden Grid",
+    "titleSlug": "shortest-path-in-a-hidden-grid",
+    "difficulty": "Medium",
+    "acRate": 44.29176320204522,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Robot Room Cleaner",
+        "titleSlug": "robot-room-cleaner",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Path Cost in a Hidden Grid",
+        "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1810",
+    "title": "Minimum Path Cost in a Hidden Grid",
+    "titleSlug": "minimum-path-cost-in-a-hidden-grid",
+    "difficulty": "Medium",
+    "acRate": 58.70126952027862,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Robot Room Cleaner",
+        "titleSlug": "robot-room-cleaner",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Shortest Path in a Hidden Grid",
+        "titleSlug": "shortest-path-in-a-hidden-grid",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2728",
+    "title": "Count Houses in a Circular Street",
+    "titleSlug": "count-houses-in-a-circular-street",
+    "difficulty": "Easy",
+    "acRate": 85.40635013108069,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2782",
+    "title": "Number of Unique Categories",
+    "titleSlug": "number-of-unique-categories",
+    "difficulty": "Medium",
+    "acRate": 82.7416712179137,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2936",
+    "title": "Number of Equal Numbers Blocks",
+    "titleSlug": "number-of-equal-numbers-blocks",
+    "difficulty": "Medium",
+    "acRate": 62.27798139272625,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3064",
+    "title": "Guess the Number Using Bitwise Questions I",
+    "titleSlug": "guess-the-number-using-bitwise-questions-i",
+    "difficulty": "Medium",
+    "acRate": 89.50154389060432,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3094",
+    "title": "Guess the Number Using Bitwise Questions II",
+    "titleSlug": "guess-the-number-using-bitwise-questions-ii",
+    "difficulty": "Medium",
+    "acRate": 82.90441176470588,
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Interactive",
+        "slug": "interactive"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

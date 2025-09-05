@@ -1,0 +1,1096 @@
+[
+  {
+    "questionFrontendId": "4",
+    "title": "Median of Two Sorted Arrays",
+    "titleSlug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
+    "acRate": 44.510285769369126,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Median of a Row Wise Sorted Matrix",
+        "titleSlug": "median-of-a-row-wise-sorted-matrix",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Adobe",
+        "frequency": 77.0
+      },
+      {
+        "name": "Akamai",
+        "frequency": 62.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 75.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 75.8
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 77.4
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 56.7
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 58.7
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 79.9
+      },
+      {
+        "name": "Google",
+        "frequency": 73.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 27.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 58.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 72.9
+      },
+      {
+        "name": "Oracle",
+        "frequency": 51.8
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 76.5
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "PornHub",
+        "frequency": 100.0
+      },
+      {
+        "name": "Pwc",
+        "frequency": 88.1
+      },
+      {
+        "name": "Rippling",
+        "frequency": 88.8
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 47.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 56.5
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "VMware",
+        "frequency": 87.6
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 62.8
+      },
+      {
+        "name": "Wipro",
+        "frequency": 77.2
+      },
+      {
+        "name": "Wix",
+        "frequency": 84.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 70.3
+      },
+      {
+        "name": "Yandex",
+        "frequency": 51.2
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 65.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "53",
+    "title": "Maximum Subarray",
+    "titleSlug": "maximum-subarray",
+    "difficulty": "Medium",
+    "acRate": 52.36960936285807,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Best Time to Buy and Sell Stock",
+        "titleSlug": "best-time-to-buy-and-sell-stock",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "titleSlug": "maximum-product-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Degree of an Array",
+        "titleSlug": "degree-of-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Turbulent Subarray",
+        "titleSlug": "longest-turbulent-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Score Of Spliced Array",
+        "titleSlug": "maximum-score-of-spliced-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Absolute Sum of Any Subarray",
+        "titleSlug": "maximum-absolute-sum-of-any-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Subarray Sum After One Operation",
+        "titleSlug": "maximum-subarray-sum-after-one-operation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Substring With Largest Variance",
+        "titleSlug": "substring-with-largest-variance",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Subarrays With Score Less Than K",
+        "titleSlug": "count-subarrays-with-score-less-than-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Value of a String in an Array",
+        "titleSlug": "maximum-value-of-a-string-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Substring With Maximum Cost",
+        "titleSlug": "find-the-substring-with-maximum-cost",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Items With the Maximum Sum",
+        "titleSlug": "k-items-with-the-maximum-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Good Subarray Sum",
+        "titleSlug": "maximum-good-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+        "titleSlug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 79.9
+      },
+      {
+        "name": "Adobe",
+        "frequency": 49.0
+      },
+      {
+        "name": "Amazon",
+        "frequency": 71.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 63.5
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 66.1
+      },
+      {
+        "name": "Barclays",
+        "frequency": 61.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 75.1
+      },
+      {
+        "name": "Cisco",
+        "frequency": 63.2
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 66.5
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 55.7
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 48.6
+      },
+      {
+        "name": "Google",
+        "frequency": 63.1
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 70.5
+      },
+      {
+        "name": "Huawei",
+        "frequency": 61.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 55.7
+      },
+      {
+        "name": "Infosys",
+        "frequency": 76.7
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 50.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 77.4
+      },
+      {
+        "name": "Meta",
+        "frequency": 52.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 72.9
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Nike",
+        "frequency": 92.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 78.0
+      },
+      {
+        "name": "Optum",
+        "frequency": 64.3
+      },
+      {
+        "name": "Oracle",
+        "frequency": 57.3
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "persistent systems",
+        "frequency": 64.2
+      },
+      {
+        "name": "PornHub",
+        "frequency": 79.3
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Ripple",
+        "frequency": 88.3
+      },
+      {
+        "name": "Rippling",
+        "frequency": 63.5
+      },
+      {
+        "name": "Samsung",
+        "frequency": 66.4
+      },
+      {
+        "name": "SAP",
+        "frequency": 69.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Target",
+        "frequency": 100.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 66.5
+      },
+      {
+        "name": "Tekion",
+        "frequency": 71.3
+      },
+      {
+        "name": "Tesla",
+        "frequency": 64.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 61.4
+      },
+      {
+        "name": "Turing",
+        "frequency": 57.5
+      },
+      {
+        "name": "Uber",
+        "frequency": 53.3
+      },
+      {
+        "name": "Upstart",
+        "frequency": 100.0
+      },
+      {
+        "name": "Vimeo",
+        "frequency": 66.4
+      },
+      {
+        "name": "Visa",
+        "frequency": 59.3
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 53.1
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 48.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "105",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "difficulty": "Medium",
+    "acRate": 67.36992623637275,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+        "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 45.2
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 52.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 33.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 63.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "106",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "titleSlug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "difficulty": "Medium",
+    "acRate": 66.79307559127834,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+        "titleSlug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 17.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "108",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "titleSlug": "convert-sorted-array-to-binary-search-tree",
+    "difficulty": "Easy",
+    "acRate": 74.45909668231853,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Convert Sorted List to Binary Search Tree",
+        "titleSlug": "convert-sorted-list-to-binary-search-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 17.4
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "Apple",
+        "frequency": 31.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 22.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "109",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "titleSlug": "convert-sorted-list-to-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 64.93413657530913,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Convert Sorted Array to Binary Search Tree",
+        "titleSlug": "convert-sorted-array-to-binary-search-tree",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Create Binary Tree From Descriptions",
+        "titleSlug": "create-binary-tree-from-descriptions",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Lyft",
+        "frequency": 78.2
+      },
+      {
+        "name": "Meta",
+        "frequency": 26.9
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "148",
+    "title": "Sort List",
+    "titleSlug": "sort-list",
+    "difficulty": "Medium",
+    "acRate": 62.5660802080508,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Merge Sort",
+        "slug": "merge-sort"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Colors",
+        "titleSlug": "sort-colors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Insertion Sort List",
+        "titleSlug": "insertion-sort-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort Linked List Already Sorted Using Absolute Values",
+        "titleSlug": "sort-linked-list-already-sorted-using-absolute-values",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Lyft",
+        "frequency": 50.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 45.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 47.6
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "372",
+    "title": "Super Pow",
+    "titleSlug": "super-pow",
+    "difficulty": "Medium",
+    "acRate": 35.634620117009206,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Pow(x, n)",
+        "titleSlug": "powx-n",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "395",
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "titleSlug": "longest-substring-with-at-least-k-repeating-characters",
+    "difficulty": "Medium",
+    "acRate": 45.59577078823976,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Subsequence Repeated k Times",
+        "titleSlug": "longest-subsequence-repeated-k-times",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Equal Count Substrings",
+        "titleSlug": "number-of-equal-count-substrings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Optimal Partition of String",
+        "titleSlug": "optimal-partition-of-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Length of Longest Subarray With at Most K Frequency",
+        "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Longest Special Substring That Occurs Thrice II",
+        "titleSlug": "find-longest-special-substring-that-occurs-thrice-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Longest Special Substring That Occurs Thrice I",
+        "titleSlug": "find-longest-special-substring-that-occurs-thrice-i",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Baidu",
+        "frequency": 97.8
+      },
+      {
+        "name": "Yandex",
+        "frequency": 40.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "558",
+    "title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+    "titleSlug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+    "difficulty": "Medium",
+    "acRate": 51.16225413854762,
+    "topicTags": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "889",
+    "title": "Construct Binary Tree from Preorder and Postorder Traversal",
+    "titleSlug": "construct-binary-tree-from-preorder-and-postorder-traversal",
+    "difficulty": "Medium",
+    "acRate": 78.02993991952114,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "932",
+    "title": "Beautiful Array",
+    "titleSlug": "beautiful-array",
+    "difficulty": "Medium",
+    "acRate": 67.26497933884298,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1382",
+    "title": "Balance a Binary Search Tree",
+    "titleSlug": "balance-a-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 84.70056839182656,
+    "topicTags": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1982",
+    "title": "Find Array Given Subset Sums",
+    "titleSlug": "find-array-given-subset-sums",
+    "difficulty": "Hard",
+    "acRate": 48.99840576696472,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subsets",
+        "titleSlug": "subsets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subsets II",
+        "titleSlug": "subsets-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Recover the Original Array",
+        "titleSlug": "recover-the-original-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Mindtickle",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2792",
+    "title": "Count Nodes That Are Great Enough",
+    "titleSlug": "count-nodes-that-are-great-enough",
+    "difficulty": "Hard",
+    "acRate": 56.91662785281788,
+    "topicTags": [
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3655",
+    "title": "XOR After Range Multiplication Queries II",
+    "titleSlug": "xor-after-range-multiplication-queries-ii",
+    "difficulty": "Hard",
+    "acRate": 20.860437610881135,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

@@ -1,0 +1,1939 @@
+[
+  {
+    "questionFrontendId": "866",
+    "title": "Prime Palindrome",
+    "titleSlug": "prime-palindrome",
+    "difficulty": "Medium",
+    "acRate": 27.401732468550037,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of k-Mirror Numbers",
+        "titleSlug": "sum-of-k-mirror-numbers",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "914",
+    "title": "X of a Kind in a Deck of Cards",
+    "titleSlug": "x-of-a-kind-in-a-deck-of-cards",
+    "difficulty": "Easy",
+    "acRate": 29.90183553537135,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "952",
+    "title": "Largest Component Size by Common Factor",
+    "titleSlug": "largest-component-size-by-common-factor",
+    "difficulty": "Hard",
+    "acRate": 41.394027547306386,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Groups of Strings",
+        "titleSlug": "groups-of-strings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Distinct Prime Factors of Product of Array",
+        "titleSlug": "distinct-prime-factors-of-product-of-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1250",
+    "title": "Check If It Is a Good Array",
+    "titleSlug": "check-if-it-is-a-good-array",
+    "difficulty": "Hard",
+    "acRate": 61.69701666020922,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      },
+      {
+        "name": "Jump Trading",
+        "frequency": 82.8
+      },
+      {
+        "name": "Nokia",
+        "frequency": 88.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1447",
+    "title": "Simplified Fractions",
+    "titleSlug": "simplified-fractions",
+    "difficulty": "Medium",
+    "acRate": 68.72234973222898,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1492",
+    "title": "The kth Factor of n",
+    "titleSlug": "the-kth-factor-of-n",
+    "difficulty": "Medium",
+    "acRate": 69.71426893618448,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 97.7
+      },
+      {
+        "name": "IBM",
+        "frequency": 73.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1627",
+    "title": "Graph Connectivity With Threshold",
+    "titleSlug": "graph-connectivity-with-threshold",
+    "difficulty": "Hard",
+    "acRate": 48.61771833767166,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Greatest Common Divisor Traversal",
+        "titleSlug": "greatest-common-divisor-traversal",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1766",
+    "title": "Tree of Coprimes",
+    "titleSlug": "tree-of-coprimes",
+    "difficulty": "Hard",
+    "acRate": 42.71741732498889,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1808",
+    "title": "Maximize Number of Nice Divisors",
+    "titleSlug": "maximize-number-of-nice-divisors",
+    "difficulty": "Hard",
+    "acRate": 33.83929240686605,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Integer Break",
+        "titleSlug": "integer-break",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1819",
+    "title": "Number of Different Subsequences GCDs",
+    "titleSlug": "number-of-different-subsequences-gcds",
+    "difficulty": "Hard",
+    "acRate": 42.52864840251954,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Greatest Common Divisor of Array",
+        "titleSlug": "find-greatest-common-divisor-of-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1979",
+    "title": "Find Greatest Common Divisor of Array",
+    "titleSlug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "acRate": 78.88218655748464,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Greatest Common Divisor of Strings",
+        "titleSlug": "greatest-common-divisor-of-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Different Subsequences GCDs",
+        "titleSlug": "number-of-different-subsequences-gcds",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Three Divisors",
+        "titleSlug": "three-divisors",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Smallest Even Multiple",
+        "titleSlug": "smallest-even-multiple",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Subarrays With GCD Equal to K",
+        "titleSlug": "number-of-subarrays-with-gcd-equal-to-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Number of Subsequences With Equal GCD",
+        "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Subarray With Equal Products",
+        "titleSlug": "maximum-subarray-with-equal-products",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1998",
+    "title": "GCD Sort of an Array",
+    "titleSlug": "gcd-sort-of-an-array",
+    "difficulty": "Hard",
+    "acRate": 47.117110088164154,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rank Transform of a Matrix",
+        "titleSlug": "rank-transform-of-a-matrix",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2001",
+    "title": "Number of Pairs of Interchangeable Rectangles",
+    "titleSlug": "number-of-pairs-of-interchangeable-rectangles",
+    "difficulty": "Medium",
+    "acRate": 51.66038218817993,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Good Pairs",
+        "titleSlug": "number-of-good-pairs",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Nice Pairs in an Array",
+        "titleSlug": "count-nice-pairs-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Replace Non-Coprime Numbers in Array",
+        "titleSlug": "replace-non-coprime-numbers-in-array",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2183",
+    "title": "Count Array Pairs Divisible by K",
+    "titleSlug": "count-array-pairs-divisible-by-k",
+    "difficulty": "Hard",
+    "acRate": 30.22526375819789,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Single Divisor Triplets",
+        "titleSlug": "number-of-single-divisor-triplets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check If Array Pairs Are Divisible by k",
+        "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Number of Good Pairs II",
+        "titleSlug": "find-the-number-of-good-pairs-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Number of Good Pairs I",
+        "titleSlug": "find-the-number-of-good-pairs-i",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PayPal",
+        "frequency": 73.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2197",
+    "title": "Replace Non-Coprime Numbers in Array",
+    "titleSlug": "replace-non-coprime-numbers-in-array",
+    "difficulty": "Hard",
+    "acRate": 40.786055080542305,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove All Adjacent Duplicates in String II",
+        "titleSlug": "remove-all-adjacent-duplicates-in-string-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Pairs of Interchangeable Rectangles",
+        "titleSlug": "number-of-pairs-of-interchangeable-rectangles",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split the Array to Make Coprime Products",
+        "titleSlug": "split-the-array-to-make-coprime-products",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2344",
+    "title": "Minimum Deletions to Make Array Divisible",
+    "titleSlug": "minimum-deletions-to-make-array-divisible",
+    "difficulty": "Hard",
+    "acRate": 57.84680561568434,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check If Array Pairs Are Divisible by k",
+        "titleSlug": "check-if-array-pairs-are-divisible-by-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 50.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2413",
+    "title": "Smallest Even Multiple",
+    "titleSlug": "smallest-even-multiple",
+    "difficulty": "Easy",
+    "acRate": 88.12004276585694,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Greatest Common Divisor of Strings",
+        "titleSlug": "greatest-common-divisor-of-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Three Divisors",
+        "titleSlug": "three-divisors",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find Greatest Common Divisor of Array",
+        "titleSlug": "find-greatest-common-divisor-of-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Convert the Temperature",
+        "titleSlug": "convert-the-temperature",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Cuts to Divide a Circle",
+        "titleSlug": "minimum-cuts-to-divide-a-circle",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2436",
+    "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+    "titleSlug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+    "difficulty": "Medium",
+    "acRate": 69.90191017036655,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Subarrays in a Valid Split",
+        "titleSlug": "minimum-subarrays-in-a-valid-split",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2447",
+    "title": "Number of Subarrays With GCD Equal to K",
+    "titleSlug": "number-of-subarrays-with-gcd-equal-to-k",
+    "difficulty": "Medium",
+    "acRate": 51.44656791429705,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Greatest Common Divisor of Array",
+        "titleSlug": "find-greatest-common-divisor-of-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Subarrays With LCM Equal to K",
+        "titleSlug": "number-of-subarrays-with-lcm-equal-to-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2464",
+    "title": "Minimum Subarrays in a Valid Split",
+    "titleSlug": "minimum-subarrays-in-a-valid-split",
+    "difficulty": "Medium",
+    "acRate": 54.741539605801414,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Split Into Subarrays With GCD Greater Than One",
+        "titleSlug": "minimum-split-into-subarrays-with-gcd-greater-than-one",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2470",
+    "title": "Number of Subarrays With LCM Equal to K",
+    "titleSlug": "number-of-subarrays-with-lcm-equal-to-k",
+    "difficulty": "Medium",
+    "acRate": 40.48324145367291,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Subarrays With GCD Equal to K",
+        "titleSlug": "number-of-subarrays-with-gcd-equal-to-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Unity",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2513",
+    "title": "Minimize the Maximum of Two Arrays",
+    "titleSlug": "minimize-the-maximum-of-two-arrays",
+    "difficulty": "Medium",
+    "acRate": 31.406442243691885,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 53.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2521",
+    "title": "Distinct Prime Factors of Product of Array",
+    "titleSlug": "distinct-prime-factors-of-product-of-array",
+    "difficulty": "Medium",
+    "acRate": 53.36172293124742,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "2 Keys Keyboard",
+        "titleSlug": "2-keys-keyboard",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Largest Component Size by Common Factor",
+        "titleSlug": "largest-component-size-by-common-factor",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Closest Divisors",
+        "titleSlug": "closest-divisors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Smallest Value After Replacing With Sum of Prime Factors",
+        "titleSlug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Square-Free Subsets",
+        "titleSlug": "count-the-number-of-square-free-subsets",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2523",
+    "title": "Closest Prime Numbers in Range",
+    "titleSlug": "closest-prime-numbers-in-range",
+    "difficulty": "Medium",
+    "acRate": 51.50112994350282,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Ways to Make Array With Product",
+        "titleSlug": "count-ways-to-make-array-with-product",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2543",
+    "title": "Check if Point Is Reachable",
+    "titleSlug": "check-if-point-is-reachable",
+    "difficulty": "Hard",
+    "acRate": 43.83324453915824,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reaching Points",
+        "titleSlug": "reaching-points",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if the Rectangle Corner Is Reachable",
+        "titleSlug": "check-if-the-rectangle-corner-is-reachable",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 84.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2584",
+    "title": "Split the Array to Make Coprime Products",
+    "titleSlug": "split-the-array-to-make-coprime-products",
+    "difficulty": "Hard",
+    "acRate": 28.24119181569601,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Replace Non-Coprime Numbers in Array",
+        "titleSlug": "replace-non-coprime-numbers-in-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zomato",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2601",
+    "title": "Prime Subtraction Operation",
+    "titleSlug": "prime-subtraction-operation",
+    "difficulty": "Medium",
+    "acRate": 55.55225457186241,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2607",
+    "title": "Make K-Subarray Sums Equal",
+    "titleSlug": "make-k-subarray-sums-equal",
+    "difficulty": "Medium",
+    "acRate": 37.089282642353346,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rotate Array",
+        "titleSlug": "rotate-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2614",
+    "title": "Prime In Diagonal",
+    "titleSlug": "prime-in-diagonal",
+    "difficulty": "Easy",
+    "acRate": 36.62216005923767,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2654",
+    "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+    "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+    "difficulty": "Medium",
+    "acRate": 33.78704619134113,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2709",
+    "title": "Greatest Common Divisor Traversal",
+    "titleSlug": "greatest-common-divisor-traversal",
+    "difficulty": "Hard",
+    "acRate": 41.77518848526388,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Graph Connectivity With Threshold",
+        "titleSlug": "graph-connectivity-with-threshold",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2748",
+    "title": "Number of Beautiful Pairs",
+    "titleSlug": "number-of-beautiful-pairs",
+    "difficulty": "Easy",
+    "acRate": 51.20093940148739,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2807",
+    "title": "Insert Greatest Common Divisors in Linked List",
+    "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+    "difficulty": "Medium",
+    "acRate": 91.49532678130988,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2818",
+    "title": "Apply Operations to Maximize Score",
+    "titleSlug": "apply-operations-to-maximize-score",
+    "difficulty": "Hard",
+    "acRate": 53.99080561990347,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Element IV",
+        "titleSlug": "next-greater-element-iv",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2862",
+    "title": "Maximum Element-Sum of a Complete Subset of Indices",
+    "titleSlug": "maximum-element-sum-of-a-complete-subset-of-indices",
+    "difficulty": "Hard",
+    "acRate": 41.86968838526912,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Constrained Subsequence Sum",
+        "titleSlug": "constrained-subsequence-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Alternating Subsequence Sum",
+        "titleSlug": "maximum-alternating-subsequence-sum",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2867",
+    "title": "Count Valid Paths in a Tree",
+    "titleSlug": "count-valid-paths-in-a-tree",
+    "difficulty": "Hard",
+    "acRate": 35.11957130288731,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Paths That Can Form a Palindrome in a Tree",
+        "titleSlug": "count-paths-that-can-form-a-palindrome-in-a-tree",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Sprinklr",
+        "frequency": 50.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2941",
+    "title": "Maximum GCD-Sum of a Subarray",
+    "titleSlug": "maximum-gcd-sum-of-a-subarray",
+    "difficulty": "Hard",
+    "acRate": 36.58227848101266,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "ThoughtWorks",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2949",
+    "title": "Count Beautiful Substrings II",
+    "titleSlug": "count-beautiful-substrings-ii",
+    "difficulty": "Hard",
+    "acRate": 25.166444740346204,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2979",
+    "title": "Most Expensive Item That Can Not Be Bought",
+    "titleSlug": "most-expensive-item-that-can-not-be-bought",
+    "difficulty": "Medium",
+    "acRate": 80.24364406779661,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Coin Change",
+        "titleSlug": "coin-change",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost For Tickets",
+        "titleSlug": "minimum-cost-for-tickets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Coins to be Added",
+        "titleSlug": "minimum-number-of-coins-to-be-added",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3012",
+    "title": "Minimize Length of Array Using Operations",
+    "titleSlug": "minimize-length-of-array-using-operations",
+    "difficulty": "Medium",
+    "acRate": 35.14877102199224,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "BNY Mellon",
+        "frequency": 97.7
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 83.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3115",
+    "title": "Maximum Prime Difference",
+    "titleSlug": "maximum-prime-difference",
+    "difficulty": "Medium",
+    "acRate": 57.68892352556689,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3233",
+    "title": "Find the Count of Numbers Which Are Not Special",
+    "titleSlug": "find-the-count-of-numbers-which-are-not-special",
+    "difficulty": "Medium",
+    "acRate": 27.119591491418905,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Primes",
+        "titleSlug": "count-primes",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3260",
+    "title": "Find the Largest Palindrome Divisible by K",
+    "titleSlug": "find-the-largest-palindrome-divisible-by-k",
+    "difficulty": "Hard",
+    "acRate": 15.598146830965609,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Palindrome Number",
+        "titleSlug": "palindrome-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Closest Palindrome",
+        "titleSlug": "find-the-closest-palindrome",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3326",
+    "title": "Minimum Division Operations to Make Array Non Decreasing",
+    "titleSlug": "minimum-division-operations-to-make-array-non-decreasing",
+    "difficulty": "Medium",
+    "acRate": 28.705681875985555,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Value After Replacing With Sum of Prime Factors",
+        "titleSlug": "smallest-value-after-replacing-with-sum-of-prime-factors",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3334",
+    "title": "Find the Maximum Factor Score of Array",
+    "titleSlug": "find-the-maximum-factor-score-of-array",
+    "difficulty": "Medium",
+    "acRate": 40.55165567609728,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Greatest Common Divisor of Strings",
+        "titleSlug": "greatest-common-divisor-of-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove One Element to Make the Array Strictly Increasing",
+        "titleSlug": "remove-one-element-to-make-the-array-strictly-increasing",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Info Edge",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3336",
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "titleSlug": "find-the-number-of-subsequences-with-equal-gcd",
+    "difficulty": "Hard",
+    "acRate": 29.342630355654958,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Greatest Common Divisor of Array",
+        "titleSlug": "find-greatest-common-divisor-of-array",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3348",
+    "title": "Smallest Divisible Digit Product II",
+    "titleSlug": "smallest-divisible-digit-product-ii",
+    "difficulty": "Hard",
+    "acRate": 11.215799356223176,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Number With Given Digit Product",
+        "titleSlug": "smallest-number-with-given-digit-product",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3377",
+    "title": "Digit Operations to Make Two Integers Equal",
+    "titleSlug": "digit-operations-to-make-two-integers-equal",
+    "difficulty": "Medium",
+    "acRate": 28.25218392361346,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Shortest Path",
+        "slug": "shortest-path"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3378",
+    "title": "Count Connected Components in LCM Graph",
+    "titleSlug": "count-connected-components-in-lcm-graph",
+    "difficulty": "Hard",
+    "acRate": 29.218217080184576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3556",
+    "title": "Sum of Largest Prime Substrings",
+    "titleSlug": "sum-of-largest-prime-substrings",
+    "difficulty": "Medium",
+    "acRate": 37.30277553840838,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3569",
+    "title": "Maximize Count of Distinct Primes After Split",
+    "titleSlug": "maximize-count-of-distinct-primes-after-split",
+    "difficulty": "Hard",
+    "acRate": 14.944123876999488,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3589",
+    "title": "Count Prime-Gap Balanced Subarrays",
+    "titleSlug": "count-prime-gap-balanced-subarrays",
+    "difficulty": "Medium",
+    "acRate": 19.120895302606392,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3591",
+    "title": "Check if Any Element Has Prime Frequency",
+    "titleSlug": "check-if-any-element-has-prime-frequency",
+    "difficulty": "Easy",
+    "acRate": 62.45624228339023,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3605",
+    "title": "Minimum Stability Factor of Array",
+    "titleSlug": "minimum-stability-factor-of-array",
+    "difficulty": "Hard",
+    "acRate": 17.796561439825197,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3610",
+    "title": "Minimum Number of Primes to Sum to Target",
+    "titleSlug": "minimum-number-of-primes-to-sum-to-target",
+    "difficulty": "Medium",
+    "acRate": 59.344124448181624,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3618",
+    "title": "Split Array by Prime Indices",
+    "titleSlug": "split-array-by-prime-indices",
+    "difficulty": "Medium",
+    "acRate": 48.91053464369185,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3629",
+    "title": "Minimum Jumps to Reach End via Prime Teleportation",
+    "titleSlug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+    "difficulty": "Medium",
+    "acRate": 18.156932522534852,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

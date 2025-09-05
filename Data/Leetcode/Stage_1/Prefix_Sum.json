@@ -1,0 +1,2473 @@
+[
+  {
+    "questionFrontendId": "238",
+    "title": "Product of Array Except Self",
+    "titleSlug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "acRate": 68.01253980125783,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Trapping Rain Water",
+        "titleSlug": "trapping-rain-water",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Product Subarray",
+        "titleSlug": "maximum-product-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paint House II",
+        "titleSlug": "paint-house-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Difference in Sums After Removal of Elements",
+        "titleSlug": "minimum-difference-in-sums-after-removal-of-elements",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Construct Product Matrix",
+        "titleSlug": "construct-product-matrix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Sum of Array Product of Magical Sequences",
+        "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 60.7
+      },
+      {
+        "name": "Asana",
+        "frequency": 100.0
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "CEDCOSS",
+        "frequency": 83.4
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 68.8
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 43.8
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Infosys",
+        "frequency": 67.9
+      },
+      {
+        "name": "Intuit",
+        "frequency": 81.2
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 51.8
+      },
+      {
+        "name": "Lyft",
+        "frequency": 50.7
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 68.4
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "Ripple",
+        "frequency": 88.3
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "Sigmoid",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      },
+      {
+        "name": "Tekion",
+        "frequency": 61.6
+      },
+      {
+        "name": "Turing",
+        "frequency": 51.8
+      },
+      {
+        "name": "Unity",
+        "frequency": 89.8
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Warnermedia",
+        "frequency": 88.2
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 60.8
+      },
+      {
+        "name": "Yandex",
+        "frequency": 43.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      },
+      {
+        "name": "ZS Associates",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "325",
+    "title": "Maximum Size Subarray Sum Equals k",
+    "titleSlug": "maximum-size-subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "acRate": 50.6456937566754,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Range Sum Query - Immutable",
+        "titleSlug": "range-sum-query-immutable",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Contiguous Array",
+        "titleSlug": "contiguous-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "titleSlug": "subarray-product-less-than-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Beauty of an Array After Applying Operation",
+        "titleSlug": "maximum-beauty-of-an-array-after-applying-operation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Subarray With OR at Least K II",
+        "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Palantir Technologies",
+        "frequency": 78.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "370",
+    "title": "Range Addition",
+    "titleSlug": "range-addition",
+    "difficulty": "Medium",
+    "acRate": 72.4362922748564,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Addition II",
+        "titleSlug": "range-addition-ii",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Positions on Street With Required Brightness",
+        "titleSlug": "count-positions-on-street-with-required-brightness",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "523",
+    "title": "Continuous Subarray Sum",
+    "titleSlug": "continuous-subarray-sum",
+    "difficulty": "Medium",
+    "acRate": 30.982580160074203,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Array Continuous",
+        "titleSlug": "minimum-number-of-operations-to-make-array-continuous",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Intervals Between Identical Elements",
+        "titleSlug": "intervals-between-identical-elements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Apply Operations to Make All Array Elements Equal to Zero",
+        "titleSlug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Yandex",
+        "frequency": 40.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "525",
+    "title": "Contiguous Array",
+    "titleSlug": "contiguous-array",
+    "difficulty": "Medium",
+    "acRate": 49.75141361327326,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Size Subarray Sum Equals k",
+        "titleSlug": "maximum-size-subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Possible Stable Binary Arrays I",
+        "titleSlug": "find-all-possible-stable-binary-arrays-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Possible Stable Binary Arrays II",
+        "titleSlug": "find-all-possible-stable-binary-arrays-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "548",
+    "title": "Split Array with Equal Sum",
+    "titleSlug": "split-array-with-equal-sum",
+    "difficulty": "Hard",
+    "acRate": 50.044615696613256,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Fair Distribution of Cookies",
+        "titleSlug": "fair-distribution-of-cookies",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Ways to Split a String",
+        "titleSlug": "number-of-ways-to-split-a-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Alibaba",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "560",
+    "title": "Subarray Sum Equals K",
+    "titleSlug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "acRate": 45.91557989572252,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Continuous Subarray Sum",
+        "titleSlug": "continuous-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Subarray Product Less Than K",
+        "titleSlug": "subarray-product-less-than-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Reduce X to Zero",
+        "titleSlug": "minimum-operations-to-reduce-x-to-zero",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Radius Subarray Averages",
+        "titleSlug": "k-radius-subarray-averages",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum Score of Array",
+        "titleSlug": "maximum-sum-score-of-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AMD",
+        "frequency": 87.5
+      },
+      {
+        "name": "Apollo.io",
+        "frequency": 93.2
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 57.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 58.7
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 41.8
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 50.9
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Nagarro",
+        "frequency": 63.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 62.0
+      },
+      {
+        "name": "Quora",
+        "frequency": 52.3
+      },
+      {
+        "name": "Ripple",
+        "frequency": 88.3
+      },
+      {
+        "name": "Scale AI",
+        "frequency": 100.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 61.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 71.8
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 57.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      },
+      {
+        "name": "Yandex",
+        "frequency": 82.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "724",
+    "title": "Find Pivot Index",
+    "titleSlug": "find-pivot-index",
+    "difficulty": "Easy",
+    "acRate": 61.040597151788,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Middle Index in Array",
+        "titleSlug": "find-the-middle-index-in-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Ways to Split Array",
+        "titleSlug": "number-of-ways-to-split-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum Score of Array",
+        "titleSlug": "maximum-sum-score-of-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Left and Right Sum Differences",
+        "titleSlug": "left-and-right-sum-differences",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 65.8
+      },
+      {
+        "name": "Attentive",
+        "frequency": 63.9
+      },
+      {
+        "name": "Citigroup",
+        "frequency": 100.0
+      },
+      {
+        "name": "Coupang",
+        "frequency": 93.4
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "798",
+    "title": "Smallest Rotation with Highest Score",
+    "titleSlug": "smallest-rotation-with-highest-score",
+    "difficulty": "Hard",
+    "acRate": 52.675171363290175,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "848",
+    "title": "Shifting Letters",
+    "titleSlug": "shifting-letters",
+    "difficulty": "Medium",
+    "acRate": 45.73027635411339,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Replace All Digits with Characters",
+        "titleSlug": "replace-all-digits-with-characters",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lexicographically Smallest String After Substring Operation",
+        "titleSlug": "lexicographically-smallest-string-after-substring-operation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shift Distance Between Two Strings",
+        "titleSlug": "shift-distance-between-two-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the K-th Character in String Game I",
+        "titleSlug": "find-the-k-th-character-in-string-game-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the K-th Character in String Game II",
+        "titleSlug": "find-the-k-th-character-in-string-game-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "930",
+    "title": "Binary Subarrays With Sum",
+    "titleSlug": "binary-subarrays-with-sum",
+    "difficulty": "Medium",
+    "acRate": 66.96148634019998,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Subarrays With Score Less Than K",
+        "titleSlug": "count-subarrays-with-score-less-than-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Ways to Split Array Into Good Subarrays",
+        "titleSlug": "ways-to-split-array-into-good-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Possible Stable Binary Arrays I",
+        "titleSlug": "find-all-possible-stable-binary-arrays-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Possible Stable Binary Arrays II",
+        "titleSlug": "find-all-possible-stable-binary-arrays-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "974",
+    "title": "Subarray Sums Divisible by K",
+    "titleSlug": "subarray-sums-divisible-by-k",
+    "difficulty": "Medium",
+    "acRate": 55.715531999163126,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Make Sum Divisible by P",
+        "titleSlug": "make-sum-divisible-by-p",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Bad Pairs",
+        "titleSlug": "count-number-of-bad-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Divisibility Array of a String",
+        "titleSlug": "find-the-divisibility-array-of-a-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count of Interesting Subarrays",
+        "titleSlug": "count-of-interesting-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Subarray Sum With Length Divisible by K",
+        "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 71.6
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 57.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1109",
+    "title": "Corporate Flight Bookings",
+    "titleSlug": "corporate-flight-bookings",
+    "difficulty": "Medium",
+    "acRate": 65.12899721386711,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Zero Array Transformation II",
+        "titleSlug": "zero-array-transformation-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Zero Array Transformation III",
+        "titleSlug": "zero-array-transformation-iii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1248",
+    "title": "Count Number of Nice Subarrays",
+    "titleSlug": "count-number-of-nice-subarrays",
+    "difficulty": "Medium",
+    "acRate": 73.9569069524733,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "K Divisible Elements Subarrays",
+        "titleSlug": "k-divisible-elements-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Subarrays With Fixed Bounds",
+        "titleSlug": "count-subarrays-with-fixed-bounds",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Ways to Split Array Into Good Subarrays",
+        "titleSlug": "ways-to-split-array-into-good-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count of Interesting Subarrays",
+        "titleSlug": "count-of-interesting-subarrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deliveroo",
+        "frequency": 66.2
+      },
+      {
+        "name": "Roblox",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1413",
+    "title": "Minimum Value to Get Positive Step by Step Sum",
+    "titleSlug": "minimum-value-to-get-positive-step-by-step-sum",
+    "difficulty": "Easy",
+    "acRate": 64.58646252240902,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Swiggy",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1422",
+    "title": "Maximum Score After Splitting a String",
+    "titleSlug": "maximum-score-after-splitting-a-string",
+    "difficulty": "Easy",
+    "acRate": 65.14491572982857,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "titleSlug": "maximum-points-you-can-obtain-from-cards",
+    "difficulty": "Medium",
+    "acRate": 56.29440030027016,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Score from Performing Multiplication Operations",
+        "titleSlug": "maximum-score-from-performing-multiplication-operations",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Removing Minimum and Maximum From Array",
+        "titleSlug": "removing-minimum-and-maximum-from-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Recolors to Get K Consecutive Black Blocks",
+        "titleSlug": "minimum-recolors-to-get-k-consecutive-black-blocks",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Spending After Buying Items",
+        "titleSlug": "maximum-spending-after-buying-items",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 93.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1480",
+    "title": "Running Sum of 1d Array",
+    "titleSlug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "acRate": 86.93320942618524,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1588",
+    "title": "Sum of All Odd Length Subarrays",
+    "titleSlug": "sum-of-all-odd-length-subarrays",
+    "difficulty": "Easy",
+    "acRate": 83.61864283095369,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sum of Squares of Special Elements ",
+        "titleSlug": "sum-of-squares-of-special-elements",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1590",
+    "title": "Make Sum Divisible by P",
+    "titleSlug": "make-sum-divisible-by-p",
+    "difficulty": "Medium",
+    "acRate": 39.42559898943374,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Divisibility Array of a String",
+        "titleSlug": "find-the-divisibility-array-of-a-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Samsung",
+        "frequency": 54.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1664",
+    "title": "Ways to Make a Fair Array",
+    "titleSlug": "ways-to-make-a-fair-array",
+    "difficulty": "Medium",
+    "acRate": 64.7946102231193,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      },
+      {
+        "name": "Dunzo",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Twilio",
+        "frequency": 56.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1674",
+    "title": "Minimum Moves to Make Array Complementary",
+    "titleSlug": "minimum-moves-to-make-array-complementary",
+    "difficulty": "Medium",
+    "acRate": 42.58247605533877,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Zero Array Transformation II",
+        "titleSlug": "zero-array-transformation-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Zero Array Transformation III",
+        "titleSlug": "zero-array-transformation-iii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "CureFit",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1685",
+    "title": "Sum of Absolute Differences in a Sorted Array",
+    "titleSlug": "sum-of-absolute-differences-in-a-sorted-array",
+    "difficulty": "Medium",
+    "acRate": 68.11217637740027,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1732",
+    "title": "Find the Highest Altitude",
+    "titleSlug": "find-the-highest-altitude",
+    "difficulty": "Easy",
+    "acRate": 83.83253882350108,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1744",
+    "title": "Can You Eat Your Favorite Candy on Your Favorite Day?",
+    "titleSlug": "can-you-eat-your-favorite-candy-on-your-favorite-day",
+    "difficulty": "Medium",
+    "acRate": 35.16701030927835,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1769",
+    "title": "Minimum Number of Operations to Move All Balls to Each Box",
+    "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+    "difficulty": "Medium",
+    "acRate": 90.11175250991492,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost to Move Chips to The Same Position",
+        "titleSlug": "minimum-cost-to-move-chips-to-the-same-position",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Moves to Spread Stones Over Grid",
+        "titleSlug": "minimum-moves-to-spread-stones-over-grid",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1893",
+    "title": "Check if All the Integers in a Range Are Covered",
+    "titleSlug": "check-if-all-the-integers-in-a-range-are-covered",
+    "difficulty": "Easy",
+    "acRate": 50.569197557931666,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Maximal Uncovered Ranges",
+        "titleSlug": "find-maximal-uncovered-ranges",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1983",
+    "title": "Widest Pair of Indices With Equal Range Sum",
+    "titleSlug": "widest-pair-of-indices-with-equal-range-sum",
+    "difficulty": "Medium",
+    "acRate": 53.556618819776716,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1991",
+    "title": "Find the Middle Index in Array",
+    "titleSlug": "find-the-middle-index-in-array",
+    "difficulty": "Easy",
+    "acRate": 68.40516246852005,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Partition Array Into Three Parts With Equal Sum",
+        "titleSlug": "partition-array-into-three-parts-with-equal-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Number of Ways to Split Array",
+        "titleSlug": "number-of-ways-to-split-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum Score of Array",
+        "titleSlug": "maximum-sum-score-of-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Left and Right Sum Differences",
+        "titleSlug": "left-and-right-sum-differences",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2121",
+    "title": "Intervals Between Identical Elements",
+    "titleSlug": "intervals-between-identical-elements",
+    "difficulty": "Medium",
+    "acRate": 45.20502887215847,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Continuous Subarray Sum",
+        "titleSlug": "continuous-subarray-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "TuSimple",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2145",
+    "title": "Count the Hidden Sequences",
+    "titleSlug": "count-the-hidden-sequences",
+    "difficulty": "Medium",
+    "acRate": 56.74348265121814,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Zomato",
+        "frequency": 94.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2219",
+    "title": "Maximum Sum Score of Array",
+    "titleSlug": "maximum-sum-score-of-array",
+    "difficulty": "Medium",
+    "acRate": 62.51589779165222,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sum Equals K",
+        "titleSlug": "subarray-sum-equals-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Middle Index in Array",
+        "titleSlug": "find-the-middle-index-in-array",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2237",
+    "title": "Count Positions on Street With Required Brightness",
+    "titleSlug": "count-positions-on-street-with-required-brightness",
+    "difficulty": "Medium",
+    "acRate": 62.5,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Addition",
+        "titleSlug": "range-addition",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Brightest Position on Street",
+        "titleSlug": "brightest-position-on-street",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Increment Submatrices by One",
+        "titleSlug": "increment-submatrices-by-one",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2256",
+    "title": "Minimum Average Difference",
+    "titleSlug": "minimum-average-difference",
+    "difficulty": "Medium",
+    "acRate": 43.606235742148634,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Array With Same Average",
+        "titleSlug": "split-array-with-same-average",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Ways to Split Array",
+        "titleSlug": "number-of-ways-to-split-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2270",
+    "title": "Number of Ways to Split Array",
+    "titleSlug": "number-of-ways-to-split-array",
+    "difficulty": "Medium",
+    "acRate": 56.025320807758035,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Array Largest Sum",
+        "titleSlug": "split-array-largest-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Ways to Split Array Into Three Subarrays",
+        "titleSlug": "ways-to-split-array-into-three-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Middle Index in Array",
+        "titleSlug": "find-the-middle-index-in-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+        "titleSlug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Average Difference",
+        "titleSlug": "minimum-average-difference",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2381",
+    "title": "Shifting Letters II",
+    "titleSlug": "shifting-letters-ii",
+    "difficulty": "Medium",
+    "acRate": 53.36995804428197,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Skyline Problem",
+        "titleSlug": "the-skyline-problem",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Range Sum Query - Mutable",
+        "titleSlug": "range-sum-query-mutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Range Addition",
+        "titleSlug": "range-addition",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shifting Letters",
+        "titleSlug": "shifting-letters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Population Year",
+        "titleSlug": "maximum-population-year",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Describe the Painting",
+        "titleSlug": "describe-the-painting",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shift Distance Between Two Strings",
+        "titleSlug": "shift-distance-between-two-strings",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Veritas",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2391",
+    "title": "Minimum Amount of Time to Collect Garbage",
+    "titleSlug": "minimum-amount-of-time-to-collect-garbage",
+    "difficulty": "Medium",
+    "acRate": 85.11021168462327,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2483",
+    "title": "Minimum Penalty for a Shop",
+    "titleSlug": "minimum-penalty-for-a-shop",
+    "difficulty": "Medium",
+    "acRate": 67.69896120862218,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Grid Game",
+        "titleSlug": "grid-game",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Amount of Damage Dealt to Bob",
+        "titleSlug": "minimum-amount-of-damage-dealt-to-bob",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Stripe",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2485",
+    "title": "Find the Pivot Integer",
+    "titleSlug": "find-the-pivot-integer",
+    "difficulty": "Easy",
+    "acRate": 83.8045838128728,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bulb Switcher",
+        "titleSlug": "bulb-switcher",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2488",
+    "title": "Count Subarrays With Median K",
+    "titleSlug": "count-subarrays-with-median-k",
+    "difficulty": "Hard",
+    "acRate": 46.231964483906765,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Subarrays with Bounded Maximum",
+        "titleSlug": "number-of-subarrays-with-bounded-maximum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sum of Imbalance Numbers of All Subarrays",
+        "titleSlug": "sum-of-imbalance-numbers-of-all-subarrays",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Confluent",
+        "frequency": 51.1
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2489",
+    "title": "Number of Substrings With Fixed Ratio",
+    "titleSlug": "number-of-substrings-with-fixed-ratio",
+    "difficulty": "Medium",
+    "acRate": 56.584992343032155,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Binary Substrings",
+        "titleSlug": "count-binary-substrings",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2559",
+    "title": "Count Vowel Strings in Ranges",
+    "titleSlug": "count-vowel-strings-in-ranges",
+    "difficulty": "Medium",
+    "acRate": 67.827350859454,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Jump Game VII",
+        "titleSlug": "jump-game-vii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      },
+      {
+        "name": "PayPal",
+        "frequency": 77.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2574",
+    "title": "Left and Right Sum Differences",
+    "titleSlug": "left-and-right-sum-differences",
+    "difficulty": "Easy",
+    "acRate": 87.62396637455015,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Pivot Index",
+        "titleSlug": "find-pivot-index",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Middle Index in Array",
+        "titleSlug": "find-the-middle-index-in-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Distinct Difference Array",
+        "titleSlug": "find-the-distinct-difference-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the N-th Value After K Seconds",
+        "titleSlug": "find-the-n-th-value-after-k-seconds",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2615",
+    "title": "Sum of Distances",
+    "titleSlug": "sum-of-distances",
+    "difficulty": "Medium",
+    "acRate": 31.733533154804316,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Duplicates from Sorted Array",
+        "titleSlug": "remove-duplicates-from-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find All Duplicates in an Array",
+        "titleSlug": "find-all-duplicates-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make All Array Elements Equal",
+        "titleSlug": "minimum-operations-to-make-all-array-elements-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "BNY Mellon",
+        "frequency": 97.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2640",
+    "title": "Find the Score of All Prefixes of an Array",
+    "titleSlug": "find-the-score-of-all-prefixes-of-an-array",
+    "difficulty": "Medium",
+    "acRate": 72.20815802609998,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Beautiful Item for Each Query",
+        "titleSlug": "most-beautiful-item-for-each-query",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2772",
+    "title": "Apply Operations to Make All Array Elements Equal to Zero",
+    "titleSlug": "apply-operations-to-make-all-array-elements-equal-to-zero",
+    "difficulty": "Medium",
+    "acRate": 32.847220848091496,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Continuous Subarray Sum",
+        "titleSlug": "continuous-subarray-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+        "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2845",
+    "title": "Count of Interesting Subarrays",
+    "titleSlug": "count-of-interesting-subarrays",
+    "difficulty": "Medium",
+    "acRate": 58.0488278720373,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Number of Nice Subarrays",
+        "titleSlug": "count-number-of-nice-subarrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2848",
+    "title": "Points That Intersect With Cars",
+    "titleSlug": "points-that-intersect-with-cars",
+    "difficulty": "Easy",
+    "acRate": 72.98016265106028,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Meeting Rooms",
+        "titleSlug": "meeting-rooms",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Meeting Rooms II",
+        "titleSlug": "meeting-rooms-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2875",
+    "title": "Minimum Size Subarray in Infinite Array",
+    "titleSlug": "minimum-size-subarray-in-infinite-array",
+    "difficulty": "Medium",
+    "acRate": 31.39117556803778,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 87.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2983",
+    "title": "Palindrome Rearrangement Queries",
+    "titleSlug": "palindrome-rearrangement-queries",
+    "difficulty": "Hard",
+    "acRate": 23.477520228752205,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Chunked Palindrome Decomposition",
+        "titleSlug": "longest-chunked-palindrome-decomposition",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3026",
+    "title": "Maximum Good Subarray Sum",
+    "titleSlug": "maximum-good-subarray-sum",
+    "difficulty": "Medium",
+    "acRate": 20.50353343857423,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Sum of Distinct Subarrays With Length K",
+        "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      },
+      {
+        "name": "Groww",
+        "frequency": 64.8
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3096",
+    "title": "Minimum Levels to Gain More Points",
+    "titleSlug": "minimum-levels-to-gain-more-points",
+    "difficulty": "Medium",
+    "acRate": 39.40901111761264,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Rounds to Complete All Tasks",
+        "titleSlug": "minimum-rounds-to-complete-all-tasks",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3147",
+    "title": "Taking Maximum Energy From the Mystic Dungeon",
+    "titleSlug": "taking-maximum-energy-from-the-mystic-dungeon",
+    "difficulty": "Medium",
+    "acRate": 41.43904398473589,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3224",
+    "title": "Minimum Array Changes to Make Differences Equal",
+    "titleSlug": "minimum-array-changes-to-make-differences-equal",
+    "difficulty": "Medium",
+    "acRate": 23.54444062300398,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbus SE",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3355",
+    "title": "Zero Array Transformation I",
+    "titleSlug": "zero-array-transformation-i",
+    "difficulty": "Medium",
+    "acRate": 54.410014319774106,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Zero Array Transformation IV",
+        "titleSlug": "zero-array-transformation-iv",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3361",
+    "title": "Shift Distance Between Two Strings",
+    "titleSlug": "shift-distance-between-two-strings",
+    "difficulty": "Medium",
+    "acRate": 52.9059101035251,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shifting Letters",
+        "titleSlug": "shifting-letters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shifting Letters II",
+        "titleSlug": "shifting-letters-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3364",
+    "title": "Minimum Positive Sum Subarray ",
+    "titleSlug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
+    "acRate": 44.462281160937586,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Size Subarray Sum",
+        "titleSlug": "minimum-size-subarray-sum",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3381",
+    "title": "Maximum Subarray Sum With Length Divisible by K",
+    "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k",
+    "difficulty": "Medium",
+    "acRate": 27.37159862125072,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Subarray Sums Divisible by K",
+        "titleSlug": "subarray-sums-divisible-by-k",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3427",
+    "title": "Sum of Variable Length Subarrays",
+    "titleSlug": "sum-of-variable-length-subarrays",
+    "difficulty": "Easy",
+    "acRate": 85.25763530811669,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query - Immutable",
+        "titleSlug": "range-sum-query-immutable",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+        "titleSlug": "maximum-sum-of-3-non-overlapping-subarrays",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3432",
+    "title": "Count Partitions with Even Sum Difference",
+    "titleSlug": "count-partitions-with-even-sum-difference",
+    "difficulty": "Easy",
+    "acRate": 73.53825893057572,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3540",
+    "title": "Minimum Time to Visit All Houses",
+    "titleSlug": "minimum-time-to-visit-all-houses",
+    "difficulty": "Medium",
+    "acRate": 67.46987951807229,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3652",
+    "title": "Best Time to Buy and Sell Stock using Strategy",
+    "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
+    "difficulty": "Medium",
+    "acRate": 37.26137481451842,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

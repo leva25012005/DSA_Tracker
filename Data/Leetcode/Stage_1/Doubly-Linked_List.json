@@ -1,0 +1,58 @@
+[
+  {
+    "questionFrontendId": "3263",
+    "title": "Convert Doubly Linked List to Array I",
+    "titleSlug": "convert-doubly-linked-list-to-array-i",
+    "difficulty": "Easy",
+    "acRate": 94.7448275862069,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3294",
+    "title": "Convert Doubly Linked List to Array II",
+    "titleSlug": "convert-doubly-linked-list-to-array-ii",
+    "difficulty": "Medium",
+    "acRate": 81.36906683887634,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": "Easy"
+      }
+    ]
+  }
+]

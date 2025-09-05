@@ -1,0 +1,70 @@
+[
+  {
+    "questionFrontendId": "192",
+    "title": "Word Frequency",
+    "titleSlug": "word-frequency",
+    "difficulty": "Medium",
+    "acRate": 27.502000600180054,
+    "topicTags": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Top K Frequent Elements",
+        "titleSlug": "top-k-frequent-elements",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "193",
+    "title": "Valid Phone Numbers",
+    "titleSlug": "valid-phone-numbers",
+    "difficulty": "Easy",
+    "acRate": 27.88073745662132,
+    "topicTags": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 55.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "194",
+    "title": "Transpose File",
+    "titleSlug": "transpose-file",
+    "difficulty": "Medium",
+    "acRate": 28.93822409832395,
+    "topicTags": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "195",
+    "title": "Tenth Line",
+    "titleSlug": "tenth-line",
+    "difficulty": "Easy",
+    "acRate": 34.95762334746313,
+    "topicTags": [
+      {
+        "name": "Shell",
+        "slug": "shell"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

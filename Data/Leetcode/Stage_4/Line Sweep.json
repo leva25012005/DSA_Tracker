@@ -1,0 +1,232 @@
+[
+  {
+    "questionFrontendId": "391",
+    "title": "Perfect Rectangle",
+    "titleSlug": "perfect-rectangle",
+    "difficulty": "Hard",
+    "acRate": 35.74041019768969,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      },
+      {
+        "name": "Line Sweep",
+        "slug": "line-sweep"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "759",
+    "title": "Employee Free Time",
+    "titleSlug": "employee-free-time",
+    "difficulty": "Hard",
+    "acRate": 72.61464433713483,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Line Sweep",
+        "slug": "line-sweep"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Interval List Intersections",
+        "titleSlug": "interval-list-intersections",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 74.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "GE Healthcare",
+        "frequency": 64.9
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 48.3
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "986",
+    "title": "Interval List Intersections",
+    "titleSlug": "interval-list-intersections",
+    "difficulty": "Medium",
+    "acRate": 72.77763199292173,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Line Sweep",
+        "slug": "line-sweep"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Employee Free Time",
+        "titleSlug": "employee-free-time",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Matching of Players With Trainers",
+        "titleSlug": "maximum-matching-of-players-with-trainers",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 51.8
+      },
+      {
+        "name": "Mixpanel",
+        "frequency": 100.0
+      },
+      {
+        "name": "Nuro",
+        "frequency": 64.8
+      },
+      {
+        "name": "Verkada",
+        "frequency": 84.4
+      },
+      {
+        "name": "Yandex",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1851",
+    "title": "Minimum Interval to Include Each Query",
+    "titleSlug": "minimum-interval-to-include-each-query",
+    "difficulty": "Hard",
+    "acRate": 52.818377314477324,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Line Sweep",
+        "slug": "line-sweep"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Flowers in Full Bloom",
+        "titleSlug": "number-of-flowers-in-full-bloom",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3454",
+    "title": "Separate Squares II",
+    "titleSlug": "separate-squares-ii",
+    "difficulty": "Hard",
+    "acRate": 19.971355824315722,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Line Sweep",
+        "slug": "line-sweep"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rectangle Area II",
+        "titleSlug": "rectangle-area-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  }
+]

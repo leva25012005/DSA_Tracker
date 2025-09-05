@@ -1,0 +1,474 @@
+[
+  {
+    "questionFrontendId": "173",
+    "title": "Binary Search Tree Iterator",
+    "titleSlug": "binary-search-tree-iterator",
+    "difficulty": "Medium",
+    "acRate": 75.37181774055635,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Inorder Traversal",
+        "titleSlug": "binary-tree-inorder-traversal",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Flatten 2D Vector",
+        "titleSlug": "flatten-2d-vector",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Zigzag Iterator",
+        "titleSlug": "zigzag-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Peeking Iterator",
+        "titleSlug": "peeking-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Inorder Successor in BST",
+        "titleSlug": "inorder-successor-in-bst",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Search Tree Iterator II",
+        "titleSlug": "binary-search-tree-iterator-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 50.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 55.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "251",
+    "title": "Flatten 2D Vector",
+    "titleSlug": "flatten-2d-vector",
+    "difficulty": "Medium",
+    "acRate": 50.2499848548021,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Zigzag Iterator",
+        "titleSlug": "zigzag-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Peeking Iterator",
+        "titleSlug": "peeking-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 89.9
+      },
+      {
+        "name": "Google",
+        "frequency": 23.8
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "281",
+    "title": "Zigzag Iterator",
+    "titleSlug": "zigzag-iterator",
+    "difficulty": "Medium",
+    "acRate": 65.974438925794,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten 2D Vector",
+        "titleSlug": "flatten-2d-vector",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Peeking Iterator",
+        "titleSlug": "peeking-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten Nested List Iterator",
+        "titleSlug": "flatten-nested-list-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Merge Strings Alternately",
+        "titleSlug": "merge-strings-alternately",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coinbase",
+        "frequency": 96.4
+      },
+      {
+        "name": "Google",
+        "frequency": 25.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "284",
+    "title": "Peeking Iterator",
+    "titleSlug": "peeking-iterator",
+    "difficulty": "Medium",
+    "acRate": 60.60420253874184,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flatten 2D Vector",
+        "titleSlug": "flatten-2d-vector",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Zigzag Iterator",
+        "titleSlug": "zigzag-iterator",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 23.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "341",
+    "title": "Flatten Nested List Iterator",
+    "titleSlug": "flatten-nested-list-iterator",
+    "difficulty": "Medium",
+    "acRate": 65.34850376948337,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Flatten 2D Vector",
+        "titleSlug": "flatten-2d-vector",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Zigzag Iterator",
+        "titleSlug": "zigzag-iterator",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Mini Parser",
+        "titleSlug": "mini-parser",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Array Nesting",
+        "titleSlug": "array-nesting",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 36.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 54.9
+      },
+      {
+        "name": "Mixpanel",
+        "frequency": 100.0
+      },
+      {
+        "name": "Netflix",
+        "frequency": 75.8
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 85.4
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Warnermedia",
+        "frequency": 69.7
+      },
+      {
+        "name": "X",
+        "frequency": 96.3
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "604",
+    "title": "Design Compressed String Iterator",
+    "titleSlug": "design-compressed-string-iterator",
+    "difficulty": "Easy",
+    "acRate": 40.195974238527434,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "LRU Cache",
+        "titleSlug": "lru-cache",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "String Compression",
+        "titleSlug": "string-compression",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "900",
+    "title": "RLE Iterator",
+    "titleSlug": "rle-iterator",
+    "difficulty": "Medium",
+    "acRate": 58.94571553535194,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1286",
+    "title": "Iterator for Combination",
+    "titleSlug": "iterator-for-combination",
+    "difficulty": "Medium",
+    "acRate": 72.56862173294937,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1586",
+    "title": "Binary Search Tree Iterator II",
+    "titleSlug": "binary-search-tree-iterator-ii",
+    "difficulty": "Medium",
+    "acRate": 63.30278732340589,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Iterator",
+        "slug": "iterator"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Search Tree Iterator",
+        "titleSlug": "binary-search-tree-iterator",
+        "difficulty": "Medium"
+      }
+    ]
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "questionFrontendId": "382",
+    "title": "Linked List Random Node",
+    "titleSlug": "linked-list-random-node",
+    "difficulty": "Medium",
+    "acRate": 64.16373295630525,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Reservoir Sampling",
+        "slug": "reservoir-sampling"
+      },
+      {
+        "name": "Randomized",
+        "slug": "randomized"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Random Pick Index",
+        "titleSlug": "random-pick-index",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "398",
+    "title": "Random Pick Index",
+    "titleSlug": "random-pick-index",
+    "difficulty": "Medium",
+    "acRate": 64.67829709090095,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Reservoir Sampling",
+        "slug": "reservoir-sampling"
+      },
+      {
+        "name": "Randomized",
+        "slug": "randomized"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Linked List Random Node",
+        "titleSlug": "linked-list-random-node",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Random Pick with Blacklist",
+        "titleSlug": "random-pick-with-blacklist",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Random Pick with Weight",
+        "titleSlug": "random-pick-with-weight",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "497",
+    "title": "Random Point in Non-overlapping Rectangles",
+    "titleSlug": "random-point-in-non-overlapping-rectangles",
+    "difficulty": "Medium",
+    "acRate": 38.448449960642755,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Reservoir Sampling",
+        "slug": "reservoir-sampling"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      },
+      {
+        "name": "Randomized",
+        "slug": "randomized"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Random Pick with Weight",
+        "titleSlug": "random-pick-with-weight",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Generate Random Point in a Circle",
+        "titleSlug": "generate-random-point-in-a-circle",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "519",
+    "title": "Random Flip Matrix",
+    "titleSlug": "random-flip-matrix",
+    "difficulty": "Medium",
+    "acRate": 44.07053637031594,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Reservoir Sampling",
+        "slug": "reservoir-sampling"
+      },
+      {
+        "name": "Randomized",
+        "slug": "randomized"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

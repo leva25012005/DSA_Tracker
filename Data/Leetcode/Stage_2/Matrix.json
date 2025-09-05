@@ -1,0 +1,5819 @@
+[
+  {
+    "questionFrontendId": "36",
+    "title": "Valid Sudoku",
+    "titleSlug": "valid-sudoku",
+    "difficulty": "Medium",
+    "acRate": 62.667140888541,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sudoku Solver",
+        "titleSlug": "sudoku-solver",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 49.0
+      },
+      {
+        "name": "Amazon",
+        "frequency": 61.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 71.6
+      },
+      {
+        "name": "Attentive",
+        "frequency": 56.2
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 48.7
+      },
+      {
+        "name": "Confluent",
+        "frequency": 87.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "Geico",
+        "frequency": 81.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 19.1
+      },
+      {
+        "name": "Instacart",
+        "frequency": 60.1
+      },
+      {
+        "name": "Karat",
+        "frequency": 55.4
+      },
+      {
+        "name": "Media.net",
+        "frequency": 55.5
+      },
+      {
+        "name": "Meta",
+        "frequency": 37.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 50.2
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 71.1
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 25.3
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Riot Games",
+        "frequency": 91.8
+      },
+      {
+        "name": "Samsara",
+        "frequency": 85.1
+      },
+      {
+        "name": "Snap",
+        "frequency": 84.9
+      },
+      {
+        "name": "TikTok",
+        "frequency": 29.3
+      },
+      {
+        "name": "Uber",
+        "frequency": 68.7
+      },
+      {
+        "name": "Veeva Systems",
+        "frequency": 89.0
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 66.5
+      },
+      {
+        "name": "Waymo",
+        "frequency": 62.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      },
+      {
+        "name": "Zoho",
+        "frequency": 65.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "37",
+    "title": "Sudoku Solver",
+    "titleSlug": "sudoku-solver",
+    "difficulty": "Hard",
+    "acRate": 64.1283370733748,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Sudoku",
+        "titleSlug": "valid-sudoku",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Paths III",
+        "titleSlug": "unique-paths-iii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 37.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 42.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 27.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 46.4
+      },
+      {
+        "name": "Cadence",
+        "frequency": 100.0
+      },
+      {
+        "name": "Citadel",
+        "frequency": 61.1
+      },
+      {
+        "name": "Confluent",
+        "frequency": 81.2
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 39.7
+      },
+      {
+        "name": "Intuit",
+        "frequency": 84.1
+      },
+      {
+        "name": "LINE",
+        "frequency": 83.7
+      },
+      {
+        "name": "Meta",
+        "frequency": 30.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 48.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 39.7
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "Riot Games",
+        "frequency": 82.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "Uber",
+        "frequency": 53.3
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "48",
+    "title": "Rotate Image",
+    "titleSlug": "rotate-image",
+    "difficulty": "Medium",
+    "acRate": 78.43119157860194,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+        "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Adobe",
+        "frequency": 55.1
+      },
+      {
+        "name": "Amazon",
+        "frequency": 63.9
+      },
+      {
+        "name": "AMD",
+        "frequency": 100.0
+      },
+      {
+        "name": "Apple",
+        "frequency": 67.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 65.6
+      },
+      {
+        "name": "Capital One",
+        "frequency": 73.4
+      },
+      {
+        "name": "Cisco",
+        "frequency": 84.8
+      },
+      {
+        "name": "ConsultAdd",
+        "frequency": 100.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Google",
+        "frequency": 57.8
+      },
+      {
+        "name": "IBM",
+        "frequency": 81.1
+      },
+      {
+        "name": "Infosys",
+        "frequency": 67.9
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 70.4
+      },
+      {
+        "name": "Mastercard",
+        "frequency": 75.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 47.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 67.7
+      },
+      {
+        "name": "Netflix",
+        "frequency": 48.3
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 63.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 48.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 74.2
+      },
+      {
+        "name": "Rakuten",
+        "frequency": 100.0
+      },
+      {
+        "name": "Roblox",
+        "frequency": 59.8
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 85.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 59.3
+      },
+      {
+        "name": "WatchGuard",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 64.6
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 78.8
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "63",
+    "title": "Unique Paths II",
+    "titleSlug": "unique-paths-ii",
+    "difficulty": "Medium",
+    "acRate": 43.49166195813988,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Paths III",
+        "titleSlug": "unique-paths-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Path Cost in a Grid",
+        "titleSlug": "minimum-path-cost-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Agoda",
+        "frequency": 82.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 35.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 15.2
+      },
+      {
+        "name": "athenahealth",
+        "frequency": 64.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 45.1
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Coupang",
+        "frequency": 80.5
+      },
+      {
+        "name": "Cruise",
+        "frequency": 74.0
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Meta",
+        "frequency": 34.5
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 24.1
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 56.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "64",
+    "title": "Minimum Path Sum",
+    "titleSlug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "acRate": 66.97750266957496,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Cherry Pickup",
+        "titleSlug": "cherry-pickup",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Path Cost in a Grid",
+        "titleSlug": "minimum-path-cost-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Points with Cost",
+        "titleSlug": "maximum-number-of-points-with-cost",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if There is a Path With Equal Number of 0's And 1's",
+        "titleSlug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost of a Path With Special Roads",
+        "titleSlug": "minimum-cost-of-a-path-with-special-roads",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Amazon",
+        "frequency": 44.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 34.5
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 27.8
+      },
+      {
+        "name": "Dream11",
+        "frequency": 62.8
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "General Motors",
+        "frequency": 64.4
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 62.4
+      },
+      {
+        "name": "Google",
+        "frequency": 40.7
+      },
+      {
+        "name": "Meta",
+        "frequency": 22.3
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 58.1
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 64.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 47.6
+      },
+      {
+        "name": "Uber",
+        "frequency": 38.9
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "73",
+    "title": "Set Matrix Zeroes",
+    "titleSlug": "set-matrix-zeroes",
+    "difficulty": "Medium",
+    "acRate": 61.32097790062544,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Game of Life",
+        "titleSlug": "game-of-life",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Laser Beams in a Bank",
+        "titleSlug": "number-of-laser-beams-in-a-bank",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Remove All Ones With Row and Column Flips II",
+        "titleSlug": "remove-all-ones-with-row-and-column-flips-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 59.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 58.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 40.0
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 57.2
+      },
+      {
+        "name": "eBay",
+        "frequency": 70.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 71.3
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "Juspay",
+        "frequency": 68.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 51.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 62.9
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 60.4
+      },
+      {
+        "name": "tcs",
+        "frequency": 43.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 38.9
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 48.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "74",
+    "title": "Search a 2D Matrix",
+    "titleSlug": "search-a-2d-matrix",
+    "difficulty": "Medium",
+    "acRate": 52.736750851872024,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Search a 2D Matrix II",
+        "titleSlug": "search-a-2d-matrix-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split Message Based on Limit",
+        "titleSlug": "split-message-based-on-limit",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Adobe",
+        "frequency": 33.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 56.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 42.2
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 52.6
+      },
+      {
+        "name": "Cisco",
+        "frequency": 45.3
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 43.8
+      },
+      {
+        "name": "Google",
+        "frequency": 43.5
+      },
+      {
+        "name": "Grab",
+        "frequency": 61.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 43.3
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 50.9
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 75.0
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "79",
+    "title": "Word Search",
+    "titleSlug": "word-search",
+    "difficulty": "Medium",
+    "acRate": 45.79000417620427,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Search II",
+        "titleSlug": "word-search-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 33.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 63.6
+      },
+      {
+        "name": "Apple",
+        "frequency": 42.2
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 42.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 74.2
+      },
+      {
+        "name": "Capital One",
+        "frequency": 54.8
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Epic Systems",
+        "frequency": 65.3
+      },
+      {
+        "name": "Faire",
+        "frequency": 100.0
+      },
+      {
+        "name": "FreshWorks",
+        "frequency": 87.8
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 39.5
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 66.8
+      },
+      {
+        "name": "Karat",
+        "frequency": 86.1
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 48.3
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 60.6
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Netflix",
+        "frequency": 57.2
+      },
+      {
+        "name": "Oracle",
+        "frequency": 57.3
+      },
+      {
+        "name": "PayPal",
+        "frequency": 75.5
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "Samsung",
+        "frequency": 54.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 69.7
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      },
+      {
+        "name": "TikTok",
+        "frequency": 76.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 73.2
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 78.1
+      },
+      {
+        "name": "Wix",
+        "frequency": 56.6
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "174",
+    "title": "Dungeon Game",
+    "titleSlug": "dungeon-game",
+    "difficulty": "Hard",
+    "acRate": 39.88564083242836,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Cherry Pickup",
+        "titleSlug": "cherry-pickup",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Path Cost in a Grid",
+        "titleSlug": "minimum-path-cost-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Health to Beat Game",
+        "titleSlug": "minimum-health-to-beat-game",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check if There is a Path With Equal Number of 0's And 1's",
+        "titleSlug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 58.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "221",
+    "title": "Maximal Square",
+    "titleSlug": "maximal-square",
+    "difficulty": "Medium",
+    "acRate": 49.210913916724806,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximal Rectangle",
+        "titleSlug": "maximal-rectangle",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Largest Plus Sign",
+        "titleSlug": "largest-plus-sign",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Artifacts That Can Be Extracted",
+        "titleSlug": "count-artifacts-that-can-be-extracted",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Stamping the Grid",
+        "titleSlug": "stamping-the-grid",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximize Area of Square Hole in Grid",
+        "titleSlug": "maximize-area-of-square-hole-in-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 70.4
+      },
+      {
+        "name": "BharatPe",
+        "frequency": 100.0
+      },
+      {
+        "name": "Booking.com",
+        "frequency": 66.4
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 55.7
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "GSA Capital",
+        "frequency": 93.3
+      },
+      {
+        "name": "Karat",
+        "frequency": 55.4
+      },
+      {
+        "name": "Myntra",
+        "frequency": 59.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 51.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 71.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 54.3
+      },
+      {
+        "name": "SAP",
+        "frequency": 69.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 74.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wise",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "240",
+    "title": "Search a 2D Matrix II",
+    "titleSlug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "acRate": 55.82648092161019,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Search a 2D Matrix",
+        "titleSlug": "search-a-2d-matrix",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 59.6
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 78.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "286",
+    "title": "Walls and Gates",
+    "titleSlug": "walls-and-gates",
+    "difficulty": "Medium",
+    "acRate": 63.18971318698926,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Surrounded Regions",
+        "titleSlug": "surrounded-regions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Distance from All Buildings",
+        "titleSlug": "shortest-distance-from-all-buildings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Battleships in a Board",
+        "titleSlug": "battleships-in-a-board",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Robot Room Cleaner",
+        "titleSlug": "robot-room-cleaner",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Rotting Oranges",
+        "titleSlug": "rotting-oranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Houses at a Certain Distance I",
+        "titleSlug": "count-the-number-of-houses-at-a-certain-distance-i",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Houses at a Certain Distance II",
+        "titleSlug": "count-the-number-of-houses-at-a-certain-distance-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 100.0
+      },
+      {
+        "name": "Google",
+        "frequency": 29.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Shopify",
+        "frequency": 53.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Spotify",
+        "frequency": 55.3
+      },
+      {
+        "name": "Visa",
+        "frequency": 64.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "296",
+    "title": "Best Meeting Point",
+    "titleSlug": "best-meeting-point",
+    "difficulty": "Hard",
+    "acRate": 61.239832065074786,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Distance from All Buildings",
+        "titleSlug": "shortest-distance-from-all-buildings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Moves to Equal Array Elements II",
+        "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Applied Intuition",
+        "frequency": 89.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 55.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "X",
+        "frequency": 91.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "302",
+    "title": "Smallest Rectangle Enclosing Black Pixels",
+    "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+    "difficulty": "Hard",
+    "acRate": 60.68039855620637,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Minimum Area to Cover All Ones II",
+        "titleSlug": "find-the-minimum-area-to-cover-all-ones-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find the Minimum Area to Cover All Ones I",
+        "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "311",
+    "title": "Sparse Matrix Multiplication",
+    "titleSlug": "sparse-matrix-multiplication",
+    "difficulty": "Medium",
+    "acRate": 69.01245012333433,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 53.4
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 59.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "317",
+    "title": "Shortest Distance from All Buildings",
+    "titleSlug": "shortest-distance-from-all-buildings",
+    "difficulty": "Hard",
+    "acRate": 44.57689646242735,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Best Meeting Point",
+        "titleSlug": "best-meeting-point",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "As Far from Land as Possible",
+        "titleSlug": "as-far-from-land-as-possible",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Applied Intuition",
+        "frequency": 89.0
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 65.1
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 72.9
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Waymo",
+        "frequency": 71.1
+      },
+      {
+        "name": "Wix",
+        "frequency": 46.6
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "361",
+    "title": "Bomb Enemy",
+    "titleSlug": "bomb-enemy",
+    "difficulty": "Medium",
+    "acRate": 52.70536990403593,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Stamping the Grid",
+        "titleSlug": "stamping-the-grid",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Unguarded Cells in the Grid",
+        "titleSlug": "count-unguarded-cells-in-the-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Trailing Zeros in a Cornered Path",
+        "titleSlug": "maximum-trailing-zeros-in-a-cornered-path",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "417",
+    "title": "Pacific Atlantic Water Flow",
+    "titleSlug": "pacific-atlantic-water-flow",
+    "difficulty": "Medium",
+    "acRate": 57.975538279314385,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 79.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "419",
+    "title": "Battleships in a Board",
+    "titleSlug": "battleships-in-a-board",
+    "difficulty": "Medium",
+    "acRate": 76.79244540387357,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Rotting Oranges",
+        "titleSlug": "rotting-oranges",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Microstrategy",
+        "frequency": 65.6
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 75.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "422",
+    "title": "Valid Word Square",
+    "titleSlug": "valid-word-square",
+    "difficulty": "Easy",
+    "acRate": 42.06602972805657,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Squares",
+        "titleSlug": "word-squares",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Toeplitz Matrix",
+        "titleSlug": "toeplitz-matrix",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "427",
+    "title": "Construct Quad Tree",
+    "titleSlug": "construct-quad-tree",
+    "difficulty": "Medium",
+    "acRate": 77.47463072264534,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Palantir Technologies",
+        "frequency": 59.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "463",
+    "title": "Island Perimeter",
+    "titleSlug": "island-perimeter",
+    "difficulty": "Easy",
+    "acRate": 73.7512586297319,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Flood Fill",
+        "titleSlug": "flood-fill",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Coloring A Border",
+        "titleSlug": "coloring-a-border",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cadence",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "490",
+    "title": "The Maze",
+    "titleSlug": "the-maze",
+    "difficulty": "Medium",
+    "acRate": 59.731541606541604,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Maze III",
+        "titleSlug": "the-maze-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "The Maze II",
+        "titleSlug": "the-maze-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Block",
+        "frequency": 60.0
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "529",
+    "title": "Minesweeper",
+    "titleSlug": "minesweeper",
+    "difficulty": "Medium",
+    "acRate": 68.29235288880976,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Detonate the Maximum Bombs",
+        "titleSlug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "Applied Intuition",
+        "frequency": 96.9
+      },
+      {
+        "name": "Robinhood",
+        "frequency": 62.1
+      },
+      {
+        "name": "Yext",
+        "frequency": 90.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "531",
+    "title": "Lonely Pixel I",
+    "titleSlug": "lonely-pixel-i",
+    "difficulty": "Medium",
+    "acRate": 62.49581037418386,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lonely Pixel II",
+        "titleSlug": "lonely-pixel-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "533",
+    "title": "Lonely Pixel II",
+    "titleSlug": "lonely-pixel-ii",
+    "difficulty": "Medium",
+    "acRate": 48.72879886233568,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lonely Pixel I",
+        "titleSlug": "lonely-pixel-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "542",
+    "title": "01 Matrix",
+    "titleSlug": "01-matrix",
+    "difficulty": "Medium",
+    "acRate": 52.220317439796524,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Path to Get Food",
+        "titleSlug": "shortest-path-to-get-food",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Remove Adjacent Ones in Matrix",
+        "titleSlug": "minimum-operations-to-remove-adjacent-ones-in-matrix",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "titleSlug": "difference-between-ones-and-zeros-in-row-and-column",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 47.9
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Graviton",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "562",
+    "title": "Longest Line of Consecutive One in Matrix",
+    "titleSlug": "longest-line-of-consecutive-one-in-matrix",
+    "difficulty": "Medium",
+    "acRate": 50.528567992201246,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "568",
+    "title": "Maximum Vacation Days",
+    "titleSlug": "maximum-vacation-days",
+    "difficulty": "Hard",
+    "acRate": 46.48351396032329,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cheapest Flights Within K Stops",
+        "titleSlug": "cheapest-flights-within-k-stops",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Datadog",
+        "frequency": 68.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "661",
+    "title": "Image Smoother",
+    "titleSlug": "image-smoother",
+    "difficulty": "Easy",
+    "acRate": 68.58897928860057,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Toptal",
+        "frequency": 68.7
+      },
+      {
+        "name": "Verkada",
+        "frequency": 63.8
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "733",
+    "title": "Flood Fill",
+    "titleSlug": "flood-fill",
+    "difficulty": "Easy",
+    "acRate": 67.00816795180855,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Island Perimeter",
+        "titleSlug": "island-perimeter",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 57.7
+      },
+      {
+        "name": "Criteo",
+        "frequency": 81.2
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 53.9
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 45.4
+      },
+      {
+        "name": "Sumo Logic",
+        "frequency": 66.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "741",
+    "title": "Cherry Pickup",
+    "titleSlug": "cherry-pickup",
+    "difficulty": "Hard",
+    "acRate": 38.25851153063921,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Path Quality of a Graph",
+        "titleSlug": "maximum-path-quality-of-a-graph",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      },
+      {
+        "name": "Cisco",
+        "frequency": 56.3
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "Zomato",
+        "frequency": 76.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "750",
+    "title": "Number Of Corner Rectangles",
+    "titleSlug": "number-of-corner-rectangles",
+    "difficulty": "Medium",
+    "acRate": 67.82825880114177,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "766",
+    "title": "Toeplitz Matrix",
+    "titleSlug": "toeplitz-matrix",
+    "difficulty": "Easy",
+    "acRate": 69.40572425898725,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Word Square",
+        "titleSlug": "valid-word-square",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "tcs",
+        "frequency": 43.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "794",
+    "title": "Valid Tic-Tac-Toe State",
+    "titleSlug": "valid-tic-tac-toe-state",
+    "difficulty": "Medium",
+    "acRate": 34.65497850174085,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Tic-Tac-Toe",
+        "titleSlug": "design-tic-tac-toe",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "807",
+    "title": "Max Increase to Keep City Skyline",
+    "titleSlug": "max-increase-to-keep-city-skyline",
+    "difficulty": "Medium",
+    "acRate": 86.27798958148969,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Rivian",
+        "frequency": 88.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "835",
+    "title": "Image Overlap",
+    "titleSlug": "image-overlap",
+    "difficulty": "Medium",
+    "acRate": 63.82494991301508,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "840",
+    "title": "Magic Squares In Grid",
+    "titleSlug": "magic-squares-in-grid",
+    "difficulty": "Medium",
+    "acRate": 51.52054704360206,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Largest Magic Square",
+        "titleSlug": "largest-magic-square",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "909",
+    "title": "Snakes and Ladders",
+    "titleSlug": "snakes-and-ladders",
+    "difficulty": "Medium",
+    "acRate": 47.96020072726853,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Profitable Path in a Tree",
+        "titleSlug": "most-profitable-path-in-a-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "Cisco",
+        "frequency": 66.8
+      },
+      {
+        "name": "National Instruments",
+        "frequency": 66.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 71.6
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "931",
+    "title": "Minimum Falling Path Sum",
+    "titleSlug": "minimum-falling-path-sum",
+    "difficulty": "Medium",
+    "acRate": 60.99208012780566,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Falling Path Sum II",
+        "titleSlug": "minimum-falling-path-sum-ii",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dream11",
+        "frequency": 62.8
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "934",
+    "title": "Shortest Bridge",
+    "titleSlug": "shortest-bridge",
+    "difficulty": "Medium",
+    "acRate": 58.87928186814075,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Operations to Make X and Y Equal",
+        "titleSlug": "minimum-number-of-operations-to-make-x-and-y-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 70.2
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 97.5
+      },
+      {
+        "name": "McKinsey",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "994",
+    "title": "Rotting Oranges",
+    "titleSlug": "rotting-oranges",
+    "difficulty": "Medium",
+    "acRate": 57.20895707559767,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Battleships in a Board",
+        "titleSlug": "battleships-in-a-board",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Detonate the Maximum Bombs",
+        "titleSlug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Escape the Spreading Fire",
+        "titleSlug": "escape-the-spreading-fire",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "Deutsche Bank",
+        "frequency": 51.7
+      },
+      {
+        "name": "Docusign",
+        "frequency": 84.8
+      },
+      {
+        "name": "DP world",
+        "frequency": 100.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 64.2
+      },
+      {
+        "name": "Informatica",
+        "frequency": 100.0
+      },
+      {
+        "name": "Intuit",
+        "frequency": 81.2
+      },
+      {
+        "name": "Lyft",
+        "frequency": 100.0
+      },
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 73.0
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 66.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      },
+      {
+        "name": "Wix",
+        "frequency": 81.1
+      },
+      {
+        "name": "X",
+        "frequency": 47.6
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      },
+      {
+        "name": "ZipRecruiter",
+        "frequency": 92.7
+      },
+      {
+        "name": "Zoox",
+        "frequency": 58.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1034",
+    "title": "Coloring A Border",
+    "titleSlug": "coloring-a-border",
+    "difficulty": "Medium",
+    "acRate": 50.20785838809173,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Island Perimeter",
+        "titleSlug": "island-perimeter",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Booking.com",
+        "frequency": 85.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1072",
+    "title": "Flip Columns For Maximum Number of Equal Rows",
+    "titleSlug": "flip-columns-for-maximum-number-of-equal-rows",
+    "difficulty": "Medium",
+    "acRate": 78.56163226699996,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1074",
+    "title": "Number of Submatrices That Sum to Target",
+    "titleSlug": "number-of-submatrices-that-sum-to-target",
+    "difficulty": "Hard",
+    "acRate": 74.5160942954315,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+        "titleSlug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 55.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1091",
+    "title": "Shortest Path in Binary Matrix",
+    "titleSlug": "shortest-path-in-binary-matrix",
+    "difficulty": "Medium",
+    "acRate": 50.33046635533185,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 36.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1139",
+    "title": "Largest 1-Bordered Square",
+    "titleSlug": "largest-1-bordered-square",
+    "difficulty": "Medium",
+    "acRate": 51.40455577036228,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      },
+      {
+        "name": "ZS Associates",
+        "frequency": 88.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1162",
+    "title": "As Far from Land as Possible",
+    "titleSlug": "as-far-from-land-as-possible",
+    "difficulty": "Medium",
+    "acRate": 51.9198694434879,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Distance from All Buildings",
+        "titleSlug": "shortest-distance-from-all-buildings",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "K Highest Ranked Items Within a Price Range",
+        "titleSlug": "k-highest-ranked-items-within-a-price-range",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Manhattan Distance After K Changes",
+        "titleSlug": "maximum-manhattan-distance-after-k-changes",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "UiPath",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wix",
+        "frequency": 63.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1198",
+    "title": "Find Smallest Common Element in All Rows",
+    "titleSlug": "find-smallest-common-element-in-all-rows",
+    "difficulty": "Medium",
+    "acRate": 76.77700648270323,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Intersection of Multiple Arrays",
+        "titleSlug": "intersection-of-multiple-arrays",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1210",
+    "title": "Minimum Moves to Reach Target with Rotations",
+    "titleSlug": "minimum-moves-to-reach-target-with-rotations",
+    "difficulty": "Hard",
+    "acRate": 50.96973713275899,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Kakao",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1219",
+    "title": "Path with Maximum Gold",
+    "titleSlug": "path-with-maximum-gold",
+    "difficulty": "Medium",
+    "acRate": 68.16194960592713,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Geico",
+        "frequency": 69.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1253",
+    "title": "Reconstruct a 2-Row Binary Matrix",
+    "titleSlug": "reconstruct-a-2-row-binary-matrix",
+    "difficulty": "Medium",
+    "acRate": 48.06160938809723,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Valid Matrix Given Row and Column Sums",
+        "titleSlug": "find-valid-matrix-given-row-and-column-sums",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "American Express",
+        "frequency": 55.9
+      },
+      {
+        "name": "Grab",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1277",
+    "title": "Count Square Submatrices with All Ones",
+    "titleSlug": "count-square-submatrices-with-all-ones",
+    "difficulty": "Medium",
+    "acRate": 80.59368931693542,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Fertile Pyramids in a Land",
+        "titleSlug": "count-fertile-pyramids-in-a-land",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Tinkoff",
+        "frequency": 67.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1289",
+    "title": "Minimum Falling Path Sum II",
+    "titleSlug": "minimum-falling-path-sum-ii",
+    "difficulty": "Hard",
+    "acRate": 63.58270429798033,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Falling Path Sum",
+        "titleSlug": "minimum-falling-path-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Roblox",
+        "frequency": 46.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1292",
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "titleSlug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "difficulty": "Medium",
+    "acRate": 53.634053722008154,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "IMC",
+        "frequency": 67.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1293",
+    "title": "Shortest Path in a Grid with Obstacles Elimination",
+    "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+    "difficulty": "Hard",
+    "acRate": 45.74732003887497,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Path to Get Food",
+        "titleSlug": "shortest-path-to-get-food",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Obstacle Removal to Reach Corner",
+        "titleSlug": "minimum-obstacle-removal-to-reach-corner",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Find a Safe Walk Through a Grid",
+        "titleSlug": "find-a-safe-walk-through-a-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AppFolio",
+        "frequency": 100.0
+      },
+      {
+        "name": "Databricks",
+        "frequency": 37.2
+      },
+      {
+        "name": "IMC",
+        "frequency": 54.3
+      },
+      {
+        "name": "Nuro",
+        "frequency": 73.6
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 93.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 69.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1301",
+    "title": "Number of Paths with Max Score",
+    "titleSlug": "number-of-paths-with-max-score",
+    "difficulty": "Hard",
+    "acRate": 41.341174192923866,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1314",
+    "title": "Matrix Block Sum",
+    "titleSlug": "matrix-block-sum",
+    "difficulty": "Medium",
+    "acRate": 76.0481375186398,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Stamping the Grid",
+        "titleSlug": "stamping-the-grid",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Sum of an Hourglass",
+        "titleSlug": "maximum-sum-of-an-hourglass",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Neighbor Sum Service",
+        "titleSlug": "design-neighbor-sum-service",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1329",
+    "title": "Sort the Matrix Diagonally",
+    "titleSlug": "sort-the-matrix-diagonally",
+    "difficulty": "Medium",
+    "acRate": 83.10108909379854,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort Matrix by Diagonals",
+        "titleSlug": "sort-matrix-by-diagonals",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1351",
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+    "difficulty": "Easy",
+    "acRate": 77.75549075463111,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Count of Positive Integer and Negative Integer",
+        "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1380",
+    "title": "Lucky Numbers in a Matrix",
+    "titleSlug": "lucky-numbers-in-a-matrix",
+    "difficulty": "Easy",
+    "acRate": 79.9265262947239,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 84.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1463",
+    "title": "Cherry Pickup II",
+    "titleSlug": "cherry-pickup-ii",
+    "difficulty": "Hard",
+    "acRate": 72.09591845833576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 72.6
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 33.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1536",
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "titleSlug": "minimum-swaps-to-arrange-a-binary-grid",
+    "difficulty": "Medium",
+    "acRate": 48.31935092173529,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1572",
+    "title": "Matrix Diagonal Sum",
+    "titleSlug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
+    "acRate": 83.82467630905568,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if Matrix Is X-Matrix",
+        "titleSlug": "check-if-matrix-is-x-matrix",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1582",
+    "title": "Special Positions in a Binary Matrix",
+    "titleSlug": "special-positions-in-a-binary-matrix",
+    "difficulty": "Easy",
+    "acRate": 68.72011698063044,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "titleSlug": "difference-between-ones-and-zeros-in-row-and-column",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1594",
+    "title": "Maximum Non Negative Product in a Matrix",
+    "titleSlug": "maximum-non-negative-product-in-a-matrix",
+    "difficulty": "Medium",
+    "acRate": 35.09515243325127,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1605",
+    "title": "Find Valid Matrix Given Row and Column Sums",
+    "titleSlug": "find-valid-matrix-given-row-and-column-sums",
+    "difficulty": "Medium",
+    "acRate": 82.82317134176202,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reconstruct a 2-Row Binary Matrix",
+        "titleSlug": "reconstruct-a-2-row-binary-matrix",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1672",
+    "title": "Richest Customer Wealth",
+    "titleSlug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "acRate": 88.58412745098822,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1727",
+    "title": "Largest Submatrix With Rearrangements",
+    "titleSlug": "largest-submatrix-with-rearrangements",
+    "difficulty": "Medium",
+    "acRate": 75.1830851674269,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Directi",
+        "frequency": 100.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1730",
+    "title": "Shortest Path to Get Food",
+    "titleSlug": "shortest-path-to-get-food",
+    "difficulty": "Medium",
+    "acRate": 56.83922349427576,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "01 Matrix",
+        "titleSlug": "01-matrix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "titleSlug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Amount of Time for Binary Tree to Be Infected",
+        "titleSlug": "amount-of-time-for-binary-tree-to-be-infected",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1765",
+    "title": "Map of Highest Peak",
+    "titleSlug": "map-of-highest-peak",
+    "difficulty": "Medium",
+    "acRate": 75.29235033483724,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1861",
+    "title": "Rotating the Box",
+    "titleSlug": "rotating-the-box",
+    "difficulty": "Medium",
+    "acRate": 79.1704772968831,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Block",
+        "frequency": 100.0
+      },
+      {
+        "name": "Capital One",
+        "frequency": 66.1
+      },
+      {
+        "name": "Commvault",
+        "frequency": 62.2
+      },
+      {
+        "name": "Roblox",
+        "frequency": 56.2
+      },
+      {
+        "name": "Visa",
+        "frequency": 93.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1886",
+    "title": "Determine Whether Matrix Can Be Obtained By Rotation",
+    "titleSlug": "determine-whether-matrix-can-be-obtained-by-rotation",
+    "difficulty": "Easy",
+    "acRate": 58.47677945405129,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rotate Image",
+        "titleSlug": "rotate-image",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1895",
+    "title": "Largest Magic Square",
+    "titleSlug": "largest-magic-square",
+    "difficulty": "Medium",
+    "acRate": 52.70493376847764,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Magic Squares In Grid",
+        "titleSlug": "magic-squares-in-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Wayfair",
+        "frequency": 94.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1901",
+    "title": "Find a Peak Element II",
+    "titleSlug": "find-a-peak-element-ii",
+    "difficulty": "Medium",
+    "acRate": 53.649104213410304,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Peak Element",
+        "titleSlug": "find-peak-element",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Peaks",
+        "titleSlug": "find-the-peaks",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1926",
+    "title": "Nearest Exit from Entrance in Maze",
+    "titleSlug": "nearest-exit-from-entrance-in-maze",
+    "difficulty": "Medium",
+    "acRate": 47.818122600448085,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1937",
+    "title": "Maximum Number of Points with Cost",
+    "titleSlug": "maximum-number-of-points-with-cost",
+    "difficulty": "Medium",
+    "acRate": 42.02011332835227,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimize the Difference Between Target and Chosen Elements",
+        "titleSlug": "minimize-the-difference-between-target-and-chosen-elements",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1975",
+    "title": "Maximum Matrix Sum",
+    "titleSlug": "maximum-matrix-sum",
+    "difficulty": "Medium",
+    "acRate": 65.88282207509661,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Honeywell",
+        "frequency": 67.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1981",
+    "title": "Minimize the Difference Between Target and Chosen Elements",
+    "titleSlug": "minimize-the-difference-between-target-and-chosen-elements",
+    "difficulty": "Medium",
+    "acRate": 36.081294556059625,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Equal Subset Sum",
+        "titleSlug": "partition-equal-subset-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Subsequence Sum",
+        "titleSlug": "closest-subsequence-sum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Number of Points with Cost",
+        "titleSlug": "maximum-number-of-points-with-cost",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Deutsche Bank",
+        "frequency": 86.6
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 67.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1992",
+    "title": "Find All Groups of Farmland",
+    "titleSlug": "find-all-groups-of-farmland",
+    "difficulty": "Medium",
+    "acRate": 75.48453315571668,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Sub Islands",
+        "titleSlug": "count-sub-islands",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citrix",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2017",
+    "title": "Grid Game",
+    "titleSlug": "grid-game",
+    "difficulty": "Medium",
+    "acRate": 60.937115555814025,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Penalty for a Shop",
+        "titleSlug": "minimum-penalty-for-a-shop",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2033",
+    "title": "Minimum Operations to Make a Uni-Value Grid",
+    "titleSlug": "minimum-operations-to-make-a-uni-value-grid",
+    "difficulty": "Medium",
+    "acRate": 67.50232753339347,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Moves to Equal Array Elements II",
+        "titleSlug": "minimum-moves-to-equal-array-elements-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "EPAM Systems",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2088",
+    "title": "Count Fertile Pyramids in a Land",
+    "titleSlug": "count-fertile-pyramids-in-a-land",
+    "difficulty": "Hard",
+    "acRate": 65.92836691696829,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Square Submatrices with All Ones",
+        "titleSlug": "count-square-submatrices-with-all-ones",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Get Biggest Three Rhombus Sums in a Grid",
+        "titleSlug": "get-biggest-three-rhombus-sums-in-a-grid",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2125",
+    "title": "Number of Laser Beams in a Bank",
+    "titleSlug": "number-of-laser-beams-in-a-bank",
+    "difficulty": "Medium",
+    "acRate": 85.41689198512712,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Set Matrix Zeroes",
+        "titleSlug": "set-matrix-zeroes",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2132",
+    "title": "Stamping the Grid",
+    "titleSlug": "stamping-the-grid",
+    "difficulty": "Hard",
+    "acRate": 33.86614878996116,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximal Square",
+        "titleSlug": "maximal-square",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Bomb Enemy",
+        "titleSlug": "bomb-enemy",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Matrix Block Sum",
+        "titleSlug": "matrix-block-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 67.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2133",
+    "title": "Check if Every Row and Column Contains All Numbers",
+    "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+    "difficulty": "Easy",
+    "acRate": 53.17904664956218,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Sudoku",
+        "titleSlug": "valid-sudoku",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Matrix Diagonal Sum",
+        "titleSlug": "matrix-diagonal-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "First Completely Painted Row or Column",
+        "titleSlug": "first-completely-painted-row-or-column",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Indeed",
+        "frequency": 72.8
+      },
+      {
+        "name": "Instacart",
+        "frequency": 96.4
+      },
+      {
+        "name": "Karat",
+        "frequency": 89.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2245",
+    "title": "Maximum Trailing Zeros in a Cornered Path",
+    "titleSlug": "maximum-trailing-zeros-in-a-cornered-path",
+    "difficulty": "Medium",
+    "acRate": 36.7864950206461,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Factorial Trailing Zeroes",
+        "titleSlug": "factorial-trailing-zeroes",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Bomb Enemy",
+        "titleSlug": "bomb-enemy",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Abbreviating the Product of a Range",
+        "titleSlug": "abbreviating-the-product-of-a-range",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2258",
+    "title": "Escape the Spreading Fire",
+    "titleSlug": "escape-the-spreading-fire",
+    "difficulty": "Hard",
+    "acRate": 36.53773100042457,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rotting Oranges",
+        "titleSlug": "rotting-oranges",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Last Day Where You Can Still Cross",
+        "titleSlug": "last-day-where-you-can-still-cross",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Weighted Subgraph With the Required Paths",
+        "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Number of Points From Grid Queries",
+        "titleSlug": "maximum-number-of-points-from-grid-queries",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2267",
+    "title": " Check if There Is a Valid Parentheses String Path",
+    "titleSlug": "check-if-there-is-a-valid-parentheses-string-path",
+    "difficulty": "Hard",
+    "acRate": 39.601289697174046,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if There is a Valid Path in a Grid",
+        "titleSlug": "check-if-there-is-a-valid-path-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if a Parentheses String Can Be Valid",
+        "titleSlug": "check-if-a-parentheses-string-can-be-valid",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2304",
+    "title": "Minimum Path Cost in a Grid",
+    "titleSlug": "minimum-path-cost-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 67.48699299692153,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Paths II",
+        "titleSlug": "unique-paths-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Paint House",
+        "titleSlug": "paint-house",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2319",
+    "title": "Check if Matrix Is X-Matrix",
+    "titleSlug": "check-if-matrix-is-x-matrix",
+    "difficulty": "Easy",
+    "acRate": 65.76740103922528,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Matrix Diagonal Sum",
+        "titleSlug": "matrix-diagonal-sum",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2373",
+    "title": "Largest Local Values in a Matrix",
+    "titleSlug": "largest-local-values-in-a-matrix",
+    "difficulty": "Easy",
+    "acRate": 87.76158506631734,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "OpenAI",
+        "frequency": 53.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2387",
+    "title": "Median of a Row Wise Sorted Matrix",
+    "titleSlug": "median-of-a-row-wise-sorted-matrix",
+    "difficulty": "Medium",
+    "acRate": 70.16619375760033,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Median of Two Sorted Arrays",
+        "titleSlug": "median-of-two-sorted-arrays",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 77.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2428",
+    "title": "Maximum Sum of an Hourglass",
+    "titleSlug": "maximum-sum-of-an-hourglass",
+    "difficulty": "Medium",
+    "acRate": 75.99629858112277,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Matrix Block Sum",
+        "titleSlug": "matrix-block-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2435",
+    "title": "Paths in Matrix Whose Sum Is Divisible by K",
+    "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+    "difficulty": "Hard",
+    "acRate": 44.468799129278025,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Paths",
+        "titleSlug": "unique-paths",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Unique Paths II",
+        "titleSlug": "unique-paths-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Cherry Pickup",
+        "titleSlug": "cherry-pickup",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Shortest Path in Binary Matrix",
+        "titleSlug": "shortest-path-in-binary-matrix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Check if There is a Path With Equal Number of 0's And 1's",
+        "titleSlug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2510",
+    "title": "Check if There is a Path With Equal Number of 0's And 1's",
+    "titleSlug": "check-if-there-is-a-path-with-equal-number-of-0s-and-1s",
+    "difficulty": "Medium",
+    "acRate": 51.340530492600266,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Path Sum",
+        "titleSlug": "minimum-path-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Dungeon Game",
+        "titleSlug": "dungeon-game",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost Homecoming of a Robot in a Grid",
+        "titleSlug": "minimum-cost-homecoming-of-a-robot-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Matrix Whose Sum Is Divisible by K",
+        "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2536",
+    "title": "Increment Submatrices by One",
+    "titleSlug": "increment-submatrices-by-one",
+    "difficulty": "Medium",
+    "acRate": 52.611230695283275,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query 2D - Mutable",
+        "titleSlug": "range-sum-query-2d-mutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Positions on Street With Required Brightness",
+        "titleSlug": "count-positions-on-street-with-required-brightness",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2545",
+    "title": "Sort the Students by Their Kth Score",
+    "titleSlug": "sort-the-students-by-their-kth-score",
+    "difficulty": "Medium",
+    "acRate": 85.79519444710591,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Erect the Fence",
+        "titleSlug": "erect-the-fence",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Custom Sort String",
+        "titleSlug": "custom-sort-string",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sort the People",
+        "titleSlug": "sort-the-people",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort Threats by Severity and Exploitability",
+        "titleSlug": "sort-threats-by-severity-and-exploitability",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IBM",
+        "frequency": 71.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2556",
+    "title": "Disconnect Path in a Binary Matrix by at Most One Flip",
+    "titleSlug": "disconnect-path-in-a-binary-matrix-by-at-most-one-flip",
+    "difficulty": "Medium",
+    "acRate": 27.427207486326704,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Submatrices That Sum to Target",
+        "titleSlug": "number-of-submatrices-that-sum-to-target",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+        "titleSlug": "minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Number of Days to Disconnect Island",
+        "titleSlug": "minimum-number-of-days-to-disconnect-island",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Weighted Subgraph With the Required Paths",
+        "titleSlug": "minimum-weighted-subgraph-with-the-required-paths",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2639",
+    "title": "Find the Width of Columns of a Grid",
+    "titleSlug": "find-the-width-of-columns-of-a-grid",
+    "difficulty": "Easy",
+    "acRate": 69.58021740806414,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Greater Numerically Balanced Number",
+        "titleSlug": "next-greater-numerically-balanced-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      },
+      {
+        "name": "Samsung",
+        "frequency": 83.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2643",
+    "title": "Row With Maximum Ones",
+    "titleSlug": "row-with-maximum-ones",
+    "difficulty": "Easy",
+    "acRate": 74.15051089203848,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2661",
+    "title": "First Completely Painted Row or Column",
+    "titleSlug": "first-completely-painted-row-or-column",
+    "difficulty": "Medium",
+    "acRate": 63.918053882154304,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check if Every Row and Column Contains All Numbers",
+        "titleSlug": "check-if-every-row-and-column-contains-all-numbers",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Difference Between Ones and Zeros in Row and Column",
+        "titleSlug": "difference-between-ones-and-zeros-in-row-and-column",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 72.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2664",
+    "title": "The Knight’s Tour",
+    "titleSlug": "the-knights-tour",
+    "difficulty": "Medium",
+    "acRate": 72.60289461781998,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2684",
+    "title": "Maximum Number of Moves in a Grid",
+    "titleSlug": "maximum-number-of-moves-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 58.819005220916246,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2711",
+    "title": "Difference of Number of Distinct Values on Diagonals",
+    "titleSlug": "difference-of-number-of-distinct-values-on-diagonals",
+    "difficulty": "Medium",
+    "acRate": 67.98526335508446,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2814",
+    "title": "Minimum Time Takes to Reach Destination Without Drowning",
+    "titleSlug": "minimum-time-takes-to-reach-destination-without-drowning",
+    "difficulty": "Hard",
+    "acRate": 53.06122448979592,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Wix",
+        "frequency": 46.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2850",
+    "title": "Minimum Moves to Spread Stones Over Grid",
+    "titleSlug": "minimum-moves-to-spread-stones-over-grid",
+    "difficulty": "Medium",
+    "acRate": 44.551215208149515,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Operations to Move All Balls to Each Box",
+        "titleSlug": "minimum-number-of-operations-to-move-all-balls-to-each-box",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Operations to Make X and Y Equal",
+        "titleSlug": "minimum-number-of-operations-to-make-x-and-y-equal",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Geico",
+        "frequency": 60.0
+      },
+      {
+        "name": "Guidewire",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2906",
+    "title": "Construct Product Matrix",
+    "titleSlug": "construct-product-matrix",
+    "difficulty": "Medium",
+    "acRate": 31.291757204069615,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Product of Array Except Self",
+        "titleSlug": "product-of-array-except-self",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2923",
+    "title": "Find Champion I",
+    "titleSlug": "find-champion-i",
+    "difficulty": "Easy",
+    "acRate": 72.66308450641681,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2965",
+    "title": "Find Missing and Repeated Values",
+    "titleSlug": "find-missing-and-repeated-values",
+    "difficulty": "Easy",
+    "acRate": 83.32595360809526,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3030",
+    "title": "Find the Grid of Region Average",
+    "titleSlug": "find-the-grid-of-region-average",
+    "difficulty": "Medium",
+    "acRate": 42.56128327747863,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Range Sum Query 2D - Immutable",
+        "titleSlug": "range-sum-query-2d-immutable",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "K Radius Subarray Averages",
+        "titleSlug": "k-radius-subarray-averages",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "jio",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3033",
+    "title": "Modify the Matrix",
+    "titleSlug": "modify-the-matrix",
+    "difficulty": "Easy",
+    "acRate": 68.5156752358831,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Fidelity",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3070",
+    "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "titleSlug": "count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "difficulty": "Medium",
+    "acRate": 57.53800634574582,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Barclays",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3071",
+    "title": "Minimum Operations to Write the Letter Y on a Grid",
+    "titleSlug": "minimum-operations-to-write-the-letter-y-on-a-grid",
+    "difficulty": "Medium",
+    "acRate": 62.66357500344368,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Capital One",
+        "frequency": 81.6
+      },
+      {
+        "name": "Visa",
+        "frequency": 64.6
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      },
+      {
+        "name": "ZipRecruiter",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3078",
+    "title": "Match Alphanumerical Pattern in Matrix I",
+    "titleSlug": "match-alphanumerical-pattern-in-matrix-i",
+    "difficulty": "Medium",
+    "acRate": 64.13232733604178,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Visa",
+        "frequency": 81.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3122",
+    "title": "Minimum Number of Operations to Satisfy Conditions",
+    "titleSlug": "minimum-number-of-operations-to-satisfy-conditions",
+    "difficulty": "Medium",
+    "acRate": 40.99306891675746,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Candy",
+        "titleSlug": "candy",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Distribute Candies",
+        "titleSlug": "distribute-candies",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3142",
+    "title": "Check if Grid Satisfies Conditions",
+    "titleSlug": "check-if-grid-satisfies-conditions",
+    "difficulty": "Easy",
+    "acRate": 44.12019184549815,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Candy",
+        "titleSlug": "candy",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Distribute Candies",
+        "titleSlug": "distribute-candies",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Cost of Buying Candies With Discount",
+        "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3148",
+    "title": "Maximum Difference Score in a Grid",
+    "titleSlug": "maximum-difference-score-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 47.054188917097086,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Score From Grid Operations",
+        "titleSlug": "maximum-score-from-grid-operations",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3195",
+    "title": "Find the Minimum Area to Cover All Ones I",
+    "titleSlug": "find-the-minimum-area-to-cover-all-ones-i",
+    "difficulty": "Medium",
+    "acRate": 77.86788325483317,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest Rectangle Enclosing Black Pixels",
+        "titleSlug": "smallest-rectangle-enclosing-black-pixels",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3212",
+    "title": "Count Submatrices With Equal Frequency of X and Y",
+    "titleSlug": "count-submatrices-with-equal-frequency-of-x-and-y",
+    "difficulty": "Medium",
+    "acRate": 50.954833597464344,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Equal Frequency",
+        "titleSlug": "maximum-equal-frequency",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Submatrices With All Ones",
+        "titleSlug": "count-submatrices-with-all-ones",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3225",
+    "title": "Maximum Score From Grid Operations",
+    "titleSlug": "maximum-score-from-grid-operations",
+    "difficulty": "Hard",
+    "acRate": 24.928154259757115,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Difference Score in a Grid",
+        "titleSlug": "maximum-difference-score-in-a-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Hudson River Trading",
+        "frequency": 97.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3239",
+    "title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+    "titleSlug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+    "difficulty": "Medium",
+    "acRate": 74.42537449208562,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Number of Moves to Make Palindrome",
+        "titleSlug": "minimum-number-of-moves-to-make-palindrome",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3240",
+    "title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+    "titleSlug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+    "difficulty": "Medium",
+    "acRate": 24.887685266826217,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3332",
+    "title": "Maximum Points Tourist Can Earn",
+    "titleSlug": "maximum-points-tourist-can-earn",
+    "difficulty": "Medium",
+    "acRate": 46.68099973125504,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 79.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3363",
+    "title": "Find the Maximum Number of Fruits Collected",
+    "titleSlug": "find-the-maximum-number-of-fruits-collected",
+    "difficulty": "Hard",
+    "acRate": 65.36354056902002,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3402",
+    "title": "Minimum Operations to Make Columns Strictly Increasing",
+    "titleSlug": "minimum-operations-to-make-columns-strictly-increasing",
+    "difficulty": "Easy",
+    "acRate": 72.1246857288959,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Operations to Make the Array Increasing",
+        "titleSlug": "minimum-operations-to-make-the-array-increasing",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3418",
+    "title": "Maximum Amount of Money Robot Can Earn",
+    "titleSlug": "maximum-amount-of-money-robot-can-earn",
+    "difficulty": "Medium",
+    "acRate": 28.870243128964056,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 84.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3446",
+    "title": "Sort Matrix by Diagonals",
+    "titleSlug": "sort-matrix-by-diagonals",
+    "difficulty": "Medium",
+    "acRate": 70.98576997135208,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sort the Matrix Diagonally",
+        "titleSlug": "sort-the-matrix-diagonally",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3537",
+    "title": "Fill a Special Grid",
+    "titleSlug": "fill-a-special-grid",
+    "difficulty": "Medium",
+    "acRate": 70.13818181818182,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3552",
+    "title": "Grid Teleportation Traversal",
+    "titleSlug": "grid-teleportation-traversal",
+    "difficulty": "Medium",
+    "acRate": 22.020218164382467,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3565",
+    "title": "Sequential Grid Path Cover",
+    "titleSlug": "sequential-grid-path-cover",
+    "difficulty": "Medium",
+    "acRate": 65.01650165016501,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3567",
+    "title": "Minimum Absolute Difference in Sliding Submatrix",
+    "titleSlug": "minimum-absolute-difference-in-sliding-submatrix",
+    "difficulty": "Medium",
+    "acRate": 68.82894064393663,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3603",
+    "title": "Minimum Cost Path with Alternating Directions II",
+    "titleSlug": "minimum-cost-path-with-alternating-directions-ii",
+    "difficulty": "Medium",
+    "acRate": 43.95495951417004,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3643",
+    "title": "Flip Square Submatrix Vertically",
+    "titleSlug": "flip-square-submatrix-vertically",
+    "difficulty": "Easy",
+    "acRate": 65.85800172781607,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

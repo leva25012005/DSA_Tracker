@@ -1,0 +1,220 @@
+[
+  {
+    "questionFrontendId": "1622",
+    "title": "Fancy Sequence",
+    "titleSlug": "fancy-sequence",
+    "difficulty": "Hard",
+    "acRate": 17.58554295709953,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2080",
+    "title": "Range Frequency Queries",
+    "titleSlug": "range-frequency-queries",
+    "difficulty": "Medium",
+    "acRate": 40.347004047437096,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Quora",
+        "frequency": 87.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2569",
+    "title": "Handling Sum Queries After Update",
+    "titleSlug": "handling-sum-queries-after-update",
+    "difficulty": "Hard",
+    "acRate": 29.60629255296655,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Trilogy",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3165",
+    "title": "Maximum Sum of Subsequence With Non-adjacent Elements",
+    "titleSlug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
+    "difficulty": "Hard",
+    "acRate": 14.94050422921744,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Infosys",
+        "frequency": 88.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3410",
+    "title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+    "titleSlug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+    "difficulty": "Hard",
+    "acRate": 20.416,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Subarray",
+        "titleSlug": "maximum-subarray",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Subarray Sum with One Deletion",
+        "titleSlug": "maximum-subarray-sum-with-one-deletion",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 61.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3501",
+    "title": "Maximize Active Section with Trade II",
+    "titleSlug": "maximize-active-section-with-trade-ii",
+    "difficulty": "Hard",
+    "acRate": 19.300262812089354,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3525",
+    "title": "Find X Value of Array II",
+    "titleSlug": "find-x-value-of-array-ii",
+    "difficulty": "Hard",
+    "acRate": 27.81798245614035,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Uploaded Prefix",
+        "titleSlug": "longest-uploaded-prefix",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Sum of Values by Dividing Array",
+        "titleSlug": "minimum-sum-of-values-by-dividing-array",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 61.0
+      }
+    ]
+  }
+]

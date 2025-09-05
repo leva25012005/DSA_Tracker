@@ -1,0 +1,2219 @@
+[
+  {
+    "questionFrontendId": "2",
+    "title": "Add Two Numbers",
+    "titleSlug": "add-two-numbers",
+    "difficulty": "Medium",
+    "acRate": 46.782886496404025,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Multiply Strings",
+        "titleSlug": "multiply-strings",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add Binary",
+        "titleSlug": "add-binary",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sum of Two Integers",
+        "titleSlug": "sum-of-two-integers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add Strings",
+        "titleSlug": "add-strings",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Add Two Numbers II",
+        "titleSlug": "add-two-numbers-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add to Array-Form of Integer",
+        "titleSlug": "add-to-array-form-of-integer",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Add Two Polynomials Represented as Linked Lists",
+        "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Double a Number Represented as a Linked List",
+        "titleSlug": "double-a-number-represented-as-a-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 60.7
+      },
+      {
+        "name": "Adobe",
+        "frequency": 70.5
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 72.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 77.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 66.8
+      },
+      {
+        "name": "Avito",
+        "frequency": 82.8
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 85.7
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Capgemini",
+        "frequency": 67.1
+      },
+      {
+        "name": "Capital One",
+        "frequency": 49.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 39.8
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 56.7
+      },
+      {
+        "name": "Commvault",
+        "frequency": 62.2
+      },
+      {
+        "name": "EarnIn",
+        "frequency": 100.0
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "Google",
+        "frequency": 75.2
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "josh technology",
+        "frequency": 95.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 65.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 78.3
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 78.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 66.9
+      },
+      {
+        "name": "Samsung",
+        "frequency": 54.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 43.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 44.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 61.8
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 69.0
+      },
+      {
+        "name": "Yandex",
+        "frequency": 43.5
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 50.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "19",
+    "title": "Remove Nth Node From End of List",
+    "titleSlug": "remove-nth-node-from-end-of-list",
+    "difficulty": "Medium",
+    "acRate": 49.65295063741986,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Swapping Nodes in a Linked List",
+        "titleSlug": "swapping-nodes-in-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Delete N Nodes After M Nodes of a Linked List",
+        "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Delete the Middle Node of a Linked List",
+        "titleSlug": "delete-the-middle-node-of-a-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 40.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 54.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 53.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 47.6
+      },
+      {
+        "name": "Citrix",
+        "frequency": 63.7
+      },
+      {
+        "name": "Meta",
+        "frequency": 63.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 49.5
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 74.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 34.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "21",
+    "title": "Merge Two Sorted Lists",
+    "titleSlug": "merge-two-sorted-lists",
+    "difficulty": "Easy",
+    "acRate": 67.2023705532219,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge k Sorted Lists",
+        "titleSlug": "merge-k-sorted-lists",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Merge Sorted Array",
+        "titleSlug": "merge-sorted-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sort List",
+        "titleSlug": "sort-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Word Distance II",
+        "titleSlug": "shortest-word-distance-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Add Two Polynomials Represented as Linked Lists",
+        "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Common Subsequence Between Sorted Arrays",
+        "titleSlug": "longest-common-subsequence-between-sorted-arrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Merge Two 2D Arrays by Summing Values",
+        "titleSlug": "merge-two-2d-arrays-by-summing-values",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 61.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 66.0
+      },
+      {
+        "name": "Apple",
+        "frequency": 62.7
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 67.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 69.6
+      },
+      {
+        "name": "Capital One",
+        "frequency": 40.8
+      },
+      {
+        "name": "Cognizant",
+        "frequency": 56.7
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 66.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 58.7
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "HPE",
+        "frequency": 100.0
+      },
+      {
+        "name": "Huawei",
+        "frequency": 71.0
+      },
+      {
+        "name": "Hubspot",
+        "frequency": 92.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 54.9
+      },
+      {
+        "name": "Media.net",
+        "frequency": 70.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 53.9
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 68.5
+      },
+      {
+        "name": "Oracle",
+        "frequency": 61.6
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "Revolut",
+        "frequency": 63.2
+      },
+      {
+        "name": "Rippling",
+        "frequency": 55.1
+      },
+      {
+        "name": "Shopee",
+        "frequency": 72.6
+      },
+      {
+        "name": "Siemens",
+        "frequency": 70.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 60.1
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 43.4
+      },
+      {
+        "name": "Teradata",
+        "frequency": 100.0
+      },
+      {
+        "name": "Texas Instruments",
+        "frequency": 88.4
+      },
+      {
+        "name": "TikTok",
+        "frequency": 40.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 54.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 46.3
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 62.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 56.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "24",
+    "title": "Swap Nodes in Pairs",
+    "titleSlug": "swap-nodes-in-pairs",
+    "difficulty": "Medium",
+    "acRate": 67.75718171902243,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Nodes in k-Group",
+        "titleSlug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Swapping Nodes in a Linked List",
+        "titleSlug": "swapping-nodes-in-a-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 45.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 37.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 55.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 25.5
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 52.8
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 66.9
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      },
+      {
+        "name": "TikTok",
+        "frequency": 29.3
+      },
+      {
+        "name": "Uber",
+        "frequency": 51.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "25",
+    "title": "Reverse Nodes in k-Group",
+    "titleSlug": "reverse-nodes-in-k-group",
+    "difficulty": "Hard",
+    "acRate": 63.83457879939984,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Swap Nodes in Pairs",
+        "titleSlug": "swap-nodes-in-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Swapping Nodes in a Linked List",
+        "titleSlug": "swapping-nodes-in-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reverse Nodes in Even Length Groups",
+        "titleSlug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 57.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 34.5
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 94.9
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 51.6
+      },
+      {
+        "name": "Capital One",
+        "frequency": 40.8
+      },
+      {
+        "name": "Commvault",
+        "frequency": 77.6
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 51.2
+      },
+      {
+        "name": "Meta",
+        "frequency": 36.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 68.5
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "PornHub",
+        "frequency": 79.3
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Sigmoid",
+        "frequency": 100.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 64.2
+      },
+      {
+        "name": "Tesla",
+        "frequency": 71.8
+      },
+      {
+        "name": "TikTok",
+        "frequency": 57.6
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 50.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "61",
+    "title": "Rotate List",
+    "titleSlug": "rotate-list",
+    "difficulty": "Medium",
+    "acRate": 40.356424335372054,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rotate Array",
+        "titleSlug": "rotate-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split Linked List in Parts",
+        "titleSlug": "split-linked-list-in-parts",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 43.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 34.5
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 47.6
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 45.8
+      },
+      {
+        "name": "Meta",
+        "frequency": 32.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 36.2
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 39.7
+      },
+      {
+        "name": "Siemens",
+        "frequency": 60.4
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "82",
+    "title": "Remove Duplicates from Sorted List II",
+    "titleSlug": "remove-duplicates-from-sorted-list-ii",
+    "difficulty": "Medium",
+    "acRate": 50.37991177946628,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Duplicates from Sorted List",
+        "titleSlug": "remove-duplicates-from-sorted-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Duplicates From an Unsorted Linked List",
+        "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 24.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 22.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 27.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 40.8
+      },
+      {
+        "name": "Google",
+        "frequency": 20.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 34.7
+      },
+      {
+        "name": "Tencent",
+        "frequency": 62.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "83",
+    "title": "Remove Duplicates from Sorted List",
+    "titleSlug": "remove-duplicates-from-sorted-list",
+    "difficulty": "Easy",
+    "acRate": 55.31299603907964,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Duplicates from Sorted List II",
+        "titleSlug": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Duplicates From an Unsorted Linked List",
+        "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 39.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 37.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 47.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 39.0
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 33.6
+      },
+      {
+        "name": "Revolut",
+        "frequency": 78.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "86",
+    "title": "Partition List",
+    "titleSlug": "partition-list",
+    "difficulty": "Medium",
+    "acRate": 59.49828486072243,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Partition Array According to Given Pivot",
+        "titleSlug": "partition-array-according-to-given-pivot",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 40.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 35.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 31.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 35.4
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 24.1
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "92",
+    "title": "Reverse Linked List II",
+    "titleSlug": "reverse-linked-list-ii",
+    "difficulty": "Medium",
+    "acRate": 50.02418733591042,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 42.9
+      },
+      {
+        "name": "Amazon",
+        "frequency": 46.6
+      },
+      {
+        "name": "Apple",
+        "frequency": 42.2
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 94.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 40.8
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Meta",
+        "frequency": 31.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 43.6
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 65.4
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Revolut",
+        "frequency": 86.9
+      },
+      {
+        "name": "TikTok",
+        "frequency": 44.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "138",
+    "title": "Copy List with Random Pointer",
+    "titleSlug": "copy-list-with-random-pointer",
+    "difficulty": "Medium",
+    "acRate": 61.19608194928884,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Clone Graph",
+        "titleSlug": "clone-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Clone Binary Tree With Random Pointer",
+        "titleSlug": "clone-binary-tree-with-random-pointer",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Clone N-ary Tree",
+        "titleSlug": "clone-n-ary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Docusign",
+        "frequency": 95.8
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 51.6
+      },
+      {
+        "name": "Google",
+        "frequency": 39.2
+      },
+      {
+        "name": "Intel",
+        "frequency": 87.1
+      },
+      {
+        "name": "Mobileye",
+        "frequency": 100.0
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 59.2
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 63.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 44.5
+      },
+      {
+        "name": "oyo",
+        "frequency": 87.4
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 60.1
+      },
+      {
+        "name": "Uber",
+        "frequency": 49.5
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 58.5
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "141",
+    "title": "Linked List Cycle",
+    "titleSlug": "linked-list-cycle",
+    "difficulty": "Easy",
+    "acRate": 53.039608327563215,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Linked List Cycle II",
+        "titleSlug": "linked-list-cycle-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Happy Number",
+        "titleSlug": "happy-number",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 49.7
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 39.5
+      },
+      {
+        "name": "Intel",
+        "frequency": 59.5
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "SAP",
+        "frequency": 52.9
+      },
+      {
+        "name": "Uber",
+        "frequency": 35.2
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 36.8
+      },
+      {
+        "name": "Wipro",
+        "frequency": 60.1
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 62.9
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "142",
+    "title": "Linked List Cycle II",
+    "titleSlug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "acRate": 55.77656219350335,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Linked List Cycle",
+        "titleSlug": "linked-list-cycle",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find the Duplicate Number",
+        "titleSlug": "find-the-duplicate-number",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Paytm",
+        "frequency": 80.2
+      },
+      {
+        "name": "Ripple",
+        "frequency": 88.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 29.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "160",
+    "title": "Intersection of Two Linked Lists",
+    "titleSlug": "intersection-of-two-linked-lists",
+    "difficulty": "Easy",
+    "acRate": 61.85930838325646,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Index Sum of Two Lists",
+        "titleSlug": "minimum-index-sum-of-two-lists",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 72.4
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 54.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 25.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 40.2
+      },
+      {
+        "name": "VMware",
+        "frequency": 61.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "203",
+    "title": "Remove Linked List Elements",
+    "titleSlug": "remove-linked-list-elements",
+    "difficulty": "Easy",
+    "acRate": 52.560589506825494,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Element",
+        "titleSlug": "remove-element",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Delete Node in a Linked List",
+        "titleSlug": "delete-node-in-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Delete the Middle Node of a Linked List",
+        "titleSlug": "delete-the-middle-node-of-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Delete Nodes From Linked List Present in Array",
+        "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Convert Doubly Linked List to Array I",
+        "titleSlug": "convert-doubly-linked-list-to-array-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Convert Doubly Linked List to Array II",
+        "titleSlug": "convert-doubly-linked-list-to-array-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 74.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "206",
+    "title": "Reverse Linked List",
+    "titleSlug": "reverse-linked-list",
+    "difficulty": "Easy",
+    "acRate": 79.60165142555066,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Linked List II",
+        "titleSlug": "reverse-linked-list-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Tree Upside Down",
+        "titleSlug": "binary-tree-upside-down",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Palindrome Linked List",
+        "titleSlug": "palindrome-linked-list",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Reverse Nodes in Even Length Groups",
+        "titleSlug": "reverse-nodes-in-even-length-groups",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Twin Sum of a Linked List",
+        "titleSlug": "maximum-twin-sum-of-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Nodes From Linked List",
+        "titleSlug": "remove-nodes-from-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Insert Greatest Common Divisors in Linked List",
+        "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 45.3
+      },
+      {
+        "name": "Deloitte",
+        "frequency": 59.5
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Google",
+        "frequency": 56.7
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 44.8
+      },
+      {
+        "name": "Luxoft",
+        "frequency": 89.2
+      },
+      {
+        "name": "NetApp",
+        "frequency": 87.3
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 47.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 63.6
+      },
+      {
+        "name": "Ozon",
+        "frequency": 69.5
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 91.9
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "SAP",
+        "frequency": 69.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      },
+      {
+        "name": "Siemens",
+        "frequency": 70.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "tcs",
+        "frequency": 39.2
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 57.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 59.3
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      },
+      {
+        "name": "Yandex",
+        "frequency": 30.6
+      },
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 50.8
+      },
+      {
+        "name": "Zynga",
+        "frequency": 71.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "237",
+    "title": "Delete Node in a Linked List",
+    "titleSlug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "acRate": 82.81795625908688,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Remove Nodes From Linked List",
+        "titleSlug": "remove-nodes-from-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Delete Nodes From Linked List Present in Array",
+        "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 51.8
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "328",
+    "title": "Odd Even Linked List",
+    "titleSlug": "odd-even-linked-list",
+    "difficulty": "Medium",
+    "acRate": 62.08542129922346,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Linked List in Parts",
+        "titleSlug": "split-linked-list-in-parts",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Transform Array by Parity",
+        "titleSlug": "transform-array-by-parity",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "369",
+    "title": "Plus One Linked List",
+    "titleSlug": "plus-one-linked-list",
+    "difficulty": "Medium",
+    "acRate": 61.19083009375714,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Plus One",
+        "titleSlug": "plus-one",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Double a Number Represented as a Linked List",
+        "titleSlug": "double-a-number-represented-as-a-linked-list",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "708",
+    "title": "Insert into a Sorted Circular Linked List",
+    "titleSlug": "insert-into-a-sorted-circular-linked-list",
+    "difficulty": "Medium",
+    "acRate": 38.26671373841185,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Insertion Sort List",
+        "titleSlug": "insertion-sort-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Anduril",
+        "frequency": 53.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "725",
+    "title": "Split Linked List in Parts",
+    "titleSlug": "split-linked-list-in-parts",
+    "difficulty": "Medium",
+    "acRate": 70.2898341089244,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Rotate List",
+        "titleSlug": "rotate-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Odd Even Linked List",
+        "titleSlug": "odd-even-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Split a Circular Linked List",
+        "titleSlug": "split-a-circular-linked-list",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "817",
+    "title": "Linked List Components",
+    "titleSlug": "linked-list-components",
+    "difficulty": "Medium",
+    "acRate": 57.39797837919185,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Nodes in Between Zeros",
+        "titleSlug": "merge-nodes-in-between-zeros",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "876",
+    "title": "Middle of the Linked List",
+    "titleSlug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "acRate": 80.96464001011108,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Delete the Middle Node of a Linked List",
+        "titleSlug": "delete-the-middle-node-of-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Twin Sum of a Linked List",
+        "titleSlug": "maximum-twin-sum-of-a-linked-list",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Bosch",
+        "frequency": 88.9
+      },
+      {
+        "name": "Intuit",
+        "frequency": 56.8
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 74.2
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 75.1
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1171",
+    "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+    "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+    "difficulty": "Medium",
+    "acRate": 52.94783413931474,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Delete N Nodes After M Nodes of a Linked List",
+        "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "josh technology",
+        "frequency": 88.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+    "difficulty": "Easy",
+    "acRate": 82.29809924759877,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "MathWorks",
+        "frequency": 51.2
+      },
+      {
+        "name": "Roblox",
+        "frequency": 69.9
+      },
+      {
+        "name": "Workday",
+        "frequency": 88.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1474",
+    "title": "Delete N Nodes After M Nodes of a Linked List",
+    "titleSlug": "delete-n-nodes-after-m-nodes-of-a-linked-list",
+    "difficulty": "Easy",
+    "acRate": 74.37904365285938,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Nth Node From End of List",
+        "titleSlug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Zero Sum Consecutive Nodes from Linked List",
+        "titleSlug": "remove-zero-sum-consecutive-nodes-from-linked-list",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1634",
+    "title": "Add Two Polynomials Represented as Linked Lists",
+    "titleSlug": "add-two-polynomials-represented-as-linked-lists",
+    "difficulty": "Medium",
+    "acRate": 60.842297312706684,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Add Two Numbers",
+        "titleSlug": "add-two-numbers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Merge Two Sorted Lists",
+        "titleSlug": "merge-two-sorted-lists",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Add Two Numbers II",
+        "titleSlug": "add-two-numbers-ii",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1669",
+    "title": "Merge In Between Linked Lists",
+    "titleSlug": "merge-in-between-linked-lists",
+    "difficulty": "Medium",
+    "acRate": 82.48661237013756,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1721",
+    "title": "Swapping Nodes in a Linked List",
+    "titleSlug": "swapping-nodes-in-a-linked-list",
+    "difficulty": "Medium",
+    "acRate": 68.72180056374262,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Nth Node From End of List",
+        "titleSlug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Swap Nodes in Pairs",
+        "titleSlug": "swap-nodes-in-pairs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reverse Nodes in k-Group",
+        "titleSlug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1836",
+    "title": "Remove Duplicates From an Unsorted Linked List",
+    "titleSlug": "remove-duplicates-from-an-unsorted-linked-list",
+    "difficulty": "Medium",
+    "acRate": 75.4704813273143,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Duplicates from Sorted List II",
+        "titleSlug": "remove-duplicates-from-sorted-list-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Duplicates from Sorted List",
+        "titleSlug": "remove-duplicates-from-sorted-list",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2058",
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "titleSlug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "difficulty": "Medium",
+    "acRate": 69.4405364679669,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Info Edge",
+        "frequency": 100.0
+      },
+      {
+        "name": "josh technology",
+        "frequency": 81.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2074",
+    "title": "Reverse Nodes in Even Length Groups",
+    "titleSlug": "reverse-nodes-in-even-length-groups",
+    "difficulty": "Medium",
+    "acRate": 61.924933661562065,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reverse Nodes in k-Group",
+        "titleSlug": "reverse-nodes-in-k-group",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Reverse Linked List",
+        "titleSlug": "reverse-linked-list",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Zopsmart",
+        "frequency": 82.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2095",
+    "title": "Delete the Middle Node of a Linked List",
+    "titleSlug": "delete-the-middle-node-of-a-linked-list",
+    "difficulty": "Medium",
+    "acRate": 59.49045841777549,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Nth Node From End of List",
+        "titleSlug": "remove-nth-node-from-end-of-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Reorder List",
+        "titleSlug": "reorder-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Middle of the Linked List",
+        "titleSlug": "middle-of-the-linked-list",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2674",
+    "title": "Split a Circular Linked List",
+    "titleSlug": "split-a-circular-linked-list",
+    "difficulty": "Medium",
+    "acRate": 77.01053799223516,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Linked List in Parts",
+        "titleSlug": "split-linked-list-in-parts",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3062",
+    "title": "Winner of the Linked List Game",
+    "titleSlug": "winner-of-the-linked-list-game",
+    "difficulty": "Easy",
+    "acRate": 78.04604154969118,
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3217",
+    "title": "Delete Nodes From Linked List Present in Array",
+    "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+    "difficulty": "Medium",
+    "acRate": 67.48233834870302,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Remove Linked List Elements",
+        "titleSlug": "remove-linked-list-elements",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Delete Node in a Linked List",
+        "titleSlug": "delete-node-in-a-linked-list",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Remove Nodes From Linked List",
+        "titleSlug": "remove-nodes-from-linked-list",
+        "difficulty": "Medium"
+      }
+    ]
+  }
+]

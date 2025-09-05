@@ -1,0 +1,229 @@
+[
+  {
+    "questionFrontendId": "1114",
+    "title": "Print in Order",
+    "titleSlug": "print-in-order",
+    "difficulty": "Easy",
+    "acRate": 71.91474267352453,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Print FooBar Alternately",
+        "titleSlug": "print-foobar-alternately",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1115",
+    "title": "Print FooBar Alternately",
+    "titleSlug": "print-foobar-alternately",
+    "difficulty": "Medium",
+    "acRate": 70.48217301220403,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Print in Order",
+        "titleSlug": "print-in-order",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Print Zero Even Odd",
+        "titleSlug": "print-zero-even-odd",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1116",
+    "title": "Print Zero Even Odd",
+    "titleSlug": "print-zero-even-odd",
+    "difficulty": "Medium",
+    "acRate": 64.10599523003259,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Print FooBar Alternately",
+        "titleSlug": "print-foobar-alternately",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Fizz Buzz Multithreaded",
+        "titleSlug": "fizz-buzz-multithreaded",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1117",
+    "title": "Building H2O",
+    "titleSlug": "building-h2o",
+    "difficulty": "Medium",
+    "acRate": 57.9259189041875,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 33.8
+      },
+      {
+        "name": "Tesla",
+        "frequency": 86.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1188",
+    "title": "Design Bounded Blocking Queue",
+    "titleSlug": "design-bounded-blocking-queue",
+    "difficulty": "Medium",
+    "acRate": 73.08952353820953,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Rubrik",
+        "frequency": 33.8
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1195",
+    "title": "Fizz Buzz Multithreaded",
+    "titleSlug": "fizz-buzz-multithreaded",
+    "difficulty": "Medium",
+    "acRate": 74.35539127298955,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Fizz Buzz",
+        "titleSlug": "fizz-buzz",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Print Zero Even Odd",
+        "titleSlug": "print-zero-even-odd",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1226",
+    "title": "The Dining Philosophers",
+    "titleSlug": "the-dining-philosophers",
+    "difficulty": "Medium",
+    "acRate": 54.6855342282344,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1242",
+    "title": "Web Crawler Multithreaded",
+    "titleSlug": "web-crawler-multithreaded",
+    "difficulty": "Medium",
+    "acRate": 50.36634237018082,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Web Crawler",
+        "titleSlug": "web-crawler",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Databricks",
+        "frequency": 54.1
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 92.7
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 95.2
+      },
+      {
+        "name": "OpenAI",
+        "frequency": 67.5
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 49.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1279",
+    "title": "Traffic Light Controlled Intersection",
+    "titleSlug": "traffic-light-controlled-intersection",
+    "difficulty": "Easy",
+    "acRate": 72.66187050359713,
+    "topicTags": [
+      {
+        "name": "Concurrency",
+        "slug": "concurrency"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

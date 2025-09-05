@@ -1,0 +1,1515 @@
+[
+  {
+    "questionFrontendId": "17",
+    "title": "Letter Combinations of a Phone Number",
+    "titleSlug": "letter-combinations-of-a-phone-number",
+    "difficulty": "Medium",
+    "acRate": 64.36745143393313,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Generate Parentheses",
+        "titleSlug": "generate-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Binary Watch",
+        "titleSlug": "binary-watch",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Number of Texts",
+        "titleSlug": "count-number-of-texts",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Number of Pushes to Type Word I",
+        "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Number of Pushes to Type Word II",
+        "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 55.1
+      },
+      {
+        "name": "Amazon",
+        "frequency": 68.2
+      },
+      {
+        "name": "Apple",
+        "frequency": 55.6
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 50.7
+      },
+      {
+        "name": "Chime",
+        "frequency": 66.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 45.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 79.6
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      },
+      {
+        "name": "Epic Systems",
+        "frequency": 98.1
+      },
+      {
+        "name": "Flexport",
+        "frequency": 85.0
+      },
+      {
+        "name": "FreshWorks",
+        "frequency": 87.8
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 63.5
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 63.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 64.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 62.5
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Nextdoor",
+        "frequency": 64.4
+      },
+      {
+        "name": "Oracle",
+        "frequency": 48.4
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 42.7
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Siemens",
+        "frequency": 70.3
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "Tesla",
+        "frequency": 82.2
+      },
+      {
+        "name": "Trexquant",
+        "frequency": 89.2
+      },
+      {
+        "name": "Twilio",
+        "frequency": 65.4
+      },
+      {
+        "name": "Twitch",
+        "frequency": 64.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 64.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 48.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      },
+      {
+        "name": "Zopsmart",
+        "frequency": 50.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "39",
+    "title": "Combination Sum",
+    "titleSlug": "combination-sum",
+    "difficulty": "Medium",
+    "acRate": 75.18821928335487,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Letter Combinations of a Phone Number",
+        "titleSlug": "letter-combinations-of-a-phone-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Combination Sum II",
+        "titleSlug": "combination-sum-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Combinations",
+        "titleSlug": "combinations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Combination Sum III",
+        "titleSlug": "combination-sum-iii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Factor Combinations",
+        "titleSlug": "factor-combinations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Combination Sum IV",
+        "titleSlug": "combination-sum-iv",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "The Number of Ways to Make the Sum",
+        "titleSlug": "the-number-of-ways-to-make-the-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 17.4
+      },
+      {
+        "name": "Airbnb",
+        "frequency": 87.2
+      },
+      {
+        "name": "Amazon",
+        "frequency": 52.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 47.8
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 66.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 52.6
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 74.9
+      },
+      {
+        "name": "Citadel",
+        "frequency": 52.2
+      },
+      {
+        "name": "Confluent",
+        "frequency": 59.2
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      },
+      {
+        "name": "Huawei",
+        "frequency": 71.0
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 37.1
+      },
+      {
+        "name": "Meta",
+        "frequency": 39.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 54.6
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 42.7
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "tcs",
+        "frequency": 26.5
+      },
+      {
+        "name": "TikTok",
+        "frequency": 71.0
+      },
+      {
+        "name": "Uber",
+        "frequency": 51.4
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 66.5
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 51.6
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "40",
+    "title": "Combination Sum II",
+    "titleSlug": "combination-sum-ii",
+    "difficulty": "Medium",
+    "acRate": 58.06250181522466,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 49.0
+      },
+      {
+        "name": "Amazon",
+        "frequency": 43.8
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 46.4
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 58.2
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "Meta",
+        "frequency": 34.5
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 37.7
+      },
+      {
+        "name": "Oracle",
+        "frequency": 48.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "TikTok",
+        "frequency": 61.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 30.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "46",
+    "title": "Permutations",
+    "titleSlug": "permutations",
+    "difficulty": "Medium",
+    "acRate": 81.00830164055738,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Permutations II",
+        "titleSlug": "permutations-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Permutation Sequence",
+        "titleSlug": "permutation-sequence",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Combinations",
+        "titleSlug": "combinations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 52.3
+      },
+      {
+        "name": "Amazon",
+        "frequency": 50.2
+      },
+      {
+        "name": "American Express",
+        "frequency": 55.9
+      },
+      {
+        "name": "Apple",
+        "frequency": 52.1
+      },
+      {
+        "name": "Barclays",
+        "frequency": 61.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 53.4
+      },
+      {
+        "name": "Booking.com",
+        "frequency": 60.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "eBay",
+        "frequency": 52.5
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 25.5
+      },
+      {
+        "name": "J.P. Morgan",
+        "frequency": 36.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 54.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 36.2
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 54.0
+      },
+      {
+        "name": "Microstrategy",
+        "frequency": 65.6
+      },
+      {
+        "name": "Oracle",
+        "frequency": 44.5
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 61.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 35.2
+      },
+      {
+        "name": "Workday",
+        "frequency": 88.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 45.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "47",
+    "title": "Permutations II",
+    "titleSlug": "permutations-ii",
+    "difficulty": "Medium",
+    "acRate": 62.044427751247525,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Permutations",
+        "titleSlug": "permutations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Palindrome Permutation II",
+        "titleSlug": "palindrome-permutation-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Squareful Arrays",
+        "titleSlug": "number-of-squareful-arrays",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 24.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 28.1
+      },
+      {
+        "name": "Apple",
+        "frequency": 21.9
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 35.4
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 54.9
+      },
+      {
+        "name": "Meta",
+        "frequency": 18.4
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 43.6
+      },
+      {
+        "name": "TikTok",
+        "frequency": 47.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "51",
+    "title": "N-Queens",
+    "titleSlug": "n-queens",
+    "difficulty": "Hard",
+    "acRate": 73.65841311703342,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "N-Queens II",
+        "titleSlug": "n-queens-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Grid Illumination",
+        "titleSlug": "grid-illumination",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 24.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 53.7
+      },
+      {
+        "name": "Apple",
+        "frequency": 37.4
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 42.4
+      },
+      {
+        "name": "Citadel",
+        "frequency": 52.2
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 33.6
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 50.9
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "TikTok",
+        "frequency": 73.1
+      },
+      {
+        "name": "Uber",
+        "frequency": 30.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "52",
+    "title": "N-Queens II",
+    "titleSlug": "n-queens-ii",
+    "difficulty": "Hard",
+    "acRate": 77.21234116553475,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "N-Queens",
+        "titleSlug": "n-queens",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Amazon",
+        "frequency": 16.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 20.6
+      },
+      {
+        "name": "Google",
+        "frequency": 19.0
+      },
+      {
+        "name": "Liftoff",
+        "frequency": 86.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 21.0
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "77",
+    "title": "Combinations",
+    "titleSlug": "combinations",
+    "difficulty": "Medium",
+    "acRate": 73.34005073438205,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Permutations",
+        "titleSlug": "permutations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 31.5
+      },
+      {
+        "name": "Apple",
+        "frequency": 31.1
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 27.8
+      },
+      {
+        "name": "Google",
+        "frequency": 26.4
+      },
+      {
+        "name": "Meta",
+        "frequency": 24.0
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 31.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "93",
+    "title": "Restore IP Addresses",
+    "titleSlug": "restore-ip-addresses",
+    "difficulty": "Medium",
+    "acRate": 53.80339618618224,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "IP to CIDR",
+        "titleSlug": "ip-to-cidr",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 24.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 23.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 27.0
+      },
+      {
+        "name": "Arista Networks",
+        "frequency": 100.0
+      },
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Meta",
+        "frequency": 26.9
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 48.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 54.7
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 55.7
+      },
+      {
+        "name": "StackAdapt",
+        "frequency": 89.3
+      },
+      {
+        "name": "TikTok",
+        "frequency": 72.1
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      },
+      {
+        "name": "Zoho",
+        "frequency": 57.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "216",
+    "title": "Combination Sum III",
+    "titleSlug": "combination-sum-iii",
+    "difficulty": "Medium",
+    "acRate": 72.27884277531275,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "254",
+    "title": "Factor Combinations",
+    "titleSlug": "factor-combinations",
+    "difficulty": "Medium",
+    "acRate": 50.31569891218758,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Combination Sum",
+        "titleSlug": "combination-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 63.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "267",
+    "title": "Palindrome Permutation II",
+    "titleSlug": "palindrome-permutation-ii",
+    "difficulty": "Medium",
+    "acRate": 42.17359996824875,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Permutations II",
+        "titleSlug": "permutations-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Palindrome Permutation",
+        "titleSlug": "palindrome-permutation",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "282",
+    "title": "Expression Add Operators",
+    "titleSlug": "expression-add-operators",
+    "difficulty": "Hard",
+    "acRate": 42.06921261475841,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Evaluate Reverse Polish Notation",
+        "titleSlug": "evaluate-reverse-polish-notation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Basic Calculator",
+        "titleSlug": "basic-calculator",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Basic Calculator II",
+        "titleSlug": "basic-calculator-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "titleSlug": "different-ways-to-add-parentheses",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Target Sum",
+        "titleSlug": "target-sum",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Pinterest",
+        "frequency": 85.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "291",
+    "title": "Word Pattern II",
+    "titleSlug": "word-pattern-ii",
+    "difficulty": "Medium",
+    "acRate": 48.668847165252906,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Word Pattern",
+        "titleSlug": "word-pattern",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "306",
+    "title": "Additive Number",
+    "titleSlug": "additive-number",
+    "difficulty": "Medium",
+    "acRate": 32.83589318254742,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split Array into Fibonacci Sequence",
+        "titleSlug": "split-array-into-fibonacci-sequence",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Epic Systems",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "679",
+    "title": "24 Game",
+    "titleSlug": "24-game",
+    "difficulty": "Hard",
+    "acRate": 59.11052549762752,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Huawei",
+        "frequency": 61.3
+      },
+      {
+        "name": "Roku",
+        "frequency": 87.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "842",
+    "title": "Split Array into Fibonacci Sequence",
+    "titleSlug": "split-array-into-fibonacci-sequence",
+    "difficulty": "Medium",
+    "acRate": 39.827265574708534,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Additive Number",
+        "titleSlug": "additive-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Fibonacci Number",
+        "titleSlug": "fibonacci-number",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1088",
+    "title": "Confusing Number II",
+    "titleSlug": "confusing-number-ii",
+    "difficulty": "Hard",
+    "acRate": 47.07620112818518,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Confusing Number",
+        "titleSlug": "confusing-number",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1240",
+    "title": "Tiling a Rectangle with the Fewest Squares",
+    "titleSlug": "tiling-a-rectangle-with-the-fewest-squares",
+    "difficulty": "Hard",
+    "acRate": 54.45885649060911,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Selling Pieces of Wood",
+        "titleSlug": "selling-pieces-of-wood",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1307",
+    "title": "Verbal Arithmetic Puzzle",
+    "titleSlug": "verbal-arithmetic-puzzle",
+    "difficulty": "Hard",
+    "acRate": 34.75873964073872,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 86.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1415",
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "titleSlug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "difficulty": "Medium",
+    "acRate": 85.1637273536559,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1593",
+    "title": "Split a String Into the Max Number of Unique Substrings",
+    "titleSlug": "split-a-string-into-the-max-number-of-unique-substrings",
+    "difficulty": "Medium",
+    "acRate": 68.41936048188441,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1718",
+    "title": "Construct the Lexicographically Largest Valid Sequence",
+    "titleSlug": "construct-the-lexicographically-largest-valid-sequence",
+    "difficulty": "Medium",
+    "acRate": 72.96393787838905,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "The Number of Beautiful Subsets",
+        "titleSlug": "the-number-of-beautiful-subsets",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Lexicographically Largest String From the Box I",
+        "titleSlug": "find-the-lexicographically-largest-string-from-the-box-i",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1980",
+    "title": "Find Unique Binary String",
+    "titleSlug": "find-unique-binary-string",
+    "difficulty": "Medium",
+    "acRate": 79.39666686334354,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Missing Number",
+        "titleSlug": "missing-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Find All Numbers Disappeared in an Array",
+        "titleSlug": "find-all-numbers-disappeared-in-an-array",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Random Pick with Blacklist",
+        "titleSlug": "random-pick-with-blacklist",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2178",
+    "title": "Maximum Split of Positive Even Integers",
+    "titleSlug": "maximum-split-of-positive-even-integers",
+    "difficulty": "Medium",
+    "acRate": 59.51056104497577,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2375",
+    "title": "Construct Smallest Number From DI String",
+    "titleSlug": "construct-smallest-number-from-di-string",
+    "difficulty": "Medium",
+    "acRate": 85.75589723999619,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "DI String Match",
+        "titleSlug": "di-string-match",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 48.6
+      },
+      {
+        "name": "josh technology",
+        "frequency": 69.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2698",
+    "title": "Find the Punishment Number of an Integer",
+    "titleSlug": "find-the-punishment-number-of-an-integer",
+    "difficulty": "Medium",
+    "acRate": 81.77636997849605,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Great Partitions",
+        "titleSlug": "number-of-great-partitions",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3437",
+    "title": "Permutations III",
+    "titleSlug": "permutations-iii",
+    "difficulty": "Medium",
+    "acRate": 86.43396905361641,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Permutations IV",
+        "titleSlug": "permutations-iv",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3646",
+    "title": "Next Special Palindrome Number",
+    "titleSlug": "next-special-palindrome-number",
+    "difficulty": "Hard",
+    "acRate": 26.04191906954204,
+    "topicTags": [
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

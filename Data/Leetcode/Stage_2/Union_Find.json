@@ -1,0 +1,3409 @@
+[
+  {
+    "questionFrontendId": "128",
+    "title": "Longest Consecutive Sequence",
+    "titleSlug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "acRate": 46.96934004740799,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Longest Consecutive Sequence",
+        "titleSlug": "binary-tree-longest-consecutive-sequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find Three Consecutive Integers That Sum to a Given Number",
+        "titleSlug": "find-three-consecutive-integers-that-sum-to-a-given-number",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Consecutive Floors Without Special Floors",
+        "titleSlug": "maximum-consecutive-floors-without-special-floors",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Length of the Longest Alphabetical Continuous Substring",
+        "titleSlug": "length-of-the-longest-alphabetical-continuous-substring",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Maximum Number of Elements in Subset",
+        "titleSlug": "find-the-maximum-number-of-elements-in-subset",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 42.2
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 65.1
+      },
+      {
+        "name": "Cisco",
+        "frequency": 45.3
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 55.7
+      },
+      {
+        "name": "DeltaX",
+        "frequency": 68.6
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 56.5
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Google",
+        "frequency": 66.2
+      },
+      {
+        "name": "IBM",
+        "frequency": 59.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Lyft",
+        "frequency": 60.8
+      },
+      {
+        "name": "Oracle",
+        "frequency": 68.5
+      },
+      {
+        "name": "PayPal",
+        "frequency": 46.7
+      },
+      {
+        "name": "Paytm",
+        "frequency": 57.2
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "SAP",
+        "frequency": 62.7
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 60.9
+      },
+      {
+        "name": "Swiggy",
+        "frequency": 58.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      },
+      {
+        "name": "TikTok",
+        "frequency": 55.5
+      },
+      {
+        "name": "Turing",
+        "frequency": 51.8
+      },
+      {
+        "name": "Uber",
+        "frequency": 54.9
+      },
+      {
+        "name": "UKG",
+        "frequency": 72.5
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 69.8
+      },
+      {
+        "name": "Wissen Technology",
+        "frequency": 89.3
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 39.9
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zepto",
+        "frequency": 84.8
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "130",
+    "title": "Surrounded Regions",
+    "titleSlug": "surrounded-regions",
+    "difficulty": "Medium",
+    "acRate": 43.5476740583254,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arcesium",
+        "frequency": 57.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "TikTok",
+        "frequency": 47.6
+      },
+      {
+        "name": "Urban Company",
+        "frequency": 92.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "200",
+    "title": "Number of Islands",
+    "titleSlug": "number-of-islands",
+    "difficulty": "Medium",
+    "acRate": 62.81107731456631,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Surrounded Regions",
+        "titleSlug": "surrounded-regions",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Walls and Gates",
+        "titleSlug": "walls-and-gates",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Islands II",
+        "titleSlug": "number-of-islands-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Battleships in a Board",
+        "titleSlug": "battleships-in-a-board",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Distinct Islands",
+        "titleSlug": "number-of-distinct-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Sub Islands",
+        "titleSlug": "count-sub-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Groups of Farmland",
+        "titleSlug": "find-all-groups-of-farmland",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+        "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Fish in a Grid",
+        "titleSlug": "maximum-number-of-fish-in-a-grid",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Islands With Total Value Divisible by K",
+        "titleSlug": "count-islands-with-total-value-divisible-by-k",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 67.7
+      },
+      {
+        "name": "Anduril",
+        "frequency": 100.0
+      },
+      {
+        "name": "Axon",
+        "frequency": 70.6
+      },
+      {
+        "name": "Barclays",
+        "frequency": 71.0
+      },
+      {
+        "name": "BILL Holdings",
+        "frequency": 100.0
+      },
+      {
+        "name": "BitGo",
+        "frequency": 79.6
+      },
+      {
+        "name": "BlackRock",
+        "frequency": 41.7
+      },
+      {
+        "name": "Booking.com",
+        "frequency": 52.0
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 84.6
+      },
+      {
+        "name": "Capital One",
+        "frequency": 49.0
+      },
+      {
+        "name": "Cisco",
+        "frequency": 45.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 61.1
+      },
+      {
+        "name": "Cloudflare",
+        "frequency": 69.9
+      },
+      {
+        "name": "Comcast",
+        "frequency": 77.2
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "CrowdStrike",
+        "frequency": 77.0
+      },
+      {
+        "name": "Disney",
+        "frequency": 79.8
+      },
+      {
+        "name": "Docusign",
+        "frequency": 66.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 52.4
+      },
+      {
+        "name": "EarnIn",
+        "frequency": 100.0
+      },
+      {
+        "name": "eBay",
+        "frequency": 89.2
+      },
+      {
+        "name": "Expedia",
+        "frequency": 63.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 64.2
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 63.6
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 66.8
+      },
+      {
+        "name": "HashedIn",
+        "frequency": 60.6
+      },
+      {
+        "name": "Hotstar",
+        "frequency": 66.6
+      },
+      {
+        "name": "HPE",
+        "frequency": 100.0
+      },
+      {
+        "name": "Huawei",
+        "frequency": 77.9
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Intel",
+        "frequency": 94.4
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "Karat",
+        "frequency": 55.4
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 75.6
+      },
+      {
+        "name": "Lucid",
+        "frequency": 64.9
+      },
+      {
+        "name": "Moloco",
+        "frequency": 82.2
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 49.7
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 54.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 78.0
+      },
+      {
+        "name": "OKX",
+        "frequency": 100.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 89.5
+      },
+      {
+        "name": "Palantir Technologies",
+        "frequency": 45.4
+      },
+      {
+        "name": "PayPal",
+        "frequency": 75.5
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 34.9
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 74.2
+      },
+      {
+        "name": "Reddit",
+        "frequency": 57.2
+      },
+      {
+        "name": "Rivian",
+        "frequency": 100.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 75.1
+      },
+      {
+        "name": "Samsung",
+        "frequency": 89.5
+      },
+      {
+        "name": "SAP",
+        "frequency": 79.4
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 68.6
+      },
+      {
+        "name": "Siemens",
+        "frequency": 94.5
+      },
+      {
+        "name": "Snap",
+        "frequency": 87.1
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "SoFi",
+        "frequency": 83.0
+      },
+      {
+        "name": "Tesla",
+        "frequency": 89.6
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 71.6
+      },
+      {
+        "name": "Tinkoff",
+        "frequency": 75.0
+      },
+      {
+        "name": "Turing",
+        "frequency": 65.7
+      },
+      {
+        "name": "UiPath",
+        "frequency": 72.1
+      },
+      {
+        "name": "Urban Company",
+        "frequency": 92.3
+      },
+      {
+        "name": "Visa",
+        "frequency": 64.6
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 72.6
+      },
+      {
+        "name": "Waymo",
+        "frequency": 77.5
+      },
+      {
+        "name": "Whatnot",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wix",
+        "frequency": 91.3
+      },
+      {
+        "name": "X",
+        "frequency": 47.6
+      },
+      {
+        "name": "Yandex",
+        "frequency": 73.5
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      },
+      {
+        "name": "Zeta",
+        "frequency": 60.8
+      },
+      {
+        "name": "Zillow",
+        "frequency": 89.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 87.2
+      },
+      {
+        "name": "Zomato",
+        "frequency": 58.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "261",
+    "title": "Graph Valid Tree",
+    "titleSlug": "graph-valid-tree",
+    "difficulty": "Medium",
+    "acRate": 49.46429287059672,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Course Schedule",
+        "titleSlug": "course-schedule",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Keys and Rooms",
+        "titleSlug": "keys-and-rooms",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Google",
+        "frequency": 32.4
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 45.8
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 55.0
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "305",
+    "title": "Number of Islands II",
+    "titleSlug": "number-of-islands-ii",
+    "difficulty": "Hard",
+    "acRate": 40.20692380461986,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Process Restricted Friend Requests",
+        "titleSlug": "process-restricted-friend-requests",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 52.4
+      },
+      {
+        "name": "Google",
+        "frequency": 38.6
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 45.1
+      },
+      {
+        "name": "Snap",
+        "frequency": 59.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "323",
+    "title": "Number of Connected Components in an Undirected Graph",
+    "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+    "difficulty": "Medium",
+    "acRate": 64.35604426267204,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Graph Valid Tree",
+        "titleSlug": "graph-valid-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Provinces",
+        "titleSlug": "number-of-provinces",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paths in Maze That Lead to Same Room",
+        "titleSlug": "paths-in-maze-that-lead-to-same-room",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count the Number of Complete Components",
+        "titleSlug": "count-the-number-of-complete-components",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "General Motors",
+        "frequency": 100.0
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 43.4
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "547",
+    "title": "Number of Provinces",
+    "titleSlug": "number-of-provinces",
+    "difficulty": "Medium",
+    "acRate": 69.21932443552475,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Robot Return to Origin",
+        "titleSlug": "robot-return-to-origin",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sentence Similarity",
+        "titleSlug": "sentence-similarity",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sentence Similarity II",
+        "titleSlug": "sentence-similarity-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "The Earliest Moment When Everyone Become Friends",
+        "titleSlug": "the-earliest-moment-when-everyone-become-friends",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Detonate the Maximum Bombs",
+        "titleSlug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 30.9
+      },
+      {
+        "name": "Sprinklr",
+        "frequency": 67.5
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "684",
+    "title": "Redundant Connection",
+    "titleSlug": "redundant-connection",
+    "difficulty": "Medium",
+    "acRate": 66.72354968561905,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Redundant Connection II",
+        "titleSlug": "redundant-connection-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Accounts Merge",
+        "titleSlug": "accounts-merge",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "titleSlug": "maximum-employees-to-be-invited-to-a-meeting",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Shortest Cycle in a Graph",
+        "titleSlug": "shortest-cycle-in-a-graph",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Box",
+        "frequency": 58.8
+      },
+      {
+        "name": "InMobi",
+        "frequency": 65.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "685",
+    "title": "Redundant Connection II",
+    "titleSlug": "redundant-connection-ii",
+    "difficulty": "Hard",
+    "acRate": 35.40088423560601,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Redundant Connection",
+        "titleSlug": "redundant-connection",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "695",
+    "title": "Max Area of Island",
+    "titleSlug": "max-area-of-island",
+    "difficulty": "Medium",
+    "acRate": 73.37069500234831,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Battleships in a Board",
+        "titleSlug": "battleships-in-a-board",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Island Perimeter",
+        "titleSlug": "island-perimeter",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Largest Submatrix With Rearrangements",
+        "titleSlug": "largest-submatrix-with-rearrangements",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Detonate the Maximum Bombs",
+        "titleSlug": "detonate-the-maximum-bombs",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Fish in a Grid",
+        "titleSlug": "maximum-number-of-fish-in-a-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Disney",
+        "frequency": 91.6
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 45.6
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 87.9
+      },
+      {
+        "name": "Grubhub",
+        "frequency": 100.0
+      },
+      {
+        "name": "Intuit",
+        "frequency": 86.8
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 48.0
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 49.0
+      },
+      {
+        "name": "Smartsheet",
+        "frequency": 89.4
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 60.1
+      },
+      {
+        "name": "Tesla",
+        "frequency": 64.4
+      },
+      {
+        "name": "Wise",
+        "frequency": 60.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "721",
+    "title": "Accounts Merge",
+    "titleSlug": "accounts-merge",
+    "difficulty": "Medium",
+    "acRate": 60.11553224641813,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Redundant Connection",
+        "titleSlug": "redundant-connection",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sentence Similarity",
+        "titleSlug": "sentence-similarity",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sentence Similarity II",
+        "titleSlug": "sentence-similarity-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Palantir Technologies",
+        "frequency": 45.4
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 42.7
+      },
+      {
+        "name": "Rippling",
+        "frequency": 55.1
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 52.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "737",
+    "title": "Sentence Similarity II",
+    "titleSlug": "sentence-similarity-ii",
+    "difficulty": "Medium",
+    "acRate": 50.77564481917136,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Provinces",
+        "titleSlug": "number-of-provinces",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Accounts Merge",
+        "titleSlug": "accounts-merge",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Sentence Similarity",
+        "titleSlug": "sentence-similarity",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "765",
+    "title": "Couples Holding Hands",
+    "titleSlug": "couples-holding-hands",
+    "difficulty": "Hard",
+    "acRate": 58.689595023270535,
+    "topicTags": [
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "First Missing Positive",
+        "titleSlug": "first-missing-positive",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Missing Number",
+        "titleSlug": "missing-number",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "K-Similar Strings",
+        "titleSlug": "k-similar-strings",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "778",
+    "title": "Swim in Rising Water",
+    "titleSlug": "swim-in-rising-water",
+    "difficulty": "Hard",
+    "acRate": 63.468232681922174,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path With Minimum Effort",
+        "titleSlug": "path-with-minimum-effort",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 49.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 42.9
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "WeRide",
+        "frequency": 65.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "785",
+    "title": "Is Graph Bipartite?",
+    "titleSlug": "is-graph-bipartite",
+    "difficulty": "Medium",
+    "acRate": 58.19897639991256,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Divide Nodes Into the Maximum Number of Groups",
+        "titleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Pinterest",
+        "frequency": 48.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 74.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "803",
+    "title": "Bricks Falling When Hit",
+    "titleSlug": "bricks-falling-when-hit",
+    "difficulty": "Hard",
+    "acRate": 36.07758398929876,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Last Day Where You Can Still Cross",
+        "titleSlug": "last-day-where-you-can-still-cross",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Ways to Build Sturdy Brick Wall",
+        "titleSlug": "number-of-ways-to-build-sturdy-brick-wall",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "Tower Research Capital",
+        "frequency": 73.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "827",
+    "title": "Making A Large Island",
+    "titleSlug": "making-a-large-island",
+    "difficulty": "Hard",
+    "acRate": 55.49929332989802,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Airbnb",
+        "frequency": 36.3
+      },
+      {
+        "name": "Anduril",
+        "frequency": 69.7
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 64.0
+      },
+      {
+        "name": "jio",
+        "frequency": 62.6
+      },
+      {
+        "name": "Snap",
+        "frequency": 89.1
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      },
+      {
+        "name": "UiPath",
+        "frequency": 62.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "839",
+    "title": "Similar String Groups",
+    "titleSlug": "similar-string-groups",
+    "difficulty": "Hard",
+    "acRate": 55.59516940070893,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Groups of Strings",
+        "titleSlug": "groups-of-strings",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "886",
+    "title": "Possible Bipartition",
+    "titleSlug": "possible-bipartition",
+    "difficulty": "Medium",
+    "acRate": 51.800816457148635,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Arcesium",
+        "frequency": 74.9
+      },
+      {
+        "name": "Coupang",
+        "frequency": 75.9
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 42.7
+      },
+      {
+        "name": "Samsung",
+        "frequency": 66.4
+      },
+      {
+        "name": "Waymo",
+        "frequency": 62.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "924",
+    "title": "Minimize Malware Spread",
+    "titleSlug": "minimize-malware-spread",
+    "difficulty": "Hard",
+    "acRate": 42.60568715591697,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "928",
+    "title": "Minimize Malware Spread II",
+    "titleSlug": "minimize-malware-spread-ii",
+    "difficulty": "Hard",
+    "acRate": 44.92143204276689,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "947",
+    "title": "Most Stones Removed with Same Row or Column",
+    "titleSlug": "most-stones-removed-with-same-row-or-column",
+    "difficulty": "Medium",
+    "acRate": 62.39378830550641,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Moves to Get a Peaceful Board",
+        "titleSlug": "minimum-moves-to-get-a-peaceful-board",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 75.5
+      },
+      {
+        "name": "Tekion",
+        "frequency": 71.3
+      },
+      {
+        "name": "thoughtspot",
+        "frequency": 71.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "959",
+    "title": "Regions Cut By Slashes",
+    "titleSlug": "regions-cut-by-slashes",
+    "difficulty": "Medium",
+    "acRate": 77.629610702099,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "990",
+    "title": "Satisfiability of Equality Equations",
+    "titleSlug": "satisfiability-of-equality-equations",
+    "difficulty": "Medium",
+    "acRate": 51.202964215684645,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Sumo Logic",
+        "frequency": 100.0
+      },
+      {
+        "name": "UiPath",
+        "frequency": 62.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1020",
+    "title": "Number of Enclaves",
+    "titleSlug": "number-of-enclaves",
+    "difficulty": "Medium",
+    "acRate": 71.0287141831275,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1061",
+    "title": "Lexicographically Smallest Equivalent String",
+    "titleSlug": "lexicographically-smallest-equivalent-string",
+    "difficulty": "Medium",
+    "acRate": 81.12081615540492,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lexicographically Smallest Generated String",
+        "titleSlug": "lexicographically-smallest-generated-string",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cloudera",
+        "frequency": 65.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1101",
+    "title": "The Earliest Moment When Everyone Become Friends",
+    "titleSlug": "the-earliest-moment-when-everyone-become-friends",
+    "difficulty": "Medium",
+    "acRate": 65.70151012102389,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Provinces",
+        "titleSlug": "number-of-provinces",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Expedia",
+        "frequency": 95.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1102",
+    "title": "Path With Maximum Minimum Value",
+    "titleSlug": "path-with-maximum-minimum-value",
+    "difficulty": "Medium",
+    "acRate": 54.2068781239194,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path With Minimum Effort",
+        "titleSlug": "path-with-minimum-effort",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1202",
+    "title": "Smallest String With Swaps",
+    "titleSlug": "smallest-string-with-swaps",
+    "difficulty": "Medium",
+    "acRate": 59.71880708163552,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "titleSlug": "minimize-hamming-distance-after-swap-operations",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Process Restricted Friend Requests",
+        "titleSlug": "process-restricted-friend-requests",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Largest Number After Digit Swaps by Parity",
+        "titleSlug": "largest-number-after-digit-swaps-by-parity",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Lexicographically Smallest Beautiful String",
+        "titleSlug": "lexicographically-smallest-beautiful-string",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Make Lexicographically Smallest Array by Swapping Elements",
+        "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "PhonePe",
+        "frequency": 84.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1254",
+    "title": "Number of Closed Islands",
+    "titleSlug": "number-of-closed-islands",
+    "difficulty": "Medium",
+    "acRate": 66.83002702840533,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1258",
+    "title": "Synonymous Sentences",
+    "titleSlug": "synonymous-sentences",
+    "difficulty": "Medium",
+    "acRate": 56.67596161732141,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Cruise",
+        "frequency": 100.0
+      },
+      {
+        "name": "Moveworks",
+        "frequency": 91.5
+      },
+      {
+        "name": "Rippling",
+        "frequency": 63.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1267",
+    "title": "Count Servers that Communicate",
+    "titleSlug": "count-servers-that-communicate",
+    "difficulty": "Medium",
+    "acRate": 73.48801378310583,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1319",
+    "title": "Number of Operations to Make Network Connected",
+    "titleSlug": "number-of-operations-to-make-network-connected",
+    "difficulty": "Medium",
+    "acRate": 65.34879197143651,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "Intuit",
+        "frequency": 46.9
+      },
+      {
+        "name": "McKinsey",
+        "frequency": 97.7
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 38.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1361",
+    "title": "Validate Binary Tree Nodes",
+    "titleSlug": "validate-binary-tree-nodes",
+    "difficulty": "Medium",
+    "acRate": 43.91792021039827,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1391",
+    "title": "Check if There is a Valid Path in a Grid",
+    "titleSlug": "check-if-there-is-a-valid-path-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 49.27004207494423,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": " Check if There Is a Valid Parentheses String Path",
+        "titleSlug": "check-if-there-is-a-valid-parentheses-string-path",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Robinhood",
+        "frequency": 87.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1559",
+    "title": "Detect Cycles in 2D Grid",
+    "titleSlug": "detect-cycles-in-2d-grid",
+    "difficulty": "Medium",
+    "acRate": 51.076194766081095,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1579",
+    "title": "Remove Max Number of Edges to Keep Graph Fully Traversable",
+    "titleSlug": "remove-max-number-of-edges-to-keep-graph-fully-traversable",
+    "difficulty": "Hard",
+    "acRate": 70.3499209075979,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1631",
+    "title": "Path With Minimum Effort",
+    "titleSlug": "path-with-minimum-effort",
+    "difficulty": "Medium",
+    "acRate": 62.00459833643691,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Swim in Rising Water",
+        "titleSlug": "swim-in-rising-water",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Path With Maximum Minimum Value",
+        "titleSlug": "path-with-maximum-minimum-value",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Safest Path in a Grid",
+        "titleSlug": "find-the-safest-path-in-a-grid",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cohesity",
+        "frequency": 88.3
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1697",
+    "title": "Checking Existence of Edge Length Limited Paths",
+    "titleSlug": "checking-existence-of-edge-length-limited-paths",
+    "difficulty": "Hard",
+    "acRate": 62.91743562703225,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Checking Existence of Edge Length Limited Paths II",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Number of Good Paths",
+        "titleSlug": "number-of-good-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Score of a Path Between Two Cities",
+        "titleSlug": "minimum-score-of-a-path-between-two-cities",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1722",
+    "title": "Minimize Hamming Distance After Swap Operations",
+    "titleSlug": "minimize-hamming-distance-after-swap-operations",
+    "difficulty": "Medium",
+    "acRate": 48.54351117023717,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest String With Swaps",
+        "titleSlug": "smallest-string-with-swaps",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Make Lexicographically Smallest Array by Swapping Elements",
+        "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1905",
+    "title": "Count Sub Islands",
+    "titleSlug": "count-sub-islands",
+    "difficulty": "Medium",
+    "acRate": 72.86701340378737,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Distinct Islands",
+        "titleSlug": "number-of-distinct-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find All Groups of Farmland",
+        "titleSlug": "find-all-groups-of-farmland",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 63.1
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      },
+      {
+        "name": "Zepto",
+        "frequency": 72.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1970",
+    "title": "Last Day Where You Can Still Cross",
+    "titleSlug": "last-day-where-you-can-still-cross",
+    "difficulty": "Hard",
+    "acRate": 62.430648555576816,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Bricks Falling When Hit",
+        "titleSlug": "bricks-falling-when-hit",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Escape the Spreading Fire",
+        "titleSlug": "escape-the-spreading-fire",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1971",
+    "title": "Find if Path Exists in Graph",
+    "titleSlug": "find-if-path-exists-in-graph",
+    "difficulty": "Easy",
+    "acRate": 54.23531833425324,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Valid Arrangement of Pairs",
+        "titleSlug": "valid-arrangement-of-pairs",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Paths in Maze That Lead to Same Room",
+        "titleSlug": "paths-in-maze-that-lead-to-same-room",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2003",
+    "title": "Smallest Missing Genetic Value in Each Subtree",
+    "titleSlug": "smallest-missing-genetic-value-in-each-subtree",
+    "difficulty": "Hard",
+    "acRate": 46.89270742156908,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2076",
+    "title": "Process Restricted Friend Requests",
+    "titleSlug": "process-restricted-friend-requests",
+    "difficulty": "Hard",
+    "acRate": 57.458111973845526,
+    "topicTags": [
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands II",
+        "titleSlug": "number-of-islands-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Smallest String With Swaps",
+        "titleSlug": "smallest-string-with-swaps",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Employees to Be Invited to a Meeting",
+        "titleSlug": "maximum-employees-to-be-invited-to-a-meeting",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2092",
+    "title": "Find All People With Secret",
+    "titleSlug": "find-all-people-with-secret",
+    "difficulty": "Hard",
+    "acRate": 45.306887194728,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Reachable Nodes In Subdivided Graph",
+        "titleSlug": "reachable-nodes-in-subdivided-graph",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2204",
+    "title": "Distance to a Cycle in Undirected Graph",
+    "titleSlug": "distance-to-a-cycle-in-undirected-graph",
+    "difficulty": "Hard",
+    "acRate": 73.03887738670348,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Paths in Maze That Lead to Same Room",
+        "titleSlug": "paths-in-maze-that-lead-to-same-room",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 57.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2307",
+    "title": "Check for Contradictions in Equations",
+    "titleSlug": "check-for-contradictions-in-equations",
+    "difficulty": "Hard",
+    "acRate": 43.51409978308026,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Evaluate Division",
+        "titleSlug": "evaluate-division",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2316",
+    "title": "Count Unreachable Pairs of Nodes in an Undirected Graph",
+    "titleSlug": "count-unreachable-pairs-of-nodes-in-an-undirected-graph",
+    "difficulty": "Medium",
+    "acRate": 49.46752797220087,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Commvault",
+        "frequency": 77.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2368",
+    "title": "Reachable Nodes With Restrictions",
+    "titleSlug": "reachable-nodes-with-restrictions",
+    "difficulty": "Medium",
+    "acRate": 59.68459423558124,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Open the Lock",
+        "titleSlug": "open-the-lock",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Jumps to Reach Home",
+        "titleSlug": "minimum-jumps-to-reach-home",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "MakeMyTrip",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2421",
+    "title": "Number of Good Paths",
+    "titleSlug": "number-of-good-paths",
+    "difficulty": "Hard",
+    "acRate": 56.06653001887184,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Checking Existence of Edge Length Limited Paths",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Checking Existence of Edge Length Limited Paths II",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Nice Substring",
+        "titleSlug": "longest-nice-substring",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Good Triplets in an Array",
+        "titleSlug": "count-good-triplets-in-an-array",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Count Pairs Of Similar Strings",
+        "titleSlug": "count-pairs-of-similar-strings",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2492",
+    "title": "Minimum Score of a Path Between Two Cities",
+    "titleSlug": "minimum-score-of-a-path-between-two-cities",
+    "difficulty": "Medium",
+    "acRate": 58.01011418503009,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Checking Existence of Edge Length Limited Paths",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Checking Existence of Edge Length Limited Paths II",
+        "titleSlug": "checking-existence-of-edge-length-limited-paths-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2493",
+    "title": "Divide Nodes Into the Maximum Number of Groups",
+    "titleSlug": "divide-nodes-into-the-maximum-number-of-groups",
+    "difficulty": "Hard",
+    "acRate": 67.25568408456323,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Binary Tree Level Order Traversal",
+        "titleSlug": "binary-tree-level-order-traversal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Is Graph Bipartite?",
+        "titleSlug": "is-graph-bipartite",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Cycle in a Graph",
+        "titleSlug": "shortest-cycle-in-a-graph",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2503",
+    "title": "Maximum Number of Points From Grid Queries",
+    "titleSlug": "maximum-number-of-points-from-grid-queries",
+    "difficulty": "Hard",
+    "acRate": 59.423318795326985,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Trapping Rain Water II",
+        "titleSlug": "trapping-rain-water-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Escape the Spreading Fire",
+        "titleSlug": "escape-the-spreading-fire",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "J.P. Morgan",
+        "frequency": 70.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2573",
+    "title": "Find the String with LCP",
+    "titleSlug": "find-the-string-with-lcp",
+    "difficulty": "Hard",
+    "acRate": 31.842282849705967,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2658",
+    "title": "Maximum Number of Fish in a Grid",
+    "titleSlug": "maximum-number-of-fish-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 70.40179833480764,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Max Area of Island",
+        "titleSlug": "max-area-of-island",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2685",
+    "title": "Count the Number of Complete Components",
+    "titleSlug": "count-the-number-of-complete-components",
+    "difficulty": "Medium",
+    "acRate": 77.67290072881563,
+    "topicTags": [
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Connected Components in an Undirected Graph",
+        "titleSlug": "number-of-connected-components-in-an-undirected-graph",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2812",
+    "title": "Find the Safest Path in a Grid",
+    "titleSlug": "find-the-safest-path-in-a-grid",
+    "difficulty": "Medium",
+    "acRate": 48.44082130551345,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Path With Minimum Effort",
+        "titleSlug": "path-with-minimum-effort",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "IMC",
+        "frequency": 100.0
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 70.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2852",
+    "title": "Sum of Remoteness of All Cells",
+    "titleSlug": "sum-of-remoteness-of-all-cells",
+    "difficulty": "Medium",
+    "acRate": 70.86739327883743,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Media.net",
+        "frequency": 82.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2948",
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "titleSlug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "acRate": 60.22850662355525,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Smallest String With Swaps",
+        "titleSlug": "smallest-string-with-swaps",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimize Hamming Distance After Swap Operations",
+        "titleSlug": "minimize-hamming-distance-after-swap-operations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 58.7
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 61.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3493",
+    "title": "Properties Graph",
+    "titleSlug": "properties-graph",
+    "difficulty": "Medium",
+    "acRate": 47.27106887554886,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3532",
+    "title": "Path Existence Queries in a Graph I",
+    "titleSlug": "path-existence-queries-in-a-graph-i",
+    "difficulty": "Medium",
+    "acRate": 54.95269577111592,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3608",
+    "title": "Minimum Time for K Connected Components",
+    "titleSlug": "minimum-time-for-k-connected-components",
+    "difficulty": "Medium",
+    "acRate": 44.24746413232204,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3613",
+    "title": "Minimize Maximum Component Cost",
+    "titleSlug": "minimize-maximum-component-cost",
+    "difficulty": "Medium",
+    "acRate": 42.907878682238106,
+    "topicTags": [
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Graph",
+        "slug": "graph"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3619",
+    "title": "Count Islands With Total Value Divisible by K",
+    "titleSlug": "count-islands-with-total-value-divisible-by-k",
+    "difficulty": "Medium",
+    "acRate": 55.44863697953747,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Breadth-First Search",
+        "slug": "breadth-first-search"
+      },
+      {
+        "name": "Union Find",
+        "slug": "union-find"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Islands",
+        "titleSlug": "number-of-islands",
+        "difficulty": "Medium"
+      }
+    ]
+  }
+]

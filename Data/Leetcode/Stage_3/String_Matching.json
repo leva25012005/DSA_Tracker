@@ -1,0 +1,726 @@
+[
+  {
+    "questionFrontendId": "28",
+    "title": "Find the Index of the First Occurrence in a String",
+    "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "acRate": 45.375619586569094,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Palindrome",
+        "titleSlug": "shortest-palindrome",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Repeated Substring Pattern",
+        "titleSlug": "repeated-substring-pattern",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 48.3
+      },
+      {
+        "name": "Adobe",
+        "frequency": 45.2
+      },
+      {
+        "name": "Amazon",
+        "frequency": 52.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 58.6
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 59.8
+      },
+      {
+        "name": "Expedia",
+        "frequency": 53.3
+      },
+      {
+        "name": "Google",
+        "frequency": 54.3
+      },
+      {
+        "name": "IBM",
+        "frequency": 44.1
+      },
+      {
+        "name": "IIT Bombay",
+        "frequency": 68.4
+      },
+      {
+        "name": "Infosys",
+        "frequency": 54.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 44.8
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 54.6
+      },
+      {
+        "name": "Pocket Gems",
+        "frequency": 100.0
+      },
+      {
+        "name": "tcs",
+        "frequency": 54.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 51.4
+      },
+      {
+        "name": "Warnermedia",
+        "frequency": 80.9
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 51.6
+      },
+      {
+        "name": "Yandex",
+        "frequency": 23.3
+      },
+      {
+        "name": "Zoho",
+        "frequency": 52.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "459",
+    "title": "Repeated Substring Pattern",
+    "titleSlug": "repeated-substring-pattern",
+    "difficulty": "Easy",
+    "acRate": 47.11797277386153,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find the Index of the First Occurrence in a String",
+        "titleSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Repeated String Match",
+        "titleSlug": "repeated-string-match",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Myntra",
+        "frequency": 69.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "616",
+    "title": "Add Bold Tag in String",
+    "titleSlug": "add-bold-tag-in-string",
+    "difficulty": "Medium",
+    "acRate": 51.09818765196902,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Merge Intervals",
+        "titleSlug": "merge-intervals",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Tag Validator",
+        "titleSlug": "tag-validator",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Gusto",
+        "frequency": 88.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "686",
+    "title": "Repeated String Match",
+    "titleSlug": "repeated-string-match",
+    "difficulty": "Medium",
+    "acRate": 37.43113223947259,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Repeated Substring Pattern",
+        "titleSlug": "repeated-substring-pattern",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "758",
+    "title": "Bold Words in String",
+    "titleSlug": "bold-words-in-string",
+    "difficulty": "Medium",
+    "acRate": 52.22815021005695,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "796",
+    "title": "Rotate String",
+    "titleSlug": "rotate-string",
+    "difficulty": "Easy",
+    "acRate": 64.33882174043445,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Amdocs",
+        "frequency": 63.4
+      },
+      {
+        "name": "Rivian",
+        "frequency": 88.3
+      },
+      {
+        "name": "SAP",
+        "frequency": 62.7
+      },
+      {
+        "name": "tcs",
+        "frequency": 33.9
+      },
+      {
+        "name": "Visa",
+        "frequency": 52.5
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 60.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1023",
+    "title": "Camelcase Matching",
+    "titleSlug": "camelcase-matching",
+    "difficulty": "Medium",
+    "acRate": 64.21311581536868,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Compass",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1397",
+    "title": "Find All Good Strings",
+    "titleSlug": "find-all-good-strings",
+    "difficulty": "Hard",
+    "acRate": 44.13428495902723,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Dunzo",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1408",
+    "title": "String Matching in an Array",
+    "titleSlug": "string-matching-in-an-array",
+    "difficulty": "Easy",
+    "acRate": 69.79147828882593,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Substring XOR Queries",
+        "titleSlug": "substring-xor-queries",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1455",
+    "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "difficulty": "Easy",
+    "acRate": 68.71038741671008,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Counting Words With a Given Prefix",
+        "titleSlug": "counting-words-with-a-given-prefix",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Prefixes of a Given String",
+        "titleSlug": "count-prefixes-of-a-given-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Yelp",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1668",
+    "title": "Maximum Repeating Substring",
+    "titleSlug": "maximum-repeating-substring",
+    "difficulty": "Easy",
+    "acRate": 40.03528382049926,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Detect Pattern of Length M Repeated K or More Times",
+        "titleSlug": "detect-pattern-of-length-m-repeated-k-or-more-times",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Minimum Number of Operations to Make Word K-Periodic",
+        "titleSlug": "minimum-number-of-operations-to-make-word-k-periodic",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Asana",
+        "frequency": 83.5
+      },
+      {
+        "name": "Pure Storage",
+        "frequency": 70.9
+      },
+      {
+        "name": "Turing",
+        "frequency": 43.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1764",
+    "title": "Form Array by Concatenating Subarrays of Another Array",
+    "titleSlug": "form-array-by-concatenating-subarrays-of-another-array",
+    "difficulty": "Medium",
+    "acRate": 53.91766645817933,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2185",
+    "title": "Counting Words With a Given Prefix",
+    "titleSlug": "counting-words-with-a-given-prefix",
+    "difficulty": "Easy",
+    "acRate": 84.4968368934703,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+        "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Prefixes of a Given String",
+        "titleSlug": "count-prefixes-of-a-given-string",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2301",
+    "title": "Match Substring After Replacement",
+    "titleSlug": "match-substring-after-replacement",
+    "difficulty": "Hard",
+    "acRate": 42.463610907898385,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Add and Search Words Data Structure",
+        "titleSlug": "design-add-and-search-words-data-structure",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Subarrays That Match a Pattern II",
+        "titleSlug": "number-of-subarrays-that-match-a-pattern-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2851",
+    "title": "String Transformation",
+    "titleSlug": "string-transformation",
+    "difficulty": "Hard",
+    "acRate": 25.468743475174342,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 46.2
+      },
+      {
+        "name": "MathWorks",
+        "frequency": 80.5
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 89.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3303",
+    "title": "Find the Occurrence of First Almost Equal Substring",
+    "titleSlug": "find-the-occurrence-of-first-almost-equal-substring",
+    "difficulty": "Hard",
+    "acRate": 14.248280379954142,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Check Whether Two Strings are Almost Equivalent",
+        "titleSlug": "check-whether-two-strings-are-almost-equivalent",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Count Almost Equal Pairs II",
+        "titleSlug": "count-almost-equal-pairs-ii",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3407",
+    "title": "Substring Matching Pattern",
+    "titleSlug": "substring-matching-pattern",
+    "difficulty": "Easy",
+    "acRate": 27.379522093178483,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Wildcard Matching",
+        "titleSlug": "wildcard-matching",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3455",
+    "title": "Shortest Matching Substring",
+    "titleSlug": "shortest-matching-substring",
+    "difficulty": "Hard",
+    "acRate": 22.25450782151813,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3474",
+    "title": "Lexicographically Smallest Generated String",
+    "titleSlug": "lexicographically-smallest-generated-string",
+    "difficulty": "Hard",
+    "acRate": 30.1280761751492,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lexicographically Smallest Equivalent String",
+        "titleSlug": "lexicographically-smallest-equivalent-string",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Barclays",
+        "frequency": 77.9
+      }
+    ]
+  }
+]

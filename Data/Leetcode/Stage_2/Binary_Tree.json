@@ -1,0 +1,347 @@
+[
+  {
+    "questionFrontendId": "331",
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "titleSlug": "verify-preorder-serialization-of-a-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 46.41712047162409,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "998",
+    "title": "Maximum Binary Tree II",
+    "titleSlug": "maximum-binary-tree-ii",
+    "difficulty": "Medium",
+    "acRate": 69.53887469705901,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Binary Tree",
+        "titleSlug": "maximum-binary-tree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1104",
+    "title": "Path In Zigzag Labelled Binary Tree",
+    "titleSlug": "path-in-zigzag-labelled-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 75.58179151791666,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Cycle Length Queries in a Tree",
+        "titleSlug": "cycle-length-queries-in-a-tree",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1597",
+    "title": "Build Binary Expression Tree From Infix Expression",
+    "titleSlug": "build-binary-expression-tree-from-infix-expression",
+    "difficulty": "Hard",
+    "acRate": 62.51141751120004,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Basic Calculator III",
+        "titleSlug": "basic-calculator-iii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Check If Two Expression Trees are Equivalent",
+        "titleSlug": "check-if-two-expression-trees-are-equivalent",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1650",
+    "title": "Lowest Common Ancestor of a Binary Tree III",
+    "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iii",
+    "difficulty": "Medium",
+    "acRate": 82.66591493098849,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Lowest Common Ancestor of a Binary Search Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree II",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree IV",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree-iv",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Wix",
+        "frequency": 46.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2196",
+    "title": "Create Binary Tree From Descriptions",
+    "titleSlug": "create-binary-tree-from-descriptions",
+    "difficulty": "Medium",
+    "acRate": 81.64482656981421,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Convert Sorted List to Binary Search Tree",
+        "titleSlug": "convert-sorted-list-to-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number Of Ways To Reconstruct A Tree",
+        "titleSlug": "number-of-ways-to-reconstruct-a-tree",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Clari",
+        "frequency": 100.0
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 50.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2236",
+    "title": "Root Equals Sum of Children",
+    "titleSlug": "root-equals-sum-of-children",
+    "difficulty": "Easy",
+    "acRate": 84.95191958729075,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2509",
+    "title": "Cycle Length Queries in a Tree",
+    "titleSlug": "cycle-length-queries-in-a-tree",
+    "difficulty": "Hard",
+    "acRate": 59.06450836856033,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Populating Next Right Pointers in Each Node",
+        "titleSlug": "populating-next-right-pointers-in-each-node",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Lowest Common Ancestor of a Binary Tree",
+        "titleSlug": "lowest-common-ancestor-of-a-binary-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Path In Zigzag Labelled Binary Tree",
+        "titleSlug": "path-in-zigzag-labelled-binary-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arcesium",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2673",
+    "title": "Make Costs of Paths Equal in a Binary Tree",
+    "titleSlug": "make-costs-of-paths-equal-in-a-binary-tree",
+    "difficulty": "Medium",
+    "acRate": 57.37134181456468,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "DE Shaw",
+        "frequency": 39.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3526",
+    "title": "Range XOR Queries with Subarray Reversals",
+    "titleSlug": "range-xor-queries-with-subarray-reversals",
+    "difficulty": "Hard",
+    "acRate": 62.22664015904572,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

@@ -1,0 +1,926 @@
+[
+  {
+    "questionFrontendId": "239",
+    "title": "Sliding Window Maximum",
+    "titleSlug": "sliding-window-maximum",
+    "difficulty": "Hard",
+    "acRate": 47.870571977484914,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Minimum Window Substring",
+        "titleSlug": "minimum-window-substring",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Min Stack",
+        "titleSlug": "min-stack",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Substring with At Most Two Distinct Characters",
+        "titleSlug": "longest-substring-with-at-most-two-distinct-characters",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Paint House II",
+        "titleSlug": "paint-house-ii",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Jump Game VI",
+        "titleSlug": "jump-game-vi",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Number of Robots Within Budget",
+        "titleSlug": "maximum-number-of-robots-within-budget",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Tastiness of Candy Basket",
+        "titleSlug": "maximum-tastiness-of-candy-basket",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximal Score After Applying K Operations",
+        "titleSlug": "maximal-score-after-applying-k-operations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Autodesk",
+        "frequency": 73.1
+      },
+      {
+        "name": "Booking.com",
+        "frequency": 87.5
+      },
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "Citadel",
+        "frequency": 85.3
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "DE Shaw",
+        "frequency": 61.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 35.8
+      },
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Gameskraft",
+        "frequency": 65.7
+      },
+      {
+        "name": "Gojek",
+        "frequency": 100.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 45.6
+      },
+      {
+        "name": "Juspay",
+        "frequency": 62.6
+      },
+      {
+        "name": "LINE",
+        "frequency": 100.0
+      },
+      {
+        "name": "MakeMyTrip",
+        "frequency": 60.0
+      },
+      {
+        "name": "Media.net",
+        "frequency": 46.5
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 71.1
+      },
+      {
+        "name": "Nuro",
+        "frequency": 64.8
+      },
+      {
+        "name": "Nutanix",
+        "frequency": 73.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 71.2
+      },
+      {
+        "name": "oyo",
+        "frequency": 87.4
+      },
+      {
+        "name": "Palo Alto Networks",
+        "frequency": 64.9
+      },
+      {
+        "name": "PhonePe",
+        "frequency": 54.9
+      },
+      {
+        "name": "Roku",
+        "frequency": 100.0
+      },
+      {
+        "name": "Rubrik",
+        "frequency": 40.6
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 46.8
+      },
+      {
+        "name": "Visa",
+        "frequency": 42.9
+      },
+      {
+        "name": "Wayfair",
+        "frequency": 53.9
+      },
+      {
+        "name": "Zenefits",
+        "frequency": 97.6
+      },
+      {
+        "name": "Zepto",
+        "frequency": 84.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "862",
+    "title": "Shortest Subarray with Sum at Least K",
+    "titleSlug": "shortest-subarray-with-sum-at-least-k",
+    "difficulty": "Hard",
+    "acRate": 32.32074861252831,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Shortest Subarray With OR at Least K II",
+        "titleSlug": "shortest-subarray-with-or-at-least-k-ii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Shortest Subarray With OR at Least K I",
+        "titleSlug": "shortest-subarray-with-or-at-least-k-i",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "918",
+    "title": "Maximum Sum Circular Subarray",
+    "titleSlug": "maximum-sum-circular-subarray",
+    "difficulty": "Medium",
+    "acRate": 48.23446913633116,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Flipkart",
+        "frequency": 41.7
+      },
+      {
+        "name": "Two Sigma",
+        "frequency": 93.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1425",
+    "title": "Constrained Subsequence Sum",
+    "titleSlug": "constrained-subsequence-sum",
+    "difficulty": "Hard",
+    "acRate": 56.35502912721684,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Maximum Element-Sum of a Complete Subset of Indices",
+        "titleSlug": "maximum-element-sum-of-a-complete-subset-of-indices",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Akuna Capital",
+        "frequency": 97.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1499",
+    "title": "Max Value of Equation",
+    "titleSlug": "max-value-of-equation",
+    "difficulty": "Hard",
+    "acRate": 44.68137990143561,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Pairs in Two Arrays",
+        "titleSlug": "count-pairs-in-two-arrays",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1687",
+    "title": "Delivering Boxes from Storage to Ports",
+    "titleSlug": "delivering-boxes-from-storage-to-ports",
+    "difficulty": "Hard",
+    "acRate": 39.557751343054484,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Nutanix",
+        "frequency": 97.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1696",
+    "title": "Jump Game VI",
+    "titleSlug": "jump-game-vi",
+    "difficulty": "Medium",
+    "acRate": 46.119398999858866,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Jump Game VII",
+        "titleSlug": "jump-game-vii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Jump Game VIII",
+        "titleSlug": "jump-game-viii",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize Value of Function in a Ball Passing Game",
+        "titleSlug": "maximize-value-of-function-in-a-ball-passing-game",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AQR Capital Management",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2071",
+    "title": "Maximum Number of Tasks You Can Assign",
+    "titleSlug": "maximum-number-of-tasks-you-can-assign",
+    "difficulty": "Hard",
+    "acRate": 50.511822989483925,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Most Profit Assigning Work",
+        "titleSlug": "most-profit-assigning-work",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximum Running Time of N Computers",
+        "titleSlug": "maximum-running-time-of-n-computers",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Number of Robots Within Budget",
+        "titleSlug": "maximum-number-of-robots-within-budget",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Matching of Players With Trainers",
+        "titleSlug": "maximum-matching-of-players-with-trainers",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Maximize the Minimum Powered City",
+        "titleSlug": "maximize-the-minimum-powered-city",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "IBM",
+        "frequency": 35.0
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 75.1
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2398",
+    "title": "Maximum Number of Robots Within Budget",
+    "titleSlug": "maximum-number-of-robots-within-budget",
+    "difficulty": "Hard",
+    "acRate": 37.17060656038117,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sliding Window Maximum",
+        "titleSlug": "sliding-window-maximum",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Kth Smallest Product of Two Sorted Arrays",
+        "titleSlug": "kth-smallest-product-of-two-sorted-arrays",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Maximum Number of Tasks You Can Assign",
+        "titleSlug": "maximum-number-of-tasks-you-can-assign",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimized Maximum of Products Distributed to Any Store",
+        "titleSlug": "minimized-maximum-of-products-distributed-to-any-store",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Time to Complete Trips",
+        "titleSlug": "minimum-time-to-complete-trips",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "InMobi",
+        "frequency": 65.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2407",
+    "title": "Longest Increasing Subsequence II",
+    "titleSlug": "longest-increasing-subsequence-ii",
+    "difficulty": "Hard",
+    "acRate": 25.569400104826794,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Divide and Conquer",
+        "slug": "divide-and-conquer"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Binary Indexed Tree",
+        "slug": "binary-indexed-tree"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Increasing Subsequence",
+        "titleSlug": "longest-increasing-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Number of Longest Increasing Subsequence",
+        "titleSlug": "number-of-longest-increasing-subsequence",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Continuous Increasing Subsequence",
+        "titleSlug": "longest-continuous-increasing-subsequence",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Longest Substring of One Repeating Character",
+        "titleSlug": "longest-substring-of-one-repeating-character",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Booking Concert Tickets in Groups",
+        "titleSlug": "booking-concert-tickets-in-groups",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "titleSlug": "longest-subsequence-with-decreasing-adjacent-difference",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2444",
+    "title": "Count Subarrays With Fixed Bounds",
+    "titleSlug": "count-subarrays-with-fixed-bounds",
+    "difficulty": "Hard",
+    "acRate": 69.38047475352155,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count Number of Nice Subarrays",
+        "titleSlug": "count-number-of-nice-subarrays",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+        "titleSlug": "longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "titleSlug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "MathWorks",
+        "frequency": 100.0
+      },
+      {
+        "name": "Morgan Stanley",
+        "frequency": 75.5
+      },
+      {
+        "name": "OKX",
+        "frequency": 89.1
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2944",
+    "title": "Minimum Number of Coins for Fruits",
+    "titleSlug": "minimum-number-of-coins-for-fruits",
+    "difficulty": "Medium",
+    "acRate": 47.44803643085802,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2945",
+    "title": "Find Maximum Non-decreasing Array Length",
+    "titleSlug": "find-maximum-non-decreasing-array-length",
+    "difficulty": "Hard",
+    "acRate": 17.22261505825929,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "2969",
+    "title": "Minimum Number of Coins for Fruits II",
+    "titleSlug": "minimum-number-of-coins-for-fruits-ii",
+    "difficulty": "Hard",
+    "acRate": 45.75625680087051,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "3420",
+    "title": "Count Non-Decreasing Subarrays After K Operations",
+    "titleSlug": "count-non-decreasing-subarrays-after-k-operations",
+    "difficulty": "Hard",
+    "acRate": 21.80844280066318,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Non-decreasing Array",
+        "titleSlug": "non-decreasing-array",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3578",
+    "title": "Count Partitions With Max-Min Difference at Most K",
+    "titleSlug": "count-partitions-with-max-min-difference-at-most-k",
+    "difficulty": "Medium",
+    "acRate": 37.01539453534295,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      },
+      {
+        "name": "Monotonic Queue",
+        "slug": "monotonic-queue"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Great Partitions",
+        "titleSlug": "number-of-great-partitions",
+        "difficulty": "Hard"
+      }
+    ]
+  }
+]

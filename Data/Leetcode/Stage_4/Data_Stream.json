@@ -1,0 +1,1120 @@
+[
+  {
+    "questionFrontendId": "170",
+    "title": "Two Sum III - Data structure design",
+    "titleSlug": "two-sum-iii-data-structure-design",
+    "difficulty": "Easy",
+    "acRate": 38.749604369111836,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Two Sum",
+        "titleSlug": "two-sum",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Unique Word Abbreviation",
+        "titleSlug": "unique-word-abbreviation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Two Sum IV - Input is a BST",
+        "titleSlug": "two-sum-iv-input-is-a-bst",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "LinkedIn",
+        "frequency": 50.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "295",
+    "title": "Find Median from Data Stream",
+    "titleSlug": "find-median-from-data-stream",
+    "difficulty": "Hard",
+    "acRate": 53.61016324473673,
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sliding Window Median",
+        "titleSlug": "sliding-window-median",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Finding MK Average",
+        "titleSlug": "finding-mk-average",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sequentially Ordinal Rank Tracker",
+        "titleSlug": "sequentially-ordinal-rank-tracker",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Minimum Operations to Make Median of Array Equal to K",
+        "titleSlug": "minimum-operations-to-make-median-of-array-equal-to-k",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Subarray Elements Equal",
+        "titleSlug": "minimum-operations-to-make-subarray-elements-equal",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+        "titleSlug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Agoda",
+        "frequency": 55.9
+      },
+      {
+        "name": "Anduril",
+        "frequency": 79.0
+      },
+      {
+        "name": "Citadel",
+        "frequency": 57.1
+      },
+      {
+        "name": "Cohesity",
+        "frequency": 88.3
+      },
+      {
+        "name": "Coupang",
+        "frequency": 52.8
+      },
+      {
+        "name": "Docusign",
+        "frequency": 77.0
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 30.2
+      },
+      {
+        "name": "Google",
+        "frequency": 55.4
+      },
+      {
+        "name": "IXL",
+        "frequency": 81.6
+      },
+      {
+        "name": "KLA",
+        "frequency": 70.9
+      },
+      {
+        "name": "Nvidia",
+        "frequency": 63.8
+      },
+      {
+        "name": "Okta",
+        "frequency": 100.0
+      },
+      {
+        "name": "PayPal",
+        "frequency": 37.9
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 78.8
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 48.6
+      },
+      {
+        "name": "Splunk",
+        "frequency": 91.4
+      },
+      {
+        "name": "Spotify",
+        "frequency": 55.3
+      },
+      {
+        "name": "StackAdapt",
+        "frequency": 100.0
+      },
+      {
+        "name": "Tinder",
+        "frequency": 100.0
+      },
+      {
+        "name": "Twitch",
+        "frequency": 64.4
+      },
+      {
+        "name": "WorldQuant",
+        "frequency": 89.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "346",
+    "title": "Moving Average from Data Stream",
+    "titleSlug": "moving-average-from-data-stream",
+    "difficulty": "Easy",
+    "acRate": 80.01543123951033,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "K Radius Subarray Averages",
+        "titleSlug": "k-radius-subarray-averages",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 67.3
+      },
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      },
+      {
+        "name": "Nuro",
+        "frequency": 64.8
+      },
+      {
+        "name": "Spotify",
+        "frequency": 100.0
+      },
+      {
+        "name": "Tesla",
+        "frequency": 54.1
+      },
+      {
+        "name": "ZScaler",
+        "frequency": 59.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "359",
+    "title": "Logger Rate Limiter",
+    "titleSlug": "logger-rate-limiter",
+    "difficulty": "Easy",
+    "acRate": 76.66550300246023,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Hit Counter",
+        "titleSlug": "design-hit-counter",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "AppFolio",
+        "frequency": 100.0
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 71.2
+      },
+      {
+        "name": "Grammarly",
+        "frequency": 56.3
+      },
+      {
+        "name": "Intuit",
+        "frequency": 69.5
+      },
+      {
+        "name": "Netflix",
+        "frequency": 89.4
+      },
+      {
+        "name": "Patreon",
+        "frequency": 76.2
+      },
+      {
+        "name": "Reddit",
+        "frequency": 70.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "362",
+    "title": "Design Hit Counter",
+    "titleSlug": "design-hit-counter",
+    "difficulty": "Medium",
+    "acRate": 69.2932253587829,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Logger Rate Limiter",
+        "titleSlug": "logger-rate-limiter",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Affirm",
+        "frequency": 73.0
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Careem",
+        "frequency": 89.3
+      },
+      {
+        "name": "Cloudflare",
+        "frequency": 74.5
+      },
+      {
+        "name": "Coupang",
+        "frequency": 63.0
+      },
+      {
+        "name": "Databricks",
+        "frequency": 100.0
+      },
+      {
+        "name": "Dropbox",
+        "frequency": 90.4
+      },
+      {
+        "name": "MongoDB",
+        "frequency": 71.1
+      },
+      {
+        "name": "Reddit",
+        "frequency": 70.7
+      },
+      {
+        "name": "Roblox",
+        "frequency": 81.5
+      },
+      {
+        "name": "Sentry",
+        "frequency": 79.8
+      },
+      {
+        "name": "Snowflake",
+        "frequency": 64.2
+      },
+      {
+        "name": "Yandex",
+        "frequency": 59.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "642",
+    "title": "Design Search Autocomplete System",
+    "titleSlug": "design-search-autocomplete-system",
+    "difficulty": "Hard",
+    "acRate": 49.47462979946101,
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Depth-First Search",
+        "slug": "depth-first-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Implement Trie (Prefix Tree)",
+        "titleSlug": "implement-trie-prefix-tree",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 52.2
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "Pinterest",
+        "frequency": 69.8
+      },
+      {
+        "name": "Remitly",
+        "frequency": 62.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "703",
+    "title": "Kth Largest Element in a Stream",
+    "titleSlug": "kth-largest-element-in-a-stream",
+    "difficulty": "Easy",
+    "acRate": 60.17492140955629,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Kth Largest Element in an Array",
+        "titleSlug": "kth-largest-element-in-an-array",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Finding MK Average",
+        "titleSlug": "finding-mk-average",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Sequentially Ordinal Rank Tracker",
+        "titleSlug": "sequentially-ordinal-rank-tracker",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 57.2
+      },
+      {
+        "name": "Atlassian",
+        "frequency": 30.0
+      },
+      {
+        "name": "Box",
+        "frequency": 66.8
+      },
+      {
+        "name": "Tinder",
+        "frequency": 88.2
+      },
+      {
+        "name": "Wells Fargo",
+        "frequency": 60.8
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "901",
+    "title": "Online Stock Span",
+    "titleSlug": "online-stock-span",
+    "difficulty": "Medium",
+    "acRate": 67.9280128992336,
+    "topicTags": [
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Daily Temperatures",
+        "titleSlug": "daily-temperatures",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "INDmoney",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "933",
+    "title": "Number of Recent Calls",
+    "titleSlug": "number-of-recent-calls",
+    "difficulty": "Easy",
+    "acRate": 77.69195916575813,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Affirm",
+        "frequency": 45.8
+      },
+      {
+        "name": "Databricks",
+        "frequency": 50.0
+      },
+      {
+        "name": "Roblox",
+        "frequency": 38.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1032",
+    "title": "Stream of Characters",
+    "titleSlug": "stream-of-characters",
+    "difficulty": "Hard",
+    "acRate": 51.3831790163258,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Jane Street",
+        "frequency": 65.5
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 33.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1352",
+    "title": "Product of the Last K Numbers",
+    "titleSlug": "product-of-the-last-k-numbers",
+    "difficulty": "Medium",
+    "acRate": 62.816680014525126,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ],
+    "similarQuestions": [],
+    "companies": [
+      {
+        "name": "Target",
+        "frequency": 100.0
+      },
+      {
+        "name": "Tekion",
+        "frequency": 61.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1429",
+    "title": "First Unique Number",
+    "titleSlug": "first-unique-number",
+    "difficulty": "Medium",
+    "acRate": 56.20268893091289,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": []
+  },
+  {
+    "questionFrontendId": "1472",
+    "title": "Design Browser History",
+    "titleSlug": "design-browser-history",
+    "difficulty": "Medium",
+    "acRate": 77.87747676243438,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Video Sharing Platform",
+        "titleSlug": "design-video-sharing-platform",
+        "difficulty": "Hard"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Cisco",
+        "frequency": 32.0
+      },
+      {
+        "name": "DoorDash",
+        "frequency": 24.1
+      },
+      {
+        "name": "Roblox",
+        "frequency": 86.3
+      },
+      {
+        "name": "Snap",
+        "frequency": 42.3
+      },
+      {
+        "name": "Splunk",
+        "frequency": 79.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1500",
+    "title": "Design a File Sharing System",
+    "titleSlug": "design-a-file-sharing-system",
+    "difficulty": "Medium",
+    "acRate": 41.86384090579185,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Twitter",
+        "titleSlug": "design-twitter",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Twitch",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1656",
+    "title": "Design an Ordered Stream",
+    "titleSlug": "design-an-ordered-stream",
+    "difficulty": "Easy",
+    "acRate": 82.2649033570702,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Longest Uploaded Prefix",
+        "titleSlug": "longest-uploaded-prefix",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1670",
+    "title": "Design Front Middle Back Queue",
+    "titleSlug": "design-front-middle-back-queue",
+    "difficulty": "Medium",
+    "acRate": 56.403175698998965,
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Design Circular Deque",
+        "titleSlug": "design-circular-deque",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Design Circular Queue",
+        "titleSlug": "design-circular-queue",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Citadel",
+        "frequency": 45.9
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1825",
+    "title": "Finding MK Average",
+    "titleSlug": "finding-mk-average",
+    "difficulty": "Hard",
+    "acRate": 38.37391142164388,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Median from Data Stream",
+        "titleSlug": "find-median-from-data-stream",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Kth Largest Element in a Stream",
+        "titleSlug": "kth-largest-element-in-a-stream",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Sequentially Ordinal Rank Tracker",
+        "titleSlug": "sequentially-ordinal-rank-tracker",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2034",
+    "title": "Stock Price Fluctuation ",
+    "titleSlug": "stock-price-fluctuation",
+    "difficulty": "Medium",
+    "acRate": 48.36738727067116,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Time Based Key-Value Store",
+        "titleSlug": "time-based-key-value-store",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2102",
+    "title": "Sequentially Ordinal Rank Tracker",
+    "titleSlug": "sequentially-ordinal-rank-tracker",
+    "difficulty": "Hard",
+    "acRate": 61.63152890258697,
+    "topicTags": [
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Find Median from Data Stream",
+        "titleSlug": "find-median-from-data-stream",
+        "difficulty": "Hard"
+      },
+      {
+        "title": "Kth Largest Element in a Stream",
+        "titleSlug": "kth-largest-element-in-a-stream",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Finding MK Average",
+        "titleSlug": "finding-mk-average",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2526",
+    "title": "Find Consecutive Integers from a Data Stream",
+    "titleSlug": "find-consecutive-integers-from-a-data-stream",
+    "difficulty": "Medium",
+    "acRate": 49.860637045207255,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Number of Zero-Filled Subarrays",
+        "titleSlug": "number-of-zero-filled-subarrays",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Intel",
+        "frequency": 100.0
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "3369",
+    "title": "Design an Array Statistics Tracker ",
+    "titleSlug": "design-an-array-statistics-tracker",
+    "difficulty": "Hard",
+    "acRate": 34.47543966040024,
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Design",
+        "slug": "design"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Data Stream",
+        "slug": "data-stream"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ],
+    "similarQuestions": []
+  }
+]

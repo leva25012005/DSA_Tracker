@@ -1,0 +1,321 @@
+[
+  {
+    "questionFrontendId": "95",
+    "title": "Unique Binary Search Trees II",
+    "titleSlug": "unique-binary-search-trees-ii",
+    "difficulty": "Medium",
+    "acRate": 60.88357893163302,
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Backtracking",
+        "slug": "backtracking"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Binary Search Trees",
+        "titleSlug": "unique-binary-search-trees",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Different Ways to Add Parentheses",
+        "titleSlug": "different-ways-to-add-parentheses",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Amazon",
+        "frequency": 35.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 27.0
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 20.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 16.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 13.2
+      },
+      {
+        "name": "Uber",
+        "frequency": 17.7
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "96",
+    "title": "Unique Binary Search Trees",
+    "titleSlug": "unique-binary-search-trees",
+    "difficulty": "Medium",
+    "acRate": 62.69529076182875,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Unique Binary Search Trees II",
+        "titleSlug": "unique-binary-search-trees-ii",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 17.4
+      },
+      {
+        "name": "Amazon",
+        "frequency": 26.8
+      },
+      {
+        "name": "Apple",
+        "frequency": 15.2
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 20.6
+      },
+      {
+        "name": "Clari",
+        "frequency": 81.1
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 21.0
+      },
+      {
+        "name": "Samsung",
+        "frequency": 44.4
+      },
+      {
+        "name": "Snap",
+        "frequency": 82.5
+      },
+      {
+        "name": "TikTok",
+        "frequency": 50.6
+      },
+      {
+        "name": "Tower Research Capital",
+        "frequency": 100.0
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 25.9
+      },
+      {
+        "name": "Zoho",
+        "frequency": 36.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "450",
+    "title": "Delete Node in a BST",
+    "titleSlug": "delete-node-in-a-bst",
+    "difficulty": "Medium",
+    "acRate": 53.43525891152792,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Split BST",
+        "titleSlug": "split-bst",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "510",
+    "title": "Inorder Successor in BST II",
+    "titleSlug": "inorder-successor-in-bst-ii",
+    "difficulty": "Medium",
+    "acRate": 61.04356552926853,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Inorder Successor in BST",
+        "titleSlug": "inorder-successor-in-bst",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Arista Networks",
+        "frequency": 80.2
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "700",
+    "title": "Search in a Binary Search Tree",
+    "titleSlug": "search-in-a-binary-search-tree",
+    "difficulty": "Easy",
+    "acRate": 82.02941271006209,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Closest Binary Search Tree Value",
+        "titleSlug": "closest-binary-search-tree-value",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Insert into a Binary Search Tree",
+        "titleSlug": "insert-into-a-binary-search-tree",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Closest Nodes Queries in a Binary Search Tree",
+        "titleSlug": "closest-nodes-queries-in-a-binary-search-tree",
+        "difficulty": "Medium"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "701",
+    "title": "Insert into a Binary Search Tree",
+    "titleSlug": "insert-into-a-binary-search-tree",
+    "difficulty": "Medium",
+    "acRate": 73.35058531168521,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Search in a Binary Search Tree",
+        "titleSlug": "search-in-a-binary-search-tree",
+        "difficulty": "Easy"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "776",
+    "title": "Split BST",
+    "titleSlug": "split-bst",
+    "difficulty": "Medium",
+    "acRate": 82.37753971185815,
+    "topicTags": [
+      {
+        "name": "Tree",
+        "slug": "tree"
+      },
+      {
+        "name": "Binary Search Tree",
+        "slug": "binary-search-tree"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Binary Tree",
+        "slug": "binary-tree"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Delete Node in a BST",
+        "titleSlug": "delete-node-in-a-bst",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Coupang",
+        "frequency": 93.4
+      }
+    ]
+  }
+]
