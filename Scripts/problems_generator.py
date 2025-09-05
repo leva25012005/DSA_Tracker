@@ -43,10 +43,7 @@ def generate_problems_files(data, base_folder, base_name):
         topic_name = topics[0]['name'] if topics else "Misc"
 
         # Nếu base_folder đã trỏ thẳng vào Problems/, thì thêm topic_name
-        if os.path.basename(base_folder) != topic_name:
-            topic_folder = os.path.join(base_folder, topic_name)
-        else:
-            topic_folder = base_folder
+        topic_folder = base_folder
 
         # Folder con theo độ khó
         diff_folder = os.path.join(topic_folder, difficulty)
