@@ -12,7 +12,7 @@ Welcome to my DSA practice repository! This repo is a collection of code, notes,
 
 ### GeeksforGeeks
 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/nhank8ay)](https://www.geeksforgeeks.org/user/nhank8ay/)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/levannhanh853)](https://www.geeksforgeeks.org/user/levannhanh853/)
 
 ---
 
@@ -20,22 +20,29 @@ Welcome to my DSA practice repository! This repo is a collection of code, notes,
 
 ```
 .
-├── Docs/ # Theoretical documents, notes, cheatsheets
-├── Scripts/ # Automatic scripts, review support utilities
-├── Solutions/ # Contains solutions, divided by platform
+├── .github
+├── Assets/                        # Images, diagrams, visual aids
+│   ├── Diagrams/
+│   ├── Flowcharts/
+│   └── Images/
+├── Data/                       # Metadata & tracking data
+├── Docs/                       # Theoretical documents, notes, cheatsheets
+    ├── Algorithms/
+    ├── Cheatsheets/
+    ├── Data-structures/
+    ├── Interview-prep/
+    └── Patterns/
+├── Scripts/                    # Automatic scripts, review support utilities
+├── Problems/                   # Platform-specific solutions
 │ ├── Leetcode/
-│ └── GeekforGeeks/
+    ├── Easy/
+    ├── Medium/
+    ├── Hard/
+├── Templates/                  # Code templates for different patterns
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
-
-- **Docs/**: Summary of knowledge, theory, complexity analysis, code templates, quick solution tips.
-- **Scripts/**: Support scripts (eg: automatic exercise statistics, generating summary tables).
-- **Solutions/**: Code to solve exercises, divided by platform (LeetCode, GeeksforGeeks,...); each exercise should include a link to the problem, complexity analysis, and code annotations.
-- **.gitignore**: List of files/folders that do not need to be pushed to GitHub.
-- **LICENSE**: Repo copyright (should choose MIT, Apache 2.0, or GPL).
-- **README.md**: The file you are reading, detailed instructions on how to use the repo.
 
 ---
 
@@ -43,7 +50,7 @@ Welcome to my DSA practice repository! This repo is a collection of code, notes,
 
 - **Look up documents**: Go to the `Docs/` folder, select the topic you are interested in (Array, Linked List, Big O, Sorting, etc.).
 - **View exercise solutions**:
-- Go to `Solutions/Leetcode/` or `Solutions/GeekforGeeks/`.
+- Go to `Problems/Leetcode/` or `Problems/GeekforGeeks/`.
 - Name the file in the format: `ID-short-article-name.language` (for example: `001-two-sum.py`).
 - Each solution should include notes, complexity analysis, and a link to the original problem.
 - **Run supporting scripts**: Refer to `Scripts/`, read the instructions in each script file.
@@ -87,7 +94,7 @@ Welcome to my DSA practice repository! This repo is a collection of code, notes,
 ## 🔗 Profiles
 
 - [LeetCode Profile](https://leetcode.com/u/leva25012005/)
-- [GeekforGeeks Profile](https://www.geeksforgeeks.org/user/nhank8ay/)
+- [GeekforGeeks Profile](https://www.geeksforgeeks.org/user/levannhanh853/)
 - [Linkedin Profile](https://www.linkedin.com/in/nh%C3%A2n-l%C3%AA-v%C4%83n-4b48a8187/)
 
 ---
