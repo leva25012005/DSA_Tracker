@@ -27,17 +27,17 @@ Welcome to my DSA practice repository! This repo is a collection of code, notes,
 │   └── Images/
 ├── Data/                       # Metadata & tracking data
 ├── Docs/                       # Theoretical documents, notes, cheatsheets
-    ├── Algorithms/
-    ├── Cheatsheets/
-    ├── Data-structures/
-    ├── Interview-prep/
-    └── Patterns/
+│   ├── Algorithms/
+│   ├── Cheatsheets/
+│   ├── Data-structures/
+│   ├── Interview-prep/
+│   └── Patterns/
 ├── Scripts/                    # Automatic scripts, review support utilities
 ├── Problems/                   # Platform-specific solutions
-│ ├── Leetcode/
-    ├── Easy/
-    ├── Medium/
-    ├── Hard/
+│   ├── Leetcode/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
 ├── Templates/                  # Code templates for different patterns
 ├── .gitignore
 ├── LICENSE
