@@ -226,7 +226,8 @@ def generate_problems_files(data, base_folder, base_name):
             f.write("|----------|-----------------|------------------|------|------|\n")
             f.write("| 🥉 Brute Force | O(?) | O(?) | ... | ... |\n")
             f.write("| 🥈 Optimized   | O(?) | O(?) | ... | ... |\n")
-            f.write("| 🥇 Optimal ⭐  | O(?) | O(?) | ... | ... |\n\n")
+            f.write("| 🥇 Optimal ⭐  | O(?) | O(?) | ... | ... |\n")
+            f.write("|  ...            | .... | ... | ... | ... |\n\n")
 
             # Kết luận vì sao Optimal
             f.write("## 🎯 Why This is Optimal?\n")
@@ -241,42 +242,48 @@ def generate_problems_files(data, base_folder, base_name):
             f.write("|---|---------|\n")
             f.write("| 1 |Điểm quan trọng số 1|\n")
             f.write("| 2 |Điểm quan trọng số 2|\n")
-            f.write("| 3 |Điểm quan trọng số 3|\n\n")
+            f.write("| 3 |Điểm quan trọng số 3|\n")
+            f.write("| ... | Thêm nếu cần | \n\n")
 
             f.write("### 💭 Common Mistakes to Avoid\n")
             f.write("| # | Mistake | Description | How to Avoid | Example |\n")
             f.write("|---|---------|-------------|--------------|----------|\n")
             f.write("| 1 |         |             |              |          |\n")
             f.write("| 2 |         |             |              |          |\n")
-            f.write("| 3 |         |             |              |          |\n\n")
+            f.write("| 3 |         |             |              |          |\n")
+            f.write(" ... |   .... |   ....      |  .....       |   ...    |\n\n")
 
             f.write("### 🐛 Implementation Mistakes\n\n")
             f.write("| # | Mistake | Description | How to Avoid | Example |\n")
             f.write("|---|---------|-------------|--------------|----------|\n")
             f.write("| 1 |         |             |              |          |\n")
             f.write("| 2 |         |             |              |          |\n")
-            f.write("| 3 |         |             |              |          |\n\n")
+            f.write("| 3 |         |             |              |          |\n")
+            f.write(" ... |   .... |   ....      |  .....       |   ...    |\n\n")
 
             f.write("### 💭 Logical Thinking Mistakes\n\n")
             f.write("| # | Mistake | Description | How to Avoid | Prevention |\n")
             f.write("|---|---------|-------------|--------------|------------|\n")
             f.write("| 1 |         |             |              |          |\n")
             f.write("| 2 |         |             |              |          |\n")
-            f.write("| 3 |         |             |              |          |\n\n")
-            
+            f.write("| 3 |         |             |              |          |\n")
+            f.write(" ... |   .... |   ....      |  .....       |   ...    |\n\n")
+
             f.write("### 🎯 Patterns & Techniques Used\n")
             f.write("| # | Pattern / Technique | Application |\n")
             f.write("|---|---------------------|-------------|\n")
             f.write("| 1 |                     |             |\n")
             f.write("| 2 |                     |             |\n")
-            f.write("| 3 |                     |             |\n\n")
+            f.write("| 3 |                     |             |\n")
+            f.write(" ... |   ....             | ...         |\n\n")
 
             f.write("### 🔄 Follow-up Questions\n")
             f.write("| # | Question | Answer / Approach |\n")
             f.write("|---|----------|-------------------|\n")
             f.write("| 1 |          |                   |\n")
-            f.write("| 2 |          |                   |\n\n")
-            
+            f.write("| 2 |          |                   |\n")
+            f.write(" ... |   .... |   ....             |\n\n")
+
             # Footer
             f.write("---\n\n")
             f.write("<div align=\"center\">\n\n")
