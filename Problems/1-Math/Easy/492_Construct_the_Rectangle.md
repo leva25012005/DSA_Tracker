@@ -42,12 +42,13 @@
 #### 🔍 Algorithm
 
 ```pseudo
-for w = 1 to area:
-    if area % w == 0:
-        L = area / w
-        if L >= W:
-            update best_pair if |L - W| smaller
-return best_pair
+function constructRectangle(area):
+    for w = 1 to area:
+        if area % w == 0:
+            L = area / w
+            if L >= W:
+                update best_pair if |L - W| smaller
+    return best_pair
 ```
 
 #### 💻 Implementation
@@ -82,10 +83,11 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-start from w = floor(sqrt(area)) down to 1:
-    if area % w == 0:
-        L = area / w
-        return [L, w]
+function constructRectangle(area):
+    start from w = floor(sqrt(area)) down to 1:
+        if area % w == 0:
+            L = area / w
+            return [L, w]
 ```
 
 #### 💻 Implementation
@@ -114,11 +116,12 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-w = floor(sqrt(area))
-while w >= 1:
-    if area % w == 0:
-        return [area / w, w]
-    w -= 1
+function constructRectangle(area):
+    w = floor(sqrt(area))
+    while w >= 1:
+        if area % w == 0:
+            return [area / w, w]
+        w -= 1
 ```
 
 #### 💻 Implementation
