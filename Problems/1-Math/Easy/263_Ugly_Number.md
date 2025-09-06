@@ -66,7 +66,7 @@ _No regular frequency companies_
 #### 🔍 Algorithm
 
 ```pseudo
-isUgly(x):
+function isUgly(x):
     if n <= 0
         return false
     while n % 2 == 0
@@ -102,7 +102,7 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-isUgly(x):
+function isUgly(x):
     if n <= 0 → return false
 while n % 2 == 0 or n % 3 == 0 or n % 5 == 0:
     if n % 2 == 0 → n = n / 2
@@ -137,7 +137,7 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-isUgly(x):
+function isUgly(x):
     if n == 1
         return true
     if n <= 0
@@ -176,13 +176,14 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-if n <= 0 → return false
-for p in [2..sqrt(n)]:
-    while n % p == 0:
-        if p not in {2,3,5} → return false
-        n /= p
-if n > 1 and n not in {2,3,5} → return false
-return true
+function isUgly(x):
+    if n <= 0 → return false
+    for p in [2..sqrt(n)]:
+        while n % p == 0:
+            if p not in {2,3,5} → return false
+            n /= p
+    if n > 1 and n not in {2,3,5} → return false
+    return true
 ```
 
 #### 💻 Implementation
