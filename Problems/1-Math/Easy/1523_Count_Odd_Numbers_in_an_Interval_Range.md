@@ -122,6 +122,7 @@ public:
 | 🥉 Brute Force | O(?) | O(?) | ... | ... |
 | 🥈 Optimized   | O(?) | O(?) | ... | ... |
 | 🥇 Optimal ⭐  | O(?) | O(?) | ... | ... |
+|  ...            | .... | ... | ... | ... |
 
 ## 🎯 Why This is Optimal?
 - So sánh nhanh với brute force và optimized
@@ -134,6 +135,7 @@ public:
 | 1 |Điểm quan trọng số 1|
 | 2 |Điểm quan trọng số 2|
 | 3 |Điểm quan trọng số 3|
+| ... | Thêm nếu cần | 
 
 ### 💭 Common Mistakes to Avoid
 | # | Mistake | Description | How to Avoid | Example |
@@ -141,6 +143,7 @@ public:
 | 1 |         |             |              |          |
 | 2 |         |             |              |          |
 | 3 |         |             |              |          |
+ ... |   .... |   ....      |  .....       |   ...    |
 
 ### 🐛 Implementation Mistakes
 
@@ -149,6 +152,7 @@ public:
 | 1 |         |             |              |          |
 | 2 |         |             |              |          |
 | 3 |         |             |              |          |
+ ... |   .... |   ....      |  .....       |   ...    |
 
 ### 💭 Logical Thinking Mistakes
 
@@ -157,6 +161,7 @@ public:
 | 1 |         |             |              |          |
 | 2 |         |             |              |          |
 | 3 |         |             |              |          |
+ ... |   .... |   ....      |  .....       |   ...    |
 
 ### 🎯 Patterns & Techniques Used
 | # | Pattern / Technique | Application |
@@ -164,12 +169,14 @@ public:
 | 1 |                     |             |
 | 2 |                     |             |
 | 3 |                     |             |
+ ... |   ....             | ...         |
 
 ### 🔄 Follow-up Questions
 | # | Question | Answer / Approach |
 |---|----------|-------------------|
 | 1 |          |                   |
 | 2 |          |                   |
+ ... |   .... |   ....             |
 
 ---
 
