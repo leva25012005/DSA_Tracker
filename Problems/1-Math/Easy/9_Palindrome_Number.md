@@ -97,10 +97,11 @@
 #### 🔍 Algorithm
 
 ```pseudo
-if x < 0:
-    return false;
-s = to_string(x)
-return s == reverse(s)
+function isPalindrome(x):
+    if x < 0:
+        return false;
+    s = to_string(x)
+    return s == reverse(s)
 ```
 
 #### 💻 Implementation
@@ -127,14 +128,15 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-if x < 0:
-    return false
-original = x
-rev = 0
-while x > 0
-    rev = rev * 10 + (x % 10)
-    x = x / 10
-reutnr original == rev
+function isPalindrome(x)
+    if x < 0:
+        return false
+    original = x
+    rev = 0
+    while x > 0
+        rev = rev * 10 + (x % 10)
+        x = x / 10
+    reutnr original == rev
 ```
 
 #### 💻 Implementation
@@ -163,13 +165,14 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-if x < 0 or (x % 10 == 0 and x != 0):
-    return false
-rev = 0
-while x > rev:
-    rev = rev * 10 + (x % 10)
-    x = x / 10
-return x == rev or x == rev / 10
+function isPalindrome(x):
+    if x < 0 or (x % 10 == 0 and x != 0):
+        return false
+    rev = 0
+    while x > rev:
+        rev = rev * 10 + (x % 10)
+        x = x / 10
+    return x == rev or x == rev / 10
 ```
 
 #### 💻 Implementation
@@ -200,18 +203,19 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-if x < 0:
-    return false
-div = 1
-while x / div >= 10:
-    div *= 10
-while x != 0:
-    left = x / div
-    right = x % 10
-    if left != right: return false
-    x = (x % div) / 10
-    div /= 100
-return true
+function isPalindrome(x):
+    if x < 0:
+        return false
+    div = 1
+    while x / div >= 10:
+        div *= 10
+    while x != 0:
+        left = x / div
+        right = x % 10
+        if left != right: return false
+        x = (x % div) / 10
+        div /= 100
+    return true
 ```
 
 #### 💻 Implementation
@@ -244,10 +248,15 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-function check(l, r):
+function helper(s, l, r):
     if l >= r: return true
     if s[l] != s[r]: return false
     return check(l+1, r-1)
+function isPalindrome(x):
+    if x < 0
+        return false
+    s = to_string(x)
+    return helper(s, 0, s.size() - 1)
 ```
 
 #### 💻 Implementation
@@ -278,13 +287,14 @@ public:
 #### 🔍 Algorithm
 
 ```pseudo
-if x < 0: return false
-s = to_string(x)
-l = 0, r = len(s)-1
-while l < r:
-    if s[l] != s[r]: return false
-    l++, r--
-return true
+function isPalindrome(x):
+    if x < 0: return false
+    s = to_string(x)
+    l = 0, r = len(s)-1
+    while l < r:
+        if s[l] != s[r]: return false
+        l++, r--
+    return true
 ```
 
 #### 💻 Implementation
