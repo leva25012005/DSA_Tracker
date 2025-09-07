@@ -135,7 +135,7 @@ public:
 };
 ```
 
-### 🥇 Approach 1b: : Hardcoded Iterative (Compact Loop)
+### 🥇 Approach 1b: Hardcoded Iterative (Compact Loop)
 
 #### 📝 Intuition
 
@@ -146,7 +146,7 @@ public:
 ```pseudo
 function isUgly(x):
     if n <= 0 → return false
-while n % 2 == 0 or n % 3 == 0 or n % 5 == 0:
+    while n % 2 == 0 or n % 3 == 0 or n % 5 == 0:
     if n % 2 == 0 → n = n / 2
     else if n % 3 == 0 → n = n / 3
     else → n = n / 5
@@ -235,7 +235,7 @@ class Solution {
 public:
     bool isUgly(int n) {
         if (n <= 0) return false;
-        for (int p = 2; p * p <= n; p++) {
+        for (int p = 2; 1LL * p * p <= n; p++) {
             while (n % p == 0) {
                 if (p != 2 && p != 3 && p != 5) return false;
                 n /= p;
@@ -248,12 +248,12 @@ public:
 
 ## 📊 Comparison of Approaches
 
-| Approach               | Time Complexity | Space Complexity | Pros              | Cons                      |
-| ---------------------- | --------------- | ---------------- | ----------------- | ------------------------- |
-| 🥇 Iterative Division  | O(log n)        | O(1)             | Ngắn gọn, dễ hiểu | Lặp lại chia 3 vòng while |
-| 🥈 Recursive Division  | O(log n)        | O(log n) (stack) | Elegant, dễ đọc   | Tốn stack, chậm hơn       |
-| 🥉 Prime Factorization | O(√n)           | O(1)             | Toán học rõ ràng  | Chậm hơn, không cần thiết |
-| 🥉 Hardcoded Iterative | O(log n)        | O(1)             | Code gọn          | Logic ít trực quan hơn    |
+| Tiếp cận               | Độ phức tạp thời gian | Độ phức tạp của không gian | Ưu điểm            | Nhược điểm                |
+| ---------------------- | --------------------- | -------------------------- | ------------------ | ------------------------- |
+| 🥇 Bộ phận lặp         | O(log n)              | O(1)                       | Ngắn gọn, dễ hiểu  | Lặp lại chia 3 vòng while |
+| 🥈 Phép chia đệ quy    | O(log n)              | O(log n) (ngăn xếp)        | Thanh lịch, dễ đọc | Tốn ngăn xếp, chậm hơn    |
+| 🥉 Thừa số nguyên tố   | O(√n)                 | O(1)                       | Clear học toán     | Chậm hơn, không cần thiết |
+| 🥉 Lặp lại mã hóa cứng | O(log n)              | O(1)                       | Mã rút gọn         | Logic ít trực quan hơn    |
 
 ## 🎯 Why Iterative Division is Optimal?
 
