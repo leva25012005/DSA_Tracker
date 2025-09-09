@@ -61,7 +61,7 @@ Result = 32 - 11 = 21
 | ---------------- | ------------ | ---------------------------------------- |
 | 🎯 **Attempted** | `08-09-2025` | First attempt, understanding the problem |
 | ✅ **Solved**    | `08-09-2025` | Successfully implemented solution        |
-| 🔄 **Review 1**  | `DD-MM-YYYY` | First review, optimization               |
+| 🔄 **Review 1**  | `09-09-2025` | First review, optimization               |
 | 🔄 **Review 2**  | `DD-MM-YYYY` | Second review, different approaches      |
 | 🔄 **Review 3**  | `DD-MM-YYYY` | Final review, mastery                    |
 

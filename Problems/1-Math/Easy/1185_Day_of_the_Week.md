@@ -23,7 +23,7 @@
 | ---------------- | ------------ | ---------------------------------------- |
 | 🎯 **Attempted** | `08-09-2025` | First attempt, understanding the problem |
 | ✅ **Solved**    | `08-09-2025` | Successfully implemented solution        |
-| 🔄 **Review 1**  | `DD-MM-YYYY` | First review, optimization               |
+| 🔄 **Review 1**  | `09-09-2025` | First review, optimization               |
 | 🔄 **Review 2**  | `DD-MM-YYYY` | Second review, different approaches      |
 | 🔄 **Review 3**  | `DD-MM-YYYY` | Final review, mastery                    |
 
@@ -299,21 +299,11 @@ private:
 };
 ```
 
-### 🏅 Approach 4: Doomsday Algorithm
+### 🏅 Approach 5: Library-based (Built-in Functions)
 
 #### 📝 Intuition
 
-> Use Conway’s “Doomsday” rule: each year has a fixed weekday for specific dates (e.g., 4/4, 6/6, 8/8).
-> Use that pivot to deduce the weekday for the given date.
-
-#### 🔍 Algorithm
-
-```pseudo
-function dayOfTheWeek(day, month, year):
-    time = makeDate(year, month, day)
-    weekdayIndex = libraryGetWeekday(time)   // 0=Sunday ... 6=Saturday
-    return week[weekdayIndex]
-```
+> Use the standard library (<chrono> in C++ or datetime in Python).
 
 #### 💻 Implementation
 

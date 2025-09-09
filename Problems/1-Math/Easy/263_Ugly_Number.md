@@ -64,8 +64,8 @@
 | Status           | Date         | Notes                                    |
 | ---------------- | ------------ | ---------------------------------------- |
 | 🎯 **Attempted** | `06-09-2025` | First attempt, understanding the problem |
-| ✅ **Solved**    | `06-09-2025` | Successfully implemented solution        |
-| 🔄 **Review 1**  | `DD-MM-YYYY` | First review, optimization               |
+| ✅ **Solved**    | `09-09-2025` | Successfully implemented solution        |
+| 🔄 **Review 1**  | `09-09-2025` | First review, optimization               |
 | 🔄 **Review 2**  | `DD-MM-YYYY` | Second review, different approaches      |
 | 🔄 **Review 3**  | `DD-MM-YYYY` | Final review, mastery                    |
 
@@ -248,12 +248,12 @@ public:
 
 ## 📊 Comparison of Approaches
 
-| Tiếp cận               | Độ phức tạp thời gian | Độ phức tạp của không gian | Ưu điểm            | Nhược điểm                |
-| ---------------------- | --------------------- | -------------------------- | ------------------ | ------------------------- |
-| 🥇 Bộ phận lặp         | O(log n)              | O(1)                       | Ngắn gọn, dễ hiểu  | Lặp lại chia 3 vòng while |
-| 🥈 Phép chia đệ quy    | O(log n)              | O(log n) (ngăn xếp)        | Thanh lịch, dễ đọc | Tốn ngăn xếp, chậm hơn    |
-| 🥉 Thừa số nguyên tố   | O(√n)                 | O(1)                       | Clear học toán     | Chậm hơn, không cần thiết |
-| 🥉 Lặp lại mã hóa cứng | O(log n)              | O(1)                       | Mã rút gọn         | Logic ít trực quan hơn    |
+| Approach               | Time complexity | Space complexity | Advantages                | Disadvantages                      |
+| ---------------------- | --------------- | ---------------- | ------------------------- | ---------------------------------- |
+| 🥇 Iterative part      | O(log n)        | O(1)             | Short, easy to understand | Repeated division in 3 while loops |
+| 🥈 Recursive division  | O(log n)        | O(log n) (stack) | Elegant, easy to read     | Stack consuming, slower            |
+| 🥉 Prime factorization | O(√n)           | O(1)             | Clear math                | Slower, unnecessary                |
+| 🥉 Hardcoded iteration | O(log n)        | O(1)             | Short code                | Less intuitive logic               |
 
 ## 🎯 Why Iterative Division is Optimal?
 

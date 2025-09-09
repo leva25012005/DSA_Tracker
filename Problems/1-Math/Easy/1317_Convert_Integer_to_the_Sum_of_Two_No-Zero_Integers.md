@@ -23,7 +23,7 @@
 | ---------------- | ------------ | ---------------------------------------- |
 | 🎯 **Attempted** | `08-09-2025` | First attempt, understanding the problem |
 | ✅ **Solved**    | `08-09-2025` | Successfully implemented solution        |
-| 🔄 **Review 1**  | `DD-MM-YYYY` | First review, optimization               |
+| 🔄 **Review 1**  | `09-09-2025` | First review, optimization               |
 | 🔄 **Review 2**  | `DD-MM-YYYY` | Second review, different approaches      |
 | 🔄 **Review 3**  | `DD-MM-YYYY` | Final review, mastery                    |
 
@@ -178,11 +178,62 @@ public:
 };
 ```
 
+## 🥇 Approach 3: Digit-by-Digit Construction ⭐ (Optimized Solution)
+
+#### 📝 Intuition
+
+> Build a and b digit by digit from right to left. If a digit of n is 0, split it into (1, digit-1) so that both are valid No-Zero integers.
+
+#### 🔍 Algorithm
+
+```pseudo
+a = 0, b = 0, place = 1
+while n > 0:
+    digit = n % 10
+    if digit == 0:
+        a += 1 * place
+        b += (place * 9)
+        borrow 1 from next digit
+    else:
+        a += 1 * place
+        b += (digit - 1) * place
+    n /= 10
+    place *= 10
+return [a, b]
+```
+
+#### 💻 Implementation
+
+```cpp
+// Optimized approach with better complexity
+class Solution {
+public:
+    vector<int> getNoZeroIntegers(int n) {
+        int a = 0, b = 0, place = 1;
+        int x = n;
+        while (x > 0) {
+            int d = x % 10;
+            if (d == 0) {
+                a += 1 * place;
+                b += 9 * place;
+                x = (x / 10) - 1;
+            } else {
+                a += 1 * place;
+                b += (d - 1) * place;
+                x /= 10;
+            }
+            place *= 10;
+        }
+        return {a, b};
+    }
+};
+```
+
 ### ⚡ Approach 4: Randomized
 
 #### 📝 Intuition
 
-> CRandomly pick a in [1..n-1], compute b = n-a, and check validity. Works fast for constraints.
+> Randomly pick a in [1..n-1], compute b = n-a, and check validity. Works fast for constraints.
 
 #### 🔍 Algorithm
 

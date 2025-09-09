@@ -70,7 +70,7 @@ But according to requirement 2, [1,4] is illegal; according to requirement 3,  [
 | ---------------- | ------------ | ---------------------------------------- |
 | 🎯 **Attempted** | `06-09-2025` | First attempt, understanding the problem |
 | ✅ **Solved**    | `06-09-2025` | Successfully implemented solution        |
-| 🔄 **Review 1**  | `DD-MM-YYYY` | First review, optimization               |
+| 🔄 **Review 1**  | `09-09-2025` | First review, optimization               |
 | 🔄 **Review 2**  | `DD-MM-YYYY` | Second review, different approaches      |
 | 🔄 **Review 3**  | `DD-MM-YYYY` | Final review, mastery                    |
 

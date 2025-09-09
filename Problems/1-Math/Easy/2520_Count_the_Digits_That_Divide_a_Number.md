@@ -111,7 +111,7 @@ function countDigits(num):
         digit = num % 10
         if original % digit == 0:
             count += 1
-        num = num // 10
+        num = num / 10
     return count
 ```
 

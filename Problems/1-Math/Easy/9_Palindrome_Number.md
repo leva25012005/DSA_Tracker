@@ -66,7 +66,7 @@
 | ---------------- | ------------ | ---------------------------------------- |
 | 🎯 **Attempted** | `06-09-2025` | First attempt, understanding the problem |
 | ✅ **Solved**    | `06-09-2025` | Successfully implemented solution        |
-| 🔄 **Review 1**  | `DD-MM-YYYY` | First review, optimization               |
+| 🔄 **Review 1**  | `07-09-2025` | First review, optimization               |
 | 🔄 **Review 2**  | `DD-MM-YYYY` | Second review, different approaches      |
 | 🔄 **Review 3**  | `DD-MM-YYYY` | Final review, mastery                    |
 
@@ -135,7 +135,7 @@
 
 #### 📝 Intuition
 
-> Converting strig to number and then compare that string with reversed string.
+> Converting string to number and then compare that string with reversed string.
 
 #### 🔍 Algorithm
 
@@ -190,6 +190,8 @@ function isPalindrome(x)
 class Solution {
 public:
     bool Palindrome Number(int x)
+    if (x < 0)
+        return false;
     long long rev = 0, original = x;
     while(x > 10) {
         rev = rev * 10 + x % 10;
@@ -286,7 +288,7 @@ public:
 
 #### 📝 Intuition
 
-> TConvert to string and recursively compare first and last character, then continue to check the rest.
+> Convert to string and recursively compare first and last character, then continue to check the rest.
 
 #### 🔍 Algorithm
 
