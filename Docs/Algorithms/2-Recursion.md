@@ -3,7 +3,7 @@
 # 📊 2-Recursion - LeetCode Progress Tracker
 
 ![Problems](https://img.shields.io/badge/Total%20Problems-6-blueviolet?style=for-the-badge&logo=leetcode)
-![Progress](https://img.shields.io/badge/Completed-0%2F6-critical?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Completed-1%2F6-critical?style=for-the-badge&logo=github)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-09--09--2025-success?style=for-the-badge&logo=git)
 
 </div>
@@ -19,11 +19,11 @@
 
 ## 📈 Progress Statistics
 
-| Difficulty                                          | Total | Solved | Remaining | Progress                                                                          |
-| --------------------------------------------------- | ----- | ------ | --------- | --------------------------------------------------------------------------------- |
-| 🟢 [**Easy**](../../Problems/2-Recursion/Easy/)     | `1`   | `0`    | `1`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green) |
-| 🟡 [**Medium**](../../Problems/2-Recursion/Medium/) | `4`   | `0`    | `4`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green) |
-| 🔴 [**Hard**](../../Problems/2-Recursion/Hard/)     | `1`   | `0`    | `1`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green) |
+| Difficulty                                          | Total | Solved | Remaining | Progress                                                                            |
+| --------------------------------------------------- | ----- | ------ | --------- | ----------------------------------------------------------------------------------- |
+| 🟢 [**Easy**](../../Problems/2-Recursion/Easy/)     | `1`   | `1`    | `0`       | ![Progress Bar](https://progress-bar.xyz/100/?title=Progress&width=150&color=green) |
+| 🟡 [**Medium**](../../Problems/2-Recursion/Medium/) | `4`   | `0`    | `4`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green)   |
+| 🔴 [**Hard**](../../Problems/2-Recursion/Hard/)     | `1`   | `0`    | `1`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green)   |
 
 ## 🏢 Top Companies by Question Frequency
 
