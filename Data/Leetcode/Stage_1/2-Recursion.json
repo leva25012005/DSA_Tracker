@@ -1,0 +1,307 @@
+[
+  {
+    "questionFrontendId": "50",
+    "title": "Pow(x, n)",
+    "titleSlug": "powx-n",
+    "difficulty": "Medium",
+    "acRate": 37.43668848338672,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Sqrt(x)",
+        "titleSlug": "sqrtx",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Super Pow",
+        "titleSlug": "super-pow",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Count Collisions of Monkeys on a Polygon",
+        "titleSlug": "count-collisions-of-monkeys-on-a-polygon",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Accenture",
+        "frequency": 38.7
+      },
+      {
+        "name": "Adobe",
+        "frequency": 47.2
+      },
+      {
+        "name": "Amazon",
+        "frequency": 57.3
+      },
+      {
+        "name": "Apple",
+        "frequency": 44.3
+      },
+      {
+        "name": "Arcesium",
+        "frequency": 57.8
+      },
+      {
+        "name": "Bloomberg",
+        "frequency": 64.6
+      },
+      {
+        "name": "ByteDance",
+        "frequency": 48.5
+      },
+      {
+        "name": "Citadel",
+        "frequency": 37.1
+      },
+      {
+        "name": "eBay",
+        "frequency": 63.2
+      },
+      {
+        "name": "EPAM Systems",
+        "frequency": 66.8
+      },
+      {
+        "name": "Goldman Sachs",
+        "frequency": 41.8
+      },
+      {
+        "name": "Infosys",
+        "frequency": 44.3
+      },
+      {
+        "name": "LinkedIn",
+        "frequency": 70.6
+      },
+      {
+        "name": "Meta",
+        "frequency": 86.9
+      },
+      {
+        "name": "Microsoft",
+        "frequency": 52.2
+      },
+      {
+        "name": "Millennium",
+        "frequency": 100.0
+      },
+      {
+        "name": "Oracle",
+        "frequency": 61.6
+      },
+      {
+        "name": "Qualcomm",
+        "frequency": 56.6
+      },
+      {
+        "name": "Salesforce",
+        "frequency": 42.3
+      },
+      {
+        "name": "ServiceNow",
+        "frequency": 50.3
+      },
+      {
+        "name": "tcs",
+        "frequency": 49.7
+      },
+      {
+        "name": "TikTok",
+        "frequency": 35.4
+      },
+      {
+        "name": "Uber",
+        "frequency": 25.0
+      },
+      {
+        "name": "Walmart Labs",
+        "frequency": 62.8
+      },
+      {
+        "name": "Wix",
+        "frequency": 86.7
+      },
+      {
+        "name": "Yahoo",
+        "frequency": 44.5
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "60",
+    "title": "Permutation Sequence",
+    "titleSlug": "permutation-sequence",
+    "difficulty": "Hard",
+    "acRate": 50.54765934240633,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Next Permutation",
+        "titleSlug": "next-permutation",
+        "difficulty": "Medium"
+      },
+      {
+        "title": "Permutations",
+        "titleSlug": "permutations",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Adobe",
+        "frequency": 29.7
+      },
+      {
+        "name": "Amazon",
+        "frequency": 34.4
+      },
+      {
+        "name": "Jump Trading",
+        "frequency": 82.8
+      },
+      {
+        "name": "X",
+        "frequency": 89.4
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "326",
+    "title": "Power of Three",
+    "titleSlug": "power-of-three",
+    "difficulty": "Easy",
+    "acRate": 49.95946959370088,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Power of Two",
+        "titleSlug": "power-of-two",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Power of Four",
+        "titleSlug": "power-of-four",
+        "difficulty": "Easy"
+      },
+      {
+        "title": "Check if Number is a Sum of Powers of Three",
+        "titleSlug": "check-if-number-is-a-sum-of-powers-of-three",
+        "difficulty": "Medium"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Goldman Sachs",
+        "frequency": 48.6
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "390",
+    "title": "Elimination Game",
+    "titleSlug": "elimination-game",
+    "difficulty": "Medium",
+    "acRate": 45.09986735615833,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Min Max Game",
+        "titleSlug": "min-max-game",
+        "difficulty": "Easy"
+      }
+    ],
+    "companies": [
+      {
+        "name": "Autodesk",
+        "frequency": 56.3
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "1922",
+    "title": "Count Good Numbers",
+    "titleSlug": "count-good-numbers",
+    "difficulty": "Medium",
+    "acRate": 56.972823240949644,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Count the Number of Arrays with K Matching Adjacent Elements",
+        "titleSlug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+        "difficulty": "Hard"
+      }
+    ]
+  },
+  {
+    "questionFrontendId": "2550",
+    "title": "Count Collisions of Monkeys on a Polygon",
+    "titleSlug": "count-collisions-of-monkeys-on-a-polygon",
+    "difficulty": "Medium",
+    "acRate": 29.116858057228917,
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      }
+    ],
+    "similarQuestions": [
+      {
+        "title": "Pow(x, n)",
+        "titleSlug": "powx-n",
+        "difficulty": "Medium"
+      }
+    ]
+  }
+]
