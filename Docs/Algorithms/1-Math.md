@@ -19,11 +19,11 @@
 
 ## 📈 Progress Statistics
 
-| Difficulty                                                    | Total | Solved | Remaining | Progress                                                                            |
-| ------------------------------------------------------------- | ----- | ------ | --------- | ----------------------------------------------------------------------------------- |
-| 🟢 [**Easy**](E:\Github\DSA_Tracker\Problems\1-Math\Easy)     | `32`  | `32`   | `32`      | ![Progress Bar](https://progress-bar.xyz/100/?title=Progress&width=150&color=green) |
-| 🟡 [**Medium**](E:\Github\DSA_Tracker\Problems\1-Math\Medium) | `12`  | `0`    | `12`      | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green)   |
-| 🔴 [**Hard**](E:\Github\DSA_Tracker\Problems\1-Math\Hard)     | `4`   | `0`    | `4`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green)   |
+| Difficulty                                     | Total | Solved | Remaining | Progress                                                                            |
+| ---------------------------------------------- | ----- | ------ | --------- | ----------------------------------------------------------------------------------- |
+| 🟢 [**Easy**](../../Problems/1-Math/Easy/)     | `32`  | `32`   | `32`      | ![Progress Bar](https://progress-bar.xyz/100/?title=Progress&width=150&color=green) |
+| 🟡 [**Medium**](../../Problems/1-Math/Medium/) | `12`  | `0`    | `12`      | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green)   |
+| 🔴 [**Hard**](../../Problems/1-Math/Hard/)     | `4`   | `0`    | `4`       | ![Progress Bar](https://progress-bar.xyz/0/?title=Progress&width=150&color=green)   |
 
 ## 🏢 Top Companies by Question Frequency
 
