@@ -12,7 +12,7 @@ Welcome to my DSA practice repository! This repo is a collection of code, notes,
 
 ### GeeksforGeeks
 
-[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/levannhanh853)](https://www.geeksforgeeks.org/user/levannhanh853/)
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/nhank8ay)](https://www.geeksforgeeks.org/user/nhank8ay/)
 
 ---
 
